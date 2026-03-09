@@ -1,0 +1,674 @@
+[
+  {
+    "number": "1",
+    "word": "blink",
+    "phonetic": "/blɪŋk/",
+    "meaning": "v.眨眼；闪烁 n.眨眼；闪光；一瞬间"
+  },
+  {
+    "number": "2",
+    "word": "boss",
+    "phonetic": "/bɒs/",
+    "meaning": "n.老板；上司"
+  },
+  {
+    "number": "3",
+    "word": "cowboy",
+    "phonetic": "/ˈkaʊbɔɪ/",
+    "meaning": "n.牛仔；牧童"
+  },
+  {
+    "number": "4",
+    "word": "for now",
+    "phonetic": "/fɔː(r) nəʊ/",
+    "meaning": "phra.目前，暂时"
+  },
+  {
+    "number": "5",
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "meaning": "n.⻜行员；领航员；驾驶员"
+  },
+  {
+    "number": "6",
+    "word": "P.M.",
+    "phonetic": "/piː em/",
+    "meaning": "abbr.午后；下午"
+  },
+  {
+    "number": "7",
+    "word": "pony",
+    "phonetic": "/ˈpəʊni/",
+    "meaning": "n.矮⻢；小型⻢ v.付清"
+  },
+  {
+    "number": "8",
+    "word": "really",
+    "phonetic": "/ˈriːəli/",
+    "meaning": "adv.真正地；的确；很；十分；非常 ；确实；答话时表示感兴趣或惊讶"
+  },
+  {
+    "number": "9",
+    "word": "spacecraft",
+    "phonetic": "/ˈspeɪskrɑːft/",
+    "meaning": "n.(单复同)宇宙⻜船，航天器"
+  },
+  {
+    "number": "10",
+    "word": "supersonic",
+    "phonetic": "/ˌsuːpəˈsɒnɪk/",
+    "meaning": "adj.超音速的"
+  },
+  {
+    "number": "11",
+    "word": "auntie",
+    "phonetic": "/ˈɑːnti/",
+    "meaning": "n.姑妈；姨妈；伯母；婶婶；舅妈"
+  },
+  {
+    "number": "12",
+    "word": "Australia Day",
+    "phonetic": "/ɒˈstreɪliə deɪ/",
+    "meaning": "phra.澳大利亚国庆节"
+  },
+  {
+    "number": "13",
+    "word": "Australian",
+    "phonetic": "/ɒˈstreɪliən/",
+    "meaning": "adj.澳大利亚的；澳大利亚人的 n.澳 大利亚人"
+  },
+  {
+    "number": "14",
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "meaning": "n.婴儿；幼兽；幼⻦ adj.幼小的"
+  },
+  {
+    "number": "15",
+    "word": "Canberra",
+    "phonetic": "/ˈkænbərə/",
+    "meaning": "n.堪培拉（澳大利亚首都）"
+  },
+  {
+    "number": "16",
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "meaning": "v.攀爬；爬升；攀登；爬"
+  },
+  {
+    "number": "17",
+    "word": "fact",
+    "phonetic": "/fækt/",
+    "meaning": "n.现实；事实；真相；实际"
+  },
+  {
+    "number": "18",
+    "word": "friendly",
+    "phonetic": "/ˈfrendli/",
+    "meaning": "adj.友好的，友善的"
+  },
+  {
+    "number": "19",
+    "word": "koala",
+    "phonetic": "/kəʊˈɑːlə/",
+    "meaning": "n.树袋熊；考拉熊；无尾熊"
+  },
+  {
+    "number": "20",
+    "word": "little",
+    "phonetic": "/ˈlɪtl/",
+    "meaning": "adj.小的，年幼的；可爱的，可怜的 ，讨厌的"
+  },
+  {
+    "number": "21",
+    "word": "outgoing",
+    "phonetic": "/ˈaʊtɡəʊɪŋ/",
+    "meaning": "adj.爱交际的；友好的；外向的；即 将离职的；往外去的"
+  },
+  {
+    "number": "22",
+    "word": "sixth",
+    "phonetic": "/sɪksθ/",
+    "meaning": "n.第六；六分之一 adj.第六的；六分 之一的"
+  },
+  {
+    "number": "23",
+    "word": "Spring Festival",
+    "phonetic": "/sprɪŋ ˈfestɪvl/",
+    "meaning": "春节"
+  },
+  {
+    "number": "24",
+    "word": "tail",
+    "phonetic": "/teɪl/",
+    "meaning": "n.尾；尾巴；尾随者 v.跟踪"
+  },
+  {
+    "number": "25",
+    "word": "active",
+    "phonetic": "/ˈæktɪv/",
+    "meaning": "adj.忙碌的；活跃的；积极的；主动 的"
+  },
+  {
+    "number": "26",
+    "word": "celery",
+    "phonetic": "/ˈseləri/",
+    "meaning": "n.芹菜"
+  },
+  {
+    "number": "27",
+    "word": "cherry",
+    "phonetic": "/ˈtʃeri/",
+    "meaning": "n.櫻桃；櫻桃树；櫻桃色 adj.櫻桃色 的；鲜红色的"
+  },
+  {
+    "number": "28",
+    "word": "corn-on-the-cob",
+    "phonetic": "/kɔːn ɒn ðə kɒb/",
+    "meaning": "n.玉米棒子"
+  },
+  {
+    "number": "29",
+    "word": "fit",
+    "phonetic": "/fɪt/",
+    "meaning": "v.适合；合适，合身 adj.健康的；健 壮的；适合的"
+  },
+  {
+    "number": "30",
+    "word": "glass",
+    "phonetic": "/ɡlɑːs/",
+    "meaning": "n.玻璃；玻璃制品；(glasses)眼镜"
+  },
+  {
+    "number": "31",
+    "word": "habit",
+    "phonetic": "/ˈhæbɪt/",
+    "meaning": "n.习惯"
+  },
+  {
+    "number": "32",
+    "word": "health",
+    "phonetic": "/helθ/",
+    "meaning": "n.健康；身体(或精神)状况"
+  },
+  {
+    "number": "33",
+    "word": "healthy",
+    "phonetic": "/ˈhelθi/",
+    "meaning": "adj.有益健康的；健康的"
+  },
+  {
+    "number": "34",
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "meaning": "adj.亲切的；和蔼的；和善的；友好 的，善意的，体贴的 n.种类"
+  },
+  {
+    "number": "35",
+    "word": "look after",
+    "phonetic": "/lʊk ˈɑːftə(r)/",
+    "meaning": "phrase.照料；照顾"
+  },
+  {
+    "number": "36",
+    "word": "memory",
+    "phonetic": "/ˈmeməri/",
+    "meaning": "n.记性，回忆，记忆力，记忆"
+  },
+  {
+    "number": "37",
+    "word": "not at all",
+    "phonetic": "/nɒt æt ɔːl/",
+    "meaning": "一点也（不），完全（不）"
+  },
+  {
+    "number": "38",
+    "word": "own",
+    "phonetic": "/əʊn/",
+    "meaning": "adj./pron.自己的，本人的；特有的 v.拥有；有；承认"
+  },
+  {
+    "number": "39",
+    "word": "plenty of",
+    "phonetic": "/ˈplenti ɒv/",
+    "meaning": "大量的；充足的"
+  },
+  {
+    "number": "40",
+    "word": "protein",
+    "phonetic": "/ˈprəʊtiːn/",
+    "meaning": "n.蛋白质"
+  },
+  {
+    "number": "41",
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "meaning": "v.停留；待；保持 n.停留；逗留"
+  },
+  {
+    "number": "42",
+    "word": "string bean",
+    "phonetic": "/ˌstrɪŋ ˈbiːn/",
+    "meaning": "phra.菜豆"
+  },
+  {
+    "number": "43",
+    "word": "sugar",
+    "phonetic": "/ˈʃʊɡə(r)/",
+    "meaning": "n.糖；⻝糖 v.在......中加糖"
+  },
+  {
+    "number": "44",
+    "word": "warm",
+    "phonetic": "/wɔːm/",
+    "meaning": "adj.暖和的，温暖的，温热的"
+  },
+  {
+    "number": "45",
+    "word": "weight",
+    "phonetic": "/weɪt/",
+    "meaning": "n.体重；重量；分量；砝码；秤锤 ；重物；负担 v.使负担；装载过重 ；视......为重要"
+  },
+  {
+    "number": "46",
+    "word": "whole grains",
+    "phonetic": "/həʊl ɡreɪnz/",
+    "meaning": "phra.天然谷物"
+  },
+  {
+    "number": "47",
+    "word": "armour",
+    "phonetic": "/ˈɑːmə(r)/",
+    "meaning": "n.盔甲；装甲"
+  },
+  {
+    "number": "48",
+    "word": "diary",
+    "phonetic": "/ˈdaɪəri/",
+    "meaning": "n.日记；日记本（工作日程）记事簿"
+  },
+  {
+    "number": "49",
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "meaning": "adj.困难的，不易的"
+  },
+  {
+    "number": "50",
+    "word": "flavour",
+    "phonetic": "/ˈfleɪvə(r)/",
+    "meaning": "n.⻛味；滋味；味道 v.给......添⻛味 ；调味"
+  },
+  {
+    "number": "51",
+    "word": "gentleman",
+    "phonetic": "/ˈdʒentlmən/",
+    "meaning": "n.阁下；先生；男士；绅士"
+  },
+  {
+    "number": "52",
+    "word": "guide",
+    "phonetic": "/ɡaɪd/",
+    "meaning": "v.指导；指引；给某人领路 n.介绍 ，指南，手册；向导；导游"
+  },
+  {
+    "number": "53",
+    "word": "horrible",
+    "phonetic": "/ˈhɒrəbl/",
+    "meaning": "adj.令人震惊的；恐怖的；极坏的"
+  },
+  {
+    "number": "54",
+    "word": "lady",
+    "phonetic": "/ˈleɪdi/",
+    "meaning": "n.女士；；淑女；女子；夫人；小姐"
+  },
+  {
+    "number": "55",
+    "word": "saying",
+    "phonetic": "/ˈseɪɪŋ/",
+    "meaning": "n.谚语；格言；警句 v.说；讲；说话 ；say的现在分词"
+  },
+  {
+    "number": "56",
+    "word": "strawberry",
+    "phonetic": "/ˈstrɔːbəri/",
+    "meaning": "n.草莓"
+  },
+  {
+    "number": "57",
+    "word": "tour",
+    "phonetic": "/tʊə(r)/",
+    "meaning": "n.旅行；参观；旅游；游览；巡回活 动 v.旅行；旅游；游览；作巡回活动"
+  },
+  {
+    "number": "58",
+    "word": "would",
+    "phonetic": "/wʊd/",
+    "meaning": "modalv.（表示意愿）愿意；想；打 算想要；（will的过去式）将会，就 会"
+  },
+  {
+    "number": "59",
+    "word": "yesterday",
+    "phonetic": "/ˈjestədeɪ/",
+    "meaning": "adv.在昨天 n.昨天"
+  },
+  {
+    "number": "60",
+    "word": "almost",
+    "phonetic": "/ˈɔːlməʊst/",
+    "meaning": "adv.几乎；差不多"
+  },
+  {
+    "number": "61",
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "meaning": "adv.到处；向各处；在附近；环绕 ；大约 prep.在......周围；环绕；围 绕"
+  },
+  {
+    "number": "62",
+    "word": "blind",
+    "phonetic": "/blaɪnd/",
+    "meaning": "adj.瞎的；失明的；盲目的 v.使失明 ,缺乏眼光或判断力"
+  },
+  {
+    "number": "63",
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "meaning": "adj.勇敢的；无畏的"
+  },
+  {
+    "number": "64",
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "meaning": "v.露营；宿营；使扎营（住宿）；搭 帐篷 n.营地；度假营；阵营；兵营"
+  },
+  {
+    "number": "65",
+    "word": "college",
+    "phonetic": "/ˈkɒlɪdʒ/",
+    "meaning": "n.学院;大学;高等专科学校"
+  },
+  {
+    "number": "66",
+    "word": "confident",
+    "phonetic": "/ˈkɒnfɪdənt/",
+    "meaning": "adj.自信的；有自信心的；肯定的"
+  },
+  {
+    "number": "67",
+    "word": "dead",
+    "phonetic": "/ded/",
+    "meaning": "adj.死的；不运行的；枯萎的；去世 的；失去生命的 n.死；死人 adv.完 全地；绝对地"
+  },
+  {
+    "number": "68",
+    "word": "deer",
+    "phonetic": "/dɪə(r)/",
+    "meaning": "鹿（单复数一样）"
+  },
+  {
+    "number": "69",
+    "word": "die",
+    "phonetic": "/daɪ/",
+    "meaning": "v.死；死亡；中止；结束；消亡，消 失，灭亡"
+  },
+  {
+    "number": "70",
+    "word": "everything",
+    "phonetic": "/ˈevriθɪŋ/",
+    "meaning": "pron.每样事物；每件事；一切；所 有事情（东西）；每样事情（东西）"
+  },
+  {
+    "number": "71",
+    "word": "fight",
+    "phonetic": "/faɪt/",
+    "meaning": "v.打斗；争论；打仗，打架；努力争 取，为斗争 n.战斗；搏斗；斗争；打 仗，打架，争论；比赛"
+  },
+  {
+    "number": "72",
+    "word": "footballer",
+    "phonetic": "/ˈfʊtbɔːlə(r)/",
+    "meaning": "n.（职业）足球运动员"
+  },
+  {
+    "number": "73",
+    "word": "forest",
+    "phonetic": "/ˈfɒrɪst/",
+    "meaning": "n.森林；林区"
+  },
+  {
+    "number": "74",
+    "word": "heart",
+    "phonetic": "/hɑːt/",
+    "meaning": "n.内心；心脏；中心"
+  },
+  {
+    "number": "75",
+    "word": "hold on",
+    "phonetic": "/həʊld ɒn/",
+    "meaning": "phrase.别挂断电话；等一等；抓紧 不放；继续；坚持"
+  },
+  {
+    "number": "76",
+    "word": "hybrid rice",
+    "phonetic": "/ˈhaɪbrɪd raɪs/",
+    "meaning": "phra.杂交水稻"
+  },
+  {
+    "number": "77",
+    "word": "king",
+    "phonetic": "/kɪŋ/",
+    "meaning": "n.国王，君主 vt.立为王 vi.做国王 ，统治"
+  },
+  {
+    "number": "78",
+    "word": "leave",
+    "phonetic": "/liːv/",
+    "meaning": "v.离开；使保留；把......留下；忘了 带，丢下；离开；遗弃 n.假期，休假"
+  },
+  {
+    "number": "79",
+    "word": "move",
+    "phonetic": "/muːv/",
+    "meaning": "v.移动；搬动；（使）改变位置；搬 家 n.行动；移动"
+  },
+  {
+    "number": "80",
+    "word": "Nottingham",
+    "phonetic": "/ˈnɒtɪŋəm/",
+    "meaning": "n.诺丁汉"
+  },
+  {
+    "number": "81",
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "meaning": "adj.腼腆的；胆怯的；害羞的"
+  },
+  {
+    "number": "82",
+    "word": "soldier",
+    "phonetic": "/ˈsəʊldʒə(r)/",
+    "meaning": "n.士兵；军人"
+  },
+  {
+    "number": "83",
+    "word": "the poor",
+    "phonetic": "/ðə pɔː(r)/",
+    "meaning": "phra.穷人"
+  },
+  {
+    "number": "84",
+    "word": "wise",
+    "phonetic": "/waɪz/",
+    "meaning": "adj.聪明的；明智的，明晰的；充满 智慧的；英明的"
+  },
+  {
+    "number": "85",
+    "word": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "meaning": "n.(复数是women）妇女，女人；成 年女子"
+  },
+  {
+    "number": "86",
+    "word": "writer",
+    "phonetic": "/ˈraɪtə/",
+    "meaning": "n.作者；作家,记者,撰稿者,抄写员"
+  },
+  {
+    "number": "87",
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "meaning": "adj.年幼的；年轻的；岁数不大的"
+  },
+  {
+    "number": "88",
+    "word": "bookworm",
+    "phonetic": "/ˈbʊkwɜːm/",
+    "meaning": "n.书虫，书呆子"
+  },
+  {
+    "number": "89",
+    "word": "California",
+    "phonetic": "7/8",
+    "meaning": "n.加利福尼亚(美国州名)"
+  },
+  {
+    "number": "90",
+    "word": "celebrate",
+    "phonetic": "/ˈselɪbreɪt/",
+    "meaning": "v.庆祝，庆贺；颂扬"
+  },
+  {
+    "number": "91",
+    "word": "competition",
+    "phonetic": "/ˌkɒmpəˈtɪʃn/",
+    "meaning": "n.竞争；比赛；竞赛，⻆逐"
+  },
+  {
+    "number": "92",
+    "word": "heroine",
+    "phonetic": "/ˈherəʊɪn/",
+    "meaning": "n.女英雄；女主⻆"
+  },
+  {
+    "number": "93",
+    "word": "hood",
+    "phonetic": "/hʊd/",
+    "meaning": "n.头巾；兜帽；罩子；覆盖物"
+  },
+  {
+    "number": "94",
+    "word": "joy",
+    "phonetic": "/dʒɔɪ/",
+    "meaning": "n.欢欣，乐趣；愉快，喜悦；高兴 ，愉快；令人高兴的人"
+  },
+  {
+    "number": "95",
+    "word": "nonsense",
+    "phonetic": "/ˈnɒnsns/",
+    "meaning": "n.胡说,废话;荒谬的想法"
+  },
+  {
+    "number": "96",
+    "word": "read",
+    "phonetic": "/riːd/",
+    "meaning": "v.读；读书，阅读；朗读,理解；解读 n.读物"
+  },
+  {
+    "number": "97",
+    "word": "rest",
+    "phonetic": "/rest/",
+    "meaning": "n.放松；休息（时间）；其他；剩余 部分；其余 v.（使）倚靠；停留在 ；中止"
+  },
+  {
+    "number": "98",
+    "word": "Sherwood Forest",
+    "phonetic": "/ˈʃɜːwʊd ˈfɒrɪst/",
+    "meaning": "phra.舍伍德森林"
+  },
+  {
+    "number": "99",
+    "word": "shock",
+    "phonetic": "/ʃɒk/",
+    "meaning": "n.震惊；令人震惊的事；震动；冲击 ；电击；休克；浓密的头发 v.使震惊 ；使震动 adj.浓密的"
+  },
+  {
+    "number": "100",
+    "word": "Spiderman",
+    "phonetic": "/ˈspaɪdəmæn/",
+    "meaning": "n.蜘蛛侠"
+  },
+  {
+    "number": "101",
+    "word": "trick",
+    "phonetic": "/trɪk/",
+    "meaning": "n.把戏；引起错觉（或记忆紊乱）的 事物；技巧；戏法；诡计；恶作剧 ；诀窍 v.哄骗；欺骗；欺诈"
+  },
+  {
+    "number": "102",
+    "word": "win",
+    "phonetic": "/wɪn/",
+    "meaning": "v.获胜；赢；获得 n.胜利；赢得"
+  },
+  {
+    "number": "103",
+    "word": "dangerous",
+    "phonetic": "8/8",
+    "meaning": "adj.有危险的;不安全的；有危害的"
+  },
+  {
+    "number": "104",
+    "word": "enough",
+    "phonetic": "/ɪˈnʌf/",
+    "meaning": "adj.足够的；充足的；充分的 adv.足 够地；充分地；相当 pron.足够；充 分 n.充足；足够 int.够了"
+  },
+  {
+    "number": "105",
+    "word": "every now and then",
+    "phonetic": "/ˈevrɪ naʊ ənd ðen/",
+    "meaning": "phra.偶尔，有时"
+  },
+  {
+    "number": "106",
+    "word": "glad",
+    "phonetic": "/ɡlæd/",
+    "meaning": "adj.高兴的，开心的；欢乐的；"
+  },
+  {
+    "number": "107",
+    "word": "ocean",
+    "phonetic": "/ˈəʊʃn/",
+    "meaning": "n.洋；海洋；大海"
+  },
+  {
+    "number": "108",
+    "word": "owl",
+    "phonetic": "/aʊl/",
+    "meaning": "n.猫头鹰"
+  },
+  {
+    "number": "109",
+    "word": "robot",
+    "phonetic": "/ˈrəʊbɒt/",
+    "meaning": "n.机器人"
+  },
+  {
+    "number": "110",
+    "word": "situation",
+    "phonetic": "/ˌsɪtʃuˈeɪʃn/",
+    "meaning": "n.情况；状况；形势；局面；情境"
+  },
+  {
+    "number": "111",
+    "word": "sure",
+    "phonetic": "/ʃʊə(r)/",
+    "meaning": "adv.当然；当然可以；确定 adj.确信 ；必定的"
+  },
+  {
+    "number": "112",
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "meaning": "n.希望；祝福；愿望 v.祝愿；希望"
+  }
+]

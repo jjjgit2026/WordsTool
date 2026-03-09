@@ -1,0 +1,4142 @@
+[
+  {
+    "number": "1",
+    "word": "unit",
+    "phonetic": "/ˈjuːnɪt/",
+    "meaning": "n.单元；单位；机件"
+  },
+  {
+    "number": "2",
+    "word": "starter unit",
+    "phonetic": "/ˈstɑːrtər ˈjuːnɪt/",
+    "meaning": "n.过渡单元"
+  },
+  {
+    "number": "3",
+    "word": "section",
+    "phonetic": "/ˈsekʃn/",
+    "meaning": "n.部分,断片,部件,节,项,区,地域,截面"
+  },
+  {
+    "number": "4",
+    "word": "greet",
+    "phonetic": "/ɡriːt/",
+    "meaning": "v.和（某人）打招呼；欢迎；迎接，问候"
+  },
+  {
+    "number": "5",
+    "word": "each",
+    "phonetic": "/iːtʃ/",
+    "meaning": "pron.（两个或两个以上物或人中的）每个；各 自 adj.各自的；每个的"
+  },
+  {
+    "number": "6",
+    "word": "other",
+    "phonetic": "/ˈʌðə(r)/",
+    "meaning": "adj.另外的;其他的;另外的人(或物)"
+  },
+  {
+    "number": "7",
+    "word": "each other",
+    "phonetic": "/ˌiːtʃ ˈʌðə(r)/",
+    "meaning": "互相；彼此"
+  },
+  {
+    "number": "8",
+    "word": "oh",
+    "phonetic": "/əʊ/",
+    "meaning": "int.哦；啊；嘿"
+  },
+  {
+    "number": "9",
+    "word": "everyone",
+    "phonetic": "/ˈevriwʌn/",
+    "meaning": "pron.人人，每个人；所有人"
+  },
+  {
+    "number": "10",
+    "word": "start",
+    "phonetic": "/stɑːt/",
+    "meaning": "v.开始（做某事）；着手 n.开头，开端"
+  },
+  {
+    "number": "11",
+    "word": "conversation",
+    "phonetic": "/ˌkɒnvəˈseɪʃn/",
+    "meaning": "n.（非正式）交谈，谈话"
+  },
+  {
+    "number": "12",
+    "word": "spell",
+    "phonetic": "/spel/",
+    "meaning": "v.拼写；招致；意味着；顶替 n.一段时间；咒语 ；魅力"
+  },
+  {
+    "number": "13",
+    "word": "bell",
+    "phonetic": "/bel/",
+    "meaning": "n.钟（声）；铃（声）；铃铛"
+  },
+  {
+    "number": "14",
+    "word": "Helen",
+    "phonetic": "/ˈhelən/",
+    "meaning": "n.海伦（女子名）"
+  },
+  {
+    "number": "15",
+    "word": "Ella",
+    "phonetic": "/ˈelə/",
+    "meaning": "埃拉"
+  },
+  {
+    "number": "16",
+    "word": "Emma",
+    "phonetic": "/ˈemə/",
+    "meaning": "n.埃玛（人名）"
+  },
+  {
+    "number": "17",
+    "word": "Peter",
+    "phonetic": "/ˈpiːtə(r)/",
+    "meaning": "n.彼得（男子名）"
+  },
+  {
+    "number": "18",
+    "word": "Brown",
+    "phonetic": "/braʊn/",
+    "meaning": "n.布朗（姓氏）"
+  },
+  {
+    "number": "19",
+    "word": "PRC",
+    "phonetic": "/piː ɑː(r) siː/",
+    "meaning": "abbr.中华人⺠共和国 ；PeoplesRepublicofChina的缩写"
+  },
+  {
+    "number": "20",
+    "word": "PLA",
+    "phonetic": "/ˌpiː el ˈeɪ/",
+    "meaning": "abbr.人⺠解放军；PeoplesLiberationArmy的 缩写"
+  },
+  {
+    "number": "21",
+    "word": "VR",
+    "phonetic": "/ˌviː ˈɑː(r)/",
+    "meaning": "abbr.虚拟现实；VirtualReality的缩写"
+  },
+  {
+    "number": "22",
+    "word": "WHO",
+    "phonetic": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
+    "meaning": "abbr.世界卫生组织"
+  },
+  {
+    "number": "23",
+    "word": "UN",
+    "phonetic": "/ˌjuː ˈen/",
+    "meaning": "abbr.联合国；UnitedNations的缩写"
+  },
+  {
+    "number": "24",
+    "word": "Miller",
+    "phonetic": "/ˈmɪlə(r)/",
+    "meaning": "n.米勒（姓氏）"
+  },
+  {
+    "number": "25",
+    "word": "bottle",
+    "phonetic": "/ˈbɒtl/",
+    "meaning": "n.一瓶（的量）；瓶子"
+  },
+  {
+    "number": "26",
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪzə(r)/",
+    "meaning": "n.橡皮，黑板擦"
+  },
+  {
+    "number": "27",
+    "word": "key",
+    "phonetic": "/kiː/",
+    "meaning": "n.钥匙；关键；键 adj.至关重要的；必不可少的 ；关键的；主要的"
+  },
+  {
+    "number": "28",
+    "word": "thing",
+    "phonetic": "/θɪŋ/",
+    "meaning": "n.东西，物品；用品，用具；事情"
+  },
+  {
+    "number": "29",
+    "word": "need",
+    "phonetic": "/niːd/",
+    "meaning": "n.需要；需要的事物 v.需要"
+  },
+  {
+    "number": "30",
+    "word": "You're welcome",
+    "phonetic": "/jʊə(r) ˈwelkəm/",
+    "meaning": "phrase.不用客气/不用谢"
+  },
+  {
+    "number": "31",
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "meaning": "adj.有趣的；使人快乐的 n.乐趣；快乐"
+  },
+  {
+    "number": "32",
+    "word": "yard",
+    "phonetic": "/jɑːd/",
+    "meaning": "n.院子；庭院；码（⻓度单位，等于英尺或.米）"
+  },
+  {
+    "number": "33",
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "meaning": "n.胡萝卜"
+  },
+  {
+    "number": "34",
+    "word": "goose",
+    "phonetic": "/ɡuːs/",
+    "meaning": "n.鹅；雌鹅；鹅肉"
+  },
+  {
+    "number": "35",
+    "word": "geese",
+    "phonetic": "/ɡiːs/",
+    "meaning": "n.鹅；雌鹅；goose的复数"
+  },
+  {
+    "number": "36",
+    "word": "count",
+    "phonetic": "/kaʊnt/",
+    "meaning": "v.重要；数数；计算总数；清点；看作；有价值 n.计数；计算"
+  },
+  {
+    "number": "37",
+    "word": "another",
+    "phonetic": "/əˈnʌðə(r)/",
+    "meaning": "adj.又一个的；另一个的 pron.又一；另一；不 同的（一个）"
+  },
+  {
+    "number": "38",
+    "word": "else",
+    "phonetic": "/els/",
+    "meaning": "adj.别的；其他的 adv.另外，其他；别的，另外 的（用于表示不同的人事物地方等）"
+  },
+  {
+    "number": "39",
+    "word": "circle",
+    "phonetic": "/ˈsɜːkl/",
+    "meaning": "v.圈出n.圆形；圆圈"
+  },
+  {
+    "number": "40",
+    "word": "look at",
+    "phonetic": "/lʊk æt/",
+    "meaning": "phra.看......，瞧......"
+  },
+  {
+    "number": "41",
+    "word": "make friends",
+    "phonetic": "/meɪk frendz/",
+    "meaning": "phrase.结交朋友"
+  },
+  {
+    "number": "42",
+    "word": "get to know",
+    "phonetic": "/ɡet tu nəʊ/",
+    "meaning": "phra.认识；了解"
+  },
+  {
+    "number": "43",
+    "word": "full",
+    "phonetic": "/fʊl/",
+    "meaning": "adj.满的；饱的；（有）大量的，丰富的；完全 的;忙的；完整的；满是的；充满的 adv.完全地 n.完全；完整"
+  },
+  {
+    "number": "44",
+    "word": "full name",
+    "phonetic": "/fʊl neɪm/",
+    "meaning": "phrase.全名；全称"
+  },
+  {
+    "number": "45",
+    "word": "grade",
+    "phonetic": "/ɡreɪd/",
+    "meaning": "n.成绩等级，评分等级；年级；级别 v.分等级 ；给......评分"
+  },
+  {
+    "number": "46",
+    "word": "last name",
+    "phonetic": "/ˈlɑːst ˌneɪm/",
+    "meaning": "phrase.姓氏"
+  },
+  {
+    "number": "47",
+    "word": "classmate",
+    "phonetic": "/ˈklɑːsmeɪt/",
+    "meaning": "n.同班同学；同学"
+  },
+  {
+    "number": "48",
+    "word": "class teacher",
+    "phonetic": "/klɑːs ˈtiːtʃə(r)/",
+    "meaning": "phra.班主任"
+  },
+  {
+    "number": "49",
+    "word": "first name",
+    "phonetic": "/ˈfɜːst neɪm/",
+    "meaning": "n.名字（不包括姓氏）"
+  },
+  {
+    "number": "50",
+    "word": "mistake",
+    "phonetic": "/mɪˈsteɪk/",
+    "meaning": "n.错误；失误 v.弄错；误解；误会"
+  },
+  {
+    "number": "51",
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "meaning": "n.国家，农村"
+  },
+  {
+    "number": "52",
+    "word": "same",
+    "phonetic": "/seɪm/",
+    "meaning": "adj.相同的，同一个的；同样的 pron.(和...)同 样的事物"
+  },
+  {
+    "number": "53",
+    "word": "twin",
+    "phonetic": "/twɪn/",
+    "meaning": "adj.双胞胎之一的；孪生之一的 n.孪生之一；双 胞胎之一"
+  },
+  {
+    "number": "54",
+    "word": "both",
+    "phonetic": "/bəʊθ/",
+    "meaning": "pron.两者，两者都 det./adj.两者的，两个；两 个都 conj.不仅......而且......"
+  },
+  {
+    "number": "55",
+    "word": "band",
+    "phonetic": "/bænd/",
+    "meaning": "n.乐队；乐团；带子；一伙"
+  },
+  {
+    "number": "56",
+    "word": "pot",
+    "phonetic": "/pɒt/",
+    "meaning": "n.壶；锅；罐；瓢；盆 v.罐装；栽入盆中；射杀"
+  },
+  {
+    "number": "57",
+    "word": "a lot",
+    "phonetic": "/ə lɒt/",
+    "meaning": "大量，许多;很；非常"
+  },
+  {
+    "number": "58",
+    "word": "tofu",
+    "phonetic": "/ˈtəʊfuː/",
+    "meaning": "n.豆腐"
+  },
+  {
+    "number": "59",
+    "word": "parrot",
+    "phonetic": "/ˈpærət/",
+    "meaning": "n.鹦鹉；学舌者 v.鹦鹉学舌地说；机械地模仿"
+  },
+  {
+    "number": "60",
+    "word": "guitar",
+    "phonetic": "/ɡɪˈtɑː(r)/",
+    "meaning": "n.吉他"
+  },
+  {
+    "number": "61",
+    "word": "tennis",
+    "phonetic": "/ˈtenɪs/",
+    "meaning": "n.网球；网球运动"
+  },
+  {
+    "number": "62",
+    "word": "page",
+    "phonetic": "/peɪdʒ/",
+    "meaning": "n.（书刊报纸文件等的）⻚，面，张"
+  },
+  {
+    "number": "63",
+    "word": "even",
+    "phonetic": "/ˈiːv(ə)n/",
+    "meaning": "adv.甚至；即使；甚至于；连；愈加 adj.偶数的 ；平坦的 v.使平均；使相等；使平坦"
+  },
+  {
+    "number": "64",
+    "word": "hey",
+    "phonetic": "/heɪ/",
+    "meaning": "excel.嘿，喂"
+  },
+  {
+    "number": "65",
+    "word": "play the guitar",
+    "phonetic": "/pleɪ ðə ɡɪˈtɑː(r)/",
+    "meaning": "phrase.弹吉他"
+  },
+  {
+    "number": "66",
+    "word": "would",
+    "phonetic": "/wʊd/",
+    "meaning": "modalv.（表示意愿）愿意；想；打算想要 ；（will的过去式）将会，就会"
+  },
+  {
+    "number": "67",
+    "word": "would like to",
+    "phonetic": "/wʊd laɪk tu/",
+    "meaning": "phrase.想要；愿意，喜欢；想做"
+  },
+  {
+    "number": "68",
+    "word": "information",
+    "phonetic": "/ˌɪnfəˈmeɪʃn/",
+    "meaning": "n.信息；消息；资料"
+  },
+  {
+    "number": "69",
+    "word": "hobby",
+    "phonetic": "/ˈhɒbi/",
+    "meaning": "n.业余爱好；嗜好"
+  },
+  {
+    "number": "70",
+    "word": "re",
+    "phonetic": "/riː/",
+    "meaning": "prep.(用于回复电子邮件)关于;事由"
+  },
+  {
+    "number": "71",
+    "word": "Green",
+    "phonetic": "/ɡriːn/",
+    "meaning": "n.格林（姓氏）"
+  },
+  {
+    "number": "72",
+    "word": "UK",
+    "phonetic": "/ˌjuː ˈkeɪ/",
+    "meaning": "abbr.英国；UnitedKingdom的缩写"
+  },
+  {
+    "number": "73",
+    "word": "US",
+    "phonetic": "/ˌjuː ˈes/",
+    "meaning": "abbr.美国；UnitedStates的缩写"
+  },
+  {
+    "number": "74",
+    "word": "Smith",
+    "phonetic": "/smɪθ/",
+    "meaning": "史密斯"
+  },
+  {
+    "number": "75",
+    "word": "Lisa",
+    "phonetic": "/ˈliːsə/",
+    "meaning": "n.莉萨（女子名）"
+  },
+  {
+    "number": "76",
+    "word": "Tom",
+    "phonetic": "/tɒm/",
+    "meaning": "n.汤姆（男子名）"
+  },
+  {
+    "number": "77",
+    "word": "hot pot",
+    "phonetic": "/hɒt pɒt/",
+    "meaning": "phrase.火锅"
+  },
+  {
+    "number": "78",
+    "word": "Sally",
+    "phonetic": "/ˈsæli/",
+    "meaning": "n.萨莉（女子名）"
+  },
+  {
+    "number": "79",
+    "word": "Wood",
+    "phonetic": "/wʊd/",
+    "meaning": "n.伍德（姓氏）"
+  },
+  {
+    "number": "80",
+    "word": "Sydney",
+    "phonetic": "/ˈsɪdni/",
+    "meaning": "n.（澳大利亚城市）悉尼"
+  },
+  {
+    "number": "81",
+    "word": "Australia",
+    "phonetic": "/ɒˈstreɪliə/",
+    "meaning": "n.澳大利亚；澳洲"
+  },
+  {
+    "number": "82",
+    "word": "Mapo tofu",
+    "phonetic": "/ˈmɑːpəʊ ˈtuːfuː/",
+    "meaning": "麻婆豆腐"
+  },
+  {
+    "number": "83",
+    "word": "Beijing roast duck",
+    "phonetic": "/beɪˈdʒɪŋ rəʊst dʌk/",
+    "meaning": "北京烤鸭"
+  },
+  {
+    "number": "84",
+    "word": "Singapore",
+    "phonetic": "/ˌsɪŋəˈpɔː(r)/",
+    "meaning": "n.新加坡"
+  },
+  {
+    "number": "85",
+    "word": "the Great Wall",
+    "phonetic": "/ðə ɡreɪt wɔːl/",
+    "meaning": "phra.⻓城"
+  },
+  {
+    "number": "86",
+    "word": "Pauline",
+    "phonetic": "/ˈpɔːliːn/",
+    "meaning": "保利娜"
+  },
+  {
+    "number": "87",
+    "word": "Lee",
+    "phonetic": "/liː/",
+    "meaning": "李"
+  },
+  {
+    "number": "88",
+    "word": "Coco",
+    "phonetic": "/ˈkəʊkəʊ/",
+    "meaning": "科科"
+  },
+  {
+    "number": "89",
+    "word": "London",
+    "phonetic": "/ˈlʌndən/",
+    "meaning": "n.伦敦（英国首都）"
+  },
+  {
+    "number": "90",
+    "word": "mean",
+    "phonetic": "/miːn/",
+    "meaning": "v.表示的意思；意味着；意思是；打算；意欲 ；导致；有意；对......严肃认真 adj.低劣的；吝 啬的；小气的；平均的 n.平均数；中庸；居中"
+  },
+  {
+    "number": "91",
+    "word": "husband",
+    "phonetic": "/ˈhʌzbənd/",
+    "meaning": "丈夫"
+  },
+  {
+    "number": "92",
+    "word": "bat",
+    "phonetic": "/bæt/",
+    "meaning": "n.蝙蝠；球拍；球棒 vi./vt.用球板击球；挥打 ；拍打"
+  },
+  {
+    "number": "93",
+    "word": "ping-pong bat",
+    "phonetic": "/ˈpɪŋ pɒŋ bæt/",
+    "meaning": "乒乓球拍"
+  },
+  {
+    "number": "94",
+    "word": "play ping-pong",
+    "phonetic": "/pleɪ pɪŋ pɒŋ/",
+    "meaning": "phrase.打乒乓球"
+  },
+  {
+    "number": "95",
+    "word": "together",
+    "phonetic": "/təˈɡeðə(r)/",
+    "meaning": "adv.一起，在一起，共同，一⻬，一块儿"
+  },
+  {
+    "number": "96",
+    "word": "every day",
+    "phonetic": "/ˈevri deɪ/",
+    "meaning": "phrase.每天；天天"
+  },
+  {
+    "number": "97",
+    "word": "fishing rod",
+    "phonetic": "/ˈfɪʃɪŋ rɒd/",
+    "meaning": "n.钓竿"
+  },
+  {
+    "number": "98",
+    "word": "spend",
+    "phonetic": "/spend/",
+    "meaning": "v.花（时间）；花费（金钱时间等）；度过"
+  },
+  {
+    "number": "99",
+    "word": "a lot of",
+    "phonetic": "/ə lɒt əv/",
+    "meaning": "许多，大量(lotsof)"
+  },
+  {
+    "number": "100",
+    "word": "really",
+    "phonetic": "/ˈriːəli/",
+    "meaning": "adv.真正地；的确；很；十分；非常；确实；答 话时表示感兴趣或惊讶"
+  },
+  {
+    "number": "101",
+    "word": "member",
+    "phonetic": "/ˈmembə(r)/",
+    "meaning": "n.成员；分子；会员"
+  },
+  {
+    "number": "102",
+    "word": "activity",
+    "phonetic": "/ækˈtɪvəti/",
+    "meaning": "n.活动；活跃"
+  },
+  {
+    "number": "103",
+    "word": "chess",
+    "phonetic": "/tʃes/",
+    "meaning": "n.（国际）象棋"
+  },
+  {
+    "number": "104",
+    "word": "Chinese chess",
+    "phonetic": "/ˈtʃaɪnəz ˈʧɛs/",
+    "meaning": "phra.中国象棋"
+  },
+  {
+    "number": "105",
+    "word": "grandparent",
+    "phonetic": "/ˈɡrænpeərənt/",
+    "meaning": "n.祖父；祖母；外祖父；外祖母"
+  },
+  {
+    "number": "106",
+    "word": "funny",
+    "phonetic": "/ˈfʌni/",
+    "meaning": "adj.滑稽的；好笑的；奇怪的；有趣的"
+  },
+  {
+    "number": "107",
+    "word": "laugh",
+    "phonetic": "/lɑːf/",
+    "meaning": "v.发出笑声；（大）笑；发笑 n.笑；笑声"
+  },
+  {
+    "number": "108",
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "meaning": "adj.不同的，不一样的，有区别的"
+  },
+  {
+    "number": "109",
+    "word": "violin",
+    "phonetic": "/ˌvaɪəˈlɪn/",
+    "meaning": "n.小提琴"
+  },
+  {
+    "number": "110",
+    "word": "have fun",
+    "phonetic": "/hæv fʌn/",
+    "meaning": "phrase.玩得开心/玩得高兴"
+  },
+  {
+    "number": "111",
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "meaning": "n.（通常指有檐的）帽子"
+  },
+  {
+    "number": "112",
+    "word": "handsome",
+    "phonetic": "/ˈhænsəm/",
+    "meaning": "adj.（男子）英俊的，漂亮的；大方的，慷慨的 ，美观的"
+  },
+  {
+    "number": "113",
+    "word": "knee",
+    "phonetic": "/niː/",
+    "meaning": "n.膝盖；膝部"
+  },
+  {
+    "number": "114",
+    "word": "at night",
+    "phonetic": "/æt naɪt/",
+    "meaning": "phrase.在夜里"
+  },
+  {
+    "number": "115",
+    "word": "in the middle",
+    "phonetic": "/ɪn ðə ˈmɪdl/",
+    "meaning": "phrase.在中间；正当...的时候"
+  },
+  {
+    "number": "116",
+    "word": "grandchild",
+    "phonetic": "/ˈɡræntʃaɪld/",
+    "meaning": "n.（外）孙子；（外）孙女"
+  },
+  {
+    "number": "117",
+    "word": "grandchildren",
+    "phonetic": "/ˈɡrænˌtʃɪldrən/",
+    "meaning": "n.孙子；孙女；外孙；外孙女；grandchild的 复数"
+  },
+  {
+    "number": "118",
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "meaning": "儿子"
+  },
+  {
+    "number": "119",
+    "word": "hike",
+    "phonetic": "/haɪk/",
+    "meaning": "v.（在......）徒步旅行，远足；（费用）增加 n.远足；徒步旅行"
+  },
+  {
+    "number": "120",
+    "word": "go hiking",
+    "phonetic": "/ɡəʊ ˈhaɪkɪŋ/",
+    "meaning": "phrase.去远足"
+  },
+  {
+    "number": "121",
+    "word": "next to",
+    "phonetic": "/ˈnekst tə/",
+    "meaning": "phrase.紧挨着的；紧靠......旁边，在......旁边 ，与......相邻"
+  },
+  {
+    "number": "122",
+    "word": "David",
+    "phonetic": "/ˈdeɪvɪd/",
+    "meaning": "n.戴维（男子名）"
+  },
+  {
+    "number": "123",
+    "word": "Jim",
+    "phonetic": "/dʒɪm/",
+    "meaning": "n.吉姆（男子名）"
+  },
+  {
+    "number": "124",
+    "word": "Kate",
+    "phonetic": "/keɪt/",
+    "meaning": "n.凯特（女子名）"
+  },
+  {
+    "number": "125",
+    "word": "Lily",
+    "phonetic": "/ˈlɪli/",
+    "meaning": "莉莉（女名）"
+  },
+  {
+    "number": "126",
+    "word": "Ireland",
+    "phonetic": "/ˈaɪələnd/",
+    "meaning": "n.爱尔兰"
+  },
+  {
+    "number": "127",
+    "word": "Fred",
+    "phonetic": "/fred/",
+    "meaning": "n.弗雷德（男子名）"
+  },
+  {
+    "number": "128",
+    "word": "Sam",
+    "phonetic": "/sæm/",
+    "meaning": "n.山姆（男子名）"
+  },
+  {
+    "number": "129",
+    "word": "Jane",
+    "phonetic": "/dʒeɪn/",
+    "meaning": "n.简（女子名）"
+  },
+  {
+    "number": "130",
+    "word": "Jack",
+    "phonetic": "/dʒæk/",
+    "meaning": "杰克"
+  },
+  {
+    "number": "131",
+    "word": "Sarah",
+    "phonetic": "/ˈseərə/",
+    "meaning": "n.萨拉（女子名）"
+  },
+  {
+    "number": "132",
+    "word": "Oscar",
+    "phonetic": "/ˈɒskə(r)/",
+    "meaning": "n.奥斯卡（男子名）；奥斯卡金像奖"
+  },
+  {
+    "number": "133",
+    "word": "Lucy",
+    "phonetic": "/ˈluːsi/",
+    "meaning": "n.露西（女子名）"
+  },
+  {
+    "number": "134",
+    "word": "hall",
+    "phonetic": "/hɔːl/",
+    "meaning": "n.大厅；礼堂；⻔厅"
+  },
+  {
+    "number": "135",
+    "word": "dining hall",
+    "phonetic": "/ˈdaɪnɪŋ hɔːl/",
+    "meaning": "餐厅；⻝堂"
+  },
+  {
+    "number": "136",
+    "word": "in front of",
+    "phonetic": "/ɪn frʌnt ɒv/",
+    "meaning": "phra.在......的前面"
+  },
+  {
+    "number": "137",
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "meaning": "n.建筑物；房子，楼房 v.建筑；build的现在分 词"
+  },
+  {
+    "number": "138",
+    "word": "across",
+    "phonetic": "/əˈkrɒs/",
+    "meaning": "prep.横跨；跨越；穿过；横过；遍及；从一边 到另一边；在......对面 adv.横过；从一边到另一 边；穿过；越过；在对面"
+  },
+  {
+    "number": "139",
+    "word": "across from",
+    "phonetic": "/əˈkrɒs frəm/",
+    "meaning": "phrase.在...对面"
+  },
+  {
+    "number": "140",
+    "word": "centre",
+    "phonetic": "/ˈsentə(r)/",
+    "meaning": "n.（美式center）中心；中央；中心区 v.放在 ......中央"
+  },
+  {
+    "number": "141",
+    "word": "center",
+    "phonetic": "/ˈsentə(r)/",
+    "meaning": "n.(centre)中心;中央"
+  },
+  {
+    "number": "142",
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "meaning": "n.（gymnasium）体育馆，健身房"
+  },
+  {
+    "number": "143",
+    "word": "gymnasium",
+    "phonetic": "/dʒɪmˈneɪziəm/",
+    "meaning": "n.体育馆，健身房(尤指学校的)体育活动"
+  },
+  {
+    "number": "144",
+    "word": "field",
+    "phonetic": "/fiːld/",
+    "meaning": "n.田野；田，地；田地；运动场；领域；场地 v.处理，应付（问题电话等）"
+  },
+  {
+    "number": "145",
+    "word": "sports field",
+    "phonetic": "/spɔːts fiːld/",
+    "meaning": "phrase.运动场；体育场"
+  },
+  {
+    "number": "146",
+    "word": "office",
+    "phonetic": "/ˈɒfɪs/",
+    "meaning": "n.办公室，办公楼，办事处，公司"
+  },
+  {
+    "number": "147",
+    "word": "large",
+    "phonetic": "/lɑːdʒ/",
+    "meaning": "adj.巨大的，大的，大量的；大号的；广泛的 ，众多的；大型号的"
+  },
+  {
+    "number": "148",
+    "word": "special",
+    "phonetic": "/ˈspeʃl/",
+    "meaning": "n.特色菜；特价；特派员；专⻋；特别的物品 adj.特别的；特殊的"
+  },
+  {
+    "number": "149",
+    "word": "smart",
+    "phonetic": "/smɑːt/",
+    "meaning": "adj.聪明的；机敏的；敏捷的；时髦的；衣冠楚 楚的，衣着讲究的 v.剧痛；刺痛"
+  },
+  {
+    "number": "150",
+    "word": "whiteboard",
+    "phonetic": "/ˈwaɪtbɔːd/",
+    "meaning": "n.白色书写板；白板"
+  },
+  {
+    "number": "151",
+    "word": "put up",
+    "phonetic": "/pʊt ʌp/",
+    "meaning": "phrase.搭起，挂起，举起；张贴；建造；进行 ；提供；推举；提供⻝宿"
+  },
+  {
+    "number": "152",
+    "word": "important",
+    "phonetic": "/ɪmˈpɔːtnt/",
+    "meaning": "adj.重要的；重大的"
+  },
+  {
+    "number": "153",
+    "word": "notice",
+    "phonetic": "/ˈnəʊtɪs/",
+    "meaning": "n.通知；通告；注意 v.注意到；留意；意识到 ；看到；听到；感觉到"
+  },
+  {
+    "number": "154",
+    "word": "locker",
+    "phonetic": "/ˈlɒkə(r)/",
+    "meaning": "n.（有锁的）寄物柜；锁柜；上锁的人"
+  },
+  {
+    "number": "155",
+    "word": "drawer",
+    "phonetic": "/drɔː(r)/",
+    "meaning": "n.抽屉；起草者；开票人"
+  },
+  {
+    "number": "156",
+    "word": "at the back of",
+    "phonetic": "/æt ðə bæk ɒv/",
+    "meaning": "phrase.在...后方；支持"
+  },
+  {
+    "number": "157",
+    "word": "corner",
+    "phonetic": "/ˈkɔːnə(r)/",
+    "meaning": "n.⻆；墙⻆；街⻆；（街道等的）拐⻆；⻆落 ；困境 v.拐弯；迫至一隅；使陷入绝境"
+  },
+  {
+    "number": "158",
+    "word": "bookcase",
+    "phonetic": "/ˈbʊkkeɪs/",
+    "meaning": "n.书架；书柜"
+  },
+  {
+    "number": "159",
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "meaning": "n.显示屏，屏幕；银幕；屏⻛；掩蔽物 v.筛查 ；掩蔽；放映 n.筛分设备；筛子"
+  },
+  {
+    "number": "160",
+    "word": "at school",
+    "phonetic": "/æt skuːl/",
+    "meaning": "phrase.在学校；在上课；上学"
+  },
+  {
+    "number": "161",
+    "word": "different from",
+    "phonetic": "/ˈdɪfrənt frɒm/",
+    "meaning": "phrase.不同于..."
+  },
+  {
+    "number": "162",
+    "word": "modern",
+    "phonetic": "/ˈmɒdn/",
+    "meaning": "adj.现代的，当代的；近代的，现代化的；先进 的"
+  },
+  {
+    "number": "163",
+    "word": "do exercises",
+    "phonetic": "/duː ˈeksəsaɪzɪz/",
+    "meaning": "phra.做体操"
+  },
+  {
+    "number": "164",
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "meaning": "adj.惊人的；了不起的；令人惊异的；令人吃惊 的；令人惊喜（惊叹）的 v.使惊奇；使吃惊 ；amaze的现在分词"
+  },
+  {
+    "number": "165",
+    "word": "raise",
+    "phonetic": "/reɪz/",
+    "meaning": "v.升起；增加；提高；募集；征集；提起；养育 ；筹募；引起 n.加薪"
+  },
+  {
+    "number": "166",
+    "word": "flag",
+    "phonetic": "/flæɡ/",
+    "meaning": "n.旗；旗帜；信号旗 v.用旗标记；无力地下垂 ；减退；枯萎"
+  },
+  {
+    "number": "167",
+    "word": "most",
+    "phonetic": "/məʊst/",
+    "meaning": "pron.最多，大多数；大部分；几乎所有 adj.最 多的；大多数的 adv.最多，最大；大多数"
+  },
+  {
+    "number": "168",
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "meaning": "n.变化；改变；变革；零钱 v.变化；变革；换乘 ；改变；使不同"
+  },
+  {
+    "number": "169",
+    "word": "seat",
+    "phonetic": "/siːt/",
+    "meaning": "n.座,座位,坐处（如椅子等）,所在地,场所,席位 vt.使坐下"
+  },
+  {
+    "number": "170",
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "meaning": "adj.美味的，可口的；令人愉快的"
+  },
+  {
+    "number": "171",
+    "word": "How about",
+    "phonetic": "/ˈhaʊ əˈbaʊt/",
+    "meaning": "phra.......怎么样......情况"
+  },
+  {
+    "number": "172",
+    "word": "yours",
+    "phonetic": "/jɔːz/",
+    "meaning": "pron.你的，您的，你们的，您真挚的（用于信 函的结尾）"
+  },
+  {
+    "number": "173",
+    "word": "send",
+    "phonetic": "/send/",
+    "meaning": "v.发送；寄；送出；发出（信件邮件等）"
+  },
+  {
+    "number": "174",
+    "word": "similar",
+    "phonetic": "/ˈsɪmələ(r)/",
+    "meaning": "adj.同样的；相似的；类似的；相像的"
+  },
+  {
+    "number": "175",
+    "word": "similar to",
+    "phonetic": "/ˈsɪmələ(r) tu/",
+    "meaning": "phra.类似的;相像的"
+  },
+  {
+    "number": "176",
+    "word": "sound",
+    "phonetic": "/saʊnd/",
+    "meaning": "n.声音；声响 v.听起来好像 adj.健全的；完好的 ；合理的；可靠的；酣睡的"
+  },
+  {
+    "number": "177",
+    "word": "bye for now",
+    "phonetic": "/baɪ fɔː(r) naʊ/",
+    "meaning": "phra.再⻅"
+  },
+  {
+    "number": "178",
+    "word": "Flora",
+    "phonetic": "/ˈflɔːrə/",
+    "meaning": "弗洛拉"
+  },
+  {
+    "number": "179",
+    "word": "biology",
+    "phonetic": "/baɪˈɒlədʒi/",
+    "meaning": "n.生理；生物学"
+  },
+  {
+    "number": "180",
+    "word": "IT",
+    "phonetic": "/ˌaɪ ˈtiː/",
+    "meaning": "abbr.信息技术；InformationTechnology的 缩写"
+  },
+  {
+    "number": "181",
+    "word": "information",
+    "phonetic": "/ˌɪnfəˈmeɪʃn tekˈnɒlədʒi/",
+    "meaning": "technology phrase.信息技术"
+  },
+  {
+    "number": "182",
+    "word": "geography",
+    "phonetic": "/dʒɪˈɒɡrəfi/",
+    "meaning": "n.地理；地理学"
+  },
+  {
+    "number": "183",
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "meaning": "n.历史；历史学"
+  },
+  {
+    "number": "184",
+    "word": "boring",
+    "phonetic": "/ˈbɔːrɪŋ/",
+    "meaning": "adj.无趣的，无聊的，乏味的；令人厌倦的 v.开 凿；钻孔；使厌烦；bore的现在分词"
+  },
+  {
+    "number": "185",
+    "word": "useful",
+    "phonetic": "/ˈjuːsfl/",
+    "meaning": "adj.有用的，实用的，有帮助的"
+  },
+  {
+    "number": "186",
+    "word": "exciting",
+    "phonetic": "/ɪkˈsaɪtɪŋ/",
+    "meaning": "adj.令人激动的；使人兴奋的 v.使兴奋；使激动 ；excite的现在分词"
+  },
+  {
+    "number": "187",
+    "word": "past",
+    "phonetic": "/pɑːst/",
+    "meaning": "adj.过去的；以往的；昔日的 prep.经过；超过 ；晚于 n.过去；昔日 adv.经过"
+  },
+  {
+    "number": "188",
+    "word": "good with",
+    "phonetic": "/ɡʊd wɪð/",
+    "meaning": "phra.灵巧的;善于应付......的"
+  },
+  {
+    "number": "189",
+    "word": "number",
+    "phonetic": "/ˈnʌmbə(r)/",
+    "meaning": "n.号码；数字；数；数量"
+  },
+  {
+    "number": "190",
+    "word": "help sb. with",
+    "phonetic": "/help ˈsʌmbədi wɪð/",
+    "meaning": "帮助某人做（某事）"
+  },
+  {
+    "number": "191",
+    "word": "reason",
+    "phonetic": "/ˈriːz(ə)n/",
+    "meaning": "n.原因；理由；理性 v.推理；推断；讲道理；思 考"
+  },
+  {
+    "number": "192",
+    "word": "listen to",
+    "phonetic": "/ˈlɪsn tu/",
+    "meaning": "phra.(注意地)听；倾听"
+  },
+  {
+    "number": "193",
+    "word": "good at",
+    "phonetic": "/ɡʊd æt/",
+    "meaning": "phrase.擅⻓..."
+  },
+  {
+    "number": "194",
+    "word": "remember",
+    "phonetic": "/rɪˈmembə(r)/",
+    "meaning": "v.纪念；记得，记住；记起，回想起"
+  },
+  {
+    "number": "195",
+    "word": "as",
+    "phonetic": "/æz/",
+    "meaning": "conj.因为；由于；像；当......时；正如，如同 ；尽管 prep.作为；当作；如同;在某一年龄段时 adv.作为；当作；如同；和......一样"
+  },
+  {
+    "number": "196",
+    "word": "AM",
+    "phonetic": "/əm/",
+    "meaning": "abbr.上午；午前；antemeridiem的缩写"
+  },
+  {
+    "number": "197",
+    "word": "PM",
+    "phonetic": "/ˌpiː ˈem/",
+    "meaning": "(p.m.)下午;午后;abbr.首相；总理 ；primeminister的缩写"
+  },
+  {
+    "number": "198",
+    "word": "French",
+    "phonetic": "/frentʃ/",
+    "meaning": "n.法语；法国人 adj.法国的；法国人的；法语的"
+  },
+  {
+    "number": "199",
+    "word": "excellent",
+    "phonetic": "/ˈeksələnt/",
+    "meaning": "adj.优秀的；极好的；杰出的；卓越的"
+  },
+  {
+    "number": "200",
+    "word": "instrument",
+    "phonetic": "/ˈɪnstrəmənt/",
+    "meaning": "n.仪器；乐器；器械；工具；手段；法律文件"
+  },
+  {
+    "number": "201",
+    "word": "singer",
+    "phonetic": "/ˈsɪŋə(r)/",
+    "meaning": "n.歌手，歌唱家"
+  },
+  {
+    "number": "202",
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃə(r)/",
+    "meaning": "n.未来；将来；前途 adj.将来的；未来的"
+  },
+  {
+    "number": "203",
+    "word": "in the future",
+    "phonetic": "/ɪn ðə 'fjuːtʃə(r)/",
+    "meaning": "在未来；在将来；日后"
+  },
+  {
+    "number": "204",
+    "word": "term",
+    "phonetic": "/tɜːm/",
+    "meaning": "n.学期；期；术语；措辞；期限；条款;项 v.把 ......称作；把......叫做"
+  },
+  {
+    "number": "205",
+    "word": "work out",
+    "phonetic": "/wɜːk ˈaʊt/",
+    "meaning": "v.成功地发展；锻炼；可以解决,设计出,作出,计 算出,消耗完"
+  },
+  {
+    "number": "206",
+    "word": "problem",
+    "phonetic": "/ˈprɒbləm/",
+    "meaning": "n.麻烦，困难，问题；难题"
+  },
+  {
+    "number": "207",
+    "word": "in class",
+    "phonetic": "/ɪn klɑːs/",
+    "meaning": "phrase.上课"
+  },
+  {
+    "number": "208",
+    "word": "magic",
+    "phonetic": "/ˈmædʒɪk/",
+    "meaning": "n.魔术；魔法；魔力 adj.有魔力的；神奇的；魔 术（似）的；有神奇力量的"
+  },
+  {
+    "number": "209",
+    "word": "life",
+    "phonetic": "/laɪf/",
+    "meaning": "n.生活；生命；人生；个人生活"
+  },
+  {
+    "number": "210",
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "meaning": "n.科学家"
+  },
+  {
+    "number": "211",
+    "word": "Baker",
+    "phonetic": "/ˈbeɪkə(r)/",
+    "meaning": "⻉克"
+  },
+  {
+    "number": "212",
+    "word": "Mike",
+    "phonetic": "/maɪk/",
+    "meaning": "n.迈克（男子名）"
+  },
+  {
+    "number": "213",
+    "word": "Davis",
+    "phonetic": "/ˈdeɪvɪs/",
+    "meaning": "n.戴维斯"
+  },
+  {
+    "number": "214",
+    "word": "Canada",
+    "phonetic": "/ˈkænədə/",
+    "meaning": "n.加拿大"
+  },
+  {
+    "number": "215",
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "meaning": "n.俱乐部，社团；棍子 v.用棍棒打"
+  },
+  {
+    "number": "216",
+    "word": "join",
+    "phonetic": "/dʒɔɪn/",
+    "meaning": "v.参与；加入（某项活动），参加；连接；与一 道去"
+  },
+  {
+    "number": "217",
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "meaning": "v.选择；挑选(过去式是chose)"
+  },
+  {
+    "number": "218",
+    "word": "drama",
+    "phonetic": "/ˈdrɑːmə/",
+    "meaning": "n.戏；剧；戏剧；戏剧表演；戏剧事件"
+  },
+  {
+    "number": "219",
+    "word": "play Chinese chess",
+    "phonetic": "/pleɪ ˌtʃaɪˈniːz tʃes/",
+    "meaning": "下中国象棋"
+  },
+  {
+    "number": "220",
+    "word": "feeling",
+    "phonetic": "/ˈfiːlɪŋ/",
+    "meaning": "n.感受；感觉，感触；触觉；同情 adj.富于感情 的，仁慈的"
+  },
+  {
+    "number": "221",
+    "word": "news",
+    "phonetic": "/njuːz/",
+    "meaning": "n.消息，新闻；音信"
+  },
+  {
+    "number": "222",
+    "word": "musical",
+    "phonetic": "/ˈmjuːzɪk(ə)l/",
+    "meaning": "adj.音乐的；有音乐天赋的；擅⻓音乐的；喜欢 音乐的；悦耳的 n.音乐剧；音乐歌舞片"
+  },
+  {
+    "number": "223",
+    "word": "musical instrument",
+    "phonetic": "ˈɪnstrʊm(ə)nt/",
+    "meaning": "phrase.乐器"
+  },
+  {
+    "number": "224",
+    "word": "exactly",
+    "phonetic": "/ɪɡˈzæktli/",
+    "meaning": "adv.确切地；（答语）正是，没错；完全；（表 示赞同）确实如此；精确地；恰好"
+  },
+  {
+    "number": "225",
+    "word": "drum",
+    "phonetic": "/drʌm/",
+    "meaning": "n.鼓 v.敲打"
+  },
+  {
+    "number": "226",
+    "word": "ability",
+    "phonetic": "/əˈbɪləti/",
+    "meaning": "n.能力；才能；本领"
+  },
+  {
+    "number": "227",
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "meaning": "v.刷漆；用颜料绘画，着色；在上刷油漆；(给 )涂颜料 n.油漆；绘画颜料"
+  },
+  {
+    "number": "228",
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "meaning": "v.攀爬；爬升；攀登；爬"
+  },
+  {
+    "number": "229",
+    "word": "more",
+    "phonetic": "/mɔː(r)/",
+    "meaning": "det.另外的，更多的，较多的；更大的 adv.更多 （much或many的比较级）；更"
+  },
+  {
+    "number": "230",
+    "word": "act",
+    "phonetic": "/ækt/",
+    "meaning": "v.行为，行动，动作，举动；表演；演戏；扮演 （⻆色） n.行动；装模作样；（戏）幕；法令"
+  },
+  {
+    "number": "231",
+    "word": "act out",
+    "phonetic": "/ækt aʊt/",
+    "meaning": "phrase.将...付诸行动；把...表演出来"
+  },
+  {
+    "number": "232",
+    "word": "at home",
+    "phonetic": "/æt ˈhəʊm/",
+    "meaning": "phra.在家里"
+  },
+  {
+    "number": "233",
+    "word": "interested",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "meaning": "adj.感兴趣的 v.使发生兴趣；interest的过去式 和过去分词"
+  },
+  {
+    "number": "234",
+    "word": "interested in",
+    "phonetic": "/ˈɪntrəstɪd ɪn/",
+    "meaning": "phra.对......感兴趣"
+  },
+  {
+    "number": "235",
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃə(r)/",
+    "meaning": "n.自然界；大自然；天性"
+  },
+  {
+    "number": "236",
+    "word": "beef",
+    "phonetic": "/biːf/",
+    "meaning": "n.牛肉"
+  },
+  {
+    "number": "237",
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "meaning": "adv.很快，不久，即刻，⻢上;快"
+  },
+  {
+    "number": "238",
+    "word": "than",
+    "phonetic": "/ðæn/",
+    "meaning": "prep./conj.（比较数量距离等）多于，少于 ；（用于引出比较的第二部分）比"
+  },
+  {
+    "number": "239",
+    "word": "more than",
+    "phonetic": "/mɔː(r) ðæn/",
+    "meaning": "phrase.超过；多于"
+  },
+  {
+    "number": "240",
+    "word": "mind",
+    "phonetic": "/maɪnd/",
+    "meaning": "n.头脑；心智；思考能力；聪明人；思想，思维 ；心；思路；智力；意向；情绪 v.介意；专心于 ；注意；照顾"
+  },
+  {
+    "number": "241",
+    "word": "fall",
+    "phonetic": "/fɔːl/",
+    "meaning": "v.进入（某状态）；变成；落下；掉落；倒下 ；下降；跌倒 n.落下；跌落；秋天；（常 pl.）瀑布"
+  },
+  {
+    "number": "242",
+    "word": "fall in love with",
+    "phonetic": "/fɔːl ɪn lʌv wɪð/",
+    "meaning": "phrase.爱上"
+  },
+  {
+    "number": "243",
+    "word": "take photos",
+    "phonetic": "/teɪk 'fəʊtəʊz/",
+    "meaning": "phrase.拍照片"
+  },
+  {
+    "number": "244",
+    "word": "collect",
+    "phonetic": "/kəˈlekt/",
+    "meaning": "v.收集，采集；使集中；搜集"
+  },
+  {
+    "number": "245",
+    "word": "insect",
+    "phonetic": "/ˈɪnsekt/",
+    "meaning": "n.昆虫"
+  },
+  {
+    "number": "246",
+    "word": "discover",
+    "phonetic": "/dɪˈskʌvə(r)/",
+    "meaning": "v.了解到；查明；发现；发觉"
+  },
+  {
+    "number": "247",
+    "word": "wildlife",
+    "phonetic": "/ˈwaɪldlaɪf/",
+    "meaning": "n.野生生物 adj.野生动物的"
+  },
+  {
+    "number": "248",
+    "word": "Linda",
+    "phonetic": "/ˈlɪndə/",
+    "meaning": "n.琳达（女子名）"
+  },
+  {
+    "number": "249",
+    "word": "Alice",
+    "phonetic": "/ˈælɪs/",
+    "meaning": "n.艾丽斯（女子名）"
+  },
+  {
+    "number": "250",
+    "word": "Bill",
+    "phonetic": "/bɪl/",
+    "meaning": "比尔（男）"
+  },
+  {
+    "number": "251",
+    "word": "Jenny",
+    "phonetic": "/ˈdʒeni/",
+    "meaning": "n.珍妮（女子名）"
+  },
+  {
+    "number": "252",
+    "word": "make use of",
+    "phonetic": "/meɪk juːz əv/",
+    "meaning": "phr.使用；利用"
+  },
+  {
+    "number": "253",
+    "word": "quarter",
+    "phonetic": "/ˈkwɔːtə(r)/",
+    "meaning": "n.四分之一；一刻钟，十五分钟；季度；地区 ；方向 v.分成四等分"
+  },
+  {
+    "number": "254",
+    "word": "shower",
+    "phonetic": "/ˈʃaʊə(r)/",
+    "meaning": "n.淋浴；淋浴间；淋浴器；一大批，一阵（在空 中洒落或出现的小而轻的东西） v.洗淋浴"
+  },
+  {
+    "number": "255",
+    "word": "take a shower",
+    "phonetic": "/teɪk ə ˈʃaʊə(r)/",
+    "meaning": "phra.淋浴"
+  },
+  {
+    "number": "256",
+    "word": "get dressed",
+    "phonetic": "/ɡet drest/",
+    "meaning": "phrase.穿衣服"
+  },
+  {
+    "number": "257",
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "meaning": "n.刷子；画笔；刷；灌木丛 v.（用刷子）刷净 ，刷亮"
+  },
+  {
+    "number": "258",
+    "word": "tooth",
+    "phonetic": "/tuːθ/",
+    "meaning": "n.牙⻮（复数teeth）"
+  },
+  {
+    "number": "259",
+    "word": "duty",
+    "phonetic": "/ˈdjuːti/",
+    "meaning": "n.（道德或法律上的）责任；义务；职责；任务 ；值班"
+  },
+  {
+    "number": "260",
+    "word": "on duty",
+    "phonetic": "/ɒn ˈdjuːti/",
+    "meaning": "phrase.值班；上班"
+  },
+  {
+    "number": "261",
+    "word": "usually",
+    "phonetic": "/ˈjuːʒuəli/",
+    "meaning": "adv.通常地；一般地；惯常地"
+  },
+  {
+    "number": "262",
+    "word": "get up",
+    "phonetic": "/ˈɡet ʌp/",
+    "meaning": "起床，站起，起来"
+  },
+  {
+    "number": "263",
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːtə(r)/",
+    "meaning": "n.记者；通讯员"
+  },
+  {
+    "number": "264",
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "meaning": "adv.到处；向各处；在附近；环绕；大约 prep.在......周围；环绕；围绕"
+  },
+  {
+    "number": "265",
+    "word": "homework",
+    "phonetic": "/ˈhəʊmwɜːk/",
+    "meaning": "n.作业；家庭作业；功课"
+  },
+  {
+    "number": "266",
+    "word": "go to bed",
+    "phonetic": "/ɡəʊ tuː bed/",
+    "meaning": "phra.上床睡觉"
+  },
+  {
+    "number": "267",
+    "word": "saying",
+    "phonetic": "/ˈseɪɪŋ/",
+    "meaning": "n.谚语；格言；警句 v.说；讲；说话；say的现 在分词"
+  },
+  {
+    "number": "268",
+    "word": "rise",
+    "phonetic": "/raɪz/",
+    "meaning": "v.发源；升高，上升；升起；增加；提高 n.上升 ，升起；增强，增加；提高"
+  },
+  {
+    "number": "269",
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "meaning": "v.停留；待；保持 n.停留；逗留"
+  },
+  {
+    "number": "270",
+    "word": "routine",
+    "phonetic": "/ruːˈtiːn/",
+    "meaning": "n.常规；例行公事 adj.常规的；例行公事的"
+  },
+  {
+    "number": "271",
+    "word": "restaurant",
+    "phonetic": "/ˈrestrɒnt/",
+    "meaning": "n.饭店；餐厅；餐馆"
+  },
+  {
+    "number": "272",
+    "word": "housework",
+    "phonetic": "/ˈhaʊswɜːk/",
+    "meaning": "n.家务事；家务劳动"
+  },
+  {
+    "number": "273",
+    "word": "while",
+    "phonetic": "/waɪl/",
+    "meaning": "n.一会儿；一段时间 conj.（对比两件事物）然 而；与同时；在期间；当......的时候；尽管；然 而"
+  },
+  {
+    "number": "274",
+    "word": "weekend",
+    "phonetic": "/ˌwiːkˈend/",
+    "meaning": "n.周末"
+  },
+  {
+    "number": "275",
+    "word": "at weekends",
+    "phonetic": "/æt ˌwiːkˈendz/",
+    "meaning": "phr.在周末"
+  },
+  {
+    "number": "276",
+    "word": "daily",
+    "phonetic": "/ˈdeɪli/",
+    "meaning": "adj.每日的；日常的；按日的 adv.每天；每日 n.日报"
+  },
+  {
+    "number": "277",
+    "word": "daily routine",
+    "phonetic": "/ˈdeɪli ruːˈtiːn/",
+    "meaning": "日常生活"
+  },
+  {
+    "number": "278",
+    "word": "only",
+    "phonetic": "/ˈəʊnli/",
+    "meaning": "adv.只；仅仅；只有 adj.唯一的；仅有的"
+  },
+  {
+    "number": "279",
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "meaning": "n.中断，暂停；休息；间断；破裂 v.（使）破碎 ；裂；损坏；打破；打断；休息；违犯，背弃"
+  },
+  {
+    "number": "280",
+    "word": "Finnish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "meaning": "n.芬兰语 adj.芬兰的；芬兰人的；芬兰语的"
+  },
+  {
+    "number": "281",
+    "word": "finish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "meaning": "v.结束；完成，做完；做好 n.最后部分，结尾 ，结局"
+  },
+  {
+    "number": "282",
+    "word": "hockey",
+    "phonetic": "/ˈhɒki/",
+    "meaning": "n.曲棍球；冰上曲棍球"
+  },
+  {
+    "number": "283",
+    "word": "ice hockey",
+    "phonetic": "/ˈaɪs hɒki/",
+    "meaning": "phra.冰球运动；冰上曲棍球"
+  },
+  {
+    "number": "284",
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "meaning": "adv.已经，早已"
+  },
+  {
+    "number": "285",
+    "word": "dark",
+    "phonetic": "/dɑːk/",
+    "meaning": "adj.昏暗的；深色的黑暗的；暗色的 n.黑暗；夜 ；暗色，暗处"
+  },
+  {
+    "number": "286",
+    "word": "outside",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "meaning": "prep.在......外面 adv.在外面 adj.外面的；外界 的 n.外面；外边；外部"
+  },
+  {
+    "number": "287",
+    "word": "part",
+    "phonetic": "/pɑːt/",
+    "meaning": "v.分离；离开；分开 n.部分，部位；局部；零件 ；⻆色"
+  },
+  {
+    "number": "288",
+    "word": "everyday",
+    "phonetic": "/ˈevrideɪ/",
+    "meaning": "adj.每天的；平常的；日常的"
+  },
+  {
+    "number": "289",
+    "word": "prepare",
+    "phonetic": "/prɪˈpeə(r)/",
+    "meaning": "v.把......预备好；预备（饭菜）；准备；使做好 准备"
+  },
+  {
+    "number": "290",
+    "word": "prepare sth. for",
+    "phonetic": "/prɪˈpeə(r) ˈsʌmθɪŋ fɔː(r)/",
+    "meaning": "phra.为......把某物准备好"
+  },
+  {
+    "number": "291",
+    "word": "Timo",
+    "phonetic": "/tiːməʊ/",
+    "meaning": "蒂莫"
+  },
+  {
+    "number": "292",
+    "word": "Halla",
+    "phonetic": "/ˈhala/",
+    "meaning": "哈拉"
+  },
+  {
+    "number": "293",
+    "word": "Helsinki",
+    "phonetic": "/ˈhelsɪŋki/",
+    "meaning": "赫尔辛基(芬兰首都)"
+  },
+  {
+    "number": "294",
+    "word": "Finland",
+    "phonetic": "/'fɪnlənd/",
+    "meaning": "n.芬兰"
+  },
+  {
+    "number": "295",
+    "word": "home economics",
+    "phonetic": "/həʊm ˌiːkəˈnɒmɪks/",
+    "meaning": "phra.家庭经济学；家政学"
+  },
+  {
+    "number": "296",
+    "word": "celebrate",
+    "phonetic": "/ˈselɪbreɪt/",
+    "meaning": "v.庆祝，庆贺；颂扬"
+  },
+  {
+    "number": "297",
+    "word": "surprise",
+    "phonetic": "/səˈpraɪz/",
+    "meaning": "n.意想不到的事，令人惊喜的事情（或消息等 ）；惊奇；惊讶；惊喜；意外 v.使感到意外；使 吃惊；使惊奇"
+  },
+  {
+    "number": "298",
+    "word": "something",
+    "phonetic": "/ˈsʌmθɪŋ/",
+    "meaning": "pron.某事；某物；某种东西"
+  },
+  {
+    "number": "299",
+    "word": "sale",
+    "phonetic": "/seɪl/",
+    "meaning": "n.出售,销售；卖出,廉价出售,销路,销售额"
+  },
+  {
+    "number": "300",
+    "word": "kilo",
+    "phonetic": "/ˈkiːləʊ/",
+    "meaning": "n.(kilogram,kilogramme)（pl.kilos）千克 ;公斤"
+  },
+  {
+    "number": "301",
+    "word": "kilogram",
+    "phonetic": "/ˈkɪləɡræm/",
+    "meaning": "n.(kilo)千克；公斤"
+  },
+  {
+    "number": "302",
+    "word": "kilogramme",
+    "phonetic": "/ˈkɪləɡræm/",
+    "meaning": "n.公斤；千克"
+  },
+  {
+    "number": "303",
+    "word": "yogurt",
+    "phonetic": "/ˈjɒɡət/",
+    "meaning": "n.(yoghurt)酸奶；酵母乳"
+  },
+  {
+    "number": "304",
+    "word": "yoghurt",
+    "phonetic": "/ˈjɒɡət/",
+    "meaning": "n.酸奶；酸乳"
+  },
+  {
+    "number": "305",
+    "word": "total",
+    "phonetic": "/ˈtəʊt(ə)l/",
+    "meaning": "adj.总的；全体的；全部的 n.总数；合计；总额 ；总计 v.共计；总数达"
+  },
+  {
+    "number": "306",
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "meaning": "n.价格,价钱,代价 vt.标明价格"
+  },
+  {
+    "number": "307",
+    "word": "balloon",
+    "phonetic": "/bəˈluːn/",
+    "meaning": "n.气球；热气球；玩具气球；球状物 v.乘热气球 ⻜行；膨胀；（使）激增"
+  },
+  {
+    "number": "308",
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɒklət/",
+    "meaning": "n.巧克力，朱古力 adj.巧克力的"
+  },
+  {
+    "number": "309",
+    "word": "pizza",
+    "phonetic": "/ˈpiːtsə/",
+    "meaning": "n.比萨饼；披萨；意大利薄饼"
+  },
+  {
+    "number": "310",
+    "word": "list",
+    "phonetic": "/lɪst/",
+    "meaning": "n.名单,清单；目录，列表，序列 v.列表，列清 单；列出，列于表上"
+  },
+  {
+    "number": "311",
+    "word": "own",
+    "phonetic": "/əʊn/",
+    "meaning": "adj./pron.自己的，本人的；特有的 v.拥有；有 ；承认"
+  },
+  {
+    "number": "312",
+    "word": "example",
+    "phonetic": "/ɪɡˈzɑːmpl/",
+    "meaning": "n.例子；范例；实例；榜样"
+  },
+  {
+    "number": "313",
+    "word": "for example",
+    "phonetic": "/fɔː(r) ɪɡˈzɑːmpl/",
+    "meaning": "例如，譬如；举例"
+  },
+  {
+    "number": "314",
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "meaning": "n.语言"
+  },
+  {
+    "number": "315",
+    "word": "international",
+    "phonetic": "/ˌɪntəˈnæʃ(ə)nəl/",
+    "meaning": "adj.国际的，世界的 n.国际性组织，国际比赛"
+  },
+  {
+    "number": "316",
+    "word": "mark",
+    "phonetic": "/mɑːk/",
+    "meaning": "v.做记号；纪念；打分；评分；（使）留痕迹 n.记号；痕迹；分数"
+  },
+  {
+    "number": "317",
+    "word": "national",
+    "phonetic": "/ˈnæʃnəl/",
+    "meaning": "adj.国家的；⺠族的"
+  },
+  {
+    "number": "318",
+    "word": "found",
+    "phonetic": "/faʊnd/",
+    "meaning": "v.建立（城镇或国家）；创建；创立；找到；发 现；认为；find的过去式和过去分词"
+  },
+  {
+    "number": "319",
+    "word": "meaningful",
+    "phonetic": "/ˈmiːnɪŋfl/",
+    "meaning": "adj.有意义的；重要的；重大的；意味深⻓的"
+  },
+  {
+    "number": "320",
+    "word": "make a wish",
+    "phonetic": "/meɪk ə wɪʃ/",
+    "meaning": "phrase.许愿"
+  },
+  {
+    "number": "321",
+    "word": "celebration",
+    "phonetic": "/ˌselɪˈbreɪʃn/",
+    "meaning": "n.庆典；庆祝活动"
+  },
+  {
+    "number": "322",
+    "word": "post",
+    "phonetic": "/pəʊst/",
+    "meaning": "v.发布；邮寄；发布；张贴；公布；使驻守 n.邮 寄；帖子；邮政；邮件；职位；岗位；柱"
+  },
+  {
+    "number": "323",
+    "word": "contact",
+    "phonetic": "/ˈkɒntækt/",
+    "meaning": "n.联系；接触 v.联系；联络"
+  },
+  {
+    "number": "324",
+    "word": "symbol",
+    "phonetic": "/ˈsɪmbl/",
+    "meaning": "n.符号；象征；标志"
+  },
+  {
+    "number": "325",
+    "word": "take a photo",
+    "phonetic": "/teɪk ə ˈfəʊtəʊ/",
+    "meaning": "phrase.拍照"
+  },
+  {
+    "number": "326",
+    "word": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "meaning": "n.村庄；村镇；乡村 adj.村庄的"
+  },
+  {
+    "number": "327",
+    "word": "grow",
+    "phonetic": "/ɡrəʊ/",
+    "meaning": "v.生⻓；栽种；种植；成⻓；⻓大；⻓高；增⻓ ；发育；变成"
+  },
+  {
+    "number": "328",
+    "word": "blow",
+    "phonetic": "/bləʊ/",
+    "meaning": "v.吹；吹气；刮(过去式blew）"
+  },
+  {
+    "number": "329",
+    "word": "blow out",
+    "phonetic": "/bləʊ ˈaʊt/",
+    "meaning": "吹灭"
+  },
+  {
+    "number": "330",
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "meaning": "v.享受......的乐趣；喜欢；欣赏；喜爱"
+  },
+  {
+    "number": "331",
+    "word": "height",
+    "phonetic": "/haɪt/",
+    "meaning": "n.(人的)身高，(物的)高，高度"
+  },
+  {
+    "number": "332",
+    "word": "later",
+    "phonetic": "/ˈleɪtə(r)/",
+    "meaning": "adv.随后；后来；以后 adj.以后的；后来的"
+  },
+  {
+    "number": "333",
+    "word": "next time",
+    "phonetic": "/nekst taɪm/",
+    "meaning": "phra.下次"
+  },
+  {
+    "number": "334",
+    "word": "whom",
+    "phonetic": "/huːm/",
+    "meaning": "pron.谁，什么人；......的人，那个人，那些人 （用于提供关于正在谈论的某人的信息或补充信 息）"
+  },
+  {
+    "number": "335",
+    "word": "William",
+    "phonetic": "/ˈwɪljəm ˈʃeɪkspɪə(r)/",
+    "meaning": "Shakespeare n.威廉莎士比亚"
+  },
+  {
+    "number": "336",
+    "word": "Florence",
+    "phonetic": "/ˈflɒrəns/",
+    "meaning": "n.佛罗伦萨(意大利城市)"
+  },
+  {
+    "number": "337",
+    "word": "National Day",
+    "phonetic": "/ˈnæʃnəl deɪ/",
+    "meaning": "n.国庆节"
+  },
+  {
+    "number": "338",
+    "word": "CPC Founding Day",
+    "phonetic": "/ˌsiːpiːˈsiː ˈfaʊndɪŋ deɪ/",
+    "meaning": "中国共产党建党纪念日"
+  },
+  {
+    "number": "339",
+    "word": "PLA Day",
+    "phonetic": "/ˌpiː el ˈeɪ deɪ/",
+    "meaning": "中国人⺠解放军建军节"
+  },
+  {
+    "number": "340",
+    "word": "Judy",
+    "phonetic": "/ˈdʒuːdi/",
+    "meaning": "朱迪（女名）"
+  },
+  {
+    "number": "341",
+    "word": "Clark",
+    "phonetic": "/klɑ:k/",
+    "meaning": "克拉克"
+  },
+  {
+    "number": "342",
+    "word": "hello",
+    "phonetic": "/həˈləʊ/",
+    "meaning": "int.你好；喂；哈喽 n.喂的招呼声或问候声"
+  },
+  {
+    "number": "343",
+    "word": "how",
+    "phonetic": "/haʊ/",
+    "meaning": "adv.怎么样，如何(尤在⻅面时用于询问对方情 况)"
+  },
+  {
+    "number": "344",
+    "word": "do",
+    "phonetic": "/duː/",
+    "meaning": "auxv.v.(第三人称单数形式does)用于构成否定 句和疑问句；做；干；办"
+  },
+  {
+    "number": "345",
+    "word": "you",
+    "phonetic": "/juː/",
+    "meaning": "pron.你；您；你们"
+  },
+  {
+    "number": "346",
+    "word": "people",
+    "phonetic": "/ˈpiːpl/",
+    "meaning": "n.人，人们(单复数同形)"
+  },
+  {
+    "number": "347",
+    "word": "hi",
+    "phonetic": "/haɪ/",
+    "meaning": "int.嗨；你好(非正式用语hello)"
+  },
+  {
+    "number": "348",
+    "word": "good",
+    "phonetic": "/ɡʊd/",
+    "meaning": "adj.好的，令人愉快的；有用，有好处"
+  },
+  {
+    "number": "349",
+    "word": "morning",
+    "phonetic": "/ˈmɔːnɪŋ/",
+    "meaning": "n.早晨；上午"
+  },
+  {
+    "number": "350",
+    "word": "and",
+    "phonetic": "/ənd/",
+    "meaning": "conj.和，与；并且"
+  },
+  {
+    "number": "351",
+    "word": "Ms",
+    "phonetic": "/mɪz/",
+    "meaning": "n.（用于女子的姓氏或姓名前，不指明婚否）女 士"
+  },
+  {
+    "number": "352",
+    "word": "class",
+    "phonetic": "/klɑːs/",
+    "meaning": "n.班级；课；等级；阶级；类别"
+  },
+  {
+    "number": "353",
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "meaning": "（过去式sat）v.坐；坐下"
+  },
+  {
+    "number": "354",
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "meaning": "adj.向下的；沮丧的；情绪低落的；悲哀的 adv.向下 prep.沿......向下"
+  },
+  {
+    "number": "355",
+    "word": "please",
+    "phonetic": "/pliːz/",
+    "meaning": "int.(用于客气地请求或吩咐)请"
+  },
+  {
+    "number": "356",
+    "word": "can",
+    "phonetic": "/kæn/",
+    "meaning": "v.能；能够；会；可以 n.(美)罐子；罐头；金属 罐"
+  },
+  {
+    "number": "357",
+    "word": "say",
+    "phonetic": "/seɪ/",
+    "meaning": "v.说；讲；说话"
+  },
+  {
+    "number": "358",
+    "word": "to",
+    "phonetic": "/tu/",
+    "meaning": "prep.（距整点）差......；到，对，向，在...之 前（动词不定时符号，无词义）"
+  },
+  {
+    "number": "359",
+    "word": "the",
+    "phonetic": "/ðə/",
+    "meaning": "（指已提到或易领会到的人或事物）这个；那个"
+  },
+  {
+    "number": "360",
+    "word": "I",
+    "phonetic": "/aɪ/",
+    "meaning": "pron.我（主语） n.碘（元素iodine的符号）"
+  },
+  {
+    "number": "361",
+    "word": "am",
+    "phonetic": "/æm/",
+    "meaning": "v.是；动词be的第一人称单数现在式 abbr.上午 ；antemeridiem的缩写"
+  },
+  {
+    "number": "362",
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "meaning": "n.谢谢；感谢"
+  },
+  {
+    "number": "363",
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "meaning": "adv.现在；目前"
+  },
+  {
+    "number": "364",
+    "word": "my",
+    "phonetic": "/maɪ/",
+    "meaning": "pron.我的"
+  },
+  {
+    "number": "365",
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "meaning": "v.命名；提名；说出......的名字 n.姓名；名称 ；名字"
+  },
+  {
+    "number": "366",
+    "word": "is",
+    "phonetic": "/ɪz/",
+    "meaning": "v.是(用于he,she,it及单数可数名词后)"
+  },
+  {
+    "number": "367",
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "meaning": "adj.友好的；亲切的；讨人喜欢...；令人愉快的 ；美好的"
+  },
+  {
+    "number": "368",
+    "word": "meet",
+    "phonetic": "/miːt/",
+    "meaning": "v.遇⻅；⻅面；满足；认识，结识"
+  },
+  {
+    "number": "369",
+    "word": "so",
+    "phonetic": "/səʊ/",
+    "meaning": "adv.如此；这样；（表示大小或数量）这么，那 么；很；也 conj.所以"
+  },
+  {
+    "number": "370",
+    "word": "what",
+    "phonetic": "/wɒt/",
+    "meaning": "det.什么,多么,......的事物"
+  },
+  {
+    "number": "371",
+    "word": "your",
+    "phonetic": "/jɔː(r)/",
+    "meaning": "pron.你的；你们的"
+  },
+  {
+    "number": "372",
+    "word": "too",
+    "phonetic": "/tuː/",
+    "meaning": "adv.太，过于，过分；也，还，又"
+  },
+  {
+    "number": "373",
+    "word": "a",
+    "phonetic": "/ə/",
+    "meaning": "art.用于单数可数名词前，表示一个 字母A的小 写，英语字母表的第个字母"
+  },
+  {
+    "number": "374",
+    "word": "are",
+    "phonetic": "/ɑː(r)/",
+    "meaning": "v.是；就是(用于we,you,they及复数名词作主语 )"
+  },
+  {
+    "number": "375",
+    "word": "goodbye",
+    "phonetic": "/ˌɡʊdˈbaɪ/",
+    "meaning": "int.再⻅ n.说再⻅"
+  },
+  {
+    "number": "376",
+    "word": "may",
+    "phonetic": "/meɪ/",
+    "meaning": "modal.可以，有可能，也许"
+  },
+  {
+    "number": "377",
+    "word": "have",
+    "phonetic": "/hæv/",
+    "meaning": "v.吃，喝；有，拥有；举行 aux.已经（构成现在 完成时）"
+  },
+  {
+    "number": "378",
+    "word": "call",
+    "phonetic": "/kɔːl/",
+    "meaning": "v.（一次）通话；，名叫，叫作，称作；打电话 n.打电话"
+  },
+  {
+    "number": "379",
+    "word": "me",
+    "phonetic": "/miː/",
+    "meaning": "pron.我(I的宾格形式)"
+  },
+  {
+    "number": "380",
+    "word": "fine",
+    "phonetic": "/faɪn/",
+    "meaning": "adj.很好的；晴朗的；健康的；美好的 adv.很好 n.罚款"
+  },
+  {
+    "number": "381",
+    "word": "great",
+    "phonetic": "/ɡreɪt/",
+    "meaning": "adj.伟大的；大的；极好的；太棒了 adv.很好地"
+  },
+  {
+    "number": "382",
+    "word": "that",
+    "phonetic": "/ðæt/",
+    "meaning": "adj.那；那个；那样的 pron.那儿；那里 conj.那（引导从句） adv.那个；那么；那样"
+  },
+  {
+    "number": "383",
+    "word": "let",
+    "phonetic": "/let/",
+    "meaning": "v.让；允许；放开；出租"
+  },
+  {
+    "number": "384",
+    "word": "us",
+    "phonetic": "/ʌs/",
+    "meaning": "pron.我们(we的宾格)"
+  },
+  {
+    "number": "385",
+    "word": "go",
+    "phonetic": "/ɡəʊ/",
+    "meaning": "v.出发，离去；试；努力；行走；去；走；开始 ；移动"
+  },
+  {
+    "number": "386",
+    "word": "bye",
+    "phonetic": "/baɪ/",
+    "meaning": "int.(goodbye)再⻅"
+  },
+  {
+    "number": "387",
+    "word": "it",
+    "phonetic": "/ɪt/",
+    "meaning": "pron.它，这，那"
+  },
+  {
+    "number": "388",
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "meaning": "n.时间；时刻，时候；倍；次数；时期 v.计时 ；安排时间 adj.时间的；定时的；分期的"
+  },
+  {
+    "number": "389",
+    "word": "for",
+    "phonetic": "/fɔː(r)/",
+    "meaning": "prep.（表示对象，用途等）给；因为...；对于 ...；为了，供"
+  },
+  {
+    "number": "390",
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "meaning": "v.（使）保持，处于；保有，保留；记录；存..."
+  },
+  {
+    "number": "391",
+    "word": "tidy",
+    "phonetic": "/ˈtaɪdi/",
+    "meaning": "v.收拾；使整洁；整理 adj.整洁的；整⻬的"
+  },
+  {
+    "number": "392",
+    "word": "in",
+    "phonetic": "/ɪn/",
+    "meaning": "prep.在......里，在内，在中；在（将来一段时 间）之后；用；以；穿着，戴着 adv.在家；在里 面"
+  },
+  {
+    "number": "393",
+    "word": "schoolbag",
+    "phonetic": "/ˈskuːlbæɡ/",
+    "meaning": "n.书包"
+  },
+  {
+    "number": "394",
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "meaning": "n.（尤指有帽舌的）帽子 v.覆盖......的顶部"
+  },
+  {
+    "number": "395",
+    "word": "ruler",
+    "phonetic": "/ˈruːlə(r)/",
+    "meaning": "n.尺子，直尺；统治者；支配者"
+  },
+  {
+    "number": "396",
+    "word": "pencil",
+    "phonetic": "/ˈpensl/",
+    "meaning": "n.铅笔"
+  },
+  {
+    "number": "397",
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "meaning": "adj.褐色的；棕色的 n.褐色；棕色"
+  },
+  {
+    "number": "398",
+    "word": "black",
+    "phonetic": "/blæk/",
+    "meaning": "adj.黑色的 n.黑色"
+  },
+  {
+    "number": "399",
+    "word": "yellow",
+    "phonetic": "/ˈjeləʊ/",
+    "meaning": "adj.⻩色的 n.⻩色"
+  },
+  {
+    "number": "400",
+    "word": "orange",
+    "phonetic": "/ˈɒrɪndʒ/",
+    "meaning": "n.橘子；橙；柑橘 adj.橙色的，橘⻩色，橙红色 的 adj.绿色的；未熟的；无经验的 n.绿色；绿色物"
+  },
+  {
+    "number": "401",
+    "word": "green",
+    "phonetic": "/ɡriːn/",
+    "meaning": "品"
+  },
+  {
+    "number": "402",
+    "word": "blue",
+    "phonetic": "/bluː/",
+    "meaning": "adj.蓝色的；忧郁的 n.蓝色"
+  },
+  {
+    "number": "403",
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "meaning": "adj.白色的 n.白色"
+  },
+  {
+    "number": "404",
+    "word": "red",
+    "phonetic": "/red/",
+    "meaning": "adj.红色的 n.红色"
+  },
+  {
+    "number": "405",
+    "word": "colour",
+    "phonetic": "/ˈkʌlə(r)/",
+    "meaning": "vt.给......着色 n.色彩，颜色"
+  },
+  {
+    "number": "406",
+    "word": "trousers",
+    "phonetic": "/ˈtraʊzəz/",
+    "meaning": "n.（用复数）⻓裤"
+  },
+  {
+    "number": "407",
+    "word": "they",
+    "phonetic": "/ðeɪ/",
+    "meaning": "pron.他们；它们；她们"
+  },
+  {
+    "number": "408",
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "meaning": "n.（bike）自行⻋；脚踏⻋"
+  },
+  {
+    "number": "409",
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "meaning": "n.鞋子"
+  },
+  {
+    "number": "410",
+    "word": "where",
+    "phonetic": "/weə(r)/",
+    "meaning": "adv.哪里；在哪里，去哪里；到哪里"
+  },
+  {
+    "number": "411",
+    "word": "put",
+    "phonetic": "/pʊt/",
+    "meaning": "v.放，安放，安置(put的过去式)"
+  },
+  {
+    "number": "412",
+    "word": "bed",
+    "phonetic": "/bed/",
+    "meaning": "n.床；底；（花）坛"
+  },
+  {
+    "number": "413",
+    "word": "desk",
+    "phonetic": "/desk/",
+    "meaning": "n.书桌；课桌；写字台"
+  },
+  {
+    "number": "414",
+    "word": "chair",
+    "phonetic": "/tʃeə(r)/",
+    "meaning": "n.椅子；主席；教授的职位 v.使就任要职；主持"
+  },
+  {
+    "number": "415",
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "meaning": "n.书；书籍；本子 v.预约，预订，订（房间⻋票 等）"
+  },
+  {
+    "number": "416",
+    "word": "box",
+    "phonetic": "/bɒks/",
+    "meaning": "n.箱子；盒子；一拳 v.拳击；装箱"
+  },
+  {
+    "number": "417",
+    "word": "sock",
+    "phonetic": "/sɒk/",
+    "meaning": "n.短袜v.穿袜"
+  },
+  {
+    "number": "418",
+    "word": "some",
+    "phonetic": "/sʌm/",
+    "meaning": "adj.一些；某些 pron.有些；若干"
+  },
+  {
+    "number": "419",
+    "word": "pair",
+    "phonetic": "/peə(r)/",
+    "meaning": "n.一双；一对 v.（使）成对；（使）配对"
+  },
+  {
+    "number": "420",
+    "word": "of",
+    "phonetic": "/ɒv/",
+    "meaning": "prep.属于(某人或某物);关于(某人或某物)"
+  },
+  {
+    "number": "421",
+    "word": "on",
+    "phonetic": "/ɒn/",
+    "meaning": "prep.在......上面；关于；到......上面；在（某 位置）"
+  },
+  {
+    "number": "422",
+    "word": "under",
+    "phonetic": "/ˈʌndə(r)/",
+    "meaning": "prep.在......下面；在......下方"
+  },
+  {
+    "number": "423",
+    "word": "mum",
+    "phonetic": "/mʌm/",
+    "meaning": "n.妈妈(非正式用语) adj.沉默的；不说话的"
+  },
+  {
+    "number": "424",
+    "word": "not",
+    "phonetic": "/nɒt/",
+    "meaning": "adv.不，不是，没有"
+  },
+  {
+    "number": "425",
+    "word": "find",
+    "phonetic": "/faɪnd/",
+    "meaning": "v.(过去式过去分词found)找到；找回；发现"
+  },
+  {
+    "number": "426",
+    "word": "new",
+    "phonetic": "/njuː/",
+    "meaning": "adj.新的;刚出现的"
+  },
+  {
+    "number": "427",
+    "word": "no",
+    "phonetic": "/nəʊ/",
+    "meaning": "interj.不；不是；没有 det.没有，无"
+  },
+  {
+    "number": "428",
+    "word": "here",
+    "phonetic": "/hɪə(r)/",
+    "meaning": "adv.这儿 adv.在这里，向这里"
+  },
+  {
+    "number": "429",
+    "word": "room",
+    "phonetic": "/ruːm/",
+    "meaning": "n.房间；空间"
+  },
+  {
+    "number": "430",
+    "word": "OK",
+    "phonetic": "/əʊˈkeɪ/",
+    "meaning": "adj.好的；不错的；可以的 int.好的，行；可以"
+  },
+  {
+    "number": "431",
+    "word": "sorry",
+    "phonetic": "/ˈsɒri/",
+    "meaning": "adj.对不起的；遗憾的；抱歉的 int.对不起；抱 歉"
+  },
+  {
+    "number": "432",
+    "word": "dad",
+    "phonetic": "/dæd/",
+    "meaning": "n.爸爸(非正式用语)"
+  },
+  {
+    "number": "433",
+    "word": "glasses",
+    "phonetic": "/ˈɡlɑːsɪz/",
+    "meaning": "n.眼镜 n.玻璃；玻璃杯；glass的复数"
+  },
+  {
+    "number": "434",
+    "word": "see",
+    "phonetic": "/siː/",
+    "meaning": "v.看⻅；看，⻅；明白；会⻅(过去式为saw)"
+  },
+  {
+    "number": "435",
+    "word": "them",
+    "phonetic": "/ðəm/",
+    "meaning": "pron.他们；她们；它们(宾格)"
+  },
+  {
+    "number": "436",
+    "word": "wait",
+    "phonetic": "/weɪt/",
+    "meaning": "v.(for)等，等待,等候 n.等待,等待时间；等候"
+  },
+  {
+    "number": "437",
+    "word": "minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "meaning": "n.分钟；一会儿 adj.微小的"
+  },
+  {
+    "number": "438",
+    "word": "head",
+    "phonetic": "/hed/",
+    "meaning": "n.头，头部；脑袋；上端；首脑；负责人 v.朝 ......行进；前往；居首位；领导 adj.头的；主要 的"
+  },
+  {
+    "number": "439",
+    "word": "welcome",
+    "phonetic": "/ˈwelkəm/",
+    "meaning": "n.欢迎 adj.受欢迎的 v.欢迎 int.欢迎"
+  },
+  {
+    "number": "440",
+    "word": "her",
+    "phonetic": "/hə(r)/",
+    "meaning": "pron.她(宾格)；她的"
+  },
+  {
+    "number": "441",
+    "word": "nose",
+    "phonetic": "/nəʊz/",
+    "meaning": "n.鼻，鼻子"
+  },
+  {
+    "number": "442",
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "meaning": "n.猫"
+  },
+  {
+    "number": "443",
+    "word": "these",
+    "phonetic": "/ðiːz/",
+    "meaning": "pron.这些；this的复数 adj.这些的"
+  },
+  {
+    "number": "444",
+    "word": "plant",
+    "phonetic": "/plɑːnt/",
+    "meaning": "n.植物；作物；⻋间；装置；工厂；发电厂 v.种 植；栽培；安置；放置"
+  },
+  {
+    "number": "445",
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "meaning": "n.婴儿；幼兽；幼⻦ adj.幼小的"
+  },
+  {
+    "number": "446",
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkɪn/",
+    "meaning": "n.鸡；鸡肉"
+  },
+  {
+    "number": "447",
+    "word": "dog",
+    "phonetic": "/dɒɡ/",
+    "meaning": "n.狗 v.尾随"
+  },
+  {
+    "number": "448",
+    "word": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "meaning": "n.兔子；野兔"
+  },
+  {
+    "number": "449",
+    "word": "tomato",
+    "phonetic": "/təˈmɑːtəʊ/",
+    "meaning": "n.西红柿，番茄(复数tomatoes)"
+  },
+  {
+    "number": "450",
+    "word": "flower",
+    "phonetic": "/ˈflaʊə(r)/",
+    "meaning": "n.花；花朵"
+  },
+  {
+    "number": "451",
+    "word": "apple",
+    "phonetic": "/ˈæp(ə)l/",
+    "meaning": "n.苹果,苹果树"
+  },
+  {
+    "number": "452",
+    "word": "tree",
+    "phonetic": "/triː/",
+    "meaning": "n.树；树木；乔木"
+  },
+  {
+    "number": "453",
+    "word": "this",
+    "phonetic": "/ðɪs/",
+    "meaning": "adj.这 pron.这个 adv.这个；这样；这么"
+  },
+  {
+    "number": "454",
+    "word": "those",
+    "phonetic": "/ðəʊz/",
+    "meaning": "adj.那些的 pron.那些；that的复数"
+  },
+  {
+    "number": "455",
+    "word": "animal",
+    "phonetic": "/ˈænɪml/",
+    "meaning": "n.兽，动物"
+  },
+  {
+    "number": "456",
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "meaning": "n.鸭子；鸭肉 v.没入水中；潜入；闪避"
+  },
+  {
+    "number": "457",
+    "word": "potato",
+    "phonetic": "/pəˈteɪtəʊ/",
+    "meaning": "n.土豆；⻢铃薯(复数potatoes)"
+  },
+  {
+    "number": "458",
+    "word": "many",
+    "phonetic": "/ˈmeni/",
+    "meaning": "det.许多，大量 pron.许多（人或物）"
+  },
+  {
+    "number": "459",
+    "word": "grandpa",
+    "phonetic": "/ˈɡrænpɑː/",
+    "meaning": "n.(grandfather)爷爷，外公；祖父；外祖父"
+  },
+  {
+    "number": "460",
+    "word": "farm",
+    "phonetic": "/fɑːm/",
+    "meaning": "n.农场；农庄 v.耕种；务农；种田；饲养"
+  },
+  {
+    "number": "461",
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "meaning": "n.母牛；奶牛；大型母兽 v.威胁；吓唬"
+  },
+  {
+    "number": "462",
+    "word": "small",
+    "phonetic": "/smɔːl/",
+    "meaning": "adj.小的；小号的"
+  },
+  {
+    "number": "463",
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "meaning": "n.湖；湖泊"
+  },
+  {
+    "number": "464",
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "meaning": "n.房子；房屋；住宅 v.给某人提供住处,是 ......的安置处；收藏"
+  },
+  {
+    "number": "465",
+    "word": "horse",
+    "phonetic": "/hɔːs/",
+    "meaning": "n.⻢ v.骑⻢"
+  },
+  {
+    "number": "466",
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "meaning": "n.(pl.sheep)(绵)羊；驯服者"
+  },
+  {
+    "number": "467",
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "meaning": "adj.大的；大号的；年龄较大的"
+  },
+  {
+    "number": "468",
+    "word": "look",
+    "phonetic": "/lʊk/",
+    "meaning": "v.看；望，瞧；看上去 n.看"
+  },
+  {
+    "number": "469",
+    "word": "uncle",
+    "phonetic": "/ˈʌŋkl/",
+    "meaning": "n.叔父；伯父；舅父；姑父；姨父"
+  },
+  {
+    "number": "470",
+    "word": "grass",
+    "phonetic": "/ɡrɑːs/",
+    "meaning": "n.草；草地；大麻；告密者 v.使吃草；放牧；告 发"
+  },
+  {
+    "number": "471",
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "meaning": "adj.亲切的；和蔼的；和善的；友好的，善意的 ，体贴的 n.种类"
+  },
+  {
+    "number": "472",
+    "word": "he",
+    "phonetic": "/hiː/",
+    "meaning": "n.他 pron.他"
+  },
+  {
+    "number": "473",
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "meaning": "n.猪，贪婪的人"
+  },
+  {
+    "number": "474",
+    "word": "there",
+    "phonetic": "/ðeə(r)/",
+    "meaning": "adv.(表示某事物存在或发生)；（在）那里;(与 be连用）有"
+  },
+  {
+    "number": "475",
+    "word": "behind",
+    "phonetic": "/bɪˈhaɪnd/",
+    "meaning": "prep.在......后面 adv.在后面"
+  },
+  {
+    "number": "476",
+    "word": "home",
+    "phonetic": "/həʊm/",
+    "meaning": "n.家；家庭；住所 adv.在家 adj.家的；家庭的 v.送......回家；提供住处"
+  },
+  {
+    "number": "477",
+    "word": "beautiful",
+    "phonetic": "/ˈbjuːtɪfl/",
+    "meaning": "adj.漂亮的；美丽的；美好的"
+  },
+  {
+    "number": "478",
+    "word": "like",
+    "phonetic": "/laɪk/",
+    "meaning": "v.喜欢,喜爱 perp.例如，像；怎么样；像...一样"
+  },
+  {
+    "number": "479",
+    "word": "his",
+    "phonetic": "/hɪz/",
+    "meaning": "pron.他的（he的所有格）"
+  },
+  {
+    "number": "480",
+    "word": "at",
+    "phonetic": "/æt/",
+    "meaning": "prep.在(某处某时间或时刻);(提供电话号码等时 使用)按照;根据"
+  },
+  {
+    "number": "481",
+    "word": "we",
+    "phonetic": "/wiː/",
+    "meaning": "pron.我们"
+  },
+  {
+    "number": "482",
+    "word": "make",
+    "phonetic": "/meɪk/",
+    "meaning": "v.做,制造；使成为"
+  },
+  {
+    "number": "483",
+    "word": "friend",
+    "phonetic": "/frend/",
+    "meaning": "n.朋友，友人"
+  },
+  {
+    "number": "484",
+    "word": "get",
+    "phonetic": "/ɡet/",
+    "meaning": "v.到达；得到；接到；获得；使做（某事）；收 到；变得"
+  },
+  {
+    "number": "485",
+    "word": "know",
+    "phonetic": "/nəʊ/",
+    "meaning": "v.知道；了解；明白，懂得"
+  },
+  {
+    "number": "486",
+    "word": "from",
+    "phonetic": "/frɒm/",
+    "meaning": "prep.自，从，由；(表示开始的时间)从......开始 ；（表示来源）来自，从来"
+  },
+  {
+    "number": "487",
+    "word": "old",
+    "phonetic": "/əʊld/",
+    "meaning": "adj.......岁的 adj.老的，年纪大的；年代久远的"
+  },
+  {
+    "number": "488",
+    "word": "last",
+    "phonetic": "/lɑːst/",
+    "meaning": "adj.最后的；最近的；上一个的；刚过去的，最 近过去的 adv.最后；最近 v.持续"
+  },
+  {
+    "number": "489",
+    "word": "year",
+    "phonetic": "/jɪə(r)/",
+    "meaning": "n.年；年龄，岁数"
+  },
+  {
+    "number": "490",
+    "word": "yes",
+    "phonetic": "/jes/",
+    "meaning": "int.是的；好的；到(点名)"
+  },
+  {
+    "number": "491",
+    "word": "Mr",
+    "phonetic": "/ˈmɪstə/",
+    "meaning": "n.先生(用于男子的姓氏或姓名前...)"
+  },
+  {
+    "number": "492",
+    "word": "our",
+    "phonetic": "/ˈaʊə(r)/",
+    "meaning": "det.我们的"
+  },
+  {
+    "number": "493",
+    "word": "English",
+    "phonetic": "/ˈɪŋɡlɪʃ/",
+    "meaning": "adj.英国的；英国人的；英语的 n.英语；英文"
+  },
+  {
+    "number": "494",
+    "word": "teacher",
+    "phonetic": "/ˈtiːtʃə(r)/",
+    "meaning": "n.教师，老师，教员"
+  },
+  {
+    "number": "495",
+    "word": "which",
+    "phonetic": "/wɪtʃ/",
+    "meaning": "det.哪一个，哪一些 pron.哪一个，哪一些 adj.哪一个，哪一些"
+  },
+  {
+    "number": "496",
+    "word": "who",
+    "phonetic": "/huː/",
+    "meaning": "pron.谁，什么人（谁是）"
+  },
+  {
+    "number": "497",
+    "word": "job",
+    "phonetic": "/dʒɒb/",
+    "meaning": "n.工作,职位，职业,事情 v.打杂,批发,承包,欺骗"
+  },
+  {
+    "number": "498",
+    "word": "student",
+    "phonetic": "/ˈstjuːdnt/",
+    "meaning": "n.学生"
+  },
+  {
+    "number": "499",
+    "word": "age",
+    "phonetic": "/eɪdʒ/",
+    "meaning": "n.年龄；时代 v.变老"
+  },
+  {
+    "number": "500",
+    "word": "she",
+    "phonetic": "/ʃi/",
+    "meaning": "pron.她（主格）"
+  },
+  {
+    "number": "501",
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "meaning": "adj.最喜欢的；特别受喜爱的 n.特别喜爱的事物"
+  },
+  {
+    "number": "502",
+    "word": "pet",
+    "phonetic": "/pet/",
+    "meaning": "n.宠物；宠儿 v.爱抚 adj.钟爱的"
+  },
+  {
+    "number": "503",
+    "word": "very",
+    "phonetic": "/ˈveri/",
+    "meaning": "adv.非常；很；十分 adj.恰好是，正是"
+  },
+  {
+    "number": "504",
+    "word": "cute",
+    "phonetic": "/kjuːt/",
+    "meaning": "adj.漂亮的，逗人喜爱的，可爱的"
+  },
+  {
+    "number": "505",
+    "word": "much",
+    "phonetic": "/mʌtʃ/",
+    "meaning": "adv.非常地 adj.多；许多 pron.许多，大量"
+  },
+  {
+    "number": "506",
+    "word": "school",
+    "phonetic": "/skuːl/",
+    "meaning": "n.学校；上课(或上学)时间"
+  },
+  {
+    "number": "507",
+    "word": "China",
+    "phonetic": "/ˈtʃaɪnə/",
+    "meaning": "n.中国"
+  },
+  {
+    "number": "508",
+    "word": "panda",
+    "phonetic": "/ˈpændə/",
+    "meaning": "n.大熊猫"
+  },
+  {
+    "number": "509",
+    "word": "hot",
+    "phonetic": "/hɒt/",
+    "meaning": "adj.热的；温度高的；辛辣的"
+  },
+  {
+    "number": "510",
+    "word": "also",
+    "phonetic": "/ˈɔːlsəʊ/",
+    "meaning": "adv.还；也，而且"
+  },
+  {
+    "number": "511",
+    "word": "live",
+    "phonetic": "/lɪv/",
+    "meaning": "v.生活；居住；活着 adj.活的；现场直播的；实 况转播的"
+  },
+  {
+    "number": "512",
+    "word": "with",
+    "phonetic": "/wɪð/",
+    "meaning": "prep.与......在一起，同，跟"
+  },
+  {
+    "number": "513",
+    "word": "parent",
+    "phonetic": "/ˈpeərənt/",
+    "meaning": "n.父，母；母亲；父亲；家⻓"
+  },
+  {
+    "number": "514",
+    "word": "Chinese",
+    "phonetic": "/ˌtʃaɪˈniːz/",
+    "meaning": "adj.中国的；中国人的；汉语的 n.中国人；中文 ；汉语；语文"
+  },
+  {
+    "number": "515",
+    "word": "food",
+    "phonetic": "/fuːd/",
+    "meaning": "n.⻝物，⻝品"
+  },
+  {
+    "number": "516",
+    "word": "lot",
+    "phonetic": "/lɒt/",
+    "meaning": "n.许多；命运；阄；签；土地；份额，产品批次 adv.很；非常"
+  },
+  {
+    "number": "517",
+    "word": "about",
+    "phonetic": "/əˈbaʊt/",
+    "meaning": "prep.关于；大约，左右；大概；涉及 adv.大约 ；到处"
+  },
+  {
+    "number": "518",
+    "word": "wall",
+    "phonetic": "/wɔːl/",
+    "meaning": "n.墙，墙壁；城墙"
+  },
+  {
+    "number": "519",
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "meaning": "adj.全部的 adv.全部地 n.所有，全部"
+  },
+  {
+    "number": "520",
+    "word": "hour",
+    "phonetic": "/ˈaʊə(r)/",
+    "meaning": "n.小时"
+  },
+  {
+    "number": "521",
+    "word": "ago",
+    "phonetic": "/əˈɡəʊ/",
+    "meaning": "adv.以前，以往"
+  },
+  {
+    "number": "522",
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "meaning": "n.家庭；家族 adj.家庭的；家族的"
+  },
+  {
+    "number": "523",
+    "word": "bird",
+    "phonetic": "/bɜːd/",
+    "meaning": "n.⻦，小⻦"
+  },
+  {
+    "number": "524",
+    "word": "speak",
+    "phonetic": "/spiːk/",
+    "meaning": "v.说；讲（某种语言）；说话；谈话"
+  },
+  {
+    "number": "525",
+    "word": "sport",
+    "phonetic": "/spɔːt/",
+    "meaning": "n.体育运动；运动"
+  },
+  {
+    "number": "526",
+    "word": "often",
+    "phonetic": "/ˈɒf(ə)n/",
+    "meaning": "adv.经常；常常地；时常地"
+  },
+  {
+    "number": "527",
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "meaning": "v.玩；玩耍；演奏；扮演；播放 n.戏，戏剧，演 出；剧本；比赛"
+  },
+  {
+    "number": "528",
+    "word": "after",
+    "phonetic": "/ˈɑːftə(r)/",
+    "meaning": "prep.在......之后；在（时间）后；在后面 adv.以后；后来"
+  },
+  {
+    "number": "529",
+    "word": "want",
+    "phonetic": "/wɒnt/",
+    "meaning": "v.要，想要；希望"
+  },
+  {
+    "number": "530",
+    "word": "be",
+    "phonetic": "/biː/",
+    "meaning": "v.（am,is,are）是；存在；成为"
+  },
+  {
+    "number": "531",
+    "word": "place",
+    "phonetic": "/pleɪs/",
+    "meaning": "n.地方；地点；方位 v.安置；安放"
+  },
+  {
+    "number": "532",
+    "word": "music",
+    "phonetic": "/ˈmjuːzɪk/",
+    "meaning": "n.音乐；乐曲"
+  },
+  {
+    "number": "533",
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "meaning": "n.爱；关爱；爱情 v.喜欢，喜爱；爱；热爱"
+  },
+  {
+    "number": "534",
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "meaning": "v.书写；写信；写作"
+  },
+  {
+    "number": "535",
+    "word": "or",
+    "phonetic": "/ɔː/",
+    "meaning": "conj.或，或者，还是；(用于否定句中)也不，也 没..."
+  },
+  {
+    "number": "536",
+    "word": "mother",
+    "phonetic": "/ˈmʌðə(r)/",
+    "meaning": "n.母亲，妈妈"
+  },
+  {
+    "number": "537",
+    "word": "child",
+    "phonetic": "/tʃaɪld/",
+    "meaning": "n.儿童(复数形式为children)"
+  },
+  {
+    "number": "538",
+    "word": "sister",
+    "phonetic": "/ˈsɪstə(r)/",
+    "meaning": "n.姐姐，妹妹"
+  },
+  {
+    "number": "539",
+    "word": "brother",
+    "phonetic": "/ˈbrʌðə(r)/",
+    "meaning": "n.兄弟；哥哥；弟弟"
+  },
+  {
+    "number": "540",
+    "word": "cousin",
+    "phonetic": "/ˈkʌzn/",
+    "meaning": "n.堂兄弟（或姐妹）；表兄弟（或姐妹）"
+  },
+  {
+    "number": "541",
+    "word": "aunt",
+    "phonetic": "/ɑːnt/",
+    "meaning": "n.姑姑，阿姨，婶母，伯母，姨母，舅母，姑母"
+  },
+  {
+    "number": "542",
+    "word": "grandmother",
+    "phonetic": "/ˈɡrænmʌðə(r)/",
+    "meaning": "n.（外）祖母，奶奶，外婆"
+  },
+  {
+    "number": "543",
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "meaning": "v.来；来到，达到"
+  },
+  {
+    "number": "544",
+    "word": "ping-pong",
+    "phonetic": "/ˈpɪŋ pɒŋ/",
+    "meaning": "n.乒乓球运动；乒乓球"
+  },
+  {
+    "number": "545",
+    "word": "whose",
+    "phonetic": "/huːz/",
+    "meaning": "adj.谁的；（特指）那个人的 pron.谁的；（特 指）那个人的"
+  },
+  {
+    "number": "546",
+    "word": "well",
+    "phonetic": "/wel/",
+    "meaning": "adv.好；对；满意地 adj.健康的 n.泉；井；油 井 int.（用于表示惊讶，疑虑，接受等）好"
+  },
+  {
+    "number": "547",
+    "word": "every",
+    "phonetic": "/ˈevri/",
+    "meaning": "adj.每，每隔；每一，每个"
+  },
+  {
+    "number": "548",
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "meaning": "n.(一)日，(一)天；白天"
+  },
+  {
+    "number": "549",
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "meaning": "n.周；星期 n.一周时间"
+  },
+  {
+    "number": "550",
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "meaning": "n.⻥；⻥肉 v.钓⻥；捕⻥"
+  },
+  {
+    "number": "551",
+    "word": "father",
+    "phonetic": "/ˈfɑːðə(r)/",
+    "meaning": "n.父亲；爸爸"
+  },
+  {
+    "number": "552",
+    "word": "piano",
+    "phonetic": "/piˈænəʊ/",
+    "meaning": "n.钢琴"
+  },
+  {
+    "number": "553",
+    "word": "basketball",
+    "phonetic": "/ˈbɑːskɪtbɔːl/",
+    "meaning": "n.篮球"
+  },
+  {
+    "number": "554",
+    "word": "read",
+    "phonetic": "/riːd/",
+    "meaning": "v.读；读书，阅读；朗读,理解；解读 n.读物"
+  },
+  {
+    "number": "555",
+    "word": "garden",
+    "phonetic": "/ˈɡɑːdn/",
+    "meaning": "n.花园，果园；园子 v.从事园艺"
+  },
+  {
+    "number": "556",
+    "word": "classroom",
+    "phonetic": "/ˈklɑːsruːm/",
+    "meaning": "n.教室，课堂"
+  },
+  {
+    "number": "557",
+    "word": "their",
+    "phonetic": "/ðeə(r)/",
+    "meaning": "pron.他们的，她们的；它们的"
+  },
+  {
+    "number": "558",
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "meaning": "v.打扫；使干净 adj.整洁的；洁净的；干净的"
+  },
+  {
+    "number": "559",
+    "word": "little",
+    "phonetic": "/ˈlɪtl/",
+    "meaning": "adj.小的，年幼的；可爱的，可怜的，讨厌的"
+  },
+  {
+    "number": "560",
+    "word": "ball",
+    "phonetic": "/bɔːl/",
+    "meaning": "n.球；球类运动"
+  },
+  {
+    "number": "561",
+    "word": "playground",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "meaning": "n.操场；运动场；游乐场"
+  },
+  {
+    "number": "562",
+    "word": "wear",
+    "phonetic": "/weə(r)/",
+    "meaning": "v.穿（戴）着 n.衣着；磨损"
+  },
+  {
+    "number": "563",
+    "word": "talk",
+    "phonetic": "/tɔːk/",
+    "meaning": "v.（用某种语言）讲，说；说话;交谈; n.说话;交 谈"
+  },
+  {
+    "number": "564",
+    "word": "tall",
+    "phonetic": "/tɔːl/",
+    "meaning": "adj.有......高的；高的"
+  },
+  {
+    "number": "565",
+    "word": "short",
+    "phonetic": "/ʃɔːt/",
+    "meaning": "adj.矮的，个子矮的；短的 adj.短暂的"
+  },
+  {
+    "number": "566",
+    "word": "hair",
+    "phonetic": "/heə(r)/",
+    "meaning": "n.头发；（或动物的）毛发"
+  },
+  {
+    "number": "567",
+    "word": "long",
+    "phonetic": "/lɒŋ/",
+    "meaning": "adj.（⻓度或距离）⻓的；⻓时间的 adv.⻓久地 ；始终 n.⻓时间；⻓期 v.渴望；盼望"
+  },
+  {
+    "number": "568",
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "meaning": "adj.安静的，不出声的 n.宁静，平静"
+  },
+  {
+    "number": "569",
+    "word": "girl",
+    "phonetic": "/ɡɜːl/",
+    "meaning": "n.女孩，小姑娘"
+  },
+  {
+    "number": "570",
+    "word": "but",
+    "phonetic": "/bʌt/",
+    "meaning": "conj.但是；然而 prep.除......以外 adv.只能 ；仅仅"
+  },
+  {
+    "number": "571",
+    "word": "any",
+    "phonetic": "/ˈeni/",
+    "meaning": "det.任何的；任一的 pron.任一，任何，一些"
+  },
+  {
+    "number": "572",
+    "word": "photo",
+    "phonetic": "/ˈfəʊtəʊ/",
+    "meaning": "n.照片；相片"
+  },
+  {
+    "number": "573",
+    "word": "pink",
+    "phonetic": "/pɪŋk/",
+    "meaning": "n.粉红色 adj.粉红色的"
+  },
+  {
+    "number": "574",
+    "word": "left",
+    "phonetic": "/left/",
+    "meaning": "adj.左边的 v.离开；leave的过去式和过去分词 n.左；左边 adv.向左；在左边"
+  },
+  {
+    "number": "575",
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "meaning": "adj.右边的；正确的；（意⻅或判断）准确，确 切，恰当 n.权利；右边 adv.正确地；直接地 ；向右 v.扶直；纠正"
+  },
+  {
+    "number": "576",
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/",
+    "meaning": "adv.总是；一直"
+  },
+  {
+    "number": "577",
+    "word": "story",
+    "phonetic": "/ˈstɔːri/",
+    "meaning": "n.（真实或虚构的）故事，小说"
+  },
+  {
+    "number": "578",
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "meaning": "n.夜晚；晚上"
+  },
+  {
+    "number": "579",
+    "word": "middle",
+    "phonetic": "/ˈmɪd(ə)l/",
+    "meaning": "adj.中间的，中等的；中期，中的 n.中间；中部 ；中心"
+  },
+  {
+    "number": "580",
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "meaning": "v.认为；想；思考 n.思考"
+  },
+  {
+    "number": "581",
+    "word": "football",
+    "phonetic": "/ˈfʊtbɔːl/",
+    "meaning": "n.足球运动；足球；（美式）橄榄球"
+  },
+  {
+    "number": "582",
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "meaning": "adj.幸福的，快乐的；高兴的；感到快乐的"
+  },
+  {
+    "number": "583",
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "meaning": "n.眼睛 v.注视；审视"
+  },
+  {
+    "number": "584",
+    "word": "clever",
+    "phonetic": "/ˈklevə(r)/",
+    "meaning": "adj.聪明的；聪颖的；灵巧的"
+  },
+  {
+    "number": "585",
+    "word": "next",
+    "phonetic": "/nekst/",
+    "meaning": "adj.（时间）紧接着的；接下来的，下一个的 ，离得最近的 adv.随后 pron.下一个 prep.靠近"
+  },
+  {
+    "number": "586",
+    "word": "him",
+    "phonetic": "/hɪm/",
+    "meaning": "pron.他（用作宾语或表语）"
+  },
+  {
+    "number": "587",
+    "word": "help",
+    "phonetic": "/help/",
+    "meaning": "v.帮助；帮忙；救命 n.帮助，救助 int.救命(呼 救用语)"
+  },
+  {
+    "number": "588",
+    "word": "front",
+    "phonetic": "/frʌnt/",
+    "meaning": "n.前面；前部;adj.前面的；前部的"
+  },
+  {
+    "number": "589",
+    "word": "art",
+    "phonetic": "/ɑːt/",
+    "meaning": "n.美术；艺术；美术课"
+  },
+  {
+    "number": "590",
+    "word": "between",
+    "phonetic": "/bɪˈtwiːn/",
+    "meaning": "prep.（空间或时间上）在......之间 adv.（空间 或时间上）介于......之间"
+  },
+  {
+    "number": "591",
+    "word": "library",
+    "phonetic": "/ˈlaɪbrəri/",
+    "meaning": "n.图书馆，图书室"
+  },
+  {
+    "number": "592",
+    "word": "blackboard",
+    "phonetic": "/ˈblækbɔːd/",
+    "meaning": "n.黑板"
+  },
+  {
+    "number": "593",
+    "word": "up",
+    "phonetic": "/ʌp/",
+    "meaning": "adv.向上；（太阳）升起；面朝上；(尤指异常 或不愉快的事)发生；起床；（一段时间）已结束 ，已过去"
+  },
+  {
+    "number": "594",
+    "word": "back",
+    "phonetic": "/bæk/",
+    "meaning": "n.背面；反面；背部；后面 adv.回原处；向后 adj.后面的；拖欠的 v.支持"
+  },
+  {
+    "number": "595",
+    "word": "clock",
+    "phonetic": "/klɒk/",
+    "meaning": "n.时钟；钟"
+  },
+  {
+    "number": "596",
+    "word": "map",
+    "phonetic": "/mæp/",
+    "meaning": "n.地图"
+  },
+  {
+    "number": "597",
+    "word": "computer",
+    "phonetic": "/kəmˈpjuːtə(r)/",
+    "meaning": "n.计算机；电脑"
+  },
+  {
+    "number": "598",
+    "word": "window",
+    "phonetic": "/ˈwɪndəʊ/",
+    "meaning": "n.窗口；窗戶"
+  },
+  {
+    "number": "599",
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "meaning": "n.科学"
+  },
+  {
+    "number": "600",
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃə(r)/",
+    "meaning": "n.图片；画，图画；照片 v.想象；描述"
+  },
+  {
+    "number": "601",
+    "word": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "meaning": "adj.著名的；出名的"
+  },
+  {
+    "number": "602",
+    "word": "table",
+    "phonetic": "/ˈteɪbl/",
+    "meaning": "n.桌子；台子；表格 v.把......列入议事日程；搁 置"
+  },
+  {
+    "number": "603",
+    "word": "today",
+    "phonetic": "/təˈdeɪ/",
+    "meaning": "n.今天；当今 adv.在今天；当今"
+  },
+  {
+    "number": "604",
+    "word": "email",
+    "phonetic": "/ˈiːmeɪl/",
+    "meaning": "v.发电子邮件 n.电子邮件"
+  },
+  {
+    "number": "605",
+    "word": "answer",
+    "phonetic": "/ˈɑːnsə(r)/",
+    "meaning": "n.答案；答复，回答 v.答复，回答"
+  },
+  {
+    "number": "606",
+    "word": "question",
+    "phonetic": "/ˈkwestʃən/",
+    "meaning": "n.问题；疑问 v.询问；怀疑"
+  },
+  {
+    "number": "607",
+    "word": "exercise",
+    "phonetic": "/ˈeksəsaɪz/",
+    "meaning": "n.练习；锻炼；活动；运动；行使 v.运用；使用 ；锻炼；使担忧"
+  },
+  {
+    "number": "608",
+    "word": "way",
+    "phonetic": "/weɪ/",
+    "meaning": "n.方法；方式；路；道路；方向；路线"
+  },
+  {
+    "number": "609",
+    "word": "best",
+    "phonetic": "/best/",
+    "meaning": "adj.最好的；最多的；最大的；good的最高级 adv.最好地；最多地；最大地；well的最高级 n.最高水平；最佳物；佼佼者"
+  },
+  {
+    "number": "610",
+    "word": "because",
+    "phonetic": "/bɪˈkɒz/",
+    "meaning": "conj.因为"
+  },
+  {
+    "number": "611",
+    "word": "why",
+    "phonetic": "/waɪ/",
+    "meaning": "adv.为什么 n.为什么"
+  },
+  {
+    "number": "612",
+    "word": "dear",
+    "phonetic": "/dɪə(r)/",
+    "meaning": "adj.亲爱的；宝贵的；昂贵的 n.亲爱的人；可爱 的人 excl.哎呀"
+  },
+  {
+    "number": "613",
+    "word": "tell",
+    "phonetic": "/tel/",
+    "meaning": "v.告诉；讲，讲述，叙述；说；辨别"
+  },
+  {
+    "number": "614",
+    "word": "interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "meaning": "adj.令人感兴趣的；有趣的"
+  },
+  {
+    "number": "615",
+    "word": "subject",
+    "phonetic": "/ˈsʌbdʒekt/",
+    "meaning": "n.主题；话题；课程；科目；学科；对象"
+  },
+  {
+    "number": "616",
+    "word": "learn",
+    "phonetic": "/lɜːn/",
+    "meaning": "vt./vi.学，学习，学会"
+  },
+  {
+    "number": "617",
+    "word": "maths",
+    "phonetic": "/mæθs/",
+    "meaning": "n.（mathematics）数学（美math）"
+  },
+  {
+    "number": "618",
+    "word": "PE",
+    "phonetic": "/ˌpiː ˈiː/",
+    "meaning": "abbr.体育；体育教育；physicaleducation的 缩写"
+  },
+  {
+    "number": "619",
+    "word": "hard",
+    "phonetic": "/hɑːd/",
+    "meaning": "adj.辛苦的，艰难的；坚硬的；困难的；费劲的 adv.努力地"
+  },
+  {
+    "number": "620",
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "meaning": "adj.困难的，不易的"
+  },
+  {
+    "number": "621",
+    "word": "sure",
+    "phonetic": "/ʃʊə(r)/",
+    "meaning": "adv.当然；当然可以；确定 adj.确信；必定的"
+  },
+  {
+    "number": "622",
+    "word": "easy",
+    "phonetic": "/ˈiːzi/",
+    "meaning": "adj.容易的；不费力的"
+  },
+  {
+    "number": "623",
+    "word": "use",
+    "phonetic": "/juːz/",
+    "meaning": "v.使用；利用 n.使用；用途"
+  },
+  {
+    "number": "624",
+    "word": "give",
+    "phonetic": "/ɡɪv/",
+    "meaning": "v.给予；发出；提供"
+  },
+  {
+    "number": "625",
+    "word": "idea",
+    "phonetic": "/aɪˈdɪə/",
+    "meaning": "n.主意，想法"
+  },
+  {
+    "number": "626",
+    "word": "listen",
+    "phonetic": "/ˈlɪsn/",
+    "meaning": "v.（注意地）听"
+  },
+  {
+    "number": "627",
+    "word": "draw",
+    "phonetic": "/drɔː/",
+    "meaning": "v.画；拉；拽；提取；吸引"
+  },
+  {
+    "number": "628",
+    "word": "travel",
+    "phonetic": "/ˈtrævl/",
+    "meaning": "v.旅游；旅行 n.旅游；旅行"
+  },
+  {
+    "number": "629",
+    "word": "walk",
+    "phonetic": "/wɔːk/",
+    "meaning": "v./n.走，步行；散步"
+  },
+  {
+    "number": "630",
+    "word": "afternoon",
+    "phonetic": "/ˌɑːftəˈnuːn/",
+    "meaning": "n.下午"
+  },
+  {
+    "number": "631",
+    "word": "then",
+    "phonetic": "/ðen/",
+    "meaning": "adv.然后；接下来；那时 adj.当时的；那时的"
+  },
+  {
+    "number": "632",
+    "word": "Miss",
+    "phonetic": "/mɪs/",
+    "meaning": "n.女士，小姐（称呼）"
+  },
+  {
+    "number": "633",
+    "word": "work",
+    "phonetic": "/wɜːk/",
+    "meaning": "n.工作；著作，（音乐艺术）作品 v.（使）工作 ；（使）运转；操作；经营；起作用"
+  },
+  {
+    "number": "634",
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmtaɪmz/",
+    "meaning": "adv.在某个时候"
+  },
+  {
+    "number": "635",
+    "word": "feel",
+    "phonetic": "/fiːl/",
+    "meaning": "v.感觉，感到，意识到；触摸；认为；摸，摸起 来 n.感受；触觉"
+  },
+  {
+    "number": "636",
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "meaning": "adj.忙，忙碌的，忙于(做某事)"
+  },
+  {
+    "number": "637",
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "meaning": "n.学习；研究；书房 v.学习；研究"
+  },
+  {
+    "number": "638",
+    "word": "song",
+    "phonetic": "/sɒŋ/",
+    "meaning": "n.歌；歌曲"
+  },
+  {
+    "number": "639",
+    "word": "out",
+    "phonetic": "/aʊt/",
+    "meaning": "adv.在外；出去；外出；离开 prep.向外；在外 面 adj.外面的；出局的 v.使熄灭；揭露；驱逐"
+  },
+  {
+    "number": "640",
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "meaning": "v.唱(歌)；演唱"
+  },
+  {
+    "number": "641",
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "meaning": "v.游泳(过去式为swam)"
+  },
+  {
+    "number": "642",
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "meaning": "v.跑，奔跑；跑步；流动；经营 n.跑；运转"
+  },
+  {
+    "number": "643",
+    "word": "fast",
+    "phonetic": "/fɑːst/",
+    "meaning": "adj.快的，迅速的 adv.快，快速，迅速"
+  },
+  {
+    "number": "644",
+    "word": "dance",
+    "phonetic": "/dɑːns/",
+    "meaning": "n.舞蹈 v.跳舞"
+  },
+  {
+    "number": "645",
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "meaning": "v.放（⻛筝⻜机模型等）；⻜，⻜行"
+  },
+  {
+    "number": "646",
+    "word": "watch",
+    "phonetic": "/wɒtʃ/",
+    "meaning": "n.表；手表；监视；注意 v.看；观看；观察；小 心"
+  },
+  {
+    "number": "647",
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "meaning": "n.蛋糕，糕点"
+  },
+  {
+    "number": "648",
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "meaning": "n.厨师 v.烹饪；煮；烧"
+  },
+  {
+    "number": "649",
+    "word": "noodle",
+    "phonetic": "/ˈnuːdl/",
+    "meaning": "n.面条"
+  },
+  {
+    "number": "650",
+    "word": "open",
+    "phonetic": "/ˈəʊpən/",
+    "meaning": "v.开；打开；开放 adj.开放的；营业的 n.公开 ；戶外"
+  },
+  {
+    "number": "651",
+    "word": "take",
+    "phonetic": "/teɪk/",
+    "meaning": "v.搭乘；乘坐（⻋/船/⻜机等）；带走；拿走 ；学习；上（课）；把带往；选择要；选择购买 ；拿；带领；接受；花费；做（某个动作）"
+  },
+  {
+    "number": "652",
+    "word": "visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "meaning": "n.参观，游览；拜访，访问，看..."
+  },
+  {
+    "number": "653",
+    "word": "park",
+    "phonetic": "/pɑːk/",
+    "meaning": "n.公园；停⻋场 v.停放；停⻋"
+  },
+  {
+    "number": "654",
+    "word": "when",
+    "phonetic": "/wen/",
+    "meaning": "adv.什么时候，何时 conj.当...的时候"
+  },
+  {
+    "number": "655",
+    "word": "share",
+    "phonetic": "/ʃeə(r)/",
+    "meaning": "v.分享；共享；共用；分摊；把自己的想法（或 经历感情）告诉（某人）"
+  },
+  {
+    "number": "656",
+    "word": "o'clock",
+    "phonetic": "/əˈklɒk/",
+    "meaning": "abbr.(表示整点)......点钟"
+  },
+  {
+    "number": "657",
+    "word": "half",
+    "phonetic": "/hɑːf/",
+    "meaning": "n.一半 adj.一半的 adv.一半地"
+  },
+  {
+    "number": "658",
+    "word": "dress",
+    "phonetic": "/dres/",
+    "meaning": "n.连衣裙；衣服 v.（给......）穿衣服"
+  },
+  {
+    "number": "659",
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "meaning": "n.早餐；早饭"
+  },
+  {
+    "number": "660",
+    "word": "before",
+    "phonetic": "/bɪˈfɔː(r)/",
+    "meaning": "adv.以前；之前，过去 prep.在......以前；先于 conj.在......以前"
+  },
+  {
+    "number": "661",
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "meaning": "v.开始"
+  },
+  {
+    "number": "662",
+    "word": "dinner",
+    "phonetic": "/ˈdɪnə(r)/",
+    "meaning": "n.正餐；晚餐"
+  },
+  {
+    "number": "663",
+    "word": "early",
+    "phonetic": "/ˈɜːli/",
+    "meaning": "adj.早的；提早的；早期的；早到的 adv.早地 ；提早；在早期；提前"
+  },
+  {
+    "number": "664",
+    "word": "ask",
+    "phonetic": "/ɑːsk/",
+    "meaning": "v.问；提问，询问；请求；邀请"
+  },
+  {
+    "number": "665",
+    "word": "lunch",
+    "phonetic": "/lʌntʃ/",
+    "meaning": "n.午餐；午饭"
+  },
+  {
+    "number": "666",
+    "word": "film",
+    "phonetic": "/fɪlm/",
+    "meaning": "n.电影；胶卷；底片；薄薄的一层 v.拍摄电影"
+  },
+  {
+    "number": "667",
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "meaning": "n.课；功课；课程；教训"
+  },
+  {
+    "number": "668",
+    "word": "ice",
+    "phonetic": "/aɪs/",
+    "meaning": "n.冰 v.（使）结冰"
+  },
+  {
+    "number": "669",
+    "word": "birthday",
+    "phonetic": "44/45",
+    "meaning": "n.生日"
+  },
+  {
+    "number": "670",
+    "word": "month",
+    "phonetic": "/mʌnθ/",
+    "meaning": "n.一个月的时间；月份，月"
+  },
+  {
+    "number": "671",
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "meaning": "n.天赋，才能，礼物，赠品 .白送"
+  },
+  {
+    "number": "672",
+    "word": "party",
+    "phonetic": "/ˈpɑːti/",
+    "meaning": "n.聚会，宴会；党派"
+  },
+  {
+    "number": "673",
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "meaning": "v.买；换取；收买；相信"
+  },
+  {
+    "number": "674",
+    "word": "shop",
+    "phonetic": "/ʃɒp/",
+    "meaning": "n.商店 v.去买东西；购物"
+  },
+  {
+    "number": "675",
+    "word": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "meaning": "n.(复数是women）妇女，女人；成年女子"
+  },
+  {
+    "number": "676",
+    "word": "candle",
+    "phonetic": "/ˈkændl/",
+    "meaning": "n.蜡烛"
+  },
+  {
+    "number": "677",
+    "word": "will",
+    "phonetic": "/wɪl/",
+    "meaning": "auxv.将要，会；愿意 v.愿意；遗赠 n.意志；意 愿；遗嘱"
+  },
+  {
+    "number": "678",
+    "word": "egg",
+    "phonetic": "/eɡ/",
+    "meaning": "n.（作⻝物用的）蛋；鸡蛋"
+  },
+  {
+    "number": "679",
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "meaning": "n.(水果或蔬菜的)汁；水果(蔬...)，果汁"
+  },
+  {
+    "number": "680",
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "meaning": "n.（牛或羊等的）奶，牛奶 v.挤奶"
+  },
+  {
+    "number": "681",
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "meaning": "n.糖；糖果"
+  },
+  {
+    "number": "682",
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "meaning": "v.喝；喝酒 n.饮料；酒"
+  },
+  {
+    "number": "683",
+    "word": "card",
+    "phonetic": "/kɑːd/",
+    "meaning": "n.卡片；纸牌；贺卡；慰问卡；银行卡"
+  },
+  {
+    "number": "684",
+    "word": "doll",
+    "phonetic": "/dɒl/",
+    "meaning": "n.玩偶，玩具娃娃"
+  },
+  {
+    "number": "685",
+    "word": "Mrs",
+    "phonetic": "/ˈmɪsɪz/",
+    "meaning": "abbr.太太；夫人；Mistress的缩写"
+  },
+  {
+    "number": "686",
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "meaning": "v.吃；进餐"
+  },
+  {
+    "number": "687",
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "meaning": "n.希望；祝福；愿望 v.祝愿；希望"
+  },
+  {
+    "number": "688",
+    "word": "nurse",
+    "phonetic": "/nɜːs/",
+    "meaning": "n.护士；保姆 v.护理；照料；喂奶"
+  },
+  {
+    "number": "689",
+    "word": "hear",
+    "phonetic": "/hɪə(r)/",
+    "meaning": "v.听到；听⻅;听说(过去式是heard)"
+  },
+  {
+    "number": "690",
+    "word": "door",
+    "phonetic": "/dɔː(r)/",
+    "meaning": "n.⻔；出入口"
+  }
+]

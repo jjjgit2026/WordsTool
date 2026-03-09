@@ -1,0 +1,698 @@
+[
+  {
+    "number": "1",
+    "word": "clock",
+    "phonetic": "/klɒk/",
+    "meaning": "n.时钟；钟"
+  },
+  {
+    "number": "2",
+    "word": "two o'clock",
+    "phonetic": "/tuː əˈklɒk/",
+    "meaning": "两点钟"
+  },
+  {
+    "number": "3",
+    "word": "fifteen",
+    "phonetic": "/ˌfɪfˈtiːn/",
+    "meaning": "num.十五；十五个(的)"
+  },
+  {
+    "number": "4",
+    "word": "half",
+    "phonetic": "/hɑːf/",
+    "meaning": "n.一半 adj.一半的 adv.一半地"
+  },
+  {
+    "number": "5",
+    "word": "past",
+    "phonetic": "/pɑːst/",
+    "meaning": "adj.过去的；以往的；昔日的 prep.经 过；超过；晚于 n.过去；昔日 adv.经 过"
+  },
+  {
+    "number": "6",
+    "word": "half past eight",
+    "phonetic": "/hɑːf pɑːst eɪt/",
+    "meaning": "八点半"
+  },
+  {
+    "number": "7",
+    "word": "forty-five",
+    "phonetic": "/ˈfɔːti faɪv/",
+    "meaning": "num.四十五的"
+  },
+  {
+    "number": "8",
+    "word": "beat the clock",
+    "phonetic": "/biːt ðə klɒk/",
+    "meaning": "提前完成"
+  },
+  {
+    "number": "9",
+    "word": "life",
+    "phonetic": "/laɪf/",
+    "meaning": "n.生活；生命；人生；个人生活"
+  },
+  {
+    "number": "10",
+    "word": "task",
+    "phonetic": "/tɑːsk/",
+    "meaning": "n.工作；任务；活动；作业 v.分派任 务"
+  },
+  {
+    "number": "11",
+    "word": "hour",
+    "phonetic": "/ˈaʊə(r)/",
+    "meaning": "n.小时"
+  },
+  {
+    "number": "12",
+    "word": "kilometre",
+    "phonetic": "/kɪˈlɒmɪtə(r)/",
+    "meaning": "n.（英）千米，公里"
+  },
+  {
+    "number": "13",
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "meaning": "n.沙拉；色拉；蔬菜沙拉；混合沙拉"
+  },
+  {
+    "number": "14",
+    "word": "am",
+    "phonetic": "/æm/",
+    "meaning": "v.是；动词be的第一人称单数现在式 abbr.上午；antemeridiem的缩写"
+  },
+  {
+    "number": "15",
+    "word": "pm",
+    "phonetic": "/ˌpiː ˈem/",
+    "meaning": "n.下午"
+  },
+  {
+    "number": "16",
+    "word": "evening",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "meaning": "n.晚上；傍晚"
+  },
+  {
+    "number": "17",
+    "word": "breakfast",
+    "phonetic": "/ˈbrekfəst/",
+    "meaning": "n.早餐；早饭"
+  },
+  {
+    "number": "18",
+    "word": "activity",
+    "phonetic": "/ækˈtɪvəti/",
+    "meaning": "n.活动；活跃"
+  },
+  {
+    "number": "19",
+    "word": "year",
+    "phonetic": "/jɪə(r)/",
+    "meaning": "n.年；年龄，岁数"
+  },
+  {
+    "number": "20",
+    "word": "all year round",
+    "phonetic": "/ɔːl jɪə(r) raʊnd/",
+    "meaning": "phrase.一年到头；全年"
+  },
+  {
+    "number": "21",
+    "word": "when",
+    "phonetic": "/wen/",
+    "meaning": "adv.什么时候，何时 conj.当...的时候"
+  },
+  {
+    "number": "22",
+    "word": "January",
+    "phonetic": "/ˈdʒænjuəri/",
+    "meaning": "n.(Jan.)一月"
+  },
+  {
+    "number": "23",
+    "word": "February",
+    "phonetic": "/ˈfebruəri/",
+    "meaning": "n.(Feb.)二月"
+  },
+  {
+    "number": "24",
+    "word": "March",
+    "phonetic": "/mɑːtʃ/",
+    "meaning": "n.三月"
+  },
+  {
+    "number": "25",
+    "word": "April",
+    "phonetic": "/ˈeɪprəl/",
+    "meaning": "n.(Apr.)四月"
+  },
+  {
+    "number": "26",
+    "word": "May",
+    "phonetic": "/meɪ/",
+    "meaning": "n.五月；梅（人名）"
+  },
+  {
+    "number": "27",
+    "word": "June",
+    "phonetic": "/dʒuːn/",
+    "meaning": "n.(Jun.)六月"
+  },
+  {
+    "number": "28",
+    "word": "July",
+    "phonetic": "/dʒuˈlaɪ/",
+    "meaning": "n.(Jul.)七月"
+  },
+  {
+    "number": "29",
+    "word": "August",
+    "phonetic": "/ˈɔːɡəst/",
+    "meaning": "n.(Aug.)八月"
+  },
+  {
+    "number": "30",
+    "word": "September",
+    "phonetic": "/sepˈtembə(r)/",
+    "meaning": "n.(Sept.)九月"
+  },
+  {
+    "number": "31",
+    "word": "October",
+    "phonetic": "/ɒkˈtəʊbə(r)/",
+    "meaning": "n.(Oct.)十月"
+  },
+  {
+    "number": "32",
+    "word": "November",
+    "phonetic": "/nəʊˈvembə(r)/",
+    "meaning": "n.(Nov.)十一月"
+  },
+  {
+    "number": "33",
+    "word": "remember",
+    "phonetic": "/rɪˈmembə(r)/",
+    "meaning": "v.纪念；记得，记住；记起，回想起"
+  },
+  {
+    "number": "34",
+    "word": "December",
+    "phonetic": "/dɪˈsembə(r)/",
+    "meaning": "n.(Dec.)十二月"
+  },
+  {
+    "number": "35",
+    "word": "swallow",
+    "phonetic": "/ˈswɒləʊ/",
+    "meaning": "v.吞咽；轻信 n.燕子；吞咽"
+  },
+  {
+    "number": "36",
+    "word": "lunchtime",
+    "phonetic": "/ˈlʌntʃtaɪm/",
+    "meaning": "n.午餐时间"
+  },
+  {
+    "number": "37",
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "meaning": "n.婴儿；幼兽；幼⻦ adj.幼小的"
+  },
+  {
+    "number": "38",
+    "word": "art",
+    "phonetic": "/ɑːt/",
+    "meaning": "n.美术；艺术；美术课"
+  },
+  {
+    "number": "39",
+    "word": "lesson",
+    "phonetic": "/ˈlesn/",
+    "meaning": "n.课；功课；课程；教训"
+  },
+  {
+    "number": "40",
+    "word": "photo",
+    "phonetic": "/ˈfəʊtəʊ/",
+    "meaning": "n.照片；相片"
+  },
+  {
+    "number": "41",
+    "word": "move",
+    "phonetic": "/muːv/",
+    "meaning": "v.移动；搬动；（使）改变位置；搬家 n.行动；移动"
+  },
+  {
+    "number": "42",
+    "word": "the south",
+    "phonetic": "/ðə saʊθ/",
+    "meaning": "南方，南部"
+  },
+  {
+    "number": "43",
+    "word": "bookshelf",
+    "phonetic": "/ˈbʊkʃelf/",
+    "meaning": "n.书架"
+  },
+  {
+    "number": "44",
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "meaning": "n.灯；台灯"
+  },
+  {
+    "number": "45",
+    "word": "sofa",
+    "phonetic": "/ˈsəʊfə/",
+    "meaning": "n.沙发；⻓沙发"
+  },
+  {
+    "number": "46",
+    "word": "table",
+    "phonetic": "/ˈteɪbl/",
+    "meaning": "n.桌子；台子；表格 v.把......列入议事 日程；搁置"
+  },
+  {
+    "number": "47",
+    "word": "bed",
+    "phonetic": "/bed/",
+    "meaning": "n.床；底；（花）坛"
+  },
+  {
+    "number": "48",
+    "word": "leave",
+    "phonetic": "/liːv/",
+    "meaning": "v.离开；使保留；把......留下；忘了带 ，丢下；离开；遗弃 n.假期，休假"
+  },
+  {
+    "number": "49",
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "meaning": "n.包；袋；购物袋；手提袋；提包；书 包；纸袋，塑料袋"
+  },
+  {
+    "number": "50",
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "meaning": "n.杯子；茶杯；一杯（的量）"
+  },
+  {
+    "number": "51",
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "meaning": "n.厨房"
+  },
+  {
+    "number": "52",
+    "word": "living room",
+    "phonetic": "/ˈlɪvɪŋ ruːm/",
+    "meaning": "phrase.客厅；起居室"
+  },
+  {
+    "number": "53",
+    "word": "bathroom",
+    "phonetic": "/ˈbɑːθruːm/",
+    "meaning": "n.浴室，盥洗室；洗手间，卫生间"
+  },
+  {
+    "number": "54",
+    "word": "bedroom",
+    "phonetic": "/ˈbedruːm/",
+    "meaning": "n.卧室，睡房"
+  },
+  {
+    "number": "55",
+    "word": "tidy",
+    "phonetic": "/ˈtaɪdi/",
+    "meaning": "v.收拾；使整洁；整理 adj.整洁的；整 ⻬的"
+  },
+  {
+    "number": "56",
+    "word": "car",
+    "phonetic": "/kɑː(r)/",
+    "meaning": "n.小汽⻋；轿⻋"
+  },
+  {
+    "number": "57",
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "meaning": "adj.不同的，不一样的，有区别的"
+  },
+  {
+    "number": "58",
+    "word": "together",
+    "phonetic": "/təˈɡeðə(r)/",
+    "meaning": "adv.一起，在一起，共同，一⻬，一块 儿"
+  },
+  {
+    "number": "59",
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbɪ/",
+    "meaning": "adv.有可能；也许；大概；可能（表示 不肯定），或许"
+  },
+  {
+    "number": "60",
+    "word": "anymore",
+    "phonetic": "/ˌeniˈmɔː(r)/",
+    "meaning": "adv.（常用于否定句和疑问句末）再也 （不）;（不）再 pron.两者，两者都 det./adj.两者的 ，两个；两个都 conj.不仅......而且"
+  },
+  {
+    "number": "61",
+    "word": "both",
+    "phonetic": "/bəʊθ/",
+    "meaning": "......"
+  },
+  {
+    "number": "62",
+    "word": "phone",
+    "phonetic": "/fəʊn/",
+    "meaning": "n.（telephone）电话"
+  },
+  {
+    "number": "63",
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "meaning": "n.天赋，才能，礼物，赠品 .白送"
+  },
+  {
+    "number": "64",
+    "word": "will",
+    "phonetic": "/wɪl/",
+    "meaning": "auxv.将要，会；愿意 v.愿意；遗赠 n.意志；意愿；遗嘱"
+  },
+  {
+    "number": "65",
+    "word": "indeed",
+    "phonetic": "/ɪnˈdiːd/",
+    "meaning": "adv.其实；实际上；当然；确实；真正 地"
+  },
+  {
+    "number": "66",
+    "word": "friendly",
+    "phonetic": "/ˈfrendli/",
+    "meaning": "adj.友好的，友善的"
+  },
+  {
+    "number": "67",
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "meaning": "n.旅行；旅程 v.绊倒；出差错；轻快 地走"
+  },
+  {
+    "number": "68",
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "meaning": "n.历史；历史学"
+  },
+  {
+    "number": "69",
+    "word": "plant",
+    "phonetic": "/plɑːnt/",
+    "meaning": "n.植物；作物；⻋间；装置；工厂；发 电厂 v.种植；栽培；安置；放置"
+  },
+  {
+    "number": "70",
+    "word": "museum",
+    "phonetic": "/mjuˈziːəm/",
+    "meaning": "n.博物馆，博物院"
+  },
+  {
+    "number": "71",
+    "word": "forest",
+    "phonetic": "/ˈfɒrɪst/",
+    "meaning": "n.森林；林区"
+  },
+  {
+    "number": "72",
+    "word": "last",
+    "phonetic": "/lɑːst/",
+    "meaning": "adj.最后的；最近的；上一个的；刚过 去的，最近过去的 adv.最后；最近 v.持续"
+  },
+  {
+    "number": "73",
+    "word": "shopping",
+    "phonetic": "/ˈʃɒpɪŋ/",
+    "meaning": "n.购物；所购买之物"
+  },
+  {
+    "number": "74",
+    "word": "soon",
+    "phonetic": "/suːn/",
+    "meaning": "adv.很快，不久，即刻，⻢上;快 n.笔记；记录；便条；注释；提醒；音 符；音调；语气 v.注意；指出；备注"
+  },
+  {
+    "number": "75",
+    "word": "note",
+    "phonetic": "/nəʊt/",
+    "meaning": "；记录"
+  },
+  {
+    "number": "76",
+    "word": "beech",
+    "phonetic": "/biːtʃ/",
+    "meaning": "山毛榉"
+  },
+  {
+    "number": "77",
+    "word": "metre",
+    "phonetic": "/ˈmiːtə(r)/",
+    "meaning": "又作metern.米；公尺"
+  },
+  {
+    "number": "78",
+    "word": "lark",
+    "phonetic": "/lɑːk/",
+    "meaning": "n.云雀；百灵⻦；玩乐；嬉戏"
+  },
+  {
+    "number": "79",
+    "word": "letter",
+    "phonetic": "/ˈletə(r)/",
+    "meaning": "n.信；书信，函；字母"
+  },
+  {
+    "number": "80",
+    "word": "newspaper",
+    "phonetic": "/ˈnjuːzpeɪpə(r)/",
+    "meaning": "n.报纸"
+  },
+  {
+    "number": "81",
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃə(r)/",
+    "meaning": "n.自然界；大自然；天性"
+  },
+  {
+    "number": "82",
+    "word": "reserve",
+    "phonetic": "/rɪˈzɜːv/",
+    "meaning": "n.（动植物）保护区；储藏（量）; vt.预订；预留；保留"
+  },
+  {
+    "number": "83",
+    "word": "nature reserve",
+    "phonetic": "/ˈneɪtʃə rɪzɜːv/",
+    "meaning": "n.自然保护区"
+  },
+  {
+    "number": "84",
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "meaning": "n.海滩；沙滩"
+  },
+  {
+    "number": "85",
+    "word": "off",
+    "phonetic": "/ɒf/",
+    "meaning": "prep.离开；不工作；从......去掉；脱 落 adv.离开；不工作；从......去掉 ；断开；休假；休息；减价 v.走开 adj.远离的；空闲的"
+  },
+  {
+    "number": "86",
+    "word": "running",
+    "phonetic": "/ˈrʌnɪŋ/",
+    "meaning": "adj.流动的；持续的；运作中的 n.跑 ；管理；运作 adv.连续 v.跑步；经营 ；run的现在分词"
+  },
+  {
+    "number": "87",
+    "word": "playground",
+    "phonetic": "/ˈpleɪɡraʊnd/",
+    "meaning": "n.操场；运动场；游乐场"
+  },
+  {
+    "number": "88",
+    "word": "library",
+    "phonetic": "/ˈlaɪbrəri/",
+    "meaning": "n.图书馆，图书室"
+  },
+  {
+    "number": "89",
+    "word": "hill",
+    "phonetic": "7/8",
+    "meaning": "n.丘陵；小山；小丘"
+  },
+  {
+    "number": "90",
+    "word": "watch",
+    "phonetic": "/wɒtʃ/",
+    "meaning": "n.表；手表；监视；注意 v.看；观看 ；观察；小心"
+  },
+  {
+    "number": "91",
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "meaning": "n.规则；条例；规章；统治 v.统治 ；支配；裁决"
+  },
+  {
+    "number": "92",
+    "word": "follow",
+    "phonetic": "/ˈfɒləʊ/",
+    "meaning": "v.遵循；跟着；听从;跟随；遵守规则 ；仿效；跟得上"
+  },
+  {
+    "number": "93",
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "meaning": "n.时间；时刻，时候；倍；次数；时期 v.计时；安排时间 adj.时间的；定时的 ；分期的"
+  },
+  {
+    "number": "94",
+    "word": "super",
+    "phonetic": "/ˈsuːpə(r)/",
+    "meaning": "adv.特别；格外 adj.顶好的；超级的"
+  },
+  {
+    "number": "95",
+    "word": "dance",
+    "phonetic": "/dɑːns/",
+    "meaning": "n.舞蹈 v.跳舞"
+  },
+  {
+    "number": "96",
+    "word": "piano",
+    "phonetic": "/piˈænəʊ/",
+    "meaning": "n.钢琴"
+  },
+  {
+    "number": "97",
+    "word": "play the piano",
+    "phonetic": "/pleɪ ðə piˈænəʊ/",
+    "meaning": "phrase.弹钢琴"
+  },
+  {
+    "number": "98",
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "meaning": "（过去式sat）v.坐；坐下"
+  },
+  {
+    "number": "99",
+    "word": "singer",
+    "phonetic": "/ˈsɪŋə(r)/",
+    "meaning": "n.歌手，歌唱家"
+  },
+  {
+    "number": "100",
+    "word": "snow",
+    "phonetic": "/snəʊ/",
+    "meaning": "v.下雪；降雪 n.雪花；雪"
+  },
+  {
+    "number": "101",
+    "word": "snowman",
+    "phonetic": "/ˈsnəʊmæn/",
+    "meaning": "n.（用雪堆成的）雪人"
+  },
+  {
+    "number": "102",
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "meaning": "n.迷；狂热爱好者；粉丝；扇子；电⻛ 扇 v.煽动；吹拂"
+  },
+  {
+    "number": "103",
+    "word": "loudly",
+    "phonetic": "/ˈlaʊdli/",
+    "meaning": "adv.喧闹地；大声地；响亮地；吵闹地 ；嘈杂地 auxv.必须；一定要；应该 n.必须做的"
+  },
+  {
+    "number": "104",
+    "word": "must",
+    "phonetic": "8/8",
+    "meaning": "事；必不可少的事物"
+  },
+  {
+    "number": "105",
+    "word": "dinosaur",
+    "phonetic": "/ˈdaɪnəsɔː(r)/",
+    "meaning": "n.恐⻰"
+  },
+  {
+    "number": "106",
+    "word": "bone",
+    "phonetic": "/bəʊn/",
+    "meaning": "n.⻣头；⻣(质)"
+  },
+  {
+    "number": "107",
+    "word": "suddenly",
+    "phonetic": "/ˈsʌdənlɪ/",
+    "meaning": "adv.突然；突如其来地；忽然；猛然 ；骤然"
+  },
+  {
+    "number": "108",
+    "word": "storm",
+    "phonetic": "/stɔːm/",
+    "meaning": "n.暴⻛雨；暴⻛雪；雷暴雨"
+  },
+  {
+    "number": "109",
+    "word": "cave",
+    "phonetic": "/keɪv/",
+    "meaning": "n.山洞；洞穴"
+  },
+  {
+    "number": "110",
+    "word": "careful",
+    "phonetic": "/ˈkeəfl/",
+    "meaning": "adj.小心的；注意；细致的，精心的 ，慎重的"
+  },
+  {
+    "number": "111",
+    "word": "free",
+    "phonetic": "/friː/",
+    "meaning": "adj.自由的；免费的；空闲的 adv.自 由地；免费地 v.释放"
+  },
+  {
+    "number": "112",
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "meaning": "n.票；入场券；交通法规罚款单"
+  },
+  {
+    "number": "113",
+    "word": "player",
+    "phonetic": "/ˈpleɪə/",
+    "meaning": "n.玩家；运动员；演奏者；游戏者；参 赛选手；唱机"
+  },
+  {
+    "number": "114",
+    "word": "happily",
+    "phonetic": "/ˈhæpɪlɪ/",
+    "meaning": "adv.愉快地；高兴地；快乐地；幸福地 ；幸运地"
+  },
+  {
+    "number": "115",
+    "word": "servant",
+    "phonetic": "/ˈsɜːvənt/",
+    "meaning": "n.雇员,职员;仆人"
+  },
+  {
+    "number": "116",
+    "word": "actor",
+    "phonetic": "/ˈæktə(r)/",
+    "meaning": "n.演员；男演员"
+  }
+]
