@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>错词本 - 单词学习工具</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 错词本页面 -->
+    <div class="error-book-page active" id="errorBookPage">
+        <div class="list-header">
+            <div class="list-header-bar">
+                <button class="back-btn" onclick="backToHome()">‹</button>
+                <div class="list-title">错词本</div>
+                <div style="width: 36px;"></div>
+            </div>
+        </div>
+        
+        <!-- 遮罩模式 -->
+        <div class="mask-modes">
+            <button class="mask-mode active" data-mode="none">无遮盖</button>
+            <button class="mask-mode" data-mode="word">遮单词</button>
+            <button class="mask-mode" data-mode="meaning">遮中文</button>
+        </div>
+        
+        <!-- 单词列表 -->
+        <div class="word-list" id="errorWordList">
+            <!-- 错词将动态生成 -->
+        </div>
+        
+        <!-- 底部按钮 -->
+        <div class="list-footer">
+            <button class="study-action-btn" onclick="startErrorWordLearning()">开始详细学习</button>
+        </div>
+    </div>
+    
+    <!-- 课本选择弹窗 -->
+    <div class="modal" id="bookModal">
+        <div class="modal-content">
+            <div class="modal-title">选择教材</div>
+            <div id="bookOptions">
+                <div class="book-option" data-file="3上.pdf" data-name="三年级上册">
+                    <div class="book-option-title">三年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="3下.pdf" data-name="三年级下册">
+                    <div class="book-option-title">三年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="4上.pdf" data-name="四年级上册">
+                    <div class="book-option-title">四年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="4下.pdf" data-name="四年级下册">
+                    <div class="book-option-title">四年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="5上.pdf" data-name="五年级上册">
+                    <div class="book-option-title">五年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="5下.pdf" data-name="五年级下册">
+                    <div class="book-option-title">五年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="6上.pdf" data-name="六年级上册">
+                    <div class="book-option-title">六年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="6下.pdf" data-name="六年级下册">
+                    <div class="book-option-title">六年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="7上.pdf" data-name="七年级上册">
+                    <div class="book-option-title">七年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="7下.pdf" data-name="七年级下册">
+                    <div class="book-option-title">七年级下册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="8上.pdf" data-name="八年级上册">
+                    <div class="book-option-title">八年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="8下.pdf" data-name="八年级下册">
+                    <div class="book-option-title">八年级下册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="9上.pdf" data-name="九年级上册">
+                    <div class="book-option-title">九年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+            </div>
+            <button class="modal-close" onclick="closeBookModal()">取消</button>
+        </div>
+    </div>
+    
+    <!-- 用户选择弹窗 -->
+    <div class="modal" id="userModal">
+        <div class="modal-content">
+            <div class="modal-title">切换用户</div>
+            <div class="user-selector">
+                <div class="user-option selected" data-user="youyou">悠悠</div>
+                <div class="user-option" data-user="diandian">点点</div>
+                <div class="user-option" data-user="qiuqiu">秋秋</div>
+            </div>
+            <button class="modal-close" onclick="closeUserModal()">确定</button>
+        </div>
+    </div>
+    
+    <!-- Loading 元素 -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">加载中，请稍候...</div>
+    </div>
+    
+    <!-- 引入PDF.js库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>
+        // 备用 CDN 加载
+        if (typeof pdfjsLib === 'undefined') {
+            document.write('<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.min.js"><\/script>');
+        }
+    </script>
+    
+    <script src="dataManager.js"></script>
+    <script src="audioManager.js"></script>
+    <script src="main.js"></script>
+    <script>
+        // 初始化错词本页面
+        document.addEventListener('DOMContentLoaded', async function() {
+            // 检查并加载用户信息
+            checkUserInfo();
+            
+            // 加载用户最近学习的课本或默认课本
+            loadUserBook();
+            
+            // 加载用户数据
+            await loadUserStats();
+            
+            // 渲染错词列表
+            renderErrorWordList();
+            
+            // 初始化事件监听
+            initEventListeners();
+        });
+    </script>
+</body>
+</html>

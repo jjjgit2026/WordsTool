@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>单词学习工具</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 首页 -->
+    <div class="home-page active" id="homePage">
+        <!-- 顶部栏 -->
+        <div class="top-bar">
+            <div class="left-placeholder"></div>
+            <div class="user-info">
+                <div class="user-name" id="userName">快来学单词吧！加油哦！</div>
+            </div>
+            <button class="switch-btn" onclick="showUserModal()">
+                <span id="currentUserDisplay">悠悠</span>
+                <span>👤</span>
+            </button>
+        </div>
+        
+        <!-- 教材卡片 -->
+        <div class="book-card">
+            <div class="book-title" id="bookTitle">外研版Join In-三年级下册</div>
+            
+            <div class="book-cover-section">
+                <div class="book-cover">
+                    <div class="subject">英语</div>
+                    <div class="grade" id="bookGrade">三年级 下册</div>
+                </div>
+                <button class="change-book-btn" onclick="withUserCheck(showBookModal)()">
+                    切换教材
+                    <span>›</span>
+                </button>
+            </div>
+            
+            <div class="stats-row">
+                <div class="stat-item">
+                    <div class="stat-value" id="totalWords">217</div>
+                    <div class="stat-label">单词总数</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="learnedWords">0</div>
+                    <div class="stat-label">已学习</div>
+                </div>
+            </div>
+            
+            <button class="start-btn" onclick="withUserCheck(startLearning)()">开始学习!</button>
+        </div>
+        
+        <!-- 功能卡片和统计信息 -->
+        <div class="feature-cards">
+            <div class="feature-card error-book" onclick="withUserCheck(openErrorBookPage)()">
+                <div class="feature-title">错词本</div>
+                <div class="feature-subtitle">Error Notebook</div>
+                <div class="feature-icon">📓</div>
+            </div>
+            <div class="feature-card vocab-book" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);" onclick="withUserCheck(openStatsPage)()">
+                <div class="feature-title">学习统计</div>
+                <div class="feature-subtitle">Study Statistics</div>
+                <div class="feature-icon">📊</div>
+            </div>
+        </div>
+        
+        <!-- 消消乐悬浮入口 -->
+        <div class="game-floating-entry" onclick="withUserCheck(openGamePage)()">消消乐</div>
+    </div>
+    
+    <!-- 课本选择弹窗 -->
+    <div class="modal" id="bookModal">
+        <div class="modal-content">
+            <div class="modal-title">选择教材</div>
+            <div id="bookOptions">
+                <div class="book-option" data-file="3上.pdf" data-name="三年级上册">
+                    <div class="book-option-title">三年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="3下.pdf" data-name="三年级下册">
+                    <div class="book-option-title">三年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="4上.pdf" data-name="四年级上册">
+                    <div class="book-option-title">四年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="4下.pdf" data-name="四年级下册">
+                    <div class="book-option-title">四年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="5上.pdf" data-name="五年级上册">
+                    <div class="book-option-title">五年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="5下.pdf" data-name="五年级下册">
+                    <div class="book-option-title">五年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="6上.pdf" data-name="六年级上册">
+                    <div class="book-option-title">六年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="6下.pdf" data-name="六年级下册">
+                    <div class="book-option-title">六年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="7上.pdf" data-name="七年级上册">
+                    <div class="book-option-title">七年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="7下.pdf" data-name="七年级下册">
+                    <div class="book-option-title">七年级下册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="8上.pdf" data-name="八年级上册">
+                    <div class="book-option-title">八年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="8下.pdf" data-name="八年级下册">
+                    <div class="book-option-title">八年级下册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="9上.pdf" data-name="九年级上册">
+                    <div class="book-option-title">九年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+            </div>
+            <button class="modal-close" onclick="closeBookModal()">取消</button>
+        </div>
+    </div>
+    
+    <!-- 用户选择弹窗 -->
+    <div class="modal" id="userModal">
+        <div class="modal-content">
+            <div class="modal-title">切换用户</div>
+            <div class="user-selector">
+                <div class="user-option selected" data-user="youyou">悠悠</div>
+                <div class="user-option" data-user="diandian">点点</div>
+                <div class="user-option" data-user="qiuqiu">秋秋</div>
+            </div>
+            <button class="modal-close" onclick="closeUserModal()">确定</button>
+        </div>
+    </div>
+    
+    <!-- Loading 元素 -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">加载中，请稍候...</div>
+    </div>
+    
+    <!-- 引入PDF.js库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>
+        // 备用 CDN 加载
+        if (typeof pdfjsLib === 'undefined') {
+            document.write('<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.min.js"><\/script>');
+        }
+    </script>
+    
+    <script src="dataManager.js"></script>
+    <script src="audioManager.js"></script>
+    <script src="main.js"></script>
+    <script>
+        // 初始化首页
+        document.addEventListener('DOMContentLoaded', async function() {
+            console.log('[首页初始化] 开始');
+            // 检查并加载用户信息
+            console.log('[首页初始化] 检查并加载用户信息');
+            checkUserInfo();
+            
+            // 加载用户最近学习的课本或默认课本
+            console.log('[首页初始化] 加载用户最近学习的课本或默认课本');
+            loadUserBook();
+            
+            // 加载用户数据
+            console.log('[首页初始化] 加载用户数据');
+            await loadUserStats();
+            
+            // 加载单词数据
+            console.log('[首页初始化] 加载单词数据');
+            await loadPDF();
+            
+            // 初始化事件监听
+            console.log('[首页初始化] 初始化事件监听');
+            initEventListeners();
+            console.log('[首页初始化] 结束');
+        });
+    </script>
+</body>
+</html>

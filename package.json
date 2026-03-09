@@ -1,0 +1,12 @@
+{
+  "name": "word-learning-tool",
+  "version": "1.0.0",
+  "description": "Word learning tool PDF preprocessor",
+  "main": "preprocess.js",
+  "scripts": {
+    "preprocess": "node preprocess.js"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}

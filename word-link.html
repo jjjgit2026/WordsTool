@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>单词学习 - 单词学习工具</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 单词链路页面 -->
+    <div class="word-link-page active" id="wordLinkPage">
+        <div class="link-header">
+            <button class="back-btn" onclick="backToWordList()">‹</button>
+            <div class="link-title" id="linkTitle">外研版Join In-三年级下册</div>
+            <div style="width: 36px;"></div>
+        </div>
+        
+        <!-- 单词链条 -->
+        <div class="word-chain" id="wordChain">
+            <!-- 单词链条将动态生成 -->
+        </div>
+        
+        <!-- 学习步骤 -->
+        <div class="learning-steps">
+            <div class="step-item active" data-step="learn" id="stepLearn">
+                <div class="step-icon">学</div>
+            </div>
+            <div class="step-item" data-step="read" id="stepRead">
+                <div class="step-icon">读</div>
+            </div>
+            <div class="step-item" data-step="practice" id="stepPractice">
+                <div class="step-icon">练</div>
+            </div>
+            <div class="step-item" data-step="spell" id="stepSpell">
+                <div class="step-icon">拼</div>
+            </div>
+            <div class="step-item" data-step="write" id="stepWrite">
+                <div class="step-icon">写</div>
+            </div>
+        </div>
+        
+        <!-- 学习内容区域 -->
+        <div class="learning-content">
+            <!-- 学 - 页面 -->
+            <div class="step-content active" id="contentLearn">
+                <div class="learn-section">
+                    <!-- 1. 彩色标注的单词 -->
+                    <div class="word-display">
+                        <div class="word-text-big" id="learnWord">
+                            <div class="word-letters" id="wordLetters">word</div>
+                        </div>
+                    </div>
+                    
+                    <!-- 2. 带颜色的音标 -->
+                    <div class="phonetic-container">
+                        <div class="phonetic-text" id="learnPhonetic">
+                            <span class="phonetic-wrapper" id="phoneticWrapper">[wɜːd]</span>
+                            <button class="audio-btn small" onclick="AudioManager.playPhoneticAudio()">🔊</button>
+                        </div>
+                    </div>
+                    
+                    <!-- 3. 单词释义 -->
+                    <div class="meaning-display" id="learnMeaning">单词</div>
+                    
+                    <!-- 4. 字母与音标的对应关系 -->
+                    <div class="letter-phonetic-map" id="letterPhoneticMap">
+                        <!-- 动态生成 -->
+                    </div>
+                
+                    <!-- 操作按钮 -->
+                    <div class="action-buttons">
+                        <button class="next-btn" onclick="nextStep()">下一步</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 读 - 页面 -->
+            <div class="step-content" id="contentRead">
+                <div class="read-section">
+                    <!-- 第一行：单词 -->
+                    <div class="word-display">
+                        <div class="word-text-big" id="readWord">word</div>
+                    </div>
+                    
+                    <!-- 第二行：音标和发音按钮 -->
+                    <div class="read-phonetic">
+                        <div class="phonetic-text" id="readPhonetic">/wɜːd/</div>
+                        <button class="audio-btn" onclick="AudioManager.playCurrentWordAudio()">🔊</button>
+                    </div>
+                    
+                    <!-- 第三行：录音按钮和打分结果 -->
+                    <div class="read-recording">
+                        <button class="record-btn" id="recordBtn" onclick="toggleRecording()">🎤 开始录音</button>
+                        <button class="record-btn" id="playbackBtn" onclick="playbackRecording()" disabled>🔊 回放录音</button>
+                        <div class="score-display" id="scoreDisplay">
+                            <span class="score-label">得分：</span>
+                            <span class="score-value" id="scoreValue">-</span>
+                        </div>
+                    </div>
+                    
+                    <div class="read-instructions">
+                        <p>请跟着音频朗读单词</p>
+                        <p class="recording-status" id="recordingStatus"></p>
+                    </div>
+                    
+                    <div class="action-buttons">
+                        <button class="next-btn" onclick="nextStep()">下一步</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 练 - 页面 -->
+            <div class="step-content" id="contentPractice">
+                <div class="practice-section">
+                    <div class="practice-question" id="practiceQuestion">
+                        <!-- 练习问题将动态生成 -->
+                    </div>
+                    <div class="practice-options" id="practiceOptions">
+                        <!-- 练习选项将动态生成 -->
+                    </div>
+                    <div class="action-buttons">
+                        <button class="next-btn" onclick="nextStep()">下一步</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 拼 - 页面 -->
+            <div class="step-content" id="contentSpell">
+                <div class="spell-section">
+                    <div class="spell-instructions">
+                        <p>请拼写以下单词</p>
+                    </div>
+                    
+                    <!-- 第一行：输入框 -->
+                    <div class="spell-inputs" id="spellInputs">
+                        <!-- 动态生成输入框 -->
+                    </div>
+                    
+                    <!-- 第二行：音标和发音按钮 -->
+                    <div class="spell-phonetic">
+                        <div class="phonetic-text" id="spellPhonetic">/wɜːd/</div>
+                        <button class="audio-btn" onclick="AudioManager.playCurrentWordAudio()">🔊</button>
+                    </div>
+                    
+                    <!-- 第三行：打乱的字母 -->
+                    <div class="spell-letters" id="spellLetters">
+                        <!-- 动态生成字母 -->
+                    </div>
+                    
+                    <div class="spell-result" id="spellResult"></div>
+                    <div class="action-buttons">
+                        <button class="check-btn" onclick="checkSpelling()">检查</button>
+                        <button class="next-btn" onclick="nextStep()">下一步</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- 写 - 页面 -->
+            <div class="step-content" id="contentWrite">
+                <div class="write-section">
+                    <!-- 第一行：输入区域 -->
+                    <div class="write-input-area">
+                        <input type="text" class="write-input-text" id="writeInput" placeholder="">
+                        <button class="write-clear-btn" id="writeClearBtn" onclick="clearWriteInput()">×</button>
+                    </div>
+                    
+                    <!-- 第二行：音标和发音按钮 -->
+                    <div class="write-phonetic">
+                        <div class="phonetic-text" id="writePhonetic">/wɜːd/</div>
+                        <button class="audio-btn" onclick="AudioManager.playCurrentWordAudio()">🔊</button>
+                    </div>
+                    
+                    <!-- 第三行：单词释义 -->
+                    <div class="write-meaning" id="writeMeaning">单词释义</div>
+                    
+                    <!-- 检查结果 -->
+                    <div class="write-result" id="writeResult"></div>
+                    
+                    <!-- 操作按钮 -->
+                    <div class="action-buttons">
+                        <button class="check-btn" onclick="checkWriting()">检查</button>
+                        <button class="next-btn" onclick="nextStep()">下一步</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 单词导航按钮 -->
+        <div class="word-navigation">
+            <button class="nav-btn prev-btn" id="prevWordBtn" onclick="goToPrevWord()">上一词</button>
+            <button class="nav-btn next-btn" id="nextWordBtn" onclick="goToNextWord()">下一词</button>
+        </div>
+    </div>
+    
+    <!-- 课本选择弹窗 -->
+    <div class="modal" id="bookModal">
+        <div class="modal-content">
+            <div class="modal-title">选择教材</div>
+            <div id="bookOptions">
+                <div class="book-option" data-file="3上.pdf" data-name="三年级上册">
+                    <div class="book-option-title">三年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="3下.pdf" data-name="三年级下册">
+                    <div class="book-option-title">三年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="4上.pdf" data-name="四年级上册">
+                    <div class="book-option-title">四年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="4下.pdf" data-name="四年级下册">
+                    <div class="book-option-title">四年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="5上.pdf" data-name="五年级上册">
+                    <div class="book-option-title">五年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="5下.pdf" data-name="五年级下册">
+                    <div class="book-option-title">五年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="6上.pdf" data-name="六年级上册">
+                    <div class="book-option-title">六年级上册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="6下.pdf" data-name="六年级下册">
+                    <div class="book-option-title">六年级下册</div>
+                    <div class="book-option-subtitle">外研版Join In</div>
+                </div>
+                <div class="book-option" data-file="7上.pdf" data-name="七年级上册">
+                    <div class="book-option-title">七年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="7下.pdf" data-name="七年级下册">
+                    <div class="book-option-title">七年级下册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="8上.pdf" data-name="八年级上册">
+                    <div class="book-option-title">八年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="8下.pdf" data-name="八年级下册">
+                    <div class="book-option-title">八年级下册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+                <div class="book-option" data-file="9上.pdf" data-name="九年级上册">
+                    <div class="book-option-title">九年级上册</div>
+                    <div class="book-option-subtitle">人教版</div>
+                </div>
+            </div>
+            <button class="modal-close" onclick="closeBookModal()">取消</button>
+        </div>
+    </div>
+    
+    <!-- 用户选择弹窗 -->
+    <div class="modal" id="userModal">
+        <div class="modal-content">
+            <div class="modal-title">切换用户</div>
+            <div class="user-selector">
+                <div class="user-option selected" data-user="youyou">悠悠</div>
+                <div class="user-option" data-user="diandian">点点</div>
+                <div class="user-option" data-user="qiuqiu">秋秋</div>
+            </div>
+            <button class="modal-close" onclick="closeUserModal()">确定</button>
+        </div>
+    </div>
+    
+    <!-- Loading 元素 -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">加载中，请稍候...</div>
+    </div>
+    
+    <!-- 引入PDF.js库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>
+        // 备用 CDN 加载
+        if (typeof pdfjsLib === 'undefined') {
+            document.write('<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.min.js"><\/script>');
+        }
+    </script>
+    
+    <script src="dataManager.js"></script>
+    <script src="audioManager.js"></script>
+    <script src="main.js"></script>
+    <script>
+        // 初始化单词链路页面
+        document.addEventListener('DOMContentLoaded', async function() {
+            // 检查并加载用户信息
+            checkUserInfo();
+            
+            // 加载用户最近学习的课本或默认课本
+            loadUserBook();
+            
+            // 加载用户数据
+            await loadUserStats();
+            
+            // 加载单词数据
+            await loadPDF();
+            
+            // 处理URL参数
+            const urlParams = new URLSearchParams(window.location.search);
+            const index = parseInt(urlParams.get('index')) || 0;
+            const errorBook = urlParams.get('errorBook') === 'true';
+            
+            // 设置当前单词索引和错误本模式
+            currentWordIndex = index;
+            isErrorBookMode = errorBook;
+            
+            if (isErrorBookMode) {
+                // 加载错词数据
+                errorWords = DataManager.getErrorWords(currentUser);
+                // 生成错词链条
+                generateErrorWordChain();
+                // 更新错词学习内容
+                updateErrorWordLearningContent();
+                // 更新错词导航按钮
+                updateErrorWordNavigationButtons();
+            } else {
+                // 生成单词链条
+                generateWordChain();
+                // 更新学习内容
+                updateLearningContent();
+                // 更新导航按钮
+                updateNavigationButtons();
+            }
+            
+            // 重置学习步骤
+            resetLearningSteps();
+            
+            // 初始化事件监听
+            initEventListeners();
+        });
+    </script>
+</body>
+</html>
