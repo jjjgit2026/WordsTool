@@ -229,8 +229,8 @@ class AudioManager {
 
     static playPhoneticAudio() {
         const currentWord = isErrorBookMode ? errorWords[currentWordIndex] : words[currentWordIndex];
-        if (currentWord && currentWord.phonetic) {
-            this.playWordAudio(currentWord.phonetic);
+        if (currentWord) {
+            this.playWordAudio(currentWord.word);
         }
     }
 
