@@ -3,1128 +3,1504 @@
     "number": "1",
     "word": "star",
     "phonetic": "/stɑː(r)/",
-    "meaning": "n.明星；星；星状物"
+    "meaning": "n.明星；星；星状物",
+    "example": "The bright star shines in the night sky.",
+    "translation": "明亮的星星在夜空中闪耀。"
   },
   {
     "number": "2",
     "word": "ping-pong",
     "phonetic": "/ˈpɪŋ pɒŋ/",
-    "meaning": "n.乒乓球运动；乒乓球"
+    "meaning": "n.乒乓球运动；乒乓球",
+    "example": "We play ping-pong after school every day.",
+    "translation": "我们每天放学后打乒乓球。"
   },
   {
     "number": "3",
     "word": "band",
     "phonetic": "/bænd/",
-    "meaning": "n.乐队；乐团；带子；一伙"
+    "meaning": "n.乐队；乐团；带子；一伙",
+    "example": "The school band practices every Wednesday.",
+    "translation": "学校乐队每周三练习。"
   },
   {
     "number": "4",
     "word": "very",
     "phonetic": "/ˈveri/",
-    "meaning": "adv.非常；很；十分 adj.恰好是，正是"
+    "meaning": "adv.非常；很；十分 adj.恰好是，正是",
+    "example": "My little sister is very happy today.",
+    "translation": "我的小妹妹今天非常开心。"
   },
   {
     "number": "5",
     "word": "fast",
     "phonetic": "/fɑːst/",
-    "meaning": "adj.快的，迅速的 adv.快，快速，迅速"
+    "meaning": "adj.快的，迅速的 adv.快，快速，迅速",
+    "example": "The rabbit runs fast in the forest.",
+    "translation": "兔子在森林里跑得很快。"
   },
   {
     "number": "6",
     "word": "sure",
     "phonetic": "/ʃʊə(r)/",
-    "meaning": "adv.当然；当然可以；确定 adj.确信 ；必定的"
+    "meaning": "adv.当然；当然可以；确定 adj.确信 ；必定的",
+    "example": "I am sure I can finish my homework.",
+    "translation": "我确信我能完成作业。"
   },
   {
     "number": "7",
     "word": "hurt",
     "phonetic": "/hɜːt/",
-    "meaning": "v.受伤；（使）疼痛 n.伤痛 adj.受伤的"
+    "meaning": "v.受伤；（使）疼痛 n.伤痛 adj.受伤的",
+    "example": "My knee hurts when I play football.",
+    "translation": "我踢足球时膝盖疼。"
   },
   {
     "number": "8",
     "word": "think",
     "phonetic": "/θɪŋk/",
-    "meaning": "v.认为；想；思考 n.思考"
+    "meaning": "v.认为；想；思考 n.思考",
+    "example": "I think Math is an interesting subject.",
+    "translation": "我认为数学是一门有趣的学科。"
   },
   {
     "number": "9",
     "word": "really",
     "phonetic": "/ˈriːəli/",
-    "meaning": "adv.真正地；的确；很；十分；非常 ；确实；答话时表示感兴趣或惊讶"
+    "meaning": "adv.真正地；的确；很；十分；非常 ；确实；答话时表示感兴趣或惊讶",
+    "example": "The cake tastes really delicious.",
+    "translation": "蛋糕尝起来真的很美味。"
   },
   {
     "number": "10",
     "word": "wind",
     "phonetic": "/wɪnd/",
-    "meaning": "n.⻛；气流 v.蜿蜒,迂回,上发条;缠绕"
+    "meaning": "n.⻛；气流 v.蜿蜒,迂回,上发条;缠绕",
+    "example": "The wind blows gently through the trees.",
+    "translation": "风轻轻地吹过树林。"
   },
   {
     "number": "11",
     "word": "ride",
     "phonetic": "/raɪd/",
-    "meaning": "v.骑；骑⻢，骑⻋；驾驶；搭乘；乘坐 （游乐设施）；航行，漂浮 n.骑；供乘 骑的游乐设施;短途旅程"
+    "meaning": "v.骑；骑⻢，骑⻋；驾驶；搭乘；乘坐 （游乐设施）；航行，漂浮 n.骑；供乘 骑的游乐设施;短途旅程",
+    "example": "I ride my bike to school every morning.",
+    "translation": "我每天早上骑自行车上学。"
   },
   {
     "number": "12",
     "word": "report",
     "phonetic": "/rɪˈpɔːt/",
-    "meaning": "n.报告；报道，新闻报道；公布 v.报告 ；报道；公布"
+    "meaning": "n.报告；报道，新闻报道；公布 v.报告 ；报道；公布",
+    "example": "The student writes a report about animals.",
+    "translation": "学生写了一份关于动物的报告。"
   },
   {
     "number": "13",
     "word": "wheelchair",
     "phonetic": "/ˈwiːltʃeə(r)/",
-    "meaning": "n.轮椅"
+    "meaning": "n.轮椅",
+    "example": "The boy in the wheelchair loves to read.",
+    "translation": "坐轮椅的男孩喜欢读书。"
   },
   {
     "number": "14",
     "word": "far",
     "phonetic": "/fɑː(r)/",
-    "meaning": "adj.远的；较远的；遥远的；远端的 adv.远；（离......）有多远"
+    "meaning": "adj.远的；较远的；遥远的；远端的 adv.远；（离......）有多远",
+    "example": "My home is not far from the school.",
+    "translation": "我家离学校不远。"
   },
   {
     "number": "15",
     "word": "from",
     "phonetic": "/frɒm/",
-    "meaning": "prep.自，从，由；(表示开始的时间)从 ......开始；（表示来源）来自，从来"
+    "meaning": "prep.自，从，由；(表示开始的时间)从 ......开始；（表示来源）来自，从来",
+    "example": "I come from a small town in China.",
+    "translation": "我来自中国的一个小镇。"
   },
   {
     "number": "16",
     "word": "town",
     "phonetic": "/taʊn/",
-    "meaning": "n.镇；商业区；城镇；市镇"
+    "meaning": "n.镇；商业区；城镇；市镇",
+    "example": "There are many shops in our town.",
+    "translation": "我们镇上有很多商店。"
   },
   {
     "number": "17",
     "word": "train",
     "phonetic": "/treɪn/",
-    "meaning": "n.火⻋；列⻋；列；队 v.训练；培训 ；接受训练"
+    "meaning": "n.火⻋；列⻋；列；队 v.训练；培训 ；接受训练",
+    "example": "The train arrives at the station on time.",
+    "translation": "火车准时到达车站。"
   },
   {
     "number": "18",
     "word": "station",
     "phonetic": "/ˈsteɪʃn/",
-    "meaning": "n.站；所；局；⻋站，火⻋站；公共汽 ⻋站，⻓途汽⻋站"
+    "meaning": "n.站；所；局；⻋站，火⻋站；公共汽 ⻋站，⻓途汽⻋站",
+    "example": "We wait for the bus at the bus station.",
+    "translation": "我们在汽车站等公交车。"
   },
   {
     "number": "19",
     "word": "train station",
     "phonetic": "/treɪn ˈsteɪʃn/",
-    "meaning": "phrase.火⻋站"
+    "meaning": "phrase.火⻋站",
+    "example": "My dad works at the train station.",
+    "translation": "我爸爸在火车站工作。"
   },
   {
     "number": "20",
     "word": "supermarket",
     "phonetic": "/ˈsuːpəmɑːkɪt/",
-    "meaning": "n.超市；超级市场"
+    "meaning": "n.超市；超级市场",
+    "example": "My mom buys vegetables at the supermarket.",
+    "translation": "我妈妈在超市买蔬菜。"
   },
   {
     "number": "21",
     "word": "cinema",
     "phonetic": "/ˈsɪnəmə/",
-    "meaning": "n.电影院；电影"
+    "meaning": "n.电影院；电影",
+    "example": "We watch a movie at the cinema on weekends.",
+    "translation": "我们周末在电影院看电影。"
   },
   {
     "number": "22",
     "word": "bus",
     "phonetic": "/bʌs/",
-    "meaning": "n.公交⻋；公共汽⻋；巴士"
+    "meaning": "n.公交⻋；公共汽⻋；巴士",
+    "example": "The bus takes us to school every day.",
+    "translation": "公交车每天带我们上学。"
   },
   {
     "number": "23",
     "word": "stop",
     "phonetic": "/stɒp/",
-    "meaning": "v.停止，终止；停下；阻止 n.⻋站，停 ⻋站；停止；阻止；停留"
+    "meaning": "v.停止，终止；停下；阻止 n.⻋站，停 ⻋站；停止；阻止；停留",
+    "example": "The bus stop is near my home.",
+    "translation": "公交车站在我家附近。"
   },
   {
     "number": "24",
     "word": "bus stop",
     "phonetic": "/ˈbʌs stɒp/",
-    "meaning": "phrase.公共汽⻋站"
+    "meaning": "phrase.公共汽⻋站",
+    "example": "I wait for my friend at the bus stop.",
+    "translation": "我在公交车站等朋友。"
   },
   {
     "number": "25",
     "word": "hospital",
     "phonetic": "/ˈhɒspɪtl/",
-    "meaning": "n.医院"
+    "meaning": "n.医院",
+    "example": "My grandma works in the hospital.",
+    "translation": "我奶奶在医院工作。"
   },
   {
     "number": "26",
     "word": "police",
     "phonetic": "/pəˈliːs/",
-    "meaning": "n.警方；警察部⻔ v.维持治安；管理 ；监督"
+    "meaning": "n.警方；警察部⻔ v.维持治安；管理 ；监督",
+    "example": "The police help people in need.",
+    "translation": "警察帮助有需要的人。"
   },
   {
     "number": "27",
     "word": "police station",
     "phonetic": "/pəˈliːs steɪʃn/",
-    "meaning": "n.警察（分)局，派出所"
+    "meaning": "n.警察（分)局，派出所",
+    "example": "The police station is next to the school.",
+    "translation": "警察局在学校旁边。"
   },
   {
     "number": "28",
     "word": "shop",
     "phonetic": "/ʃɒp/",
-    "meaning": "n.商店 v.去买东西；购物"
+    "meaning": "n.商店 v.去买东西；购物",
+    "example": "We buy snacks at the corner shop.",
+    "translation": "我们在街角商店买零食。"
   },
   {
     "number": "29",
     "word": "first",
     "phonetic": "/fɜːst/",
-    "meaning": "n.第一 adj.第一的 adv.最初；第一 ；首先"
+    "meaning": "n.第一 adj.第一的 adv.最初；第一 ；首先",
+    "example": "First, I finish my homework, then I play.",
+    "translation": "首先，我完成作业，然后玩。"
   },
   {
     "number": "30",
     "word": "left",
     "phonetic": "/left/",
-    "meaning": "adj.左边的 v.离开；leave的过去式和 过去分词 n.左；左边 adv.向左；在左 边"
+    "meaning": "adj.左边的 v.离开；leave的过去式和 过去分词 n.左；左边 adv.向左；在左 边",
+    "example": "Turn left at the traffic light, then you see it.",
+    "translation": "在红绿灯处左转，然后你就看到了。"
   },
   {
     "number": "31",
     "word": "then",
     "phonetic": "/ðen/",
-    "meaning": "adv.然后；接下来；那时 adj.当时的 ；那时的"
+    "meaning": "adv.然后；接下来；那时 adj.当时的 ；那时的",
+    "example": "We eat dinner, then we watch TV.",
+    "translation": "我们吃晚饭，然后看电视。"
   },
   {
     "number": "32",
     "word": "straight",
     "phonetic": "/streɪt/",
-    "meaning": "adj.直的；笔直的；正直的；率直的 adv.直；径直；直接;立即；笔直地 ；成直线地"
+    "meaning": "adj.直的；笔直的；正直的；率直的 adv.直；径直；直接;立即；笔直地 ；成直线地",
+    "example": "Go straight along this road for five minutes.",
+    "translation": "沿着这条路直走五分钟。"
   },
   {
     "number": "33",
     "word": "turn",
     "phonetic": "/tɜːn/",
-    "meaning": "v.转身；翻转；转弯；转动；转变 n.轮 流，（轮流的）顺序，轮到的机会；拐 弯；转变"
+    "meaning": "v.转身；翻转；转弯；转动；转变 n.轮 流，（轮流的）顺序，轮到的机会；拐 弯；转变",
+    "example": "Please turn right at the second crossing.",
+    "translation": "请在第二个路口右转。"
   },
   {
     "number": "34",
     "word": "there",
     "phonetic": "/ðeə(r)/",
-    "meaning": "adv.(表示某事物存在或发生)；（在 ）那里;(与be连用）有"
+    "meaning": "adv.(表示某事物存在或发生)；（在 ）那里;(与be连用）有",
+    "example": "There are three cats in the garden.",
+    "translation": "花园里有三只猫。"
   },
   {
     "number": "35",
     "word": "surprise",
     "phonetic": "/səˈpraɪz/",
-    "meaning": "n.意想不到的事，令人惊喜的事情（或 消息等）；惊奇；惊讶；惊喜；意外 v.使感到意外；使吃惊；使惊奇"
+    "meaning": "n.意想不到的事，令人惊喜的事情（或 消息等）；惊奇；惊讶；惊喜；意外 v.使感到意外；使吃惊；使惊奇",
+    "example": "My friends give me a big surprise on my birthday.",
+    "translation": "我的朋友在我生日时给了我一个大惊喜。"
   },
   {
     "number": "36",
     "word": "restaurant",
     "phonetic": "/ˈrestrɒnt/",
-    "meaning": "n.饭店；餐厅；餐馆"
+    "meaning": "n.饭店；餐厅；餐馆",
+    "example": "We have dinner at a nice restaurant tonight.",
+    "translation": "我们今晚在一家不错的餐厅吃晚餐。"
   },
   {
     "number": "37",
     "word": "excuse me",
     "phonetic": "/ɪkˈskjuːs mi/",
-    "meaning": "phrase.劳驾；请原谅；对不起；麻烦 你；打扰一下"
+    "meaning": "phrase.劳驾；请原谅；对不起；麻烦 你；打扰一下",
+    "example": "Excuse me, can you tell me the way to school?",
+    "translation": "对不起，你能告诉我去学校的路吗？"
   },
   {
     "number": "38",
     "word": "way",
     "phonetic": "/weɪ/",
-    "meaning": "n.方法；方式；路；道路；方向；路线"
+    "meaning": "n.方法；方式；路；道路；方向；路线",
+    "example": "Can you show me the way to the library?",
+    "translation": "你能给我指去图书馆的路吗？"
   },
   {
     "number": "39",
     "word": "us",
     "phonetic": "/ʌs/",
-    "meaning": "pron.我们(we的宾格)"
+    "meaning": "pron.我们(we的宾格)",
+    "example": "Our teacher often helps us with our lessons.",
+    "translation": "我们的老师经常帮助我们学习。"
   },
   {
     "number": "40",
     "word": "thanks",
     "phonetic": "/θæŋks/",
-    "meaning": "interj.感谢，谢谢 n.感谢，谢谢"
+    "meaning": "interj.感谢，谢谢 n.感谢，谢谢",
+    "example": "Thanks for helping me with my homework.",
+    "translation": "谢谢你帮我做作业。"
   },
   {
     "number": "41",
     "word": "buy",
     "phonetic": "/baɪ/",
-    "meaning": "v.买；换取；收买；相信"
+    "meaning": "v.买；换取；收买；相信",
+    "example": "My dad buys me a new book every month.",
+    "translation": "我爸爸每个月给我买一本新书。"
   },
   {
     "number": "42",
     "word": "writer",
     "phonetic": "/ˈraɪtə/",
-    "meaning": "n.作者；作家,记者,撰稿者,抄写员"
+    "meaning": "n.作者；作家,记者,撰稿者,抄写员",
+    "example": "The writer writes interesting stories for children.",
+    "translation": "这位作家为孩子们写有趣的故事。"
   },
   {
     "number": "43",
     "word": "often",
     "phonetic": "/ˈɒf(ə)n/",
-    "meaning": "adv.经常；常常地；时常地"
+    "meaning": "adv.经常；常常地；时常地",
+    "example": "I often play basketball with my friends.",
+    "translation": "我经常和朋友一起打篮球。"
   },
   {
     "number": "44",
     "word": "street",
     "phonetic": "/striːt/",
-    "meaning": "n.街，街道；大街"
+    "meaning": "n.街，街道；大街",
+    "example": "There are many trees along the street.",
+    "translation": "沿街有很多树。"
   },
   {
     "number": "45",
     "word": "live",
     "phonetic": "/lɪv/",
-    "meaning": "v.生活；居住；活着 adj.活的；现场直 播的；实况转播的"
+    "meaning": "v.生活；居住；活着 adj.活的；现场直 播的；实况转播的",
+    "example": "We live in a small house near the park.",
+    "translation": "我们住在公园附近的一所小房子里。"
   },
   {
     "number": "46",
     "word": "place",
     "phonetic": "/pleɪs/",
-    "meaning": "n.地方；地点；方位 v.安置；安放"
+    "meaning": "n.地方；地点；方位 v.安置；安放",
+    "example": "The park is a good place to play.",
+    "translation": "公园是一个玩耍的好地方。"
   },
   {
     "number": "47",
     "word": "near",
     "phonetic": "/nɪə(r)/",
-    "meaning": "adj.近的 prep.靠近；在......附近 adv.近地；接近地"
+    "meaning": "adj.近的 prep.靠近；在......附近 adv.近地；接近地",
+    "example": "The school is near my home, so I walk there.",
+    "translation": "学校在我家附近，所以我步行去。"
   },
   {
     "number": "48",
     "word": "map",
     "phonetic": "/mæp/",
-    "meaning": "n.地图"
+    "meaning": "n.地图",
+    "example": "We use a map to find the museum.",
+    "translation": "我们用地图找博物馆。"
   },
   {
     "number": "49",
     "word": "everyone",
     "phonetic": "/ˈevriwʌn/",
-    "meaning": "pron.人人，每个人；所有人"
+    "meaning": "pron.人人，每个人；所有人",
+    "example": "Everyone in our class likes our teacher.",
+    "translation": "我们班的每个人都喜欢我们的老师。"
   },
   {
     "number": "50",
     "word": "work",
     "phonetic": "/wɜːk/",
-    "meaning": "n.工作；著作，（音乐艺术）作品 v.（使）工作；（使）运转；操作；经 营；起作用"
+    "meaning": "n.工作；著作，（音乐艺术）作品 v.（使）工作；（使）运转；操作；经 营；起作用",
+    "example": "My parents work hard to support our family.",
+    "translation": "我的父母努力工作来养家。"
   },
   {
     "number": "51",
     "word": "hard",
     "phonetic": "/hɑːd/",
-    "meaning": "adj.辛苦的，艰难的；坚硬的；困难的 ；费劲的 adv.努力地"
+    "meaning": "adj.辛苦的，艰难的；坚硬的；困难的 ；费劲的 adv.努力地",
+    "example": "I study hard to get good grades.",
+    "translation": "我努力学习以取得好成绩。"
   },
   {
     "number": "52",
     "word": "teacher",
     "phonetic": "/ˈtiːtʃə(r)/",
-    "meaning": "n.教师，老师，教员"
+    "meaning": "n.教师，老师，教员",
+    "example": "Our English teacher tells us many funny stories.",
+    "translation": "我们的英语老师给我们讲很多有趣的故事。"
   },
   {
     "number": "53",
     "word": "driver",
     "phonetic": "/ˈdraɪvə(r)/",
-    "meaning": "n.司机；驾驶员"
+    "meaning": "n.司机；驾驶员",
+    "example": "The bus driver drives carefully every day.",
+    "translation": "公交车司机每天小心驾驶。"
   },
   {
     "number": "54",
     "word": "firefighter",
     "phonetic": "/ˈfaɪəfaɪtə(r)/",
-    "meaning": "n.消防队员"
+    "meaning": "n.消防队员",
+    "example": "The firefighter saves people from the fire.",
+    "translation": "消防员从火中救人。"
   },
   {
     "number": "55",
     "word": "policeman",
     "phonetic": "/pəˈliːsmən/",
-    "meaning": "n.(pl.policemen)男警察"
+    "meaning": "n.(pl.policemen)男警察",
+    "example": "The policeman helps the lost child find his mom.",
+    "translation": "警察帮助迷路的孩子找到妈妈。"
   },
   {
     "number": "56",
     "word": "worker",
     "phonetic": "/ˈwɜːkə(r)/",
-    "meaning": "n.工人；工作者；工人雇员；工蜂"
+    "meaning": "n.工人；工作者；工人雇员；工蜂",
+    "example": "The worker builds a new house in our neighborhood.",
+    "translation": "工人在我们小区建一座新房子。"
   },
   {
     "number": "57",
     "word": "doctor",
     "phonetic": "/ˈdɒktə(r)/",
-    "meaning": "n.医生；博士 v.篡改"
+    "meaning": "n.医生；博士 v.篡改",
+    "example": "The doctor takes care of sick people in the hospital.",
+    "translation": "医生在医院照顾病人。"
   },
   {
     "number": "58",
     "word": "nurse",
     "phonetic": "/nɜːs/",
-    "meaning": "n.护士；保姆 v.护理；照料；喂奶"
+    "meaning": "n.护士；保姆 v.护理；照料；喂奶",
+    "example": "The nurse helps the doctor and looks after patients.",
+    "translation": "护士帮助医生并照顾病人。"
   },
   {
     "number": "59",
     "word": "teach",
     "phonetic": "/tiːtʃ/",
-    "meaning": "v.教（课程）；教导；讲授"
+    "meaning": "v.教（课程）；教导；讲授",
+    "example": "Our teacher teaches us how to be good people.",
+    "translation": "我们的老师教我们如何做个好人。"
   },
   {
     "number": "60",
     "word": "sick",
     "phonetic": "/sɪk/",
-    "meaning": "adj.生病的；病的，有病的；恶心的,厌 恶的 n.病人 vt.呕吐，追击"
+    "meaning": "adj.生病的；病的，有病的；恶心的,厌 恶的 n.病人 vt.呕吐，追击",
+    "example": "I stay at home when I feel sick.",
+    "translation": "当我感到不舒服时，我待在家里。"
   },
   {
     "number": "61",
     "word": "centre",
     "phonetic": "/ˈsentə(r)/",
-    "meaning": "n.（美式center）中心；中央；中心区 v.放在......中央"
+    "meaning": "n.（美式center）中心；中央；中心区 v.放在......中央",
+    "example": "The shopping centre is always crowded on weekends.",
+    "translation": "购物中心周末总是很拥挤。"
   },
   {
     "number": "62",
     "word": "shape",
     "phonetic": "/ʃeɪp/",
-    "meaning": "n.形，形状；外形，身材 v.塑造；定形 ；使成形"
+    "meaning": "n.形，形状；外形，身材 v.塑造；定形 ；使成形",
+    "example": "The moon changes its shape every night.",
+    "translation": "月亮每晚都在改变形状。"
   },
   {
     "number": "63",
     "word": "gardener",
     "phonetic": "/ˈɡɑːdnə(r)/",
-    "meaning": "n.园丁；园林工人"
+    "meaning": "n.园丁；园林工人",
+    "example": "The gardener plants beautiful flowers in the park.",
+    "translation": "园丁在公园里种美丽的花。"
   },
   {
     "number": "64",
     "word": "garden",
     "phonetic": "/ˈɡɑːdn/",
-    "meaning": "n.花园，果园；园子 v.从事园艺"
+    "meaning": "n.花园，果园；园子 v.从事园艺",
+    "example": "My grandma grows vegetables in her garden.",
+    "translation": "我奶奶在她的花园里种蔬菜。"
   },
   {
     "number": "65",
     "word": "tall",
     "phonetic": "/tɔːl/",
-    "meaning": "adj.有......高的；高的"
+    "meaning": "adj.有......高的；高的",
+    "example": "The giraffe has a very tall neck.",
+    "translation": "长颈鹿有一个很长的脖子。"
   },
   {
     "number": "66",
     "word": "cleaner",
     "phonetic": "/ˈkliːnə(r)/",
-    "meaning": "n.清洁工人；清洁工具 adj.更洁净的 ；更干净的；clean的比较级"
+    "meaning": "n.清洁工人；清洁工具 adj.更洁净的 ；更干净的；clean的比较级",
+    "example": "The cleaner keeps our school clean every day.",
+    "translation": "清洁工每天保持我们学校干净。"
   },
   {
     "number": "67",
     "word": "fire",
     "phonetic": "/ˈfaɪə(r)/",
-    "meaning": "n.火；火灾；炉火；炮火；热情；激情 v.射击；开火；解雇；激发"
+    "meaning": "n.火；火灾；炉火；炮火；热情；激情 v.射击；开火；解雇；激发",
+    "example": "The firemen put out the fire quickly.",
+    "translation": "消防员迅速扑灭了火。"
   },
   {
     "number": "68",
     "word": "animal",
     "phonetic": "/ˈænɪml/",
-    "meaning": "n.兽，动物"
+    "meaning": "n.兽，动物",
+    "example": "The zoo has many different kinds of animals.",
+    "translation": "动物园有许多不同种类的动物。"
   },
   {
     "number": "69",
     "word": "grow",
     "phonetic": "/ɡrəʊ/",
-    "meaning": "v.生⻓；栽种；种植；成⻓；⻓大；⻓ 高；增⻓；发育；变成"
+    "meaning": "v.生⻓；栽种；种植；成⻓；⻓大；⻓ 高；增⻓；发育；变成",
+    "example": "Plants grow well with enough water and sunlight.",
+    "translation": "植物在有足够的水和阳光的情况下生长良好。"
   },
   {
     "number": "70",
     "word": "taxi",
     "phonetic": "/ˈtæksi/",
-    "meaning": "n.出租汽⻋；的士；计程⻋ v.乘坐出租 汽⻋"
+    "meaning": "n.出租汽⻋；的士；计程⻋ v.乘坐出租 汽⻋",
+    "example": "We take a taxi to the airport.",
+    "translation": "我们乘出租车去机场。"
   },
   {
     "number": "71",
     "word": "drive",
     "phonetic": "/draɪv/",
-    "meaning": "v.开⻋；驾驶；驾⻋送（人）；迫使 ；促使(某人做某事) n.动力"
+    "meaning": "v.开⻋；驾驶；驾⻋送（人）；迫使 ；促使(某人做某事) n.动力",
+    "example": "My dad drives me to school every morning.",
+    "translation": "我爸爸每天早上开车送我上学。"
   },
   {
     "number": "72",
     "word": "around",
     "phonetic": "/əˈraʊnd/",
-    "meaning": "adv.到处；向各处；在附近；环绕；大 约 prep.在......周围；环绕；围绕"
+    "meaning": "adv.到处；向各处；在附近；环绕；大 约 prep.在......周围；环绕；围绕",
+    "example": "We walk around the park after dinner.",
+    "translation": "我们晚饭后在公园周围散步。"
   },
   {
     "number": "73",
     "word": "farmer",
     "phonetic": "/ˈfɑːmə(r)/",
-    "meaning": "n.农场主；农夫；农人；农⺠"
+    "meaning": "n.农场主；农夫；农人；农⺠",
+    "example": "The farmer works hard in the fields every day.",
+    "translation": "农民每天在田里辛勤工作。"
   },
   {
     "number": "74",
     "word": "science",
     "phonetic": "/ˈsaɪəns/",
-    "meaning": "n.科学"
+    "meaning": "n.科学",
+    "example": "I love science because it is very interesting.",
+    "translation": "我喜欢科学，因为它非常有趣。"
   },
   {
     "number": "75",
     "word": "ask",
     "phonetic": "/ɑːsk/",
-    "meaning": "v.问；提问，询问；请求；邀请"
+    "meaning": "v.问；提问，询问；请求；邀请",
+    "example": "I often ask my teacher questions in class.",
+    "translation": "我经常在课堂上问老师问题。"
   },
   {
     "number": "76",
     "word": "question",
     "phonetic": "/ˈkwestʃən/",
-    "meaning": "n.问题；疑问 v.询问；怀疑"
+    "meaning": "n.问题；疑问 v.询问；怀疑",
+    "example": "The teacher asks us a difficult question.",
+    "translation": "老师问我们一个难题。"
   },
   {
     "number": "77",
     "word": "astronaut",
     "phonetic": "/ˈæstrənɔːt/",
-    "meaning": "n.宇航员；太空人"
+    "meaning": "n.宇航员；太空人",
+    "example": "The astronaut travels to space in a spaceship.",
+    "translation": "宇航员乘坐宇宙飞船去太空。"
   },
   {
     "number": "78",
     "word": "learn",
     "phonetic": "/lɜːn/",
-    "meaning": "vt./vi.学，学习，学会"
+    "meaning": "vt./vi.学，学习，学会",
+    "example": "We learn new things every day at school.",
+    "translation": "我们每天在学校学习新东西。"
   },
   {
     "number": "79",
     "word": "space",
     "phonetic": "/speɪs/",
-    "meaning": "n.大片空地；空隙；空间；太空；空格 ；空白 v.以一定间隔排列"
+    "meaning": "n.大片空地；空隙；空间；太空；空格 ；空白 v.以一定间隔排列",
+    "example": "The stars and planets are in outer space.",
+    "translation": "恒星和行星在外层空间。"
   },
   {
     "number": "80",
     "word": "moon",
     "phonetic": "/muːn/",
-    "meaning": "n.月亮，月球"
+    "meaning": "n.月亮，月球",
+    "example": "The moon looks bright and round tonight.",
+    "translation": "今晚月亮看起来又亮又圆。"
   },
   {
     "number": "81",
     "word": "scientist",
     "phonetic": "/ˈsaɪəntɪst/",
-    "meaning": "n.科学家"
+    "meaning": "n.科学家",
+    "example": "The scientist does experiments in the lab.",
+    "translation": "科学家在实验室做实验。"
   },
   {
     "number": "82",
     "word": "because",
     "phonetic": "/bɪˈkɒz/",
-    "meaning": "conj.因为"
+    "meaning": "conj.因为",
+    "example": "I like summer because I can swim every day.",
+    "translation": "我喜欢夏天，因为我可以每天游泳。"
   },
   {
     "number": "83",
     "word": "panda",
     "phonetic": "/ˈpændə/",
-    "meaning": "n.大熊猫"
+    "meaning": "n.大熊猫",
+    "example": "The panda eats bamboo leaves every day.",
+    "translation": "熊猫每天吃竹叶。"
   },
   {
     "number": "84",
     "word": "keeper",
     "phonetic": "/ˈkiːpə(r)/",
-    "meaning": "n.饲养员；保管人；看守人；管理人"
+    "meaning": "n.饲养员；保管人；看守人；管理人",
+    "example": "The zookeeper takes good care of the animals.",
+    "translation": "动物园管理员好好照顾动物。"
   },
   {
     "number": "85",
     "word": "team",
     "phonetic": "/tiːm/",
-    "meaning": "n.组；班；（游戏或体育运动的）队 ，小组"
+    "meaning": "n.组；班；（游戏或体育运动的）队 ，小组",
+    "example": "Our football team wins the game today.",
+    "translation": "我们的足球队今天赢了比赛。"
   },
   {
     "number": "86",
     "word": "healthy",
     "phonetic": "/ˈhelθi/",
-    "meaning": "adj.有益健康的；健康的"
+    "meaning": "adj.有益健康的；健康的",
+    "example": "Eating fruits and vegetables keeps us healthy.",
+    "translation": "吃水果和蔬菜使我们保持健康。"
   },
   {
     "number": "87",
     "word": "strong",
     "phonetic": "/strɒŋ/",
-    "meaning": "adj.强壮的；健壮的；强的，强大的 ；浓烈的"
+    "meaning": "adj.强壮的；健壮的；强的，强大的 ；浓烈的",
+    "example": "Regular exercise makes our bodies strong.",
+    "translation": "经常锻炼使我们的身体强壮。"
   },
   {
     "number": "88",
     "word": "house",
     "phonetic": "/haʊs/",
-    "meaning": "n.房子；房屋；住宅 v.给某人提供住处 ,是......的安置处；收藏"
+    "meaning": "n.房子；房屋；住宅 v.给某人提供住处 ,是......的安置处；收藏",
+    "example": "We live in a comfortable house with a garden.",
+    "translation": "我们住在一所带花园的舒适房子里。"
   },
   {
     "number": "89",
     "word": "prepare",
     "phonetic": "/prɪˈpeə(r)/",
-    "meaning": "v.把......预备好；预备（饭菜）；准备 ；使做好准备"
+    "meaning": "v.把......预备好；预备（饭菜）；准备 ；使做好准备",
+    "example": "My mom prepares delicious meals for our family.",
+    "translation": "我妈妈为我们家准备美味的饭菜。"
   },
   {
     "number": "90",
     "word": "kind",
     "phonetic": "/kaɪnd/",
-    "meaning": "adj.亲切的；和蔼的；和善的；友好的 ，善意的，体贴的 n.种类"
+    "meaning": "adj.亲切的；和蔼的；和善的；友好的 ，善意的，体贴的 n.种类",
+    "example": "My teacher is very kind to all the students.",
+    "translation": "我的老师对所有学生都很友好。"
   },
   {
     "number": "91",
     "word": "dream job",
     "phonetic": "/driːm dʒɒb/",
-    "meaning": "phr.理想的工作；梦想的工作"
+    "meaning": "phr.理想的工作；梦想的工作",
+    "example": "My dream job is to be a doctor in the future.",
+    "translation": "我的理想工作是将来成为一名医生。"
   },
   {
     "number": "92",
     "word": "zookeeper",
     "phonetic": "/ˈzuːkiːpə(r)/",
-    "meaning": "n.动物园动物饲养员"
+    "meaning": "n.动物园动物饲养员",
+    "example": "The zookeeper feeds the animals every morning.",
+    "translation": "动物园管理员每天早上喂动物。"
   },
   {
     "number": "93",
     "word": "bee",
     "phonetic": "/biː/",
-    "meaning": "n.蜜蜂"
+    "meaning": "n.蜜蜂",
+    "example": "The bee collects nectar from the flowers.",
+    "translation": "蜜蜂从花中采集花蜜。"
   },
   {
     "number": "94",
     "word": "early",
     "phonetic": "/ˈɜːli/",
-    "meaning": "adj.早的；提早的；早期的；早到的 adv.早地；提早；在早期；提前"
+    "meaning": "adj.早的；提早的；早期的；早到的 adv.早地；提早；在早期；提前",
+    "example": "I get up early to go to school every day.",
+    "translation": "我每天早起上学。"
   },
   {
     "number": "95",
     "word": "fifty",
     "phonetic": "/ˈfɪfti/",
-    "meaning": "num.五十"
+    "meaning": "num.五十",
+    "example": "There are fifty students in our class.",
+    "translation": "我们班有五十名学生。"
   },
   {
     "number": "96",
     "word": "yuan",
     "phonetic": "/juˈɑːn/",
-    "meaning": "n.元（人⺠币）"
+    "meaning": "n.元（人⺠币）",
+    "example": "My mom gives me ten yuan for pocket money.",
+    "translation": "我妈妈给我十元零花钱。"
   },
   {
     "number": "97",
     "word": "thirty-three",
     "phonetic": "/ˈθɜːti ˈθriː/",
-    "meaning": "n.三十三"
+    "meaning": "n.三十三",
+    "example": "I have thirty-three stickers in my collection.",
+    "translation": "我的收藏中有三十三张贴纸。"
   },
   {
     "number": "98",
     "word": "forty-four",
     "phonetic": "/ˈfɔːti fɔː(r)/",
-    "meaning": "num.四十四"
+    "meaning": "num.四十四",
+    "example": "The bus number forty-four takes me to school.",
+    "translation": "四十四路公交车带我上学。"
   },
   {
     "number": "99",
     "word": "carrot",
     "phonetic": "/ˈkærət/",
-    "meaning": "n.胡萝卜"
+    "meaning": "n.胡萝卜",
+    "example": "Rabbits love to eat fresh carrots.",
+    "translation": "兔子喜欢吃新鲜的胡萝卜。"
   },
   {
     "number": "100",
     "word": "thirteen",
     "phonetic": "/ˌθɜːˈtiːn/",
-    "meaning": "num.十三；十三个(的)"
+    "meaning": "num.十三；十三个(的)",
+    "example": "I become thirteen years old next month.",
+    "translation": "我下个月就十三岁了。"
   },
   {
     "number": "101",
     "word": "seventy",
     "phonetic": "/ˈsev(ə)nti/",
-    "meaning": "num.七十"
+    "meaning": "num.七十",
+    "example": "My grandma is seventy years old this year.",
+    "translation": "我奶奶今年七十岁了。"
   },
   {
     "number": "102",
     "word": "eleven",
     "phonetic": "/ɪˈlevn/",
-    "meaning": "num.十一；十一个(的)"
+    "meaning": "num.十一；十一个(的)",
+    "example": "I have eleven friends in my class.",
+    "translation": "我在班上有十一个朋友。"
   },
   {
     "number": "103",
     "word": "thirty",
     "phonetic": "/ˈθɜːti/",
-    "meaning": "num.三十；三十个(的)"
+    "meaning": "num.三十；三十个(的)",
+    "example": "There are thirty days in April.",
+    "translation": "四月有三十天。"
   },
   {
     "number": "104",
     "word": "eighteen",
     "phonetic": "/ˌeɪˈtiːn/",
-    "meaning": "num.十八；十八个(的)"
+    "meaning": "num.十八；十八个(的)",
+    "example": "My sister is eighteen years old now.",
+    "translation": "我姐姐现在十八岁了。"
   },
   {
     "number": "105",
     "word": "eighty",
     "phonetic": "/ˈeɪti/",
-    "meaning": "num.八十"
+    "meaning": "num.八十",
+    "example": "The old man is eighty years old but still healthy.",
+    "translation": "这位老人八十岁了，但仍然健康。"
   },
   {
     "number": "106",
     "word": "nineteen",
     "phonetic": "/ˌnaɪnˈtiːn/",
-    "meaning": "num.十九；十九个(的)"
+    "meaning": "num.十九；十九个(的)",
+    "example": "Nineteen students in our class like English.",
+    "translation": "我们班有十九个学生喜欢英语。"
   },
   {
     "number": "107",
     "word": "sixteen",
     "phonetic": "/ˌsɪksˈtiːn/",
-    "meaning": "num.十六；十六个(的)"
+    "meaning": "num.十六；十六个(的)",
+    "example": "I will be sixteen years old next year.",
+    "translation": "我明年就十六岁了。"
   },
   {
     "number": "108",
     "word": "sixty-six",
     "phonetic": "/ˈsɪkstiː sɪks/",
-    "meaning": "num.六十六"
+    "meaning": "num.六十六",
+    "example": "My grandfather is sixty-six years old.",
+    "translation": "我爷爷六十六岁了。"
   },
   {
     "number": "109",
     "word": "twenty",
     "phonetic": "/ˈtwenti/",
-    "meaning": "num.二十；二十个(的)"
+    "meaning": "num.二十；二十个(的)",
+    "example": "There are twenty girls in our class.",
+    "translation": "我们班有二十个女孩。"
   },
   {
     "number": "110",
     "word": "twelve",
     "phonetic": "/twelv/",
-    "meaning": "num.十二；十二个(的)"
+    "meaning": "num.十二；十二个(的)",
+    "example": "I have twelve crayons in my pencil case.",
+    "translation": "我的铅笔盒里有十二支蜡笔。"
   },
   {
     "number": "111",
     "word": "hundred",
     "phonetic": "/ˈhʌndrəd/",
-    "meaning": "num.许多，大量；百，一百"
+    "meaning": "num.许多，大量；百，一百",
+    "example": "There are one hundred pages in this book.",
+    "translation": "这本书有一百页。"
   },
   {
     "number": "112",
     "word": "forty-three",
     "phonetic": "/ˈfɔːti θriː/",
-    "meaning": "num."
+    "meaning": "num.",
+    "example": "My dad is forty-three years old this year.",
+    "translation": "我爸爸今年四十三岁了。"
   },
   {
     "number": "113",
     "word": "flea market",
     "phonetic": "/ˈfliː mɑːkɪt/",
-    "meaning": "跳蚤市场"
+    "meaning": "跳蚤市场",
+    "example": "We buy old toys at the flea market.",
+    "translation": "我们在跳蚤市场买旧玩具。"
   },
   {
     "number": "114",
     "word": "skateboard",
     "phonetic": "/ˈskeɪtbɔːd/",
-    "meaning": "n.滑板 vi.用滑板滑行"
+    "meaning": "n.滑板 vi.用滑板滑行",
+    "example": "My brother rides his skateboard in the park.",
+    "translation": "我哥哥在公园里玩滑板。"
   },
   {
     "number": "115",
     "word": "noon",
     "phonetic": "/nuːn/",
-    "meaning": "n.中午；正午"
+    "meaning": "n.中午；正午",
+    "example": "We have lunch at noon every day.",
+    "translation": "我们每天中午吃午饭。"
   },
   {
     "number": "116",
     "word": "skateboarding",
     "phonetic": "/ˈskeɪtbɔːdɪŋ/",
-    "meaning": "n.滑板运动"
+    "meaning": "n.滑板运动",
+    "example": "Skateboarding is a popular sport among teenagers.",
+    "translation": "滑板是青少年中流行的运动。"
   },
   {
     "number": "117",
     "word": "friend",
     "phonetic": "/frend/",
-    "meaning": "n.朋友，友人"
+    "meaning": "n.朋友，友人",
+    "example": "My best friend and I often play basketball together.",
+    "translation": "我最好的朋友和我经常一起打篮球。"
   },
   {
     "number": "118",
     "word": "bakery",
     "phonetic": "/ˈbeɪkəri/",
-    "meaning": "n.面包房；面包(糕饼)店；面包厂"
+    "meaning": "n.面包房；面包(糕饼)店；面包厂",
+    "example": "The bakery sells fresh bread every morning.",
+    "translation": "面包店每天早上卖新鲜面包。"
   },
   {
     "number": "119",
     "word": "flower",
     "phonetic": "/ˈflaʊə(r)/",
-    "meaning": "n.花；花朵"
+    "meaning": "n.花；花朵",
+    "example": "My mom grows beautiful flowers in the garden.",
+    "translation": "我妈妈在花园里种美丽的花。"
   },
   {
     "number": "120",
     "word": "toy",
     "phonetic": "/tɔɪ/",
-    "meaning": "n.玩具"
+    "meaning": "n.玩具",
+    "example": "I have many toy cars in my room.",
+    "translation": "我的房间里有许多玩具汽车。"
   },
   {
     "number": "121",
     "word": "pair",
     "phonetic": "/peə(r)/",
-    "meaning": "n.一双；一对 v.（使）成对；（使）配 对"
+    "meaning": "n.一双；一对 v.（使）成对；（使）配 对",
+    "example": "I buy a new pair of shoes for school.",
+    "translation": "我为上学买了一双新鞋。"
   },
   {
     "number": "122",
     "word": "give",
     "phonetic": "/ɡɪv/",
-    "meaning": "v.给予；发出；提供"
+    "meaning": "v.给予；发出；提供",
+    "example": "I give my mom a card on Mothers Day.",
+    "translation": "我在母亲节给妈妈一张卡片。"
   },
   {
     "number": "123",
     "word": "spend",
     "phonetic": "/spend/",
-    "meaning": "v.花（时间）；花费（金钱时间等 ）；度过"
+    "meaning": "v.花（时间）；花费（金钱时间等 ）；度过",
+    "example": "We spend the weekend at the beach.",
+    "translation": "我们在海滩度过周末。"
   },
   {
     "number": "124",
     "word": "box",
     "phonetic": "/bɒks/",
-    "meaning": "n.箱子；盒子；一拳 v.拳击；装箱"
+    "meaning": "n.箱子；盒子；一拳 v.拳击；装箱",
+    "example": "I keep my toys in a big box.",
+    "translation": "我把玩具放在一个大盒子里。"
   },
   {
     "number": "125",
     "word": "use",
     "phonetic": "/juːz/",
-    "meaning": "v.使用；利用 n.使用；用途"
+    "meaning": "v.使用；利用 n.使用；用途",
+    "example": "We use computers in our computer class.",
+    "translation": "我们在计算机课上使用计算机。"
   },
   {
     "number": "126",
     "word": "save",
     "phonetic": "/seɪv/",
-    "meaning": "v.救助；拯救；储蓄；保存；节省，节 约 prep.除......之外；除了 conj.若不 是；除了"
+    "meaning": "v.救助；拯救；储蓄；保存；节省，节 约 prep.除......之外；除了 conj.若不 是；除了",
+    "example": "I save money to buy a new bicycle.",
+    "translation": "我存钱买一辆新自行车。"
   },
   {
     "number": "127",
     "word": "holiday",
     "phonetic": "/ˈhɒlədeɪ/",
-    "meaning": "n.假期，假日；休假日；法定假日，节 日"
+    "meaning": "n.假期，假日；休假日；法定假日，节 日",
+    "example": "We go to the beach during summer holiday.",
+    "translation": "我们在暑假期间去海滩。"
   },
   {
     "number": "128",
     "word": "share",
     "phonetic": "/ʃeə(r)/",
-    "meaning": "v.分享；共享；共用；分摊；把自己的 想法（或经历感情）告诉（某人）"
+    "meaning": "v.分享；共享；共用；分摊；把自己的 想法（或经历感情）告诉（某人）",
+    "example": "I share my snacks with my friends.",
+    "translation": "我和朋友分享我的零食。"
   },
   {
     "number": "129",
     "word": "money",
     "phonetic": "/ˈmʌni/",
-    "meaning": "n.钱；财富"
+    "meaning": "n.钱；财富",
+    "example": "My parents work hard to earn money.",
+    "translation": "我的父母努力工作赚钱。"
   },
   {
     "number": "130",
     "word": "should",
     "phonetic": "/ʃʊd/",
-    "meaning": "auxv.应该；应当；可以；shall的过去 式"
+    "meaning": "auxv.应该；应当；可以；shall的过去 式",
+    "example": "We should help each other when in need.",
+    "translation": "我们在需要时应该互相帮助。"
   },
   {
     "number": "131",
     "word": "chocolate",
     "phonetic": "/ˈtʃɒklət/",
-    "meaning": "n.巧克力，朱古力 adj.巧克力的"
+    "meaning": "n.巧克力，朱古力 adj.巧克力的",
+    "example": "I love to eat chocolate ice cream.",
+    "translation": "我喜欢吃巧克力冰淇淋。"
   },
   {
     "number": "132",
     "word": "triangle",
     "phonetic": "/ˈtraɪæŋɡl/",
-    "meaning": "n.三⻆形；三⻆形物"
+    "meaning": "n.三⻆形；三⻆形物",
+    "example": "The roof of the house is in the shape of a triangle.",
+    "translation": "房子的屋顶是三角形的。"
   },
   {
     "number": "133",
     "word": "circle",
     "phonetic": "/ˈsɜːkl/",
-    "meaning": "v.圈出n.圆形；圆圈"
+    "meaning": "v.圈出n.圆形；圆圈",
+    "example": "The sun looks like a big circle in the sky.",
+    "translation": "太阳在天空中看起来像一个大圆圈。"
   },
   {
     "number": "134",
     "word": "rectangle",
     "phonetic": "/ˈrektæŋɡl/",
-    "meaning": "n.⻓方形；矩形 n.平方；正方形；四方形；广场 adj.正"
+    "meaning": "n.⻓方形；矩形 n.平方；正方形；四方形；广场 adj.正",
+    "example": "Most doors and windows are in the shape of a rectangle.",
+    "translation": "大多数门窗都是矩形的。"
   },
   {
     "number": "135",
     "word": "square",
     "phonetic": "/skweə(r)/",
-    "meaning": "方形的；平方的；四方形的；成直⻆的 v.使成平方；与...一致 adv.成直⻆地"
+    "meaning": "方形的；平方的；四方形的；成直⻆的 v.使成平方；与...一致 adv.成直⻆地",
+    "example": "The floor tiles are in the shape of a square.",
+    "translation": "地板砖是正方形的。"
   },
   {
     "number": "136",
     "word": "into",
     "phonetic": "/ˈɪntu/",
-    "meaning": "prep.进入，到......里面"
+    "meaning": "prep.进入，到......里面",
+    "example": "The cat jumps into the box to hide.",
+    "translation": "猫跳进盒子里躲起来。"
   },
   {
     "number": "137",
     "word": "tummy",
     "phonetic": "/ˈtʌmi/",
-    "meaning": "n.肚子；胃；腹部"
+    "meaning": "n.肚子；胃；腹部",
+    "example": "I rub my tummy when I feel hungry.",
+    "translation": "当我感到饿时，我揉我的肚子。"
   },
   {
     "number": "138",
     "word": "yummy",
     "phonetic": "/ˈjʌmi/",
-    "meaning": "adj.好吃的，很好吃的；美味的；可口 的"
+    "meaning": "adj.好吃的，很好吃的；美味的；可口 的",
+    "example": "The cookies my mom makes are very yummy.",
+    "translation": "我妈妈做的饼干非常好吃。"
   },
   {
     "number": "139",
     "word": "wheel",
     "phonetic": "/wiːl/",
-    "meaning": "n.轮，⻋轮，轮子"
+    "meaning": "n.轮，⻋轮，轮子",
+    "example": "The bicycle has two wheels.",
+    "translation": "自行车有两个轮子。"
   },
   {
     "number": "140",
     "word": "another",
     "phonetic": "/əˈnʌðə(r)/",
-    "meaning": "adj.又一个的；另一个的 pron.又一 ；另一；不同的（一个）"
+    "meaning": "adj.又一个的；另一个的 pron.又一 ；另一；不同的（一个）",
+    "example": "Can I have another piece of cake, please?",
+    "translation": "请再给我一块蛋糕好吗？"
   },
   {
     "number": "141",
     "word": "a lot",
     "phonetic": "/ə lɒt/",
-    "meaning": "大量，许多;很；非常"
+    "meaning": "大量，许多;很；非常",
+    "example": "I learn a lot from my teachers.",
+    "translation": "我从老师那里学到了很多。"
   },
   {
     "number": "142",
     "word": "its",
     "phonetic": "/ɪts/",
-    "meaning": "pron.它的（所有物）；他的；她的"
+    "meaning": "pron.它的（所有物）；他的；她的",
+    "example": "The cat licks its fur to keep clean.",
+    "translation": "猫舔它的毛以保持清洁。"
   },
   {
     "number": "143",
     "word": "line",
     "phonetic": "/laɪn/",
-    "meaning": "n.行；排；线；线条，（排列的）队 ．沿......形成行（或列排）"
+    "meaning": "n.行；排；线；线条，（排列的）队 ．沿......形成行（或列排）",
+    "example": "We stand in a line to buy tickets.",
+    "translation": "我们排队买票。"
   },
   {
     "number": "144",
     "word": "zoo",
     "phonetic": "/zuː/",
-    "meaning": "n.动物园"
+    "meaning": "n.动物园",
+    "example": "We visit the zoo to see the animals.",
+    "translation": "我们参观动物园看动物。"
   },
   {
     "number": "145",
     "word": "sky",
     "phonetic": "/skaɪ/",
-    "meaning": "n.天，天空"
+    "meaning": "n.天，天空",
+    "example": "The sky is blue and clear today.",
+    "translation": "今天天空蔚蓝晴朗。"
   },
   {
     "number": "146",
     "word": "neck",
     "phonetic": "/nek/",
-    "meaning": "n.颈；脖子"
+    "meaning": "n.颈；脖子",
+    "example": "The giraffe has a very long neck.",
+    "translation": "长颈鹿有一个很长的脖子。"
   },
   {
     "number": "147",
     "word": "brave",
     "phonetic": "/breɪv/",
-    "meaning": "adj.勇敢的；无畏的"
+    "meaning": "adj.勇敢的；无畏的",
+    "example": "The little boy is brave to help his friend.",
+    "translation": "这个小男孩勇敢地帮助他的朋友。"
   },
   {
     "number": "148",
     "word": "heavy",
     "phonetic": "/ˈhevi/",
-    "meaning": "adj.大量的；重的，沉的；厚的"
+    "meaning": "adj.大量的；重的，沉的；厚的",
+    "example": "The bag is too heavy for me to carry.",
+    "translation": "这个包太重了，我拿不动。"
   },
   {
     "number": "149",
     "word": "giraffe",
     "phonetic": "/dʒəˈrɑːf/",
-    "meaning": "n.⻓颈鹿"
+    "meaning": "n.⻓颈鹿",
+    "example": "The giraffe eats leaves from tall trees.",
+    "translation": "长颈鹿吃高树上的叶子。"
   },
   {
     "number": "150",
     "word": "lion",
     "phonetic": "/ˈlaɪən/",
-    "meaning": "n.狮子"
+    "meaning": "n.狮子",
+    "example": "The lion is the king of the animals.",
+    "translation": "狮子是动物之王。"
   },
   {
     "number": "151",
     "word": "elephant",
     "phonetic": "/ˈelɪfənt/",
-    "meaning": "n.大象"
+    "meaning": "n.大象",
+    "example": "The elephant has a long trunk and big ears.",
+    "translation": "大象有一个长鼻子和大耳朵。"
   },
   {
     "number": "152",
     "word": "horse",
     "phonetic": "/hɔːs/",
-    "meaning": "n.⻢ v.骑⻢"
+    "meaning": "n.⻢ v.骑⻢",
+    "example": "The horse runs fast on the grassland.",
+    "translation": "马在草原上跑得很快。"
   },
   {
     "number": "153",
     "word": "pig",
     "phonetic": "/pɪɡ/",
-    "meaning": "n.猪，贪婪的人"
+    "meaning": "n.猪，贪婪的人",
+    "example": "The pig likes to eat corn and vegetables.",
+    "translation": "猪喜欢吃玉米和蔬菜。"
   },
   {
     "number": "154",
     "word": "sheep",
     "phonetic": "/ʃiːp/",
-    "meaning": "n.(pl.sheep)(绵)羊；驯服者"
+    "meaning": "n.(pl.sheep)(绵)羊；驯服者",
+    "example": "The sheep graze on the green grass.",
+    "translation": "羊在绿色的草地上吃草。"
   },
   {
     "number": "155",
     "word": "cow",
     "phonetic": "/kaʊ/",
-    "meaning": "n.母牛；奶牛；大型母兽 v.威胁；吓唬"
+    "meaning": "n.母牛；奶牛；大型母兽 v.威胁；吓唬",
+    "example": "The cow gives us fresh milk every day.",
+    "translation": "奶牛每天给我们提供新鲜的牛奶。"
   },
   {
     "number": "156",
     "word": "climb",
     "phonetic": "/klaɪm/",
-    "meaning": "v.攀爬；爬升；攀登；爬"
+    "meaning": "v.攀爬；爬升；攀登；爬",
+    "example": "The monkey can climb trees very quickly.",
+    "translation": "猴子能很快地爬树。"
   },
   {
     "number": "157",
     "word": "slow",
     "phonetic": "/sləʊ/",
-    "meaning": "adj.慢的,迟钝的,缓慢的 v.(使)减速，慢 下来 adv.缓慢"
+    "meaning": "adj.慢的,迟钝的,缓慢的 v.(使)减速，慢 下来 adv.缓慢",
+    "example": "The turtle moves very slow on the ground.",
+    "translation": "乌龟在地上移动得很慢。"
   },
   {
     "number": "158",
     "word": "perfect",
     "phonetic": "/ˈpɜːfɪkt/",
-    "meaning": "adj.完全的；完美的；正合适；极好的 v.使完美 n.(动词的)完成式"
+    "meaning": "adj.完全的；完美的；正合适；极好的 v.使完美 n.(动词的)完成式",
+    "example": "The weather is perfect for a picnic today.",
+    "translation": "今天的天气非常适合野餐。"
   },
   {
     "number": "159",
     "word": "pet",
     "phonetic": "/pet/",
-    "meaning": "n.宠物；宠儿 v.爱抚 adj.钟爱的"
+    "meaning": "n.宠物；宠儿 v.爱抚 adj.钟爱的",
+    "example": "I have a cute pet cat named Mimi.",
+    "translation": "我有一只可爱的宠物猫叫咪咪。"
   },
   {
     "number": "160",
     "word": "boy",
     "phonetic": "/bɔɪ/",
-    "meaning": "n.男孩，男生"
+    "meaning": "n.男孩，男生",
+    "example": "The boy plays football with his friends.",
+    "translation": "这个男孩和他的朋友踢足球。"
   },
   {
     "number": "161",
     "word": "girl",
     "phonetic": "/ɡɜːl/",
-    "meaning": "n.女孩，小姑娘"
+    "meaning": "n.女孩，小姑娘",
+    "example": "The girl likes to draw pictures in her free time.",
+    "translation": "这个女孩喜欢在空闲时间画画。"
   },
   {
     "number": "162",
     "word": "hamster",
     "phonetic": "/ˈhæmstə(r)/",
-    "meaning": "n.仓鼠"
+    "meaning": "n.仓鼠",
+    "example": "The hamster runs on its wheel in the cage.",
+    "translation": "仓鼠在笼子里的轮子上跑。"
   },
   {
     "number": "163",
     "word": "cute",
     "phonetic": "/kjuːt/",
-    "meaning": "adj.漂亮的，逗人喜爱的，可爱的"
+    "meaning": "adj.漂亮的，逗人喜爱的，可爱的",
+    "example": "The baby panda looks very cute and lovely.",
+    "translation": "熊猫宝宝看起来非常可爱。"
   },
   {
     "number": "164",
     "word": "parrot",
     "phonetic": "/ˈpærət/",
-    "meaning": "n.鹦鹉；学舌者 v.鹦鹉学舌地说；机械 地模仿"
+    "meaning": "n.鹦鹉；学舌者 v.鹦鹉学舌地说；机械 地模仿",
+    "example": "The parrot can mimic human speech.",
+    "translation": "鹦鹉能模仿人类说话。"
   },
   {
     "number": "165",
     "word": "talk",
     "phonetic": "/tɔːk/",
-    "meaning": "v.（用某种语言）讲，说；说话;交谈; n.说话;交谈"
+    "meaning": "v.（用某种语言）讲，说；说话;交谈; n.说话;交谈",
+    "example": "We talk about our favorite movies after class.",
+    "translation": "我们课后谈论我们最喜欢的电影。"
   },
   {
     "number": "166",
     "word": "animal shelter",
     "phonetic": "12/13",
-    "meaning": "n.动物收容所"
+    "meaning": "n.动物收容所",
+    "example": "We volunteer at the animal shelter on weekends.",
+    "translation": "我们周末在动物收容所做志愿者。"
   },
   {
     "number": "167",
     "word": "catch",
     "phonetic": "/kætʃ/",
-    "meaning": "v.抓，抓住；捕捉；接住；抓住；赶上 ；理解 n.捕捉；钩；抛接球游戏"
+    "meaning": "v.抓，抓住；捕捉；接住；抓住；赶上 ；理解 n.捕捉；钩；抛接球游戏",
+    "example": "The cat tries to catch the mouse in the house.",
+    "translation": "猫试图抓住房子里的老鼠。"
   },
   {
     "number": "168",
     "word": "grass",
     "phonetic": "/ɡrɑːs/",
-    "meaning": "n.草；草地；大麻；告密者 v.使吃草 ；放牧；告发"
+    "meaning": "n.草；草地；大麻；告密者 v.使吃草 ；放牧；告发",
+    "example": "The cows and sheep eat green grass in the field.",
+    "translation": "牛和羊在田里吃绿草。"
   },
   {
     "number": "169",
     "word": "farm",
     "phonetic": "/fɑːm/",
-    "meaning": "n.农场；农庄 v.耕种；务农；种田；饲 养"
+    "meaning": "n.农场；农庄 v.耕种；务农；种田；饲 养",
+    "example": "We visit a farm to see the animals and plants.",
+    "translation": "我们参观农场看动物和植物。"
   },
   {
     "number": "170",
     "word": "tail",
     "phonetic": "/teɪl/",
-    "meaning": "n.尾；尾巴；尾随者 v.跟踪"
+    "meaning": "n.尾；尾巴；尾随者 v.跟踪",
+    "example": "The dog wags its tail when it is happy.",
+    "translation": "狗开心时会摇尾巴。"
   },
   {
     "number": "171",
     "word": "city",
     "phonetic": "/ˈsɪti/",
-    "meaning": "n.城市，都市"
+    "meaning": "n.城市，都市",
+    "example": "There are many tall buildings in the city.",
+    "translation": "城市里有许多高楼大厦。"
   },
   {
     "number": "172",
     "word": "party",
     "phonetic": "/ˈpɑːti/",
-    "meaning": "n.聚会，宴会；党派"
+    "meaning": "n.聚会，宴会；党派",
+    "example": "We have a birthday party for our friend.",
+    "translation": "我们为朋友举办生日派对。"
   },
   {
     "number": "173",
     "word": "gift",
     "phonetic": "/ɡɪft/",
-    "meaning": "n.天赋，才能，礼物，赠品 .白送"
+    "meaning": "n.天赋，才能，礼物，赠品 .白送",
+    "example": "I receive a nice gift from my parents.",
+    "translation": "我从父母那里收到一份漂亮的礼物。"
   },
   {
     "number": "174",
     "word": "address",
     "phonetic": "/əˈdres/",
-    "meaning": "n.住址；地址；通讯处；演讲 v.向 ......讲话；提出；解决"
+    "meaning": "n.住址；地址；通讯处；演讲 v.向 ......讲话；提出；解决",
+    "example": "Please write your home address on the form.",
+    "translation": "请在表格上写下你的家庭地址。"
   },
   {
     "number": "175",
     "word": "snow",
     "phonetic": "/snəʊ/",
-    "meaning": "v.下雪；降雪 n.雪花；雪"
+    "meaning": "v.下雪；降雪 n.雪花；雪",
+    "example": "The children play in the snow during winter.",
+    "translation": "孩子们在冬天玩雪。"
   },
   {
     "number": "176",
     "word": "knock",
     "phonetic": "/nɒk/",
-    "meaning": "v.敲；撞；击；打 n.撞击；敲击；敲击 声"
+    "meaning": "v.敲；撞；击；打 n.撞击；敲击；敲击 声",
+    "example": "Someone knocks on the door late at night.",
+    "translation": "有人在深夜敲门。"
   },
   {
     "number": "177",
     "word": "wolf",
     "phonetic": "/wʊlf/",
-    "meaning": "n.（pl.wolves）狼 v.狼吞⻁咽"
+    "meaning": "n.（pl.wolves）狼 v.狼吞⻁咽",
+    "example": "The wolf howls loudly in the forest.",
+    "translation": "狼在森林里大声嚎叫。"
   },
   {
     "number": "178",
     "word": "hold",
     "phonetic": "/həʊld/",
-    "meaning": "vt.召开；举行 v.抓住；承受住；坚持 住；拥有；进行；拿着；持有；保留 ；容纳；暂停 n.拿；持；控制"
+    "meaning": "vt.召开；举行 v.抓住；承受住；坚持 住；拥有；进行；拿着；持有；保留 ；容纳；暂停 n.拿；持；控制",
+    "example": "I hold my moms hand when we cross the street.",
+    "translation": "过马路时我牵着妈妈的手。"
   },
   {
     "number": "179",
     "word": "paw",
     "phonetic": "/pɔː/",
-    "meaning": "n.爪子；脚爪"
+    "meaning": "n.爪子；脚爪",
+    "example": "The cat washes its paws with its tongue.",
+    "translation": "猫用舌头洗爪子。"
   },
   {
     "number": "180",
     "word": "hunter",
     "phonetic": "/ˈhʌntə(r)/",
-    "meaning": "n.猎人；搜寻者 n.包；袋；购物袋；手提袋；提包；书"
+    "meaning": "n.猎人；搜寻者 n.包；袋；购物袋；手提袋；提包；书",
+    "example": "The hunter tracks animals in the forest.",
+    "translation": "猎人在森林里追踪动物。"
   },
   {
     "number": "181",
     "word": "bag",
     "phonetic": "13/13",
-    "meaning": "包；纸袋，塑料袋"
+    "meaning": "包；纸袋，塑料袋",
+    "example": "I carry my books in a school bag.",
+    "translation": "我用书包装书。"
   },
   {
     "number": "182",
     "word": "life",
     "phonetic": "/laɪf/",
-    "meaning": "n.生活；生命；人生；个人生活"
+    "meaning": "n.生活；生命；人生；个人生活",
+    "example": "We should cherish every moment of our life.",
+    "translation": "我们应该珍惜生活的每一刻。"
   },
   {
     "number": "183",
     "word": "story",
     "phonetic": "/ˈstɔːri/",
-    "meaning": "n.（真实或虚构的）故事，小说"
+    "meaning": "n.（真实或虚构的）故事，小说",
+    "example": "My grandma tells me a bedtime story every night.",
+    "translation": "我奶奶每晚给我讲睡前故事。"
   },
   {
     "number": "184",
     "word": "tie",
     "phonetic": "/taɪ/",
-    "meaning": "n.领带；关系；约束；平局；淘汰赛 v.捆；束；绑；系；拴；约束；与 ......成平局"
+    "meaning": "n.领带；关系；约束；平局；淘汰赛 v.捆；束；绑；系；拴；约束；与 ......成平局",
+    "example": "My dad helps me tie my shoelaces.",
+    "translation": "我爸爸帮我系鞋带。"
   },
   {
     "number": "185",
     "word": "never",
     "phonetic": "/ˈnevə(r)/",
-    "meaning": "adv.从不；从未；决不"
+    "meaning": "adv.从不；从未；决不",
+    "example": "I never forget my moms birthday.",
+    "translation": "我永远不会忘记我妈妈的生日。"
   },
   {
     "number": "186",
     "word": "trust",
     "phonetic": "/trʌst/",
-    "meaning": "v.信任，信赖，相信 n.信任，信赖，相 信"
+    "meaning": "v.信任，信赖，相信 n.信任，信赖，相 信",
+    "example": "I trust my best friend with my secrets.",
+    "translation": "我信任我最好的朋友保守我的秘密。"
   },
   {
     "number": "187",
     "word": "bad",
     "phonetic": "/bæd/",
-    "meaning": "adj.差的；邪恶的，坏的；不适合的 ；质量差的；感到愧疚；令人不快的"
+    "meaning": "adj.差的；邪恶的，坏的；不适合的 ；质量差的；感到愧疚；令人不快的",
+    "example": "It is bad to lie to your parents and teachers.",
+    "translation": "对父母和老师撒谎是不好的。"
   },
   {
     "number": "188",
     "word": "guy",
     "phonetic": "/ɡaɪ/",
-    "meaning": "n.（非正式）家伙；男人；小伙子"
+    "meaning": "n.（非正式）家伙；男人；小伙子",
+    "example": "The guy in the blue shirt is my cousin.",
+    "translation": "穿蓝色衬衫的那个家伙是我的表弟。"
   }
 ]

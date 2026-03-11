@@ -3,4140 +3,5520 @@
     "number": "1",
     "word": "unit",
     "phonetic": "/ˈjuːnɪt/",
-    "meaning": "n.单元；单位；机件"
+    "meaning": "n.单元；单位；机件",
+    "example": "We are learning a new unit about animals in English class.",
+    "translation": "我们在英语课上学习一个关于动物的新单元。"
   },
   {
     "number": "2",
     "word": "starter unit",
     "phonetic": "/ˈstɑːrtər ˈjuːnɪt/",
-    "meaning": "n.过渡单元"
+    "meaning": "n.过渡单元",
+    "example": "The starter unit helps us review basic English words.",
+    "translation": "过渡单元帮助我们复习基本的英语单词。"
   },
   {
     "number": "3",
     "word": "section",
     "phonetic": "/ˈsekʃn/",
-    "meaning": "n.部分,断片,部件,节,项,区,地域,截面"
+    "meaning": "n.部分,断片,部件,节,项,区,地域,截面",
+    "example": "Please read the first section of the textbook.",
+    "translation": "请阅读课本的第一部分。"
   },
   {
     "number": "4",
     "word": "greet",
     "phonetic": "/ɡriːt/",
-    "meaning": "v.和（某人）打招呼；欢迎；迎接，问候"
+    "meaning": "v.和（某人）打招呼；欢迎；迎接，问候",
+    "example": "I always greet my teacher when I see her in the morning.",
+    "translation": "我早上见到老师时总是向她问好。"
   },
   {
     "number": "5",
     "word": "each",
     "phonetic": "/iːtʃ/",
-    "meaning": "pron.（两个或两个以上物或人中的）每个；各 自 adj.各自的；每个的"
+    "meaning": "pron.（两个或两个以上物或人中的）每个；各 自 adj.各自的；每个的",
+    "example": "Each student has a notebook for English class.",
+    "translation": "每个学生都有一个英语课笔记本。"
   },
   {
     "number": "6",
     "word": "other",
     "phonetic": "/ˈʌðə(r)/",
-    "meaning": "adj.另外的;其他的;另外的人(或物)"
+    "meaning": "adj.另外的;其他的;另外的人(或物)",
+    "example": "I have two pencils, one red and the other blue.",
+    "translation": "我有两支铅笔，一支红色，另一支蓝色。"
   },
   {
     "number": "7",
     "word": "each other",
     "phonetic": "/ˌiːtʃ ˈʌðə(r)/",
-    "meaning": "互相；彼此"
+    "meaning": "互相；彼此",
+    "example": "We should help each other with our English homework.",
+    "translation": "我们应该互相帮助做英语作业。"
   },
   {
     "number": "8",
     "word": "oh",
     "phonetic": "/əʊ/",
-    "meaning": "int.哦；啊；嘿"
+    "meaning": "int.哦；啊；嘿",
+    "example": "Oh, I see! That's how you spell that word.",
+    "translation": "哦，我明白了！那个单词是这样拼写的。"
   },
   {
     "number": "9",
     "word": "everyone",
     "phonetic": "/ˈevriwʌn/",
-    "meaning": "pron.人人，每个人；所有人"
+    "meaning": "pron.人人，每个人；所有人",
+    "example": "Everyone in our class likes learning English.",
+    "translation": "我们班上的每个人都喜欢学习英语。"
   },
   {
     "number": "10",
     "word": "start",
     "phonetic": "/stɑːt/",
-    "meaning": "v.开始（做某事）；着手 n.开头，开端"
+    "meaning": "v.开始（做某事）；着手 n.开头，开端",
+    "example": "Let's start our English lesson with a song.",
+    "translation": "让我们用一首歌开始我们的英语课。"
   },
   {
     "number": "11",
     "word": "conversation",
     "phonetic": "/ˌkɒnvəˈseɪʃn/",
-    "meaning": "n.（非正式）交谈，谈话"
+    "meaning": "n.（非正式）交谈，谈话",
+    "example": "I had a nice conversation with my English pen pal.",
+    "translation": "我和我的英语笔友进行了一次愉快的交谈。"
   },
   {
     "number": "12",
     "word": "spell",
     "phonetic": "/spel/",
-    "meaning": "v.拼写；招致；意味着；顶替 n.一段时间；咒语 ；魅力"
+    "meaning": "v.拼写；招致；意味着；顶替 n.一段时间；咒语 ；魅力",
+    "example": "Can you spell your name in English?",
+    "translation": "你能用英语拼写你的名字吗？"
   },
   {
     "number": "13",
     "word": "bell",
     "phonetic": "/bel/",
-    "meaning": "n.钟（声）；铃（声）；铃铛"
+    "meaning": "n.钟（声）；铃（声）；铃铛",
+    "example": "The school bell rings at 8:00 every morning.",
+    "translation": "学校的铃声每天早上8点响起。"
   },
   {
     "number": "14",
     "word": "Helen",
     "phonetic": "/ˈhelən/",
-    "meaning": "n.海伦（女子名）"
+    "meaning": "n.海伦（女子名）",
+    "example": "Helen is my friend and she is good at English.",
+    "translation": "海伦是我的朋友，她英语很好。"
   },
   {
     "number": "15",
     "word": "Ella",
     "phonetic": "/ˈelə/",
-    "meaning": "埃拉"
+    "meaning": "埃拉",
+    "example": "Ella sings English songs very well.",
+    "translation": "埃拉唱英文歌非常好。"
   },
   {
     "number": "16",
     "word": "Emma",
     "phonetic": "/ˈemə/",
-    "meaning": "n.埃玛（人名）"
+    "meaning": "n.埃玛（人名）",
+    "example": "Emma is reading an English storybook.",
+    "translation": "埃玛正在读一本英文故事书。"
   },
   {
     "number": "17",
     "word": "Peter",
     "phonetic": "/ˈpiːtə(r)/",
-    "meaning": "n.彼得（男子名）"
+    "meaning": "n.彼得（男子名）",
+    "example": "Peter is from England and he speaks English fluently.",
+    "translation": "彼得来自英国，他英语说得很流利。"
   },
   {
     "number": "18",
     "word": "Brown",
     "phonetic": "/braʊn/",
-    "meaning": "n.布朗（姓氏）"
+    "meaning": "n.布朗（姓氏）",
+    "example": "Mr. Brown is our English teacher.",
+    "translation": "布朗先生是我们的英语老师。"
   },
   {
     "number": "19",
     "word": "PRC",
     "phonetic": "/piː ɑː(r) siː/",
-    "meaning": "abbr.中华人⺠共和国 ；PeoplesRepublicofChina的缩写"
+    "meaning": "abbr.中华人⺠共和国 ；PeoplesRepublicofChina的缩写",
+    "example": "The PRC is a great country with a long history.",
+    "translation": "中华人民共和国是一个有着悠久历史的伟大国家。"
   },
   {
     "number": "20",
     "word": "PLA",
     "phonetic": "/ˌpiː el ˈeɪ/",
-    "meaning": "abbr.人⺠解放军；PeoplesLiberationArmy的 缩写"
+    "meaning": "abbr.人⺠解放军；PeoplesLiberationArmy的 缩写",
+    "example": "The PLA protects our country.",
+    "translation": "人民解放军保护我们的国家。"
   },
   {
     "number": "21",
     "word": "VR",
     "phonetic": "/ˌviː ˈɑː(r)/",
-    "meaning": "abbr.虚拟现实；VirtualReality的缩写"
+    "meaning": "abbr.虚拟现实；VirtualReality的缩写",
+    "example": "We used VR to learn about English-speaking countries.",
+    "translation": "我们使用虚拟现实技术学习英语国家的知识。"
   },
   {
     "number": "22",
     "word": "WHO",
     "phonetic": "/ˌdʌbljuː eɪtʃ ˈəʊ/",
-    "meaning": "abbr.世界卫生组织"
+    "meaning": "abbr.世界卫生组织",
+    "example": "The WHO works to improve global health.",
+    "translation": "世界卫生组织致力于改善全球健康。"
   },
   {
     "number": "23",
     "word": "UN",
     "phonetic": "/ˌjuː ˈen/",
-    "meaning": "abbr.联合国；UnitedNations的缩写"
+    "meaning": "abbr.联合国；UnitedNations的缩写",
+    "example": "The UN was founded in 1945.",
+    "translation": "联合国成立于1945年。"
   },
   {
     "number": "24",
     "word": "Miller",
     "phonetic": "/ˈmɪlə(r)/",
-    "meaning": "n.米勒（姓氏）"
+    "meaning": "n.米勒（姓氏）",
+    "example": "Miller is a common last name in English-speaking countries.",
+    "translation": "米勒是英语国家常见的姓氏。"
   },
   {
     "number": "25",
     "word": "bottle",
     "phonetic": "/ˈbɒtl/",
-    "meaning": "n.一瓶（的量）；瓶子"
+    "meaning": "n.一瓶（的量）；瓶子",
+    "example": "I have a bottle of water in my bag.",
+    "translation": "我的包里有一瓶水。"
   },
   {
     "number": "26",
     "word": "eraser",
     "phonetic": "/ɪˈreɪzə(r)/",
-    "meaning": "n.橡皮，黑板擦"
+    "meaning": "n.橡皮，黑板擦",
+    "example": "I need an eraser to correct my mistakes.",
+    "translation": "我需要一块橡皮来纠正我的错误。"
   },
   {
     "number": "27",
     "word": "key",
     "phonetic": "/kiː/",
-    "meaning": "n.钥匙；关键；键 adj.至关重要的；必不可少的 ；关键的；主要的"
+    "meaning": "n.钥匙；关键；键 adj.至关重要的；必不可少的 ；关键的；主要的",
+    "example": "I lost the key to my room.",
+    "translation": "我丢失了房间的钥匙。"
   },
   {
     "number": "28",
     "word": "thing",
     "phonetic": "/θɪŋ/",
-    "meaning": "n.东西，物品；用品，用具；事情"
+    "meaning": "n.东西，物品；用品，用具；事情",
+    "example": "The most important thing is to study hard.",
+    "translation": "最重要的事情是努力学习。"
   },
   {
     "number": "29",
     "word": "need",
     "phonetic": "/niːd/",
-    "meaning": "n.需要；需要的事物 v.需要"
+    "meaning": "n.需要；需要的事物 v.需要",
+    "example": "We need to practice English every day.",
+    "translation": "我们需要每天练习英语。"
   },
   {
     "number": "30",
     "word": "You're welcome",
     "phonetic": "/jʊə(r) ˈwelkəm/",
-    "meaning": "phrase.不用客气/不用谢"
+    "meaning": "phrase.不用客气/不用谢",
+    "example": "When someone says \"thank you\", you can say \"You're welcome\".",
+    "translation": "当有人说\"谢谢\"时，你可以说\"不用客气\"。"
   },
   {
     "number": "31",
     "word": "fun",
     "phonetic": "/fʌn/",
-    "meaning": "adj.有趣的；使人快乐的 n.乐趣；快乐"
+    "meaning": "adj.有趣的；使人快乐的 n.乐趣；快乐",
+    "example": "Learning English can be fun if you practice with games.",
+    "translation": "如果你通过游戏练习，学习英语会很有趣。"
   },
   {
     "number": "32",
     "word": "yard",
     "phonetic": "/jɑːd/",
-    "meaning": "n.院子；庭院；码（⻓度单位，等于英尺或.米）"
+    "meaning": "n.院子；庭院；码（⻓度单位，等于英尺或.米）",
+    "example": "We play football in the school yard during recess.",
+    "translation": "我们在课间休息时在学校操场上踢足球。"
   },
   {
     "number": "33",
     "word": "carrot",
     "phonetic": "/ˈkærət/",
-    "meaning": "n.胡萝卜"
+    "meaning": "n.胡萝卜",
+    "example": "I like to eat carrots because they are good for my eyes.",
+    "translation": "我喜欢吃胡萝卜，因为它们对我的眼睛有好处。"
   },
   {
     "number": "34",
     "word": "goose",
     "phonetic": "/ɡuːs/",
-    "meaning": "n.鹅；雌鹅；鹅肉"
+    "meaning": "n.鹅；雌鹅；鹅肉",
+    "example": "I saw a goose swimming in the lake.",
+    "translation": "我看到一只鹅在湖里游泳。"
   },
   {
     "number": "35",
     "word": "geese",
     "phonetic": "/ɡiːs/",
-    "meaning": "n.鹅；雌鹅；goose的复数"
+    "meaning": "n.鹅；雌鹅；goose的复数",
+    "example": "A group of geese flew over our school.",
+    "translation": "一群鹅飞过我们的学校。"
   },
   {
     "number": "36",
     "word": "count",
     "phonetic": "/kaʊnt/",
-    "meaning": "v.重要；数数；计算总数；清点；看作；有价值 n.计数；计算"
+    "meaning": "v.重要；数数；计算总数；清点；看作；有价值 n.计数；计算",
+    "example": "Let's count from one to ten in English.",
+    "translation": "让我们用英语从一数到十。"
   },
   {
     "number": "37",
     "word": "another",
     "phonetic": "/əˈnʌðə(r)/",
-    "meaning": "adj.又一个的；另一个的 pron.又一；另一；不 同的（一个）"
+    "meaning": "adj.又一个的；另一个的 pron.又一；另一；不 同的（一个）",
+    "example": "Can I have another piece of paper, please?",
+    "translation": "请问我可以再要一张纸吗？"
   },
   {
     "number": "38",
     "word": "else",
     "phonetic": "/els/",
-    "meaning": "adj.别的；其他的 adv.另外，其他；别的，另外 的（用于表示不同的人事物地方等）"
+    "meaning": "adj.别的；其他的 adv.另外，其他；别的，另外 的（用于表示不同的人事物地方等）",
+    "example": "Is there anything else you want to learn in English?",
+    "translation": "你还想学习其他英语知识吗？"
   },
   {
     "number": "39",
     "word": "circle",
     "phonetic": "/ˈsɜːkl/",
-    "meaning": "v.圈出n.圆形；圆圈"
+    "meaning": "v.圈出n.圆形；圆圈",
+    "example": "Please draw a circle around the correct answer.",
+    "translation": "请在正确答案周围画一个圈。"
   },
   {
     "number": "40",
     "word": "look at",
     "phonetic": "/lʊk æt/",
-    "meaning": "phra.看......，瞧......"
+    "meaning": "phra.看......，瞧......",
+    "example": "Please look at the blackboard and listen carefully.",
+    "translation": "请看黑板，仔细听。"
   },
   {
     "number": "41",
     "word": "make friends",
     "phonetic": "/meɪk frendz/",
-    "meaning": "phrase.结交朋友"
+    "meaning": "phrase.结交朋友",
+    "example": "I want to make friends with students from English-speaking countries.",
+    "translation": "我想和英语国家的学生交朋友。"
   },
   {
     "number": "42",
     "word": "get to know",
     "phonetic": "/ɡet tu nəʊ/",
-    "meaning": "phra.认识；了解"
+    "meaning": "phra.认识；了解",
+    "example": "It takes time to get to know new classmates.",
+    "translation": "认识新同学需要时间。"
   },
   {
     "number": "43",
     "word": "full",
     "phonetic": "/fʊl/",
-    "meaning": "adj.满的；饱的；（有）大量的，丰富的；完全 的;忙的；完整的；满是的；充满的 adv.完全地 n.完全；完整"
+    "meaning": "adj.满的；饱的；（有）大量的，丰富的；完全 的;忙的；完整的；满是的；充满的 adv.完全地 n.完全；完整",
+    "example": "I can't eat anymore because I'm full.",
+    "translation": "我不能再吃了，因为我饱了。"
   },
   {
     "number": "44",
     "word": "full name",
     "phonetic": "/fʊl neɪm/",
-    "meaning": "phrase.全名；全称"
+    "meaning": "phrase.全名；全称",
+    "example": "Please write your full name on the paper.",
+    "translation": "请在纸上写下你的全名。"
   },
   {
     "number": "45",
     "word": "grade",
     "phonetic": "/ɡreɪd/",
-    "meaning": "n.成绩等级，评分等级；年级；级别 v.分等级 ；给......评分"
+    "meaning": "n.成绩等级，评分等级；年级；级别 v.分等级 ；给......评分",
+    "example": "I'm in Grade 7 this year.",
+    "translation": "我今年上七年级。"
   },
   {
     "number": "46",
     "word": "last name",
     "phonetic": "/ˈlɑːst ˌneɪm/",
-    "meaning": "phrase.姓氏"
+    "meaning": "phrase.姓氏",
+    "example": "My last name is Wang.",
+    "translation": "我的姓氏是王。"
   },
   {
     "number": "47",
     "word": "classmate",
     "phonetic": "/ˈklɑːsmeɪt/",
-    "meaning": "n.同班同学；同学"
+    "meaning": "n.同班同学；同学",
+    "example": "My classmate helps me with English pronunciation.",
+    "translation": "我的同学帮助我练习英语发音。"
   },
   {
     "number": "48",
     "word": "class teacher",
     "phonetic": "/klɑːs ˈtiːtʃə(r)/",
-    "meaning": "phra.班主任"
+    "meaning": "phra.班主任",
+    "example": "Our class teacher is very kind and helpful.",
+    "translation": "我们的班主任非常善良和乐于助人。"
   },
   {
     "number": "49",
     "word": "first name",
     "phonetic": "/ˈfɜːst neɪm/",
-    "meaning": "n.名字（不包括姓氏）"
+    "meaning": "n.名字（不包括姓氏）",
+    "example": "My first name is Li.",
+    "translation": "我的名字是李。"
   },
   {
     "number": "50",
     "word": "mistake",
     "phonetic": "/mɪˈsteɪk/",
-    "meaning": "n.错误；失误 v.弄错；误解；误会"
+    "meaning": "n.错误；失误 v.弄错；误解；误会",
+    "example": "It's okay to make mistakes when learning English.",
+    "translation": "学习英语时犯错误是可以的。"
   },
   {
     "number": "51",
     "word": "country",
     "phonetic": "/ˈkʌntri/",
-    "meaning": "n.国家，农村"
+    "meaning": "n.国家，农村",
+    "example": "China is a beautiful country with many traditions.",
+    "translation": "中国是一个有着许多传统的美丽国家。"
   },
   {
     "number": "52",
     "word": "same",
     "phonetic": "/seɪm/",
-    "meaning": "adj.相同的，同一个的；同样的 pron.(和...)同 样的事物"
+    "meaning": "adj.相同的，同一个的；同样的 pron.(和...)同 样的事物",
+    "example": "We wear the same school uniform every day.",
+    "translation": "我们每天穿相同的校服。"
   },
   {
     "number": "53",
     "word": "twin",
     "phonetic": "/twɪn/",
-    "meaning": "adj.双胞胎之一的；孪生之一的 n.孪生之一；双 胞胎之一"
+    "meaning": "adj.双胞胎之一的；孪生之一的 n.孪生之一；双 胞胎之一",
+    "example": "My cousin has a twin brother.",
+    "translation": "我的表弟有一个双胞胎兄弟。"
   },
   {
     "number": "54",
     "word": "both",
     "phonetic": "/bəʊθ/",
-    "meaning": "pron.两者，两者都 det./adj.两者的，两个；两 个都 conj.不仅......而且......"
+    "meaning": "pron.两者，两者都 det./adj.两者的，两个；两 个都 conj.不仅......而且......",
+    "example": "Both my parents can speak English.",
+    "translation": "我的父母都能说英语。"
   },
   {
     "number": "55",
     "word": "band",
     "phonetic": "/bænd/",
-    "meaning": "n.乐队；乐团；带子；一伙"
+    "meaning": "n.乐队；乐团；带子；一伙",
+    "example": "Our school band plays English songs.",
+    "translation": "我们学校的乐队演奏英文歌曲。"
   },
   {
     "number": "56",
     "word": "pot",
     "phonetic": "/pɒt/",
-    "meaning": "n.壶；锅；罐；瓢；盆 v.罐装；栽入盆中；射杀"
+    "meaning": "n.壶；锅；罐；瓢；盆 v.罐装；栽入盆中；射杀",
+    "example": "My mom uses a pot to cook soup.",
+    "translation": "我妈妈用锅煮汤。"
   },
   {
     "number": "57",
     "word": "a lot",
     "phonetic": "/ə lɒt/",
-    "meaning": "大量，许多;很；非常"
+    "meaning": "大量，许多;很；非常",
+    "example": "I learned a lot about English culture from the movie.",
+    "translation": "我从电影中学到了很多关于英国文化的知识。"
   },
   {
     "number": "58",
     "word": "tofu",
     "phonetic": "/ˈtəʊfuː/",
-    "meaning": "n.豆腐"
+    "meaning": "n.豆腐",
+    "example": "Tofu is a healthy food that I like to eat.",
+    "translation": "豆腐是我喜欢吃的健康食品。"
   },
   {
     "number": "59",
     "word": "parrot",
     "phonetic": "/ˈpærət/",
-    "meaning": "n.鹦鹉；学舌者 v.鹦鹉学舌地说；机械地模仿"
+    "meaning": "n.鹦鹉；学舌者 v.鹦鹉学舌地说；机械地模仿",
+    "example": "The parrot can say \"hello\" in English.",
+    "translation": "这只鹦鹉会用英语说\"你好\"。"
   },
   {
     "number": "60",
     "word": "guitar",
     "phonetic": "/ɡɪˈtɑː(r)/",
-    "meaning": "n.吉他"
+    "meaning": "n.吉他",
+    "example": "I want to learn to play the guitar.",
+    "translation": "我想学习弹吉他。"
   },
   {
     "number": "61",
     "word": "tennis",
     "phonetic": "/ˈtenɪs/",
-    "meaning": "n.网球；网球运动"
+    "meaning": "n.网球；网球运动",
+    "example": "I play tennis with my friends on weekends.",
+    "translation": "我周末和朋友打网球。"
   },
   {
     "number": "62",
     "word": "page",
     "phonetic": "/peɪdʒ/",
-    "meaning": "n.（书刊报纸文件等的）⻚，面，张"
+    "meaning": "n.（书刊报纸文件等的）⻚，面，张",
+    "example": "Please turn to page 20 in your English textbook.",
+    "translation": "请翻到英语课本的第20页。"
   },
   {
     "number": "63",
     "word": "even",
     "phonetic": "/ˈiːv(ə)n/",
-    "meaning": "adv.甚至；即使；甚至于；连；愈加 adj.偶数的 ；平坦的 v.使平均；使相等；使平坦"
+    "meaning": "adv.甚至；即使；甚至于；连；愈加 adj.偶数的 ；平坦的 v.使平均；使相等；使平坦",
+    "example": "Even though English is difficult, I will keep practicing.",
+    "translation": "尽管英语很难，我会继续练习。"
   },
   {
     "number": "64",
     "word": "hey",
     "phonetic": "/heɪ/",
-    "meaning": "excel.嘿，喂"
+    "meaning": "excel.嘿，喂",
+    "example": "Hey, do you want to study English together?",
+    "translation": "嘿，你想一起学习英语吗？"
   },
   {
     "number": "65",
     "word": "play the guitar",
     "phonetic": "/pleɪ ðə ɡɪˈtɑː(r)/",
-    "meaning": "phrase.弹吉他"
+    "meaning": "phrase.弹吉他",
+    "example": "My friend can play the guitar and sing English songs.",
+    "translation": "我的朋友会弹吉他，唱英文歌。"
   },
   {
     "number": "66",
     "word": "would",
     "phonetic": "/wʊd/",
-    "meaning": "modalv.（表示意愿）愿意；想；打算想要 ；（will的过去式）将会，就会"
+    "meaning": "modalv.（表示意愿）愿意；想；打算想要 ；（will的过去式）将会，就会",
+    "example": "I would like to improve my English speaking skills.",
+    "translation": "我想提高我的英语口语技能。"
   },
   {
     "number": "67",
     "word": "would like to",
     "phonetic": "/wʊd laɪk tu/",
-    "meaning": "phrase.想要；愿意，喜欢；想做"
+    "meaning": "phrase.想要；愿意，喜欢；想做",
+    "example": "I would like to visit the UK someday.",
+    "translation": "我希望有一天能访问英国。"
   },
   {
     "number": "68",
     "word": "information",
     "phonetic": "/ˌɪnfəˈmeɪʃn/",
-    "meaning": "n.信息；消息；资料"
+    "meaning": "n.信息；消息；资料",
+    "example": "We can find information about English online.",
+    "translation": "我们可以在网上找到关于英语的信息。"
   },
   {
     "number": "69",
     "word": "hobby",
     "phonetic": "/ˈhɒbi/",
-    "meaning": "n.业余爱好；嗜好"
+    "meaning": "n.业余爱好；嗜好",
+    "example": "My hobby is reading English books.",
+    "translation": "我的爱好是读英语书。"
   },
   {
     "number": "70",
     "word": "re",
     "phonetic": "/riː/",
-    "meaning": "prep.(用于回复电子邮件)关于;事由"
+    "meaning": "prep.(用于回复电子邮件)关于;事由",
+    "example": "I received an email with \"re\" in the subject line.",
+    "translation": "我收到了一封主题行中有\"re\"的邮件。"
   },
   {
     "number": "71",
     "word": "Green",
     "phonetic": "/ɡriːn/",
-    "meaning": "n.格林（姓氏）"
+    "meaning": "n.格林（姓氏）",
+    "example": "Miss Green teaches us English.",
+    "translation": "格林小姐教我们英语。"
   },
   {
     "number": "72",
     "word": "UK",
     "phonetic": "/ˌjuː ˈkeɪ/",
-    "meaning": "abbr.英国；UnitedKingdom的缩写"
+    "meaning": "abbr.英国；UnitedKingdom的缩写",
+    "example": "The UK is made up of England, Scotland, Wales, and Northern Ireland.",
+    "translation": "英国由英格兰、苏格兰、威尔士和北爱尔兰组成。"
   },
   {
     "number": "73",
     "word": "US",
     "phonetic": "/ˌjuː ˈes/",
-    "meaning": "abbr.美国；UnitedStates的缩写"
+    "meaning": "abbr.美国；UnitedStates的缩写",
+    "example": "The US is a large country in North America.",
+    "translation": "美国是北美洲的一个大国。"
   },
   {
     "number": "74",
     "word": "Smith",
     "phonetic": "/smɪθ/",
-    "meaning": "史密斯"
+    "meaning": "史密斯",
+    "example": "Smith is a common last name in the US.",
+    "translation": "史密斯是美国常见的姓氏。"
   },
   {
     "number": "75",
     "word": "Lisa",
     "phonetic": "/ˈliːsə/",
-    "meaning": "n.莉萨（女子名）"
+    "meaning": "n.莉萨（女子名）",
+    "example": "Lisa is my English pen pal from Canada.",
+    "translation": "莉萨是我来自加拿大的英语笔友。"
   },
   {
     "number": "76",
     "word": "Tom",
     "phonetic": "/tɒm/",
-    "meaning": "n.汤姆（男子名）"
+    "meaning": "n.汤姆（男子名）",
+    "example": "Tom is good at English and helps me with my homework.",
+    "translation": "汤姆擅长英语，帮助我做家庭作业。"
   },
   {
     "number": "77",
     "word": "hot pot",
     "phonetic": "/hɒt pɒt/",
-    "meaning": "phrase.火锅"
+    "meaning": "phrase.火锅",
+    "example": "My family likes to eat hot pot in winter.",
+    "translation": "我的家人喜欢在冬天吃火锅。"
   },
   {
     "number": "78",
     "word": "Sally",
     "phonetic": "/ˈsæli/",
-    "meaning": "n.萨莉（女子名）"
+    "meaning": "n.萨莉（女子名）",
+    "example": "Sally won the English writing competition.",
+    "translation": "萨莉赢得了英语写作比赛。"
   },
   {
     "number": "79",
     "word": "Wood",
     "phonetic": "/wʊd/",
-    "meaning": "n.伍德（姓氏）"
+    "meaning": "n.伍德（姓氏）",
+    "example": "Mr. Wood is our English teacher.",
+    "translation": "伍德先生是我们的英语老师。"
   },
   {
     "number": "80",
     "word": "Sydney",
     "phonetic": "/ˈsɪdni/",
-    "meaning": "n.（澳大利亚城市）悉尼"
+    "meaning": "n.（澳大利亚城市）悉尼",
+    "example": "Sydney is a beautiful city in Australia.",
+    "translation": "悉尼是澳大利亚的一个美丽城市。"
   },
   {
     "number": "81",
     "word": "Australia",
     "phonetic": "/ɒˈstreɪliə/",
-    "meaning": "n.澳大利亚；澳洲"
+    "meaning": "n.澳大利亚；澳洲",
+    "example": "Australia is known for its kangaroos and koalas.",
+    "translation": "澳大利亚以袋鼠和考拉而闻名。"
   },
   {
     "number": "82",
     "word": "Mapo tofu",
     "phonetic": "/ˈmɑːpəʊ ˈtuːfuː/",
-    "meaning": "麻婆豆腐"
+    "meaning": "麻婆豆腐",
+    "example": "Mapo tofu is a famous Chinese dish.",
+    "translation": "麻婆豆腐是一道著名的中国菜。"
   },
   {
     "number": "83",
     "word": "Beijing roast duck",
     "phonetic": "/beɪˈdʒɪŋ rəʊst dʌk/",
-    "meaning": "北京烤鸭"
+    "meaning": "北京烤鸭",
+    "example": "Beijing roast duck is a delicious Chinese food.",
+    "translation": "北京烤鸭是一种美味的中国食物。"
   },
   {
     "number": "84",
     "word": "Singapore",
     "phonetic": "/ˌsɪŋəˈpɔː(r)/",
-    "meaning": "n.新加坡"
+    "meaning": "n.新加坡",
+    "example": "Singapore is a small but modern country.",
+    "translation": "新加坡是一个小但现代化的国家。"
   },
   {
     "number": "85",
     "word": "the Great Wall",
     "phonetic": "/ðə ɡreɪt wɔːl/",
-    "meaning": "phra.⻓城"
+    "meaning": "phra.⻓城",
+    "example": "The Great Wall is one of the Seven Wonders of the World.",
+    "translation": "长城是世界七大奇迹之一。"
   },
   {
     "number": "86",
     "word": "Pauline",
     "phonetic": "/ˈpɔːliːn/",
-    "meaning": "保利娜"
+    "meaning": "保利娜",
+    "example": "Pauline is learning Chinese and English.",
+    "translation": "保利娜正在学习中文和英语。"
   },
   {
     "number": "87",
     "word": "Lee",
     "phonetic": "/liː/",
-    "meaning": "李"
+    "meaning": "李",
+    "example": "Mr. Lee is our math teacher, but he also knows English.",
+    "translation": "李老师是我们的数学老师，但他也懂英语。"
   },
   {
     "number": "88",
     "word": "Coco",
     "phonetic": "/ˈkəʊkəʊ/",
-    "meaning": "科科"
+    "meaning": "科科",
+    "example": "Coco has a pet cat and talks to it in English.",
+    "translation": "科科有一只宠物猫，用英语和它说话。"
   },
   {
     "number": "89",
     "word": "London",
     "phonetic": "/ˈlʌndən/",
-    "meaning": "n.伦敦（英国首都）"
+    "meaning": "n.伦敦（英国首都）",
+    "example": "London is the capital city of the UK.",
+    "translation": "伦敦是英国的首都。"
   },
   {
     "number": "90",
     "word": "mean",
     "phonetic": "/miːn/",
-    "meaning": "v.表示的意思；意味着；意思是；打算；意欲 ；导致；有意；对......严肃认真 adj.低劣的；吝 啬的；小气的；平均的 n.平均数；中庸；居中"
+    "meaning": "v.表示的意思；意味着；意思是；打算；意欲 ；导致；有意；对......严肃认真 adj.低劣的；吝 啬的；小气的；平均的 n.平均数；中庸；居中",
+    "example": "What does this English word mean?",
+    "translation": "这个英语单词是什么意思？"
   },
   {
     "number": "91",
     "word": "husband",
     "phonetic": "/ˈhʌzbənd/",
-    "meaning": "丈夫"
+    "meaning": "丈夫",
+    "example": "My aunt's husband is an English teacher.",
+    "translation": "我阿姨的丈夫是一名英语老师。"
   },
   {
     "number": "92",
     "word": "bat",
     "phonetic": "/bæt/",
-    "meaning": "n.蝙蝠；球拍；球棒 vi./vt.用球板击球；挥打 ；拍打"
+    "meaning": "n.蝙蝠；球拍；球棒 vi./vt.用球板击球；挥打 ；拍打",
+    "example": "I use a bat to play baseball.",
+    "translation": "我用球棒打棒球。"
   },
   {
     "number": "93",
     "word": "ping-pong bat",
     "phonetic": "/ˈpɪŋ pɒŋ bæt/",
-    "meaning": "乒乓球拍"
+    "meaning": "乒乓球拍",
+    "example": "I bought a new ping-pong bat yesterday.",
+    "translation": "我昨天买了一个新的乒乓球拍。"
   },
   {
     "number": "94",
     "word": "play ping-pong",
     "phonetic": "/pleɪ pɪŋ pɒŋ/",
-    "meaning": "phrase.打乒乓球"
+    "meaning": "phrase.打乒乓球",
+    "example": "We play ping-pong after school every day.",
+    "translation": "我们每天放学后打乒乓球。"
   },
   {
     "number": "95",
     "word": "together",
     "phonetic": "/təˈɡeðə(r)/",
-    "meaning": "adv.一起，在一起，共同，一⻬，一块儿"
+    "meaning": "adv.一起，在一起，共同，一⻬，一块儿",
+    "example": "We study English together to improve our skills.",
+    "translation": "我们一起学习英语来提高我们的技能。"
   },
   {
     "number": "96",
     "word": "every day",
     "phonetic": "/ˈevri deɪ/",
-    "meaning": "phrase.每天；天天"
+    "meaning": "phrase.每天；天天",
+    "example": "I practice English every day.",
+    "translation": "我每天练习英语。"
   },
   {
     "number": "97",
     "word": "fishing rod",
     "phonetic": "/ˈfɪʃɪŋ rɒd/",
-    "meaning": "n.钓竿"
+    "meaning": "n.钓竿",
+    "example": "My dad has a fishing rod and likes to go fishing.",
+    "translation": "我爸爸有一根钓鱼竿，喜欢去钓鱼。"
   },
   {
     "number": "98",
     "word": "spend",
     "phonetic": "/spend/",
-    "meaning": "v.花（时间）；花费（金钱时间等）；度过"
+    "meaning": "v.花（时间）；花费（金钱时间等）；度过",
+    "example": "I spend one hour studying English every evening.",
+    "translation": "我每天晚上花一小时学习英语。"
   },
   {
     "number": "99",
     "word": "a lot of",
     "phonetic": "/ə lɒt əv/",
-    "meaning": "许多，大量(lotsof)"
+    "meaning": "许多，大量(lotsof)",
+    "example": "There are a lot of English books in our school library.",
+    "translation": "我们学校图书馆有很多英语书。"
   },
   {
     "number": "100",
     "word": "really",
     "phonetic": "/ˈriːəli/",
-    "meaning": "adv.真正地；的确；很；十分；非常；确实；答 话时表示感兴趣或惊讶"
+    "meaning": "adv.真正地；的确；很；十分；非常；确实；答 话时表示感兴趣或惊讶",
+    "example": "English is really important for our future.",
+    "translation": "英语对我们的未来真的很重要。"
   },
   {
     "number": "101",
     "word": "member",
     "phonetic": "/ˈmembə(r)/",
-    "meaning": "n.成员；分子；会员"
+    "meaning": "n.成员；分子；会员",
+    "example": "I am a member of the school English club.",
+    "translation": "我是学校英语俱乐部的成员。"
   },
   {
     "number": "102",
     "word": "activity",
     "phonetic": "/ækˈtɪvəti/",
-    "meaning": "n.活动；活跃"
+    "meaning": "n.活动；活跃",
+    "example": "We have many English activities in our school.",
+    "translation": "我们学校有很多英语活动。"
   },
   {
     "number": "103",
     "word": "chess",
     "phonetic": "/tʃes/",
-    "meaning": "n.（国际）象棋"
+    "meaning": "n.（国际）象棋",
+    "example": "I like to play chess with my grandfather.",
+    "translation": "我喜欢和爷爷下棋。"
   },
   {
     "number": "104",
     "word": "Chinese chess",
     "phonetic": "/ˈtʃaɪnəz ˈʧɛs/",
-    "meaning": "phra.中国象棋"
+    "meaning": "phra.中国象棋",
+    "example": "Chinese chess is a traditional game in China.",
+    "translation": "中国象棋是中国的传统游戏。"
   },
   {
     "number": "105",
     "word": "grandparent",
     "phonetic": "/ˈɡrænpeərənt/",
-    "meaning": "n.祖父；祖母；外祖父；外祖母"
+    "meaning": "n.祖父；祖母；外祖父；外祖母",
+    "example": "My grandparents live in the countryside.",
+    "translation": "我的祖父母住在农村。"
   },
   {
     "number": "106",
     "word": "funny",
     "phonetic": "/ˈfʌni/",
-    "meaning": "adj.滑稽的；好笑的；奇怪的；有趣的"
+    "meaning": "adj.滑稽的；好笑的；奇怪的；有趣的",
+    "example": "Our English teacher tells funny stories in class.",
+    "translation": "我们的英语老师在课堂上讲有趣的故事。"
   },
   {
     "number": "107",
     "word": "laugh",
     "phonetic": "/lɑːf/",
-    "meaning": "v.发出笑声；（大）笑；发笑 n.笑；笑声"
+    "meaning": "v.发出笑声；（大）笑；发笑 n.笑；笑声",
+    "example": "We laugh when our teacher tells jokes.",
+    "translation": "当老师讲笑话时，我们会笑。"
   },
   {
     "number": "108",
     "word": "different",
     "phonetic": "/ˈdɪfrənt/",
-    "meaning": "adj.不同的，不一样的，有区别的"
+    "meaning": "adj.不同的，不一样的，有区别的",
+    "example": "English is different from Chinese in many ways.",
+    "translation": "英语在许多方面与汉语不同。"
   },
   {
     "number": "109",
     "word": "violin",
     "phonetic": "/ˌvaɪəˈlɪn/",
-    "meaning": "n.小提琴"
+    "meaning": "n.小提琴",
+    "example": "My sister plays the violin very well.",
+    "translation": "我姐姐拉小提琴拉得很好。"
   },
   {
     "number": "110",
     "word": "have fun",
     "phonetic": "/hæv fʌn/",
-    "meaning": "phrase.玩得开心/玩得高兴"
+    "meaning": "phrase.玩得开心/玩得高兴",
+    "example": "We have fun learning English through games.",
+    "translation": "我们通过游戏学习英语很开心。"
   },
   {
     "number": "111",
     "word": "hat",
     "phonetic": "/hæt/",
-    "meaning": "n.（通常指有檐的）帽子"
+    "meaning": "n.（通常指有檐的）帽子",
+    "example": "I wear a hat to protect myself from the sun.",
+    "translation": "我戴帽子来防晒。"
   },
   {
     "number": "112",
     "word": "handsome",
     "phonetic": "/ˈhænsəm/",
-    "meaning": "adj.（男子）英俊的，漂亮的；大方的，慷慨的 ，美观的"
+    "meaning": "adj.（男子）英俊的，漂亮的；大方的，慷慨的 ，美观的",
+    "example": "The new English teacher is young and handsome.",
+    "translation": "新来的英语老师年轻英俊。"
   },
   {
     "number": "113",
     "word": "knee",
     "phonetic": "/niː/",
-    "meaning": "n.膝盖；膝部"
+    "meaning": "n.膝盖；膝部",
+    "example": "I hurt my knee while playing football.",
+    "translation": "我踢足球时伤了膝盖。"
   },
   {
     "number": "114",
     "word": "at night",
     "phonetic": "/æt naɪt/",
-    "meaning": "phrase.在夜里"
+    "meaning": "phrase.在夜里",
+    "example": "I study English at night before going to bed.",
+    "translation": "我晚上睡觉前学习英语。"
   },
   {
     "number": "115",
     "word": "in the middle",
     "phonetic": "/ɪn ðə ˈmɪdl/",
-    "meaning": "phrase.在中间；正当...的时候"
+    "meaning": "phrase.在中间；正当...的时候",
+    "example": "My desk is in the middle of the classroom.",
+    "translation": "我的书桌在教室中间。"
   },
   {
     "number": "116",
     "word": "grandchild",
     "phonetic": "/ˈɡræntʃaɪld/",
-    "meaning": "n.（外）孙子；（外）孙女"
+    "meaning": "n.（外）孙子；（外）孙女",
+    "example": "I am the only grandchild in my family.",
+    "translation": "我是家里唯一的孙子。"
   },
   {
     "number": "117",
     "word": "grandchildren",
     "phonetic": "/ˈɡrænˌtʃɪldrən/",
-    "meaning": "n.孙子；孙女；外孙；外孙女；grandchild的 复数"
+    "meaning": "n.孙子；孙女；外孙；外孙女；grandchild的 复数",
+    "example": "My grandparents have three grandchildren.",
+    "translation": "我的祖父母有三个孙子孙女。"
   },
   {
     "number": "118",
     "word": "son",
     "phonetic": "/sʌn/",
-    "meaning": "儿子"
+    "meaning": "儿子",
+    "example": "My aunt has a son who is my age.",
+    "translation": "我阿姨有一个和我同龄的儿子。"
   },
   {
     "number": "119",
     "word": "hike",
     "phonetic": "/haɪk/",
-    "meaning": "v.（在......）徒步旅行，远足；（费用）增加 n.远足；徒步旅行"
+    "meaning": "v.（在......）徒步旅行，远足；（费用）增加 n.远足；徒步旅行",
+    "example": "We like to hike in the mountains on weekends.",
+    "translation": "我们喜欢在周末去山里远足。"
   },
   {
     "number": "120",
     "word": "go hiking",
     "phonetic": "/ɡəʊ ˈhaɪkɪŋ/",
-    "meaning": "phrase.去远足"
+    "meaning": "phrase.去远足",
+    "example": "Let's go hiking this Sunday.",
+    "translation": "这个星期天我们去远足吧。"
   },
   {
     "number": "121",
     "word": "next to",
     "phonetic": "/ˈnekst tə/",
-    "meaning": "phrase.紧挨着的；紧靠......旁边，在......旁边 ，与......相邻"
+    "meaning": "phrase.紧挨着的；紧靠......旁边，在......旁边 ，与......相邻",
+    "example": "My best friend sits next to me in English class.",
+    "translation": "我最好的朋友在英语课上坐在我旁边。"
   },
   {
     "number": "122",
     "word": "David",
     "phonetic": "/ˈdeɪvɪd/",
-    "meaning": "n.戴维（男子名）"
+    "meaning": "n.戴维（男子名）",
+    "example": "David is from the US and teaches us English.",
+    "translation": "戴维来自美国，教我们英语。"
   },
   {
     "number": "123",
     "word": "Jim",
     "phonetic": "/dʒɪm/",
-    "meaning": "n.吉姆（男子名）"
+    "meaning": "n.吉姆（男子名）",
+    "example": "Jim is my deskmate and we study English together.",
+    "translation": "吉姆是我的同桌，我们一起学习英语。"
   },
   {
     "number": "124",
     "word": "Kate",
     "phonetic": "/keɪt/",
-    "meaning": "n.凯特（女子名）"
+    "meaning": "n.凯特（女子名）",
+    "example": "Kate is good at English grammar.",
+    "translation": "凯特擅长英语语法。"
   },
   {
     "number": "125",
     "word": "Lily",
     "phonetic": "/ˈlɪli/",
-    "meaning": "莉莉（女名）"
+    "meaning": "莉莉（女名）",
+    "example": "Lily sings English songs beautifully.",
+    "translation": "莉莉唱英文歌很动听。"
   },
   {
     "number": "126",
     "word": "Ireland",
     "phonetic": "/ˈaɪələnd/",
-    "meaning": "n.爱尔兰"
+    "meaning": "n.爱尔兰",
+    "example": "Ireland is a beautiful country with green hills.",
+    "translation": "爱尔兰是一个有着绿色山丘的美丽国家。"
   },
   {
     "number": "127",
     "word": "Fred",
     "phonetic": "/fred/",
-    "meaning": "n.弗雷德（男子名）"
+    "meaning": "n.弗雷德（男子名）",
+    "example": "Fred is from Canada and speaks both English and French.",
+    "translation": "弗雷德来自加拿大，会说英语和法语。"
   },
   {
     "number": "128",
     "word": "Sam",
     "phonetic": "/sæm/",
-    "meaning": "n.山姆（男子名）"
+    "meaning": "n.山姆（男子名）",
+    "example": "Sam likes to read English novels.",
+    "translation": "山姆喜欢读英文小说。"
   },
   {
     "number": "129",
     "word": "Jane",
     "phonetic": "/dʒeɪn/",
-    "meaning": "n.简（女子名）"
+    "meaning": "n.简（女子名）",
+    "example": "Jane writes English poems.",
+    "translation": "简写英语诗。"
   },
   {
     "number": "130",
     "word": "Jack",
     "phonetic": "/dʒæk/",
-    "meaning": "杰克"
+    "meaning": "杰克",
+    "example": "Jack is good at English idioms.",
+    "translation": "杰克擅长英语习语。"
   },
   {
     "number": "131",
     "word": "Sarah",
     "phonetic": "/ˈseərə/",
-    "meaning": "n.萨拉（女子名）"
+    "meaning": "n.萨拉（女子名）",
+    "example": "Sarah is reading an English biography.",
+    "translation": "萨拉正在读一本英文传记。"
   },
   {
     "number": "132",
     "word": "Oscar",
     "phonetic": "/ˈɒskə(r)/",
-    "meaning": "n.奥斯卡（男子名）；奥斯卡金像奖"
+    "meaning": "n.奥斯卡（男子名）；奥斯卡金像奖",
+    "example": "Oscar won the English speech contest.",
+    "translation": "奥斯卡赢得了英语演讲比赛。"
   },
   {
     "number": "133",
     "word": "Lucy",
     "phonetic": "/ˈluːsi/",
-    "meaning": "n.露西（女子名）"
+    "meaning": "n.露西（女子名）",
+    "example": "Lucy is learning to play the piano and practice English.",
+    "translation": "露西正在学习弹钢琴，同时练习英语。"
   },
   {
     "number": "134",
     "word": "hall",
     "phonetic": "/hɔːl/",
-    "meaning": "n.大厅；礼堂；⻔厅"
+    "meaning": "n.大厅；礼堂；⻔厅",
+    "example": "We have assembly in the school hall every Monday.",
+    "translation": "我们每周一在学校礼堂举行集会。"
   },
   {
     "number": "135",
     "word": "dining hall",
     "phonetic": "/ˈdaɪnɪŋ hɔːl/",
-    "meaning": "餐厅；⻝堂"
+    "meaning": "餐厅；⻝堂",
+    "example": "We eat lunch in the dining hall every day.",
+    "translation": "我们每天在餐厅吃午餐。"
   },
   {
     "number": "136",
     "word": "in front of",
     "phonetic": "/ɪn frʌnt ɒv/",
-    "meaning": "phra.在......的前面"
+    "meaning": "phra.在......的前面",
+    "example": "There is a tree in front of our classroom.",
+    "translation": "我们教室前面有一棵树。"
   },
   {
     "number": "137",
     "word": "building",
     "phonetic": "/ˈbɪldɪŋ/",
-    "meaning": "n.建筑物；房子，楼房 v.建筑；build的现在分 词"
+    "meaning": "n.建筑物；房子，楼房 v.建筑；build的现在分 词",
+    "example": "Our school has a new building for English classes.",
+    "translation": "我们学校有一栋新的英语教学楼。"
   },
   {
     "number": "138",
     "word": "across",
     "phonetic": "/əˈkrɒs/",
-    "meaning": "prep.横跨；跨越；穿过；横过；遍及；从一边 到另一边；在......对面 adv.横过；从一边到另一 边；穿过；越过；在对面"
+    "meaning": "prep.横跨；跨越；穿过；横过；遍及；从一边 到另一边；在......对面 adv.横过；从一边到另一 边；穿过；越过；在对面",
+    "example": "The library is across the playground.",
+    "translation": "图书馆在操场对面。"
   },
   {
     "number": "139",
     "word": "across from",
     "phonetic": "/əˈkrɒs frəm/",
-    "meaning": "phrase.在...对面"
+    "meaning": "phrase.在...对面",
+    "example": "My house is across from the school.",
+    "translation": "我家在学校对面。"
   },
   {
     "number": "140",
     "word": "centre",
     "phonetic": "/ˈsentə(r)/",
-    "meaning": "n.（美式center）中心；中央；中心区 v.放在 ......中央"
+    "meaning": "n.（美式center）中心；中央；中心区 v.放在 ......中央",
+    "example": "The city centre has many shops and restaurants.",
+    "translation": "市中心有许多商店和餐馆。"
   },
   {
     "number": "141",
     "word": "center",
     "phonetic": "/ˈsentə(r)/",
-    "meaning": "n.(centre)中心;中央"
+    "meaning": "n.(centre)中心;中央",
+    "example": "The shopping center near our school has a bookstore.",
+    "translation": "我们学校附近的购物中心有一家书店。"
   },
   {
     "number": "142",
     "word": "gym",
     "phonetic": "/dʒɪm/",
-    "meaning": "n.（gymnasium）体育馆，健身房"
+    "meaning": "n.（gymnasium）体育馆，健身房",
+    "example": "We have PE class in the gym.",
+    "translation": "我们在体育馆上体育课。"
   },
   {
     "number": "143",
     "word": "gymnasium",
     "phonetic": "/dʒɪmˈneɪziəm/",
-    "meaning": "n.体育馆，健身房(尤指学校的)体育活动"
+    "meaning": "n.体育馆，健身房(尤指学校的)体育活动",
+    "example": "The new gymnasium in our school is very big.",
+    "translation": "我们学校的新体育馆非常大。"
   },
   {
     "number": "144",
     "word": "field",
     "phonetic": "/fiːld/",
-    "meaning": "n.田野；田，地；田地；运动场；领域；场地 v.处理，应付（问题电话等）"
+    "meaning": "n.田野；田，地；田地；运动场；领域；场地 v.处理，应付（问题电话等）",
+    "example": "We play football on the field after school.",
+    "translation": "我们放学后在球场上踢足球。"
   },
   {
     "number": "145",
     "word": "sports field",
     "phonetic": "/spɔːts fiːld/",
-    "meaning": "phrase.运动场；体育场"
+    "meaning": "phrase.运动场；体育场",
+    "example": "The sports field in our school is very big.",
+    "translation": "我们学校的运动场非常大。"
   },
   {
     "number": "146",
     "word": "office",
     "phonetic": "/ˈɒfɪs/",
-    "meaning": "n.办公室，办公楼，办事处，公司"
+    "meaning": "n.办公室，办公楼，办事处，公司",
+    "example": "The teachers' office is on the second floor.",
+    "translation": "教师办公室在二楼。"
   },
   {
     "number": "147",
     "word": "large",
     "phonetic": "/lɑːdʒ/",
-    "meaning": "adj.巨大的，大的，大量的；大号的；广泛的 ，众多的；大型号的"
+    "meaning": "adj.巨大的，大的，大量的；大号的；广泛的 ，众多的；大型号的",
+    "example": "Our classroom is large enough for all students.",
+    "translation": "我们的教室足够大，可以容纳所有学生。"
   },
   {
     "number": "148",
     "word": "special",
     "phonetic": "/ˈspeʃl/",
-    "meaning": "n.特色菜；特价；特派员；专⻋；特别的物品 adj.特别的；特殊的"
+    "meaning": "n.特色菜；特价；特派员；专⻋；特别的物品 adj.特别的；特殊的",
+    "example": "Today is a special day because we have an English party.",
+    "translation": "今天是特殊的一天，因为我们有一个英语派对。"
   },
   {
     "number": "149",
     "word": "smart",
     "phonetic": "/smɑːt/",
-    "meaning": "adj.聪明的；机敏的；敏捷的；时髦的；衣冠楚 楚的，衣着讲究的 v.剧痛；刺痛"
+    "meaning": "adj.聪明的；机敏的；敏捷的；时髦的；衣冠楚 楚的，衣着讲究的 v.剧痛；刺痛",
+    "example": "My little brother is very smart and learns English quickly.",
+    "translation": "我的小弟弟很聪明，学英语很快。"
   },
   {
     "number": "150",
     "word": "whiteboard",
     "phonetic": "/ˈwaɪtbɔːd/",
-    "meaning": "n.白色书写板；白板"
+    "meaning": "n.白色书写板；白板",
+    "example": "The teacher writes new English words on the whiteboard.",
+    "translation": "老师在白板上写新的英语单词。"
   },
   {
     "number": "151",
     "word": "put up",
     "phonetic": "/pʊt ʌp/",
-    "meaning": "phrase.搭起，挂起，举起；张贴；建造；进行 ；提供；推举；提供⻝宿"
+    "meaning": "phrase.搭起，挂起，举起；张贴；建造；进行 ；提供；推举；提供⻝宿",
+    "example": "We put up English posters on the classroom walls.",
+    "translation": "我们在教室墙上贴英语海报。"
   },
   {
     "number": "152",
     "word": "important",
     "phonetic": "/ɪmˈpɔːtnt/",
-    "meaning": "adj.重要的；重大的"
+    "meaning": "adj.重要的；重大的",
+    "example": "It's important to practice English every day.",
+    "translation": "每天练习英语很重要。"
   },
   {
     "number": "153",
     "word": "notice",
     "phonetic": "/ˈnəʊtɪs/",
-    "meaning": "n.通知；通告；注意 v.注意到；留意；意识到 ；看到；听到；感觉到"
+    "meaning": "n.通知；通告；注意 v.注意到；留意；意识到 ；看到；听到；感觉到",
+    "example": "There is a notice about the English exam on the bulletin board.",
+    "translation": "布告栏上有关于英语考试的通知。"
   },
   {
     "number": "154",
     "word": "locker",
     "phonetic": "/ˈlɒkə(r)/",
-    "meaning": "n.（有锁的）寄物柜；锁柜；上锁的人"
+    "meaning": "n.（有锁的）寄物柜；锁柜；上锁的人",
+    "example": "I keep my English books in my locker at school.",
+    "translation": "我把英语书放在学校的储物柜里。"
   },
   {
     "number": "155",
     "word": "drawer",
     "phonetic": "/drɔː(r)/",
-    "meaning": "n.抽屉；起草者；开票人"
+    "meaning": "n.抽屉；起草者；开票人",
+    "example": "I put my English dictionary in the drawer of my desk.",
+    "translation": "我把英语词典放在书桌的抽屉里。"
   },
   {
     "number": "156",
     "word": "at the back of",
     "phonetic": "/æt ðə bæk ɒv/",
-    "meaning": "phrase.在...后方；支持"
+    "meaning": "phrase.在...后方；支持",
+    "example": "The restroom is at the back of the school building.",
+    "translation": "洗手间在学校建筑的后面。"
   },
   {
     "number": "157",
     "word": "corner",
     "phonetic": "/ˈkɔːnə(r)/",
-    "meaning": "n.⻆；墙⻆；街⻆；（街道等的）拐⻆；⻆落 ；困境 v.拐弯；迫至一隅；使陷入绝境"
+    "meaning": "n.⻆；墙⻆；街⻆；（街道等的）拐⻆；⻆落 ；困境 v.拐弯；迫至一隅；使陷入绝境",
+    "example": "There is a bookshelf in the corner of our classroom.",
+    "translation": "我们教室的角落里有一个书架。"
   },
   {
     "number": "158",
     "word": "bookcase",
     "phonetic": "/ˈbʊkkeɪs/",
-    "meaning": "n.书架；书柜"
+    "meaning": "n.书架；书柜",
+    "example": "The bookcase in our classroom is full of English books.",
+    "translation": "我们教室里的书柜里装满了英语书。"
   },
   {
     "number": "159",
     "word": "screen",
     "phonetic": "/skriːn/",
-    "meaning": "n.显示屏，屏幕；银幕；屏⻛；掩蔽物 v.筛查 ；掩蔽；放映 n.筛分设备；筛子"
+    "meaning": "n.显示屏，屏幕；银幕；屏⻛；掩蔽物 v.筛查 ；掩蔽；放映 n.筛分设备；筛子",
+    "example": "The teacher uses a screen to show English videos.",
+    "translation": "老师用屏幕播放英语视频。"
   },
   {
     "number": "160",
     "word": "at school",
     "phonetic": "/æt skuːl/",
-    "meaning": "phrase.在学校；在上课；上学"
+    "meaning": "phrase.在学校；在上课；上学",
+    "example": "We learn English at school every day.",
+    "translation": "我们每天在学校学习英语。"
   },
   {
     "number": "161",
     "word": "different from",
     "phonetic": "/ˈdɪfrənt frɒm/",
-    "meaning": "phrase.不同于..."
+    "meaning": "phrase.不同于...",
+    "example": "English is different from Chinese in grammar.",
+    "translation": "英语在语法上与汉语不同。"
   },
   {
     "number": "162",
     "word": "modern",
     "phonetic": "/ˈmɒdn/",
-    "meaning": "adj.现代的，当代的；近代的，现代化的；先进 的"
+    "meaning": "adj.现代的，当代的；近代的，现代化的；先进 的",
+    "example": "Our school has modern equipment for learning English.",
+    "translation": "我们学校有现代化的英语学习设备。"
   },
   {
     "number": "163",
     "word": "do exercises",
     "phonetic": "/duː ˈeksəsaɪzɪz/",
-    "meaning": "phra.做体操"
+    "meaning": "phra.做体操",
+    "example": "We do exercises at the beginning of English class.",
+    "translation": "我们在英语课开始时做练习。"
   },
   {
     "number": "164",
     "word": "amazing",
     "phonetic": "/əˈmeɪzɪŋ/",
-    "meaning": "adj.惊人的；了不起的；令人惊异的；令人吃惊 的；令人惊喜（惊叹）的 v.使惊奇；使吃惊 ；amaze的现在分词"
+    "meaning": "adj.惊人的；了不起的；令人惊异的；令人吃惊 的；令人惊喜（惊叹）的 v.使惊奇；使吃惊 ；amaze的现在分词",
+    "example": "The English talent show was amazing.",
+    "translation": "英语才艺表演非常精彩。"
   },
   {
     "number": "165",
     "word": "raise",
     "phonetic": "/reɪz/",
-    "meaning": "v.升起；增加；提高；募集；征集；提起；养育 ；筹募；引起 n.加薪"
+    "meaning": "v.升起；增加；提高；募集；征集；提起；养育 ；筹募；引起 n.加薪",
+    "example": "Please raise your hand if you know the answer.",
+    "translation": "如果你知道答案，请举手。"
   },
   {
     "number": "166",
     "word": "flag",
     "phonetic": "/flæɡ/",
-    "meaning": "n.旗；旗帜；信号旗 v.用旗标记；无力地下垂 ；减退；枯萎"
+    "meaning": "n.旗；旗帜；信号旗 v.用旗标记；无力地下垂 ；减退；枯萎",
+    "example": "The national flag is raised every morning at school.",
+    "translation": "学校每天早上升国旗。"
   },
   {
     "number": "167",
     "word": "most",
     "phonetic": "/məʊst/",
-    "meaning": "pron.最多，大多数；大部分；几乎所有 adj.最 多的；大多数的 adv.最多，最大；大多数"
+    "meaning": "pron.最多，大多数；大部分；几乎所有 adj.最 多的；大多数的 adv.最多，最大；大多数",
+    "example": "Most students in our class like learning English.",
+    "translation": "我们班上的大多数学生喜欢学习英语。"
   },
   {
     "number": "168",
     "word": "change",
     "phonetic": "/tʃeɪndʒ/",
-    "meaning": "n.变化；改变；变革；零钱 v.变化；变革；换乘 ；改变；使不同"
+    "meaning": "n.变化；改变；变革；零钱 v.变化；变革；换乘 ；改变；使不同",
+    "example": "We need to change our study plan for English.",
+    "translation": "我们需要改变英语学习计划。"
   },
   {
     "number": "169",
     "word": "seat",
     "phonetic": "/siːt/",
-    "meaning": "n.座,座位,坐处（如椅子等）,所在地,场所,席位 vt.使坐下"
+    "meaning": "n.座,座位,坐处（如椅子等）,所在地,场所,席位 vt.使坐下",
+    "example": "Please take your seat and get ready for English class.",
+    "translation": "请就座，准备上英语课。"
   },
   {
     "number": "170",
     "word": "delicious",
     "phonetic": "/dɪˈlɪʃəs/",
-    "meaning": "adj.美味的，可口的；令人愉快的"
+    "meaning": "adj.美味的，可口的；令人愉快的",
+    "example": "The cake my mom made is very delicious.",
+    "translation": "我妈妈做的蛋糕非常美味。"
   },
   {
     "number": "171",
     "word": "How about",
     "phonetic": "/ˈhaʊ əˈbaʊt/",
-    "meaning": "phra.......怎么样......情况"
+    "meaning": "phra.......怎么样......情况",
+    "example": "How about going to the park this weekend?",
+    "translation": "这个周末去公园怎么样？"
   },
   {
     "number": "172",
     "word": "yours",
     "phonetic": "/jɔːz/",
-    "meaning": "pron.你的，您的，你们的，您真挚的（用于信 函的结尾）"
+    "meaning": "pron.你的，您的，你们的，您真挚的（用于信 函的结尾）",
+    "example": "Is this book yours?",
+    "translation": "这本书是你的吗？"
   },
   {
     "number": "173",
     "word": "send",
     "phonetic": "/send/",
-    "meaning": "v.发送；寄；送出；发出（信件邮件等）"
+    "meaning": "v.发送；寄；送出；发出（信件邮件等）",
+    "example": "I will send you an email tomorrow.",
+    "translation": "我明天会给你发一封电子邮件。"
   },
   {
     "number": "174",
     "word": "similar",
     "phonetic": "/ˈsɪmələ(r)/",
-    "meaning": "adj.同样的；相似的；类似的；相像的"
+    "meaning": "adj.同样的；相似的；类似的；相像的",
+    "example": "Your shirt is similar to mine.",
+    "translation": "你的衬衫和我的相似。"
   },
   {
     "number": "175",
     "word": "similar to",
     "phonetic": "/ˈsɪmələ(r) tu/",
-    "meaning": "phra.类似的;相像的"
+    "meaning": "phra.类似的;相像的",
+    "example": "This book is similar to the one I read last week.",
+    "translation": "这本书和我上周读的那本相似。"
   },
   {
     "number": "176",
     "word": "sound",
     "phonetic": "/saʊnd/",
-    "meaning": "n.声音；声响 v.听起来好像 adj.健全的；完好的 ；合理的；可靠的；酣睡的"
+    "meaning": "n.声音；声响 v.听起来好像 adj.健全的；完好的 ；合理的；可靠的；酣睡的",
+    "example": "I can hear a beautiful sound from the piano.",
+    "translation": "我能听到钢琴发出的美妙声音。"
   },
   {
     "number": "177",
     "word": "bye for now",
     "phonetic": "/baɪ fɔː(r) naʊ/",
-    "meaning": "phra.再⻅"
+    "meaning": "phra.再⻅",
+    "example": "I have to go now, bye for now!",
+    "translation": "我现在必须走了，再见！"
   },
   {
     "number": "178",
     "word": "Flora",
     "phonetic": "/ˈflɔːrə/",
-    "meaning": "弗洛拉"
+    "meaning": "弗洛拉",
+    "example": "Flora is my best friend in class.",
+    "translation": "弗洛拉是我班上最好的朋友。"
   },
   {
     "number": "179",
     "word": "biology",
     "phonetic": "/baɪˈɒlədʒi/",
-    "meaning": "n.生理；生物学"
+    "meaning": "n.生理；生物学",
+    "example": "I enjoy studying biology in school.",
+    "translation": "我喜欢在学校学习生物学。"
   },
   {
     "number": "180",
     "word": "IT",
     "phonetic": "/ˌaɪ ˈtiː/",
-    "meaning": "abbr.信息技术；InformationTechnology的 缩写"
+    "meaning": "abbr.信息技术；InformationTechnology的 缩写",
+    "example": "We have an IT class every week.",
+    "translation": "我们每周有一节信息技术课。"
   },
   {
     "number": "181",
     "word": "information",
     "phonetic": "/ˌɪnfəˈmeɪʃn tekˈnɒlədʒi/",
-    "meaning": "technology phrase.信息技术"
+    "meaning": "technology phrase.信息技术",
+    "example": "I need to find some information for my homework.",
+    "translation": "我需要为我的作业找一些信息。"
   },
   {
     "number": "182",
     "word": "geography",
     "phonetic": "/dʒɪˈɒɡrəfi/",
-    "meaning": "n.地理；地理学"
+    "meaning": "n.地理；地理学",
+    "example": "Geography is my favorite subject at school.",
+    "translation": "地理是我在学校最喜欢的科目。"
   },
   {
     "number": "183",
     "word": "history",
     "phonetic": "/ˈhɪstri/",
-    "meaning": "n.历史；历史学"
+    "meaning": "n.历史；历史学",
+    "example": "I learn about ancient China in history class.",
+    "translation": "我在历史课上学习古代中国。"
   },
   {
     "number": "184",
     "word": "boring",
     "phonetic": "/ˈbɔːrɪŋ/",
-    "meaning": "adj.无趣的，无聊的，乏味的；令人厌倦的 v.开 凿；钻孔；使厌烦；bore的现在分词"
+    "meaning": "adj.无趣的，无聊的，乏味的；令人厌倦的 v.开 凿；钻孔；使厌烦；bore的现在分词",
+    "example": "The movie was so boring that I fell asleep.",
+    "translation": "这部电影太无聊了，我都睡着了。"
   },
   {
     "number": "185",
     "word": "useful",
     "phonetic": "/ˈjuːsfl/",
-    "meaning": "adj.有用的，实用的，有帮助的"
+    "meaning": "adj.有用的，实用的，有帮助的",
+    "example": "The dictionary is very useful for learning English.",
+    "translation": "这本词典对学习英语非常有用。"
   },
   {
     "number": "186",
     "word": "exciting",
     "phonetic": "/ɪkˈsaɪtɪŋ/",
-    "meaning": "adj.令人激动的；使人兴奋的 v.使兴奋；使激动 ；excite的现在分词"
+    "meaning": "adj.令人激动的；使人兴奋的 v.使兴奋；使激动 ；excite的现在分词",
+    "example": "The school trip to the zoo was very exciting.",
+    "translation": "学校去动物园的旅行非常令人兴奋。"
   },
   {
     "number": "187",
     "word": "past",
     "phonetic": "/pɑːst/",
-    "meaning": "adj.过去的；以往的；昔日的 prep.经过；超过 ；晚于 n.过去；昔日 adv.经过"
+    "meaning": "adj.过去的；以往的；昔日的 prep.经过；超过 ；晚于 n.过去；昔日 adv.经过",
+    "example": "We walked past the park on our way to school.",
+    "translation": "我们在去学校的路上经过了公园。"
   },
   {
     "number": "188",
     "word": "good with",
     "phonetic": "/ɡʊd wɪð/",
-    "meaning": "phra.灵巧的;善于应付......的"
+    "meaning": "phra.灵巧的;善于应付......的",
+    "example": "She is good with children and often helps them with homework.",
+    "translation": "她善于应付孩子，经常帮助他们做作业。"
   },
   {
     "number": "189",
     "word": "number",
     "phonetic": "/ˈnʌmbə(r)/",
-    "meaning": "n.号码；数字；数；数量"
+    "meaning": "n.号码；数字；数；数量",
+    "example": "My phone number is 123456789.",
+    "translation": "我的电话号码是123456789。"
   },
   {
     "number": "190",
     "word": "help sb. with",
     "phonetic": "/help ˈsʌmbədi wɪð/",
-    "meaning": "帮助某人做（某事）"
+    "meaning": "帮助某人做（某事）",
+    "example": "I often help my brother with his math homework.",
+    "translation": "我经常帮助我弟弟做数学作业。"
   },
   {
     "number": "191",
     "word": "reason",
     "phonetic": "/ˈriːz(ə)n/",
-    "meaning": "n.原因；理由；理性 v.推理；推断；讲道理；思 考"
+    "meaning": "n.原因；理由；理性 v.推理；推断；讲道理；思 考",
+    "example": "The reason I was late is that my bike broke down.",
+    "translation": "我迟到的原因是我的自行车坏了。"
   },
   {
     "number": "192",
     "word": "listen to",
     "phonetic": "/ˈlɪsn tu/",
-    "meaning": "phra.(注意地)听；倾听"
+    "meaning": "phra.(注意地)听；倾听",
+    "example": "We should listen to our teachers in class.",
+    "translation": "我们在课堂上应该听老师讲课。"
   },
   {
     "number": "193",
     "word": "good at",
     "phonetic": "/ɡʊd æt/",
-    "meaning": "phrase.擅⻓..."
+    "meaning": "phrase.擅⻓...",
+    "example": "She is good at playing the piano.",
+    "translation": "她擅长弹钢琴。"
   },
   {
     "number": "194",
     "word": "remember",
     "phonetic": "/rɪˈmembə(r)/",
-    "meaning": "v.纪念；记得，记住；记起，回想起"
+    "meaning": "v.纪念；记得，记住；记起，回想起",
+    "example": "Please remember to bring your homework tomorrow.",
+    "translation": "请记得明天带你的作业。"
   },
   {
     "number": "195",
     "word": "as",
     "phonetic": "/æz/",
-    "meaning": "conj.因为；由于；像；当......时；正如，如同 ；尽管 prep.作为；当作；如同;在某一年龄段时 adv.作为；当作；如同；和......一样"
+    "meaning": "conj.因为；由于；像；当......时；正如，如同 ；尽管 prep.作为；当作；如同;在某一年龄段时 adv.作为；当作；如同；和......一样",
+    "example": "I study English as hard as my brother.",
+    "translation": "我学习英语和我哥哥一样努力。"
   },
   {
     "number": "196",
     "word": "AM",
     "phonetic": "/əm/",
-    "meaning": "abbr.上午；午前；antemeridiem的缩写"
+    "meaning": "abbr.上午；午前；antemeridiem的缩写",
+    "example": "School starts at 8:00 AM every morning.",
+    "translation": "学校每天上午8点开始上课。"
   },
   {
     "number": "197",
     "word": "PM",
     "phonetic": "/ˌpiː ˈem/",
-    "meaning": "(p.m.)下午;午后;abbr.首相；总理 ；primeminister的缩写"
+    "meaning": "(p.m.)下午;午后;abbr.首相；总理 ；primeminister的缩写",
+    "example": "We finish school at 4:30 PM every day.",
+    "translation": "我们每天下午4点30分放学。"
   },
   {
     "number": "198",
     "word": "French",
     "phonetic": "/frentʃ/",
-    "meaning": "n.法语；法国人 adj.法国的；法国人的；法语的"
+    "meaning": "n.法语；法国人 adj.法国的；法国人的；法语的",
+    "example": "I want to learn French when I grow up.",
+    "translation": "我长大后想学习法语。"
   },
   {
     "number": "199",
     "word": "excellent",
     "phonetic": "/ˈeksələnt/",
-    "meaning": "adj.优秀的；极好的；杰出的；卓越的"
+    "meaning": "adj.优秀的；极好的；杰出的；卓越的",
+    "example": "She got an excellent grade in her English exam.",
+    "translation": "她在英语考试中取得了优秀的成绩。"
   },
   {
     "number": "200",
     "word": "instrument",
     "phonetic": "/ˈɪnstrəmənt/",
-    "meaning": "n.仪器；乐器；器械；工具；手段；法律文件"
+    "meaning": "n.仪器；乐器；器械；工具；手段；法律文件",
+    "example": "The piano is a beautiful musical instrument.",
+    "translation": "钢琴是一种美丽的乐器。"
   },
   {
     "number": "201",
     "word": "singer",
     "phonetic": "/ˈsɪŋə(r)/",
-    "meaning": "n.歌手，歌唱家"
+    "meaning": "n.歌手，歌唱家",
+    "example": "Taylor Swift is a famous singer.",
+    "translation": "泰勒·斯威夫特是一位著名的歌手。"
   },
   {
     "number": "202",
     "word": "future",
     "phonetic": "/ˈfjuːtʃə(r)/",
-    "meaning": "n.未来；将来；前途 adj.将来的；未来的"
+    "meaning": "n.未来；将来；前途 adj.将来的；未来的",
+    "example": "I want to be a doctor in the future.",
+    "translation": "我将来想成为一名医生。"
   },
   {
     "number": "203",
     "word": "in the future",
     "phonetic": "/ɪn ðə 'fjuːtʃə(r)/",
-    "meaning": "在未来；在将来；日后"
+    "meaning": "在未来；在将来；日后",
+    "example": "In the future, people may live on the moon.",
+    "translation": "将来，人们可能会住在月球上。"
   },
   {
     "number": "204",
     "word": "term",
     "phonetic": "/tɜːm/",
-    "meaning": "n.学期；期；术语；措辞；期限；条款;项 v.把 ......称作；把......叫做"
+    "meaning": "n.学期；期；术语；措辞；期限；条款;项 v.把 ......称作；把......叫做",
+    "example": "The new term starts in September.",
+    "translation": "新学期在九月份开始。"
   },
   {
     "number": "205",
     "word": "work out",
     "phonetic": "/wɜːk ˈaʊt/",
-    "meaning": "v.成功地发展；锻炼；可以解决,设计出,作出,计 算出,消耗完"
+    "meaning": "v.成功地发展；锻炼；可以解决,设计出,作出,计 算出,消耗完",
+    "example": "I work out at the gym every weekend.",
+    "translation": "我每个周末都在健身房锻炼。"
   },
   {
     "number": "206",
     "word": "problem",
     "phonetic": "/ˈprɒbləm/",
-    "meaning": "n.麻烦，困难，问题；难题"
+    "meaning": "n.麻烦，困难，问题；难题",
+    "example": "I have a math problem that I can't solve.",
+    "translation": "我有一个数学问题解决不了。"
   },
   {
     "number": "207",
     "word": "in class",
     "phonetic": "/ɪn klɑːs/",
-    "meaning": "phrase.上课"
+    "meaning": "phrase.上课",
+    "example": "We should be quiet in class.",
+    "translation": "我们在课堂上应该保持安静。"
   },
   {
     "number": "208",
     "word": "magic",
     "phonetic": "/ˈmædʒɪk/",
-    "meaning": "n.魔术；魔法；魔力 adj.有魔力的；神奇的；魔 术（似）的；有神奇力量的"
+    "meaning": "n.魔术；魔法；魔力 adj.有魔力的；神奇的；魔 术（似）的；有神奇力量的",
+    "example": "The magician performed a magic trick.",
+    "translation": "魔术师表演了一个魔术。"
   },
   {
     "number": "209",
     "word": "life",
     "phonetic": "/laɪf/",
-    "meaning": "n.生活；生命；人生；个人生活"
+    "meaning": "n.生活；生命；人生；个人生活",
+    "example": "We should enjoy our life every day.",
+    "translation": "我们应该每天享受生活。"
   },
   {
     "number": "210",
     "word": "scientist",
     "phonetic": "/ˈsaɪəntɪst/",
-    "meaning": "n.科学家"
+    "meaning": "n.科学家",
+    "example": "Einstein was a great scientist.",
+    "translation": "爱因斯坦是一位伟大的科学家。"
   },
   {
     "number": "211",
     "word": "Baker",
     "phonetic": "/ˈbeɪkə(r)/",
-    "meaning": "⻉克"
+    "meaning": "⻉克",
+    "example": "Mr. Baker is our math teacher.",
+    "translation": "贝克先生是我们的数学老师。"
   },
   {
     "number": "212",
     "word": "Mike",
     "phonetic": "/maɪk/",
-    "meaning": "n.迈克（男子名）"
+    "meaning": "n.迈克（男子名）",
+    "example": "Mike is my best friend.",
+    "translation": "迈克是我最好的朋友。"
   },
   {
     "number": "213",
     "word": "Davis",
     "phonetic": "/ˈdeɪvɪs/",
-    "meaning": "n.戴维斯"
+    "meaning": "n.戴维斯",
+    "example": "Davis is a new student in our class.",
+    "translation": "戴维斯是我们班的新学生。"
   },
   {
     "number": "214",
     "word": "Canada",
     "phonetic": "/ˈkænədə/",
-    "meaning": "n.加拿大"
+    "meaning": "n.加拿大",
+    "example": "Canada is a beautiful country in North America.",
+    "translation": "加拿大是北美洲的一个美丽国家。"
   },
   {
     "number": "215",
     "word": "club",
     "phonetic": "/klʌb/",
-    "meaning": "n.俱乐部，社团；棍子 v.用棍棒打"
+    "meaning": "n.俱乐部，社团；棍子 v.用棍棒打",
+    "example": "I joined the English club at school.",
+    "translation": "我在学校加入了英语俱乐部。"
   },
   {
     "number": "216",
     "word": "join",
     "phonetic": "/dʒɔɪn/",
-    "meaning": "v.参与；加入（某项活动），参加；连接；与一 道去"
+    "meaning": "v.参与；加入（某项活动），参加；连接；与一 道去",
+    "example": "Do you want to join us for lunch?",
+    "translation": "你想和我们一起吃午饭吗？"
   },
   {
     "number": "217",
     "word": "choose",
     "phonetic": "/tʃuːz/",
-    "meaning": "v.选择；挑选(过去式是chose)"
+    "meaning": "v.选择；挑选(过去式是chose)",
+    "example": "I can't choose between the red and blue shirt.",
+    "translation": "我无法在红色和蓝色衬衫之间做出选择。"
   },
   {
     "number": "218",
     "word": "drama",
     "phonetic": "/ˈdrɑːmə/",
-    "meaning": "n.戏；剧；戏剧；戏剧表演；戏剧事件"
+    "meaning": "n.戏；剧；戏剧；戏剧表演；戏剧事件",
+    "example": "We are going to watch a drama at the theater.",
+    "translation": "我们要去剧院看一场戏剧。"
   },
   {
     "number": "219",
     "word": "play Chinese chess",
     "phonetic": "/pleɪ ˌtʃaɪˈniːz tʃes/",
-    "meaning": "下中国象棋"
+    "meaning": "下中国象棋",
+    "example": "My grandfather and I often play Chinese chess on weekends.",
+    "translation": "我和爷爷经常在周末下中国象棋。"
   },
   {
     "number": "220",
     "word": "feeling",
     "phonetic": "/ˈfiːlɪŋ/",
-    "meaning": "n.感受；感觉，感触；触觉；同情 adj.富于感情 的，仁慈的"
+    "meaning": "n.感受；感觉，感触；触觉；同情 adj.富于感情 的，仁慈的",
+    "example": "I have a happy feeling today.",
+    "translation": "我今天有一种快乐的感觉。"
   },
   {
     "number": "221",
     "word": "news",
     "phonetic": "/njuːz/",
-    "meaning": "n.消息，新闻；音信"
+    "meaning": "n.消息，新闻；音信",
+    "example": "I heard the news about the school trip.",
+    "translation": "我听说了关于学校旅行的消息。"
   },
   {
     "number": "222",
     "word": "musical",
     "phonetic": "/ˈmjuːzɪk(ə)l/",
-    "meaning": "adj.音乐的；有音乐天赋的；擅⻓音乐的；喜欢 音乐的；悦耳的 n.音乐剧；音乐歌舞片"
+    "meaning": "adj.音乐的；有音乐天赋的；擅⻓音乐的；喜欢 音乐的；悦耳的 n.音乐剧；音乐歌舞片",
+    "example": "We watched a wonderful musical at the theater.",
+    "translation": "我们在剧院观看了一场精彩的音乐剧。"
   },
   {
     "number": "223",
     "word": "musical instrument",
     "phonetic": "ˈɪnstrʊm(ə)nt/",
-    "meaning": "phrase.乐器"
+    "meaning": "phrase.乐器",
+    "example": "The violin is a beautiful musical instrument.",
+    "translation": "小提琴是一种美丽的乐器。"
   },
   {
     "number": "224",
     "word": "exactly",
     "phonetic": "/ɪɡˈzæktli/",
-    "meaning": "adv.确切地；（答语）正是，没错；完全；（表 示赞同）确实如此；精确地；恰好"
+    "meaning": "adv.确切地；（答语）正是，没错；完全；（表 示赞同）确实如此；精确地；恰好",
+    "example": "You are exactly right!",
+    "translation": "你完全正确！"
   },
   {
     "number": "225",
     "word": "drum",
     "phonetic": "/drʌm/",
-    "meaning": "n.鼓 v.敲打"
+    "meaning": "n.鼓 v.敲打",
+    "example": "He plays the drum in the school band.",
+    "translation": "他在学校乐队里打鼓。"
   },
   {
     "number": "226",
     "word": "ability",
     "phonetic": "/əˈbɪləti/",
-    "meaning": "n.能力；才能；本领"
+    "meaning": "n.能力；才能；本领",
+    "example": "She has the ability to speak English fluently.",
+    "translation": "她有流利说英语的能力。"
   },
   {
     "number": "227",
     "word": "paint",
     "phonetic": "/peɪnt/",
-    "meaning": "v.刷漆；用颜料绘画，着色；在上刷油漆；(给 )涂颜料 n.油漆；绘画颜料"
+    "meaning": "v.刷漆；用颜料绘画，着色；在上刷油漆；(给 )涂颜料 n.油漆；绘画颜料",
+    "example": "I like to paint pictures in my free time.",
+    "translation": "我喜欢在空闲时间画画。"
   },
   {
     "number": "228",
     "word": "climb",
     "phonetic": "/klaɪm/",
-    "meaning": "v.攀爬；爬升；攀登；爬"
+    "meaning": "v.攀爬；爬升；攀登；爬",
+    "example": "We climbed the mountain last weekend.",
+    "translation": "我们上周末爬了山。"
   },
   {
     "number": "229",
     "word": "more",
     "phonetic": "/mɔː(r)/",
-    "meaning": "det.另外的，更多的，较多的；更大的 adv.更多 （much或many的比较级）；更"
+    "meaning": "det.另外的，更多的，较多的；更大的 adv.更多 （much或many的比较级）；更",
+    "example": "I want to learn more English words.",
+    "translation": "我想学习更多的英语单词。"
   },
   {
     "number": "230",
     "word": "act",
     "phonetic": "/ækt/",
-    "meaning": "v.行为，行动，动作，举动；表演；演戏；扮演 （⻆色） n.行动；装模作样；（戏）幕；法令"
+    "meaning": "v.行为，行动，动作，举动；表演；演戏；扮演 （⻆色） n.行动；装模作样；（戏）幕；法令",
+    "example": "She will act in the school play.",
+    "translation": "她将在学校戏剧中表演。"
   },
   {
     "number": "231",
     "word": "act out",
     "phonetic": "/ækt aʊt/",
-    "meaning": "phrase.将...付诸行动；把...表演出来"
+    "meaning": "phrase.将...付诸行动；把...表演出来",
+    "example": "The students will act out a story in class.",
+    "translation": "学生们将在课堂上表演一个故事。"
   },
   {
     "number": "232",
     "word": "at home",
     "phonetic": "/æt ˈhəʊm/",
-    "meaning": "phra.在家里"
+    "meaning": "phra.在家里",
+    "example": "I like to read books at home.",
+    "translation": "我喜欢在家里读书。"
   },
   {
     "number": "233",
     "word": "interested",
     "phonetic": "/ˈɪntrəstɪd/",
-    "meaning": "adj.感兴趣的 v.使发生兴趣；interest的过去式 和过去分词"
+    "meaning": "adj.感兴趣的 v.使发生兴趣；interest的过去式 和过去分词",
+    "example": "I am interested in learning English.",
+    "translation": "我对学习英语感兴趣。"
   },
   {
     "number": "234",
     "word": "interested in",
     "phonetic": "/ˈɪntrəstɪd ɪn/",
-    "meaning": "phra.对......感兴趣"
+    "meaning": "phra.对......感兴趣",
+    "example": "She is interested in playing the piano.",
+    "translation": "她对弹钢琴感兴趣。"
   },
   {
     "number": "235",
     "word": "nature",
     "phonetic": "/ˈneɪtʃə(r)/",
-    "meaning": "n.自然界；大自然；天性"
+    "meaning": "n.自然界；大自然；天性",
+    "example": "I love to explore nature on weekends.",
+    "translation": "我喜欢在周末探索大自然。"
   },
   {
     "number": "236",
     "word": "beef",
     "phonetic": "/biːf/",
-    "meaning": "n.牛肉"
+    "meaning": "n.牛肉",
+    "example": "My favorite food is beef noodles.",
+    "translation": "我最喜欢的食物是牛肉面。"
   },
   {
     "number": "237",
     "word": "soon",
     "phonetic": "/suːn/",
-    "meaning": "adv.很快，不久，即刻，⻢上;快"
+    "meaning": "adv.很快，不久，即刻，⻢上;快",
+    "example": "We will go to the park soon.",
+    "translation": "我们很快就会去公园。"
   },
   {
     "number": "238",
     "word": "than",
     "phonetic": "/ðæn/",
-    "meaning": "prep./conj.（比较数量距离等）多于，少于 ；（用于引出比较的第二部分）比"
+    "meaning": "prep./conj.（比较数量距离等）多于，少于 ；（用于引出比较的第二部分）比",
+    "example": "I am taller than my brother.",
+    "translation": "我比我哥哥高。"
   },
   {
     "number": "239",
     "word": "more than",
     "phonetic": "/mɔː(r) ðæn/",
-    "meaning": "phrase.超过；多于"
+    "meaning": "phrase.超过；多于",
+    "example": "There are more than 50 students in our class.",
+    "translation": "我们班有50多个学生。"
   },
   {
     "number": "240",
     "word": "mind",
     "phonetic": "/maɪnd/",
-    "meaning": "n.头脑；心智；思考能力；聪明人；思想，思维 ；心；思路；智力；意向；情绪 v.介意；专心于 ；注意；照顾"
+    "meaning": "n.头脑；心智；思考能力；聪明人；思想，思维 ；心；思路；智力；意向；情绪 v.介意；专心于 ；注意；照顾",
+    "example": "Do you mind if I sit here?",
+    "translation": "你介意我坐在这里吗？"
   },
   {
     "number": "241",
     "word": "fall",
     "phonetic": "/fɔːl/",
-    "meaning": "v.进入（某状态）；变成；落下；掉落；倒下 ；下降；跌倒 n.落下；跌落；秋天；（常 pl.）瀑布"
+    "meaning": "v.进入（某状态）；变成；落下；掉落；倒下 ；下降；跌倒 n.落下；跌落；秋天；（常 pl.）瀑布",
+    "example": "The leaves fall from the trees in autumn.",
+    "translation": "秋天树叶从树上落下。"
   },
   {
     "number": "242",
     "word": "fall in love with",
     "phonetic": "/fɔːl ɪn lʌv wɪð/",
-    "meaning": "phrase.爱上"
+    "meaning": "phrase.爱上",
+    "example": "She fell in love with the beautiful city.",
+    "translation": "她爱上了这座美丽的城市。"
   },
   {
     "number": "243",
     "word": "take photos",
     "phonetic": "/teɪk 'fəʊtəʊz/",
-    "meaning": "phrase.拍照片"
+    "meaning": "phrase.拍照片",
+    "example": "We will take photos at the park.",
+    "translation": "我们将在公园拍照。"
   },
   {
     "number": "244",
     "word": "collect",
     "phonetic": "/kəˈlekt/",
-    "meaning": "v.收集，采集；使集中；搜集"
+    "meaning": "v.收集，采集；使集中；搜集",
+    "example": "I like to collect stamps as a hobby.",
+    "translation": "我喜欢集邮作为爱好。"
   },
   {
     "number": "245",
     "word": "insect",
     "phonetic": "/ˈɪnsekt/",
-    "meaning": "n.昆虫"
+    "meaning": "n.昆虫",
+    "example": "Butterflies are beautiful insects.",
+    "translation": "蝴蝶是美丽的昆虫。"
   },
   {
     "number": "246",
     "word": "discover",
     "phonetic": "/dɪˈskʌvə(r)/",
-    "meaning": "v.了解到；查明；发现；发觉"
+    "meaning": "v.了解到；查明；发现；发觉",
+    "example": "Columbus discovered America in 1492.",
+    "translation": "哥伦布在1492年发现了美洲。"
   },
   {
     "number": "247",
     "word": "wildlife",
     "phonetic": "/ˈwaɪldlaɪf/",
-    "meaning": "n.野生生物 adj.野生动物的"
+    "meaning": "n.野生生物 adj.野生动物的",
+    "example": "The zoo has a lot of wildlife from around the world.",
+    "translation": "动物园里有很多来自世界各地的野生动物。"
   },
   {
     "number": "248",
     "word": "Linda",
     "phonetic": "/ˈlɪndə/",
-    "meaning": "n.琳达（女子名）"
+    "meaning": "n.琳达（女子名）",
+    "example": "Linda is my classmate.",
+    "translation": "琳达是我的同学。"
   },
   {
     "number": "249",
     "word": "Alice",
     "phonetic": "/ˈælɪs/",
-    "meaning": "n.艾丽斯（女子名）"
+    "meaning": "n.艾丽斯（女子名）",
+    "example": "Alice is a good friend of mine.",
+    "translation": "艾丽斯是我的好朋友。"
   },
   {
     "number": "250",
     "word": "Bill",
     "phonetic": "/bɪl/",
-    "meaning": "比尔（男）"
+    "meaning": "比尔（男）",
+    "example": "Bill is my neighbor.",
+    "translation": "比尔是我的邻居。"
   },
   {
     "number": "251",
     "word": "Jenny",
     "phonetic": "/ˈdʒeni/",
-    "meaning": "n.珍妮（女子名）"
+    "meaning": "n.珍妮（女子名）",
+    "example": "Jenny likes to play basketball.",
+    "translation": "珍妮喜欢打篮球。"
   },
   {
     "number": "252",
     "word": "make use of",
     "phonetic": "/meɪk juːz əv/",
-    "meaning": "phr.使用；利用"
+    "meaning": "phr.使用；利用",
+    "example": "We should make use of our time wisely.",
+    "translation": "我们应该明智地利用我们的时间。"
   },
   {
     "number": "253",
     "word": "quarter",
     "phonetic": "/ˈkwɔːtə(r)/",
-    "meaning": "n.四分之一；一刻钟，十五分钟；季度；地区 ；方向 v.分成四等分"
+    "meaning": "n.四分之一；一刻钟，十五分钟；季度；地区 ；方向 v.分成四等分",
+    "example": "It's a quarter past three now.",
+    "translation": "现在是三点一刻。"
   },
   {
     "number": "254",
     "word": "shower",
     "phonetic": "/ˈʃaʊə(r)/",
-    "meaning": "n.淋浴；淋浴间；淋浴器；一大批，一阵（在空 中洒落或出现的小而轻的东西） v.洗淋浴"
+    "meaning": "n.淋浴；淋浴间；淋浴器；一大批，一阵（在空 中洒落或出现的小而轻的东西） v.洗淋浴",
+    "example": "I take a shower every morning.",
+    "translation": "我每天早上洗澡。"
   },
   {
     "number": "255",
     "word": "take a shower",
     "phonetic": "/teɪk ə ˈʃaʊə(r)/",
-    "meaning": "phra.淋浴"
+    "meaning": "phra.淋浴",
+    "example": "I need to take a shower before going to bed.",
+    "translation": "我需要在睡觉前洗个澡。"
   },
   {
     "number": "256",
     "word": "get dressed",
     "phonetic": "/ɡet drest/",
-    "meaning": "phrase.穿衣服"
+    "meaning": "phrase.穿衣服",
+    "example": "I get dressed quickly in the morning.",
+    "translation": "我早上很快穿好衣服。"
   },
   {
     "number": "257",
     "word": "brush",
     "phonetic": "/brʌʃ/",
-    "meaning": "n.刷子；画笔；刷；灌木丛 v.（用刷子）刷净 ，刷亮"
+    "meaning": "n.刷子；画笔；刷；灌木丛 v.（用刷子）刷净 ，刷亮",
+    "example": "I brush my teeth twice a day.",
+    "translation": "我每天刷两次牙。"
   },
   {
     "number": "258",
     "word": "tooth",
     "phonetic": "/tuːθ/",
-    "meaning": "n.牙⻮（复数teeth）"
+    "meaning": "n.牙⻮（复数teeth）",
+    "example": "I have a bad toothache.",
+    "translation": "我牙疼得厉害。"
   },
   {
     "number": "259",
     "word": "duty",
     "phonetic": "/ˈdjuːti/",
-    "meaning": "n.（道德或法律上的）责任；义务；职责；任务 ；值班"
+    "meaning": "n.（道德或法律上的）责任；义务；职责；任务 ；值班",
+    "example": "It is my duty to help my parents.",
+    "translation": "帮助父母是我的责任。"
   },
   {
     "number": "260",
     "word": "on duty",
     "phonetic": "/ɒn ˈdjuːti/",
-    "meaning": "phrase.值班；上班"
+    "meaning": "phrase.值班；上班",
+    "example": "My father is on duty today.",
+    "translation": "我爸爸今天值班。"
   },
   {
     "number": "261",
     "word": "usually",
     "phonetic": "/ˈjuːʒuəli/",
-    "meaning": "adv.通常地；一般地；惯常地"
+    "meaning": "adv.通常地；一般地；惯常地",
+    "example": "I usually have breakfast at 7:00 in the morning.",
+    "translation": "我通常在早上7点吃早餐。"
   },
   {
     "number": "262",
     "word": "get up",
     "phonetic": "/ˈɡet ʌp/",
-    "meaning": "起床，站起，起来"
+    "meaning": "起床，站起，起来",
+    "example": "I get up early every day.",
+    "translation": "我每天早起。"
   },
   {
     "number": "263",
     "word": "reporter",
     "phonetic": "/rɪˈpɔːtə(r)/",
-    "meaning": "n.记者；通讯员"
+    "meaning": "n.记者；通讯员",
+    "example": "The reporter is interviewing our English teacher.",
+    "translation": "记者正在采访我们的英语老师。"
   },
   {
     "number": "264",
     "word": "around",
     "phonetic": "/əˈraʊnd/",
-    "meaning": "adv.到处；向各处；在附近；环绕；大约 prep.在......周围；环绕；围绕"
+    "meaning": "adv.到处；向各处；在附近；环绕；大约 prep.在......周围；环绕；围绕",
+    "example": "There are many trees around our school.",
+    "translation": "我们学校周围有很多树。"
   },
   {
     "number": "265",
     "word": "homework",
     "phonetic": "/ˈhəʊmwɜːk/",
-    "meaning": "n.作业；家庭作业；功课"
+    "meaning": "n.作业；家庭作业；功课",
+    "example": "I have to do my English homework after school.",
+    "translation": "放学后我必须做英语作业。"
   },
   {
     "number": "266",
     "word": "go to bed",
     "phonetic": "/ɡəʊ tuː bed/",
-    "meaning": "phra.上床睡觉"
+    "meaning": "phra.上床睡觉",
+    "example": "I usually go to bed at 9:30 in the evening.",
+    "translation": "我通常在晚上9:30上床睡觉。"
   },
   {
     "number": "267",
     "word": "saying",
     "phonetic": "/ˈseɪɪŋ/",
-    "meaning": "n.谚语；格言；警句 v.说；讲；说话；say的现 在分词"
+    "meaning": "n.谚语；格言；警句 v.说；讲；说话；say的现 在分词",
+    "example": "There is a saying that \"Practice makes perfect.\"",
+    "translation": "有句谚语说“熟能生巧”。"
   },
   {
     "number": "268",
     "word": "rise",
     "phonetic": "/raɪz/",
-    "meaning": "v.发源；升高，上升；升起；增加；提高 n.上升 ，升起；增强，增加；提高"
+    "meaning": "v.发源；升高，上升；升起；增加；提高 n.上升 ，升起；增强，增加；提高",
+    "example": "The sun rises in the east every morning.",
+    "translation": "太阳每天早上从东方升起。"
   },
   {
     "number": "269",
     "word": "stay",
     "phonetic": "/steɪ/",
-    "meaning": "v.停留；待；保持 n.停留；逗留"
+    "meaning": "v.停留；待；保持 n.停留；逗留",
+    "example": "I will stay at home this weekend.",
+    "translation": "这个周末我将待在家里。"
   },
   {
     "number": "270",
     "word": "routine",
     "phonetic": "/ruːˈtiːn/",
-    "meaning": "n.常规；例行公事 adj.常规的；例行公事的"
+    "meaning": "n.常规；例行公事 adj.常规的；例行公事的",
+    "example": "Waking up early is part of my daily routine.",
+    "translation": "早起是我日常例行的一部分。"
   },
   {
     "number": "271",
     "word": "restaurant",
     "phonetic": "/ˈrestrɒnt/",
-    "meaning": "n.饭店；餐厅；餐馆"
+    "meaning": "n.饭店；餐厅；餐馆",
+    "example": "We went to a Chinese restaurant for dinner.",
+    "translation": "我们去了一家中餐馆吃晚餐。"
   },
   {
     "number": "272",
     "word": "housework",
     "phonetic": "/ˈhaʊswɜːk/",
-    "meaning": "n.家务事；家务劳动"
+    "meaning": "n.家务事；家务劳动",
+    "example": "I help my mom with housework on weekends.",
+    "translation": "我在周末帮妈妈做家务。"
   },
   {
     "number": "273",
     "word": "while",
     "phonetic": "/waɪl/",
-    "meaning": "n.一会儿；一段时间 conj.（对比两件事物）然 而；与同时；在期间；当......的时候；尽管；然 而"
+    "meaning": "n.一会儿；一段时间 conj.（对比两件事物）然 而；与同时；在期间；当......的时候；尽管；然 而",
+    "example": "I listen to English songs while doing homework.",
+    "translation": "我做作业时听英文歌。"
   },
   {
     "number": "274",
     "word": "weekend",
     "phonetic": "/ˌwiːkˈend/",
-    "meaning": "n.周末"
+    "meaning": "n.周末",
+    "example": "We usually go to the park on the weekend.",
+    "translation": "我们通常在周末去公园。"
   },
   {
     "number": "275",
     "word": "at weekends",
     "phonetic": "/æt ˌwiːkˈendz/",
-    "meaning": "phr.在周末"
+    "meaning": "phr.在周末",
+    "example": "I play basketball with my friends at weekends.",
+    "translation": "我在周末和朋友们打篮球。"
   },
   {
     "number": "276",
     "word": "daily",
     "phonetic": "/ˈdeɪli/",
-    "meaning": "adj.每日的；日常的；按日的 adv.每天；每日 n.日报"
+    "meaning": "adj.每日的；日常的；按日的 adv.每天；每日 n.日报",
+    "example": "Reading English every day is a daily habit.",
+    "translation": "每天读英语是一个日常习惯。"
   },
   {
     "number": "277",
     "word": "daily routine",
     "phonetic": "/ˈdeɪli ruːˈtiːn/",
-    "meaning": "日常生活"
+    "meaning": "日常生活",
+    "example": "My daily routine includes studying English for an hour.",
+    "translation": "我的日常生活包括学习一小时英语。"
   },
   {
     "number": "278",
     "word": "only",
     "phonetic": "/ˈəʊnli/",
-    "meaning": "adv.只；仅仅；只有 adj.唯一的；仅有的"
+    "meaning": "adv.只；仅仅；只有 adj.唯一的；仅有的",
+    "example": "There is only one apple left in the basket.",
+    "translation": "篮子里只剩下一个苹果了。"
   },
   {
     "number": "279",
     "word": "break",
     "phonetic": "/breɪk/",
-    "meaning": "n.中断，暂停；休息；间断；破裂 v.（使）破碎 ；裂；损坏；打破；打断；休息；违犯，背弃"
+    "meaning": "n.中断，暂停；休息；间断；破裂 v.（使）破碎 ；裂；损坏；打破；打断；休息；违犯，背弃",
+    "example": "We have a 10-minute break between classes.",
+    "translation": "我们课间有10分钟的休息。"
   },
   {
     "number": "280",
     "word": "Finnish",
     "phonetic": "/ˈfɪnɪʃ/",
-    "meaning": "n.芬兰语 adj.芬兰的；芬兰人的；芬兰语的"
+    "meaning": "n.芬兰语 adj.芬兰的；芬兰人的；芬兰语的",
+    "example": "My pen pal speaks Finnish and English.",
+    "translation": "我的笔友说芬兰语和英语。"
   },
   {
     "number": "281",
     "word": "finish",
     "phonetic": "/ˈfɪnɪʃ/",
-    "meaning": "v.结束；完成，做完；做好 n.最后部分，结尾 ，结局"
+    "meaning": "v.结束；完成，做完；做好 n.最后部分，结尾 ，结局",
+    "example": "I need to finish my homework before dinner.",
+    "translation": "我需要在晚饭前完成作业。"
   },
   {
     "number": "282",
     "word": "hockey",
     "phonetic": "/ˈhɒki/",
-    "meaning": "n.曲棍球；冰上曲棍球"
+    "meaning": "n.曲棍球；冰上曲棍球",
+    "example": "We play hockey after school on Fridays.",
+    "translation": "我们每周五放学后打曲棍球。"
   },
   {
     "number": "283",
     "word": "ice hockey",
     "phonetic": "/ˈaɪs hɒki/",
-    "meaning": "phra.冰球运动；冰上曲棍球"
+    "meaning": "phra.冰球运动；冰上曲棍球",
+    "example": "Ice hockey is a popular sport in cold countries.",
+    "translation": "冰球在寒冷的国家是一项受欢迎的运动。"
   },
   {
     "number": "284",
     "word": "already",
     "phonetic": "/ɔːlˈredi/",
-    "meaning": "adv.已经，早已"
+    "meaning": "adv.已经，早已",
+    "example": "I have already finished my English homework.",
+    "translation": "我已经完成了英语作业。"
   },
   {
     "number": "285",
     "word": "dark",
     "phonetic": "/dɑːk/",
-    "meaning": "adj.昏暗的；深色的黑暗的；暗色的 n.黑暗；夜 ；暗色，暗处"
+    "meaning": "adj.昏暗的；深色的黑暗的；暗色的 n.黑暗；夜 ；暗色，暗处",
+    "example": "It gets dark early in winter.",
+    "translation": "冬天天黑得早。"
   },
   {
     "number": "286",
     "word": "outside",
     "phonetic": "/ˌaʊtˈsaɪd/",
-    "meaning": "prep.在......外面 adv.在外面 adj.外面的；外界 的 n.外面；外边；外部"
+    "meaning": "prep.在......外面 adv.在外面 adj.外面的；外界 的 n.外面；外边；外部",
+    "example": "Let's play outside in the park.",
+    "translation": "让我们在公园里玩。"
   },
   {
     "number": "287",
     "word": "part",
     "phonetic": "/pɑːt/",
-    "meaning": "v.分离；离开；分开 n.部分，部位；局部；零件 ；⻆色"
+    "meaning": "v.分离；离开；分开 n.部分，部位；局部；零件 ；⻆色",
+    "example": "Reading is an important part of learning English.",
+    "translation": "阅读是学习英语的重要部分。"
   },
   {
     "number": "288",
     "word": "everyday",
     "phonetic": "/ˈevrideɪ/",
-    "meaning": "adj.每天的；平常的；日常的"
+    "meaning": "adj.每天的；平常的；日常的",
+    "example": "We learn new English words in our everyday class.",
+    "translation": "我们在日常课堂上学习新的英语单词。"
   },
   {
     "number": "289",
     "word": "prepare",
     "phonetic": "/prɪˈpeə(r)/",
-    "meaning": "v.把......预备好；预备（饭菜）；准备；使做好 准备"
+    "meaning": "v.把......预备好；预备（饭菜）；准备；使做好 准备",
+    "example": "I need to prepare for the English test tomorrow.",
+    "translation": "我需要为明天的英语考试做准备。"
   },
   {
     "number": "290",
     "word": "prepare sth. for",
     "phonetic": "/prɪˈpeə(r) ˈsʌmθɪŋ fɔː(r)/",
-    "meaning": "phra.为......把某物准备好"
+    "meaning": "phra.为......把某物准备好",
+    "example": "My mom prepares breakfast for me every morning.",
+    "translation": "我妈妈每天早上为我准备早餐。"
   },
   {
     "number": "291",
     "word": "Timo",
     "phonetic": "/tiːməʊ/",
-    "meaning": "蒂莫"
+    "meaning": "蒂莫",
+    "example": "Timo is my friend from Finland.",
+    "translation": "蒂莫是我来自芬兰的朋友。"
   },
   {
     "number": "292",
     "word": "Halla",
     "phonetic": "/ˈhala/",
-    "meaning": "哈拉"
+    "meaning": "哈拉",
+    "example": "Halla is a common name in Finland.",
+    "translation": "哈拉是芬兰常见的名字。"
   },
   {
     "number": "293",
     "word": "Helsinki",
     "phonetic": "/ˈhelsɪŋki/",
-    "meaning": "赫尔辛基(芬兰首都)"
+    "meaning": "赫尔辛基(芬兰首都)",
+    "example": "Helsinki is the capital city of Finland.",
+    "translation": "赫尔辛基是芬兰的首都。"
   },
   {
     "number": "294",
     "word": "Finland",
     "phonetic": "/'fɪnlənd/",
-    "meaning": "n.芬兰"
+    "meaning": "n.芬兰",
+    "example": "Finland is known for its beautiful lakes and forests.",
+    "translation": "芬兰以其美丽的湖泊和森林而闻名。"
   },
   {
     "number": "295",
     "word": "home economics",
     "phonetic": "/həʊm ˌiːkəˈnɒmɪks/",
-    "meaning": "phra.家庭经济学；家政学"
+    "meaning": "phra.家庭经济学；家政学",
+    "example": "We learn to cook in home economics class.",
+    "translation": "我们在家政课上学习做饭。"
   },
   {
     "number": "296",
     "word": "celebrate",
     "phonetic": "/ˈselɪbreɪt/",
-    "meaning": "v.庆祝，庆贺；颂扬"
+    "meaning": "v.庆祝，庆贺；颂扬",
+    "example": "We celebrate our school's anniversary every year.",
+    "translation": "我们每年庆祝学校的周年纪念日。"
   },
   {
     "number": "297",
     "word": "surprise",
     "phonetic": "/səˈpraɪz/",
-    "meaning": "n.意想不到的事，令人惊喜的事情（或消息等 ）；惊奇；惊讶；惊喜；意外 v.使感到意外；使 吃惊；使惊奇"
+    "meaning": "n.意想不到的事，令人惊喜的事情（或消息等 ）；惊奇；惊讶；惊喜；意外 v.使感到意外；使 吃惊；使惊奇",
+    "example": "My friends gave me a surprise birthday party.",
+    "translation": "我的朋友们为我举办了一个惊喜生日派对。"
   },
   {
     "number": "298",
     "word": "something",
     "phonetic": "/ˈsʌmθɪŋ/",
-    "meaning": "pron.某事；某物；某种东西"
+    "meaning": "pron.某事；某物；某种东西",
+    "example": "I want to buy something special for my mom.",
+    "translation": "我想给我妈妈买些特别的东西。"
   },
   {
     "number": "299",
     "word": "sale",
     "phonetic": "/seɪl/",
-    "meaning": "n.出售,销售；卖出,廉价出售,销路,销售额"
+    "meaning": "n.出售,销售；卖出,廉价出售,销路,销售额",
+    "example": "There is a big sale at the bookstore this weekend.",
+    "translation": "这个周末书店有大促销。"
   },
   {
     "number": "300",
     "word": "kilo",
     "phonetic": "/ˈkiːləʊ/",
-    "meaning": "n.(kilogram,kilogramme)（pl.kilos）千克 ;公斤"
+    "meaning": "n.(kilogram,kilogramme)（pl.kilos）千克 ;公斤",
+    "example": "I bought two kilos of apples at the market.",
+    "translation": "我在市场买了两公斤苹果。"
   },
   {
     "number": "301",
     "word": "kilogram",
     "phonetic": "/ˈkɪləɡræm/",
-    "meaning": "n.(kilo)千克；公斤"
+    "meaning": "n.(kilo)千克；公斤",
+    "example": "The package weighs one kilogram.",
+    "translation": "这个包裹重一公斤。"
   },
   {
     "number": "302",
     "word": "kilogramme",
     "phonetic": "/ˈkɪləɡræm/",
-    "meaning": "n.公斤；千克"
+    "meaning": "n.公斤；千克",
+    "example": "A kilogramme is equal to 1000 grams.",
+    "translation": "一公斤等于1000克。"
   },
   {
     "number": "303",
     "word": "yogurt",
     "phonetic": "/ˈjɒɡət/",
-    "meaning": "n.(yoghurt)酸奶；酵母乳"
+    "meaning": "n.(yoghurt)酸奶；酵母乳",
+    "example": "I eat yogurt for breakfast every morning.",
+    "translation": "我每天早上吃酸奶当早餐。"
   },
   {
     "number": "304",
     "word": "yoghurt",
     "phonetic": "/ˈjɒɡət/",
-    "meaning": "n.酸奶；酸乳"
+    "meaning": "n.酸奶；酸乳",
+    "example": "Yoghurt is good for our health.",
+    "translation": "酸奶对我们的健康有益。"
   },
   {
     "number": "305",
     "word": "total",
     "phonetic": "/ˈtəʊt(ə)l/",
-    "meaning": "adj.总的；全体的；全部的 n.总数；合计；总额 ；总计 v.共计；总数达"
+    "meaning": "adj.总的；全体的；全部的 n.总数；合计；总额 ；总计 v.共计；总数达",
+    "example": "The total cost of the books is 100 yuan.",
+    "translation": "这些书的总费用是100元。"
   },
   {
     "number": "306",
     "word": "price",
     "phonetic": "/praɪs/",
-    "meaning": "n.价格,价钱,代价 vt.标明价格"
+    "meaning": "n.价格,价钱,代价 vt.标明价格",
+    "example": "What is the price of this English dictionary?",
+    "translation": "这本英语词典的价格是多少？"
   },
   {
     "number": "307",
     "word": "balloon",
     "phonetic": "/bəˈluːn/",
-    "meaning": "n.气球；热气球；玩具气球；球状物 v.乘热气球 ⻜行；膨胀；（使）激增"
+    "meaning": "n.气球；热气球；玩具气球；球状物 v.乘热气球 ⻜行；膨胀；（使）激增",
+    "example": "We released balloons at the school party.",
+    "translation": "我们在学校派对上放飞了气球。"
   },
   {
     "number": "308",
     "word": "chocolate",
     "phonetic": "/ˈtʃɒklət/",
-    "meaning": "n.巧克力，朱古力 adj.巧克力的"
+    "meaning": "n.巧克力，朱古力 adj.巧克力的",
+    "example": "I received a box of chocolate for my birthday.",
+    "translation": "我生日收到了一盒巧克力。"
   },
   {
     "number": "309",
     "word": "pizza",
     "phonetic": "/ˈpiːtsə/",
-    "meaning": "n.比萨饼；披萨；意大利薄饼"
+    "meaning": "n.比萨饼；披萨；意大利薄饼",
+    "example": "We ordered pizza for dinner last night.",
+    "translation": "昨晚我们点了披萨当晚餐。"
   },
   {
     "number": "310",
     "word": "list",
     "phonetic": "/lɪst/",
-    "meaning": "n.名单,清单；目录，列表，序列 v.列表，列清 单；列出，列于表上"
+    "meaning": "n.名单,清单；目录，列表，序列 v.列表，列清 单；列出，列于表上",
+    "example": "I made a list of English words to study.",
+    "translation": "我列了一个要学习的英语单词清单。"
   },
   {
     "number": "311",
     "word": "own",
     "phonetic": "/əʊn/",
-    "meaning": "adj./pron.自己的，本人的；特有的 v.拥有；有 ；承认"
+    "meaning": "adj./pron.自己的，本人的；特有的 v.拥有；有 ；承认",
+    "example": "I have my own English dictionary.",
+    "translation": "我有自己的英语词典。"
   },
   {
     "number": "312",
     "word": "example",
     "phonetic": "/ɪɡˈzɑːmpl/",
-    "meaning": "n.例子；范例；实例；榜样"
+    "meaning": "n.例子；范例；实例；榜样",
+    "example": "The teacher gave us an example of how to use the word.",
+    "translation": "老师给我们举了一个如何使用这个单词的例子。"
   },
   {
     "number": "313",
     "word": "for example",
     "phonetic": "/fɔː(r) ɪɡˈzɑːmpl/",
-    "meaning": "例如，譬如；举例"
+    "meaning": "例如，譬如；举例",
+    "example": "I like fruits, for example, apples and bananas.",
+    "translation": "我喜欢水果，例如苹果和香蕉。"
   },
   {
     "number": "314",
     "word": "language",
     "phonetic": "/ˈlæŋɡwɪdʒ/",
-    "meaning": "n.语言"
+    "meaning": "n.语言",
+    "example": "English is an international language.",
+    "translation": "英语是一种国际语言。"
   },
   {
     "number": "315",
     "word": "international",
     "phonetic": "/ˌɪntəˈnæʃ(ə)nəl/",
-    "meaning": "adj.国际的，世界的 n.国际性组织，国际比赛"
+    "meaning": "adj.国际的，世界的 n.国际性组织，国际比赛",
+    "example": "We have students from many international countries in our school.",
+    "translation": "我们学校有来自许多国家的国际学生。"
   },
   {
     "number": "316",
     "word": "mark",
     "phonetic": "/mɑːk/",
-    "meaning": "v.做记号；纪念；打分；评分；（使）留痕迹 n.记号；痕迹；分数"
+    "meaning": "v.做记号；纪念；打分；评分；（使）留痕迹 n.记号；痕迹；分数",
+    "example": "The teacher gave me a good mark on my English test.",
+    "translation": "老师在我的英语考试上给了我一个好分数。"
   },
   {
     "number": "317",
     "word": "national",
     "phonetic": "/ˈnæʃnəl/",
-    "meaning": "adj.国家的；⺠族的"
+    "meaning": "adj.国家的；⺠族的",
+    "example": "The national flag of China is red with five yellow stars.",
+    "translation": "中国的国旗是红色的，上面有五颗黄色的星星。"
   },
   {
     "number": "318",
     "word": "found",
     "phonetic": "/faʊnd/",
-    "meaning": "v.建立（城镇或国家）；创建；创立；找到；发 现；认为；find的过去式和过去分词"
+    "meaning": "v.建立（城镇或国家）；创建；创立；找到；发 现；认为；find的过去式和过去分词",
+    "example": "The school was founded in 1990.",
+    "translation": "这所学校成立于1990年。"
   },
   {
     "number": "319",
     "word": "meaningful",
     "phonetic": "/ˈmiːnɪŋfl/",
-    "meaning": "adj.有意义的；重要的；重大的；意味深⻓的"
+    "meaning": "adj.有意义的；重要的；重大的；意味深⻓的",
+    "example": "We had a meaningful discussion about English learning.",
+    "translation": "我们就英语学习进行了有意义的讨论。"
   },
   {
     "number": "320",
     "word": "make a wish",
     "phonetic": "/meɪk ə wɪʃ/",
-    "meaning": "phrase.许愿"
+    "meaning": "phrase.许愿",
+    "example": "I make a wish every time I see a shooting star.",
+    "translation": "每次看到流星，我都会许愿。"
   },
   {
     "number": "321",
     "word": "celebration",
     "phonetic": "/ˌselɪˈbreɪʃn/",
-    "meaning": "n.庆典；庆祝活动"
+    "meaning": "n.庆典；庆祝活动",
+    "example": "There was a big celebration for the school's 50th anniversary.",
+    "translation": "学校50周年校庆有一个盛大的庆祝活动。"
   },
   {
     "number": "322",
     "word": "post",
     "phonetic": "/pəʊst/",
-    "meaning": "v.发布；邮寄；发布；张贴；公布；使驻守 n.邮 寄；帖子；邮政；邮件；职位；岗位；柱"
+    "meaning": "v.发布；邮寄；发布；张贴；公布；使驻守 n.邮 寄；帖子；邮政；邮件；职位；岗位；柱",
+    "example": "I will post the letter to my pen pal tomorrow.",
+    "translation": "我明天会把信寄给我的笔友。"
   },
   {
     "number": "323",
     "word": "contact",
     "phonetic": "/ˈkɒntækt/",
-    "meaning": "n.联系；接触 v.联系；联络"
+    "meaning": "n.联系；接触 v.联系；联络",
+    "example": "You can contact me by email if you have questions.",
+    "translation": "如果你有问题，可以通过电子邮件联系我。"
   },
   {
     "number": "324",
     "word": "symbol",
     "phonetic": "/ˈsɪmbl/",
-    "meaning": "n.符号；象征；标志"
+    "meaning": "n.符号；象征；标志",
+    "example": "The dove is a symbol of peace.",
+    "translation": "鸽子是和平的象征。"
   },
   {
     "number": "325",
     "word": "take a photo",
     "phonetic": "/teɪk ə ˈfəʊtəʊ/",
-    "meaning": "phrase.拍照"
+    "meaning": "phrase.拍照",
+    "example": "Let's take a photo in front of the school building.",
+    "translation": "让我们在学校建筑前拍照。"
   },
   {
     "number": "326",
     "word": "village",
     "phonetic": "/ˈvɪlɪdʒ/",
-    "meaning": "n.村庄；村镇；乡村 adj.村庄的"
+    "meaning": "n.村庄；村镇；乡村 adj.村庄的",
+    "example": "My grandparents live in a small village.",
+    "translation": "我的祖父母住在一个小村庄里。"
   },
   {
     "number": "327",
     "word": "grow",
     "phonetic": "/ɡrəʊ/",
-    "meaning": "v.生⻓；栽种；种植；成⻓；⻓大；⻓高；增⻓ ；发育；变成"
+    "meaning": "v.生⻓；栽种；种植；成⻓；⻓大；⻓高；增⻓ ；发育；变成",
+    "example": "Plants grow well in the spring.",
+    "translation": "植物在春天生长得很好。"
   },
   {
     "number": "328",
     "word": "blow",
     "phonetic": "/bləʊ/",
-    "meaning": "v.吹；吹气；刮(过去式blew）"
+    "meaning": "v.吹；吹气；刮(过去式blew）",
+    "example": "The wind blows strongly in winter.",
+    "translation": "冬天的风刮得很大。"
   },
   {
     "number": "329",
     "word": "blow out",
     "phonetic": "/bləʊ ˈaʊt/",
-    "meaning": "吹灭"
+    "meaning": "吹灭",
+    "example": "I blew out the candles on my birthday cake.",
+    "translation": "我吹灭了生日蛋糕上的蜡烛。"
   },
   {
     "number": "330",
     "word": "enjoy",
     "phonetic": "/ɪnˈdʒɔɪ/",
-    "meaning": "v.享受......的乐趣；喜欢；欣赏；喜爱"
+    "meaning": "v.享受......的乐趣；喜欢；欣赏；喜爱",
+    "example": "I enjoy reading English storybooks.",
+    "translation": "我喜欢读英语故事书。"
   },
   {
     "number": "331",
     "word": "height",
     "phonetic": "/haɪt/",
-    "meaning": "n.(人的)身高，(物的)高，高度"
+    "meaning": "n.(人的)身高，(物的)高，高度",
+    "example": "The height of the building is 100 meters.",
+    "translation": "这座建筑物的高度是100米。"
   },
   {
     "number": "332",
     "word": "later",
     "phonetic": "/ˈleɪtə(r)/",
-    "meaning": "adv.随后；后来；以后 adj.以后的；后来的"
+    "meaning": "adv.随后；后来；以后 adj.以后的；后来的",
+    "example": "I will finish my homework later.",
+    "translation": "我稍后会完成作业。"
   },
   {
     "number": "333",
     "word": "next time",
     "phonetic": "/nekst taɪm/",
-    "meaning": "phra.下次"
+    "meaning": "phra.下次",
+    "example": "Let's play football together next time.",
+    "translation": "下次我们一起踢足球吧。"
   },
   {
     "number": "334",
     "word": "whom",
     "phonetic": "/huːm/",
-    "meaning": "pron.谁，什么人；......的人，那个人，那些人 （用于提供关于正在谈论的某人的信息或补充信 息）"
+    "meaning": "pron.谁，什么人；......的人，那个人，那些人 （用于提供关于正在谈论的某人的信息或补充信 息）",
+    "example": "To whom should I give this English book?",
+    "translation": "我应该把这本英语书给谁？"
   },
   {
     "number": "335",
     "word": "William",
     "phonetic": "/ˈwɪljəm ˈʃeɪkspɪə(r)/",
-    "meaning": "Shakespeare n.威廉莎士比亚"
+    "meaning": "Shakespeare n.威廉莎士比亚",
+    "example": "William Shakespeare was a famous English writer.",
+    "translation": "威廉·莎士比亚是一位著名的英国作家。"
   },
   {
     "number": "336",
     "word": "Florence",
     "phonetic": "/ˈflɒrəns/",
-    "meaning": "n.佛罗伦萨(意大利城市)"
+    "meaning": "n.佛罗伦萨(意大利城市)",
+    "example": "Florence is a beautiful city in Italy.",
+    "translation": "佛罗伦萨是意大利的一个美丽城市。"
   },
   {
     "number": "337",
     "word": "National Day",
     "phonetic": "/ˈnæʃnəl deɪ/",
-    "meaning": "n.国庆节"
+    "meaning": "n.国庆节",
+    "example": "National Day is a public holiday in China.",
+    "translation": "国庆节是中国的公共假日。"
   },
   {
     "number": "338",
     "word": "CPC Founding Day",
     "phonetic": "/ˌsiːpiːˈsiː ˈfaʊndɪŋ deɪ/",
-    "meaning": "中国共产党建党纪念日"
+    "meaning": "中国共产党建党纪念日",
+    "example": "CPC Founding Day is on July 1st.",
+    "translation": "中国共产党建党纪念日是7月1日。"
   },
   {
     "number": "339",
     "word": "PLA Day",
     "phonetic": "/ˌpiː el ˈeɪ deɪ/",
-    "meaning": "中国人⺠解放军建军节"
+    "meaning": "中国人⺠解放军建军节",
+    "example": "PLA Day is celebrated on August 1st.",
+    "translation": "中国人民解放军建军节在8月1日庆祝。"
   },
   {
     "number": "340",
     "word": "Judy",
     "phonetic": "/ˈdʒuːdi/",
-    "meaning": "朱迪（女名）"
+    "meaning": "朱迪（女名）",
+    "example": "Judy is my classmate and she is good at English.",
+    "translation": "朱迪是我的同学，她英语很好。"
   },
   {
     "number": "341",
     "word": "Clark",
     "phonetic": "/klɑ:k/",
-    "meaning": "克拉克"
+    "meaning": "克拉克",
+    "example": "Clark is a new student in our English class.",
+    "translation": "克拉克是我们英语课上的新学生。"
   },
   {
     "number": "342",
     "word": "hello",
     "phonetic": "/həˈləʊ/",
-    "meaning": "int.你好；喂；哈喽 n.喂的招呼声或问候声"
+    "meaning": "int.你好；喂；哈喽 n.喂的招呼声或问候声",
+    "example": "I say hello to my teacher every morning.",
+    "translation": "我每天早上向老师问好。"
   },
   {
     "number": "343",
     "word": "how",
     "phonetic": "/haʊ/",
-    "meaning": "adv.怎么样，如何(尤在⻅面时用于询问对方情 况)"
+    "meaning": "adv.怎么样，如何(尤在⻅面时用于询问对方情 况)",
+    "example": "How are you today?",
+    "translation": "你今天好吗？"
   },
   {
     "number": "344",
     "word": "do",
     "phonetic": "/duː/",
-    "meaning": "auxv.v.(第三人称单数形式does)用于构成否定 句和疑问句；做；干；办"
+    "meaning": "auxv.v.(第三人称单数形式does)用于构成否定 句和疑问句；做；干；办",
+    "example": "What do you do after school?",
+    "translation": "你放学后做什么？"
   },
   {
     "number": "345",
     "word": "you",
     "phonetic": "/juː/",
-    "meaning": "pron.你；您；你们"
+    "meaning": "pron.你；您；你们",
+    "example": "You are my best friend.",
+    "translation": "你是我最好的朋友。"
   },
   {
     "number": "346",
     "word": "people",
     "phonetic": "/ˈpiːpl/",
-    "meaning": "n.人，人们(单复数同形)"
+    "meaning": "n.人，人们(单复数同形)",
+    "example": "There are many people in the park on weekends.",
+    "translation": "周末公园里有很多人。"
   },
   {
     "number": "347",
     "word": "hi",
     "phonetic": "/haɪ/",
-    "meaning": "int.嗨；你好(非正式用语hello)"
+    "meaning": "int.嗨；你好(非正式用语hello)",
+    "example": "I say hi to my friends when I see them.",
+    "translation": "当我看到朋友时，我会和他们打招呼。"
   },
   {
     "number": "348",
     "word": "good",
     "phonetic": "/ɡʊd/",
-    "meaning": "adj.好的，令人愉快的；有用，有好处"
+    "meaning": "adj.好的，令人愉快的；有用，有好处",
+    "example": "My English teacher is very good.",
+    "translation": "我的英语老师非常好。"
   },
   {
     "number": "349",
     "word": "morning",
     "phonetic": "/ˈmɔːnɪŋ/",
-    "meaning": "n.早晨；上午"
+    "meaning": "n.早晨；上午",
+    "example": "I have English class in the morning.",
+    "translation": "我早上有英语课。"
   },
   {
     "number": "350",
     "word": "and",
     "phonetic": "/ənd/",
-    "meaning": "conj.和，与；并且"
+    "meaning": "conj.和，与；并且",
+    "example": "I like English and math.",
+    "translation": "我喜欢英语和数学。"
   },
   {
     "number": "351",
     "word": "Ms",
     "phonetic": "/mɪz/",
-    "meaning": "n.（用于女子的姓氏或姓名前，不指明婚否）女 士"
+    "meaning": "n.（用于女子的姓氏或姓名前，不指明婚否）女 士",
+    "example": "Ms Wang is our English teacher.",
+    "translation": "王女士是我们的英语老师。"
   },
   {
     "number": "352",
     "word": "class",
     "phonetic": "/klɑːs/",
-    "meaning": "n.班级；课；等级；阶级；类别"
+    "meaning": "n.班级；课；等级；阶级；类别",
+    "example": "We have English class every day.",
+    "translation": "我们每天都有英语课。"
   },
   {
     "number": "353",
     "word": "sit",
     "phonetic": "/sɪt/",
-    "meaning": "（过去式sat）v.坐；坐下"
+    "meaning": "（过去式sat）v.坐；坐下",
+    "example": "Please sit down and listen to the teacher.",
+    "translation": "请坐下听老师讲课。"
   },
   {
     "number": "354",
     "word": "down",
     "phonetic": "/daʊn/",
-    "meaning": "adj.向下的；沮丧的；情绪低落的；悲哀的 adv.向下 prep.沿......向下"
+    "meaning": "adj.向下的；沮丧的；情绪低落的；悲哀的 adv.向下 prep.沿......向下",
+    "example": "The cat is sitting down on the floor.",
+    "translation": "猫正坐在地板上。"
   },
   {
     "number": "355",
     "word": "please",
     "phonetic": "/pliːz/",
-    "meaning": "int.(用于客气地请求或吩咐)请"
+    "meaning": "int.(用于客气地请求或吩咐)请",
+    "example": "Please pass me the English book.",
+    "translation": "请把英语书递给我。"
   },
   {
     "number": "356",
     "word": "can",
     "phonetic": "/kæn/",
-    "meaning": "v.能；能够；会；可以 n.(美)罐子；罐头；金属 罐"
+    "meaning": "v.能；能够；会；可以 n.(美)罐子；罐头；金属 罐",
+    "example": "I can speak English well.",
+    "translation": "我能说好英语。"
   },
   {
     "number": "357",
     "word": "say",
     "phonetic": "/seɪ/",
-    "meaning": "v.说；讲；说话"
+    "meaning": "v.说；讲；说话",
+    "example": "Please say the English word aloud.",
+    "translation": "请大声说出这个英语单词。"
   },
   {
     "number": "358",
     "word": "to",
     "phonetic": "/tu/",
-    "meaning": "prep.（距整点）差......；到，对，向，在...之 前（动词不定时符号，无词义）"
+    "meaning": "prep.（距整点）差......；到，对，向，在...之 前（动词不定时符号，无词义）",
+    "example": "I go to school every day.",
+    "translation": "我每天上学。"
   },
   {
     "number": "359",
     "word": "the",
     "phonetic": "/ðə/",
-    "meaning": "（指已提到或易领会到的人或事物）这个；那个"
+    "meaning": "（指已提到或易领会到的人或事物）这个；那个",
+    "example": "The English book is on the desk.",
+    "translation": "英语书在桌子上。"
   },
   {
     "number": "360",
     "word": "I",
     "phonetic": "/aɪ/",
-    "meaning": "pron.我（主语） n.碘（元素iodine的符号）"
+    "meaning": "pron.我（主语） n.碘（元素iodine的符号）",
+    "example": "I like learning English.",
+    "translation": "我喜欢学习英语。"
   },
   {
     "number": "361",
     "word": "am",
     "phonetic": "/æm/",
-    "meaning": "v.是；动词be的第一人称单数现在式 abbr.上午 ；antemeridiem的缩写"
+    "meaning": "v.是；动词be的第一人称单数现在式 abbr.上午 ；antemeridiem的缩写",
+    "example": "I am a student in Grade 7.",
+    "translation": "我是一名七年级的学生。"
   },
   {
     "number": "362",
     "word": "thank",
     "phonetic": "/θæŋk/",
-    "meaning": "n.谢谢；感谢"
+    "meaning": "n.谢谢；感谢",
+    "example": "Thank you for helping me with my English.",
+    "translation": "谢谢你帮我学英语。"
   },
   {
     "number": "363",
     "word": "now",
     "phonetic": "/naʊ/",
-    "meaning": "adv.现在；目前"
+    "meaning": "adv.现在；目前",
+    "example": "I am studying English now.",
+    "translation": "我现在正在学习英语。"
   },
   {
     "number": "364",
     "word": "my",
     "phonetic": "/maɪ/",
-    "meaning": "pron.我的"
+    "meaning": "pron.我的",
+    "example": "My English book is new.",
+    "translation": "我的英语书是新的。"
   },
   {
     "number": "365",
     "word": "name",
     "phonetic": "/neɪm/",
-    "meaning": "v.命名；提名；说出......的名字 n.姓名；名称 ；名字"
+    "meaning": "v.命名；提名；说出......的名字 n.姓名；名称 ；名字",
+    "example": "My name is Li Ming.",
+    "translation": "我的名字是李明。"
   },
   {
     "number": "366",
     "word": "is",
     "phonetic": "/ɪz/",
-    "meaning": "v.是(用于he,she,it及单数可数名词后)"
+    "meaning": "v.是(用于he,she,it及单数可数名词后)",
+    "example": "English is my favorite subject.",
+    "translation": "英语是我最喜欢的科目。"
   },
   {
     "number": "367",
     "word": "nice",
     "phonetic": "/naɪs/",
-    "meaning": "adj.友好的；亲切的；讨人喜欢...；令人愉快的 ；美好的"
+    "meaning": "adj.友好的；亲切的；讨人喜欢...；令人愉快的 ；美好的",
+    "example": "It's nice to meet you.",
+    "translation": "很高兴认识你。"
   },
   {
     "number": "368",
     "word": "meet",
     "phonetic": "/miːt/",
-    "meaning": "v.遇⻅；⻅面；满足；认识，结识"
+    "meaning": "v.遇⻅；⻅面；满足；认识，结识",
+    "example": "I meet my friends after school.",
+    "translation": "我放学后见我的朋友。"
   },
   {
     "number": "369",
     "word": "so",
     "phonetic": "/səʊ/",
-    "meaning": "adv.如此；这样；（表示大小或数量）这么，那 么；很；也 conj.所以"
+    "meaning": "adv.如此；这样；（表示大小或数量）这么，那 么；很；也 conj.所以",
+    "example": "I like English, so I study it every day.",
+    "translation": "我喜欢英语，所以我每天都学习它。"
   },
   {
     "number": "370",
     "word": "what",
     "phonetic": "/wɒt/",
-    "meaning": "det.什么,多么,......的事物"
+    "meaning": "det.什么,多么,......的事物",
+    "example": "What is your favorite English word?",
+    "translation": "你最喜欢的英语单词是什么？"
   },
   {
     "number": "371",
     "word": "your",
     "phonetic": "/jɔː(r)/",
-    "meaning": "pron.你的；你们的"
+    "meaning": "pron.你的；你们的",
+    "example": "What is your English name?",
+    "translation": "你的英文名字是什么？"
   },
   {
     "number": "372",
     "word": "too",
     "phonetic": "/tuː/",
-    "meaning": "adv.太，过于，过分；也，还，又"
+    "meaning": "adv.太，过于，过分；也，还，又",
+    "example": "I like English too.",
+    "translation": "我也喜欢英语。"
   },
   {
     "number": "373",
     "word": "a",
     "phonetic": "/ə/",
-    "meaning": "art.用于单数可数名词前，表示一个 字母A的小 写，英语字母表的第个字母"
+    "meaning": "art.用于单数可数名词前，表示一个 字母A的小 写，英语字母表的第个字母",
+    "example": "I have a new English dictionary.",
+    "translation": "我有一本新的英语词典。"
   },
   {
     "number": "374",
     "word": "are",
     "phonetic": "/ɑː(r)/",
-    "meaning": "v.是；就是(用于we,you,they及复数名词作主语 )"
+    "meaning": "v.是；就是(用于we,you,they及复数名词作主语 )",
+    "example": "You are my best friend.",
+    "translation": "你是我最好的朋友。"
   },
   {
     "number": "375",
     "word": "goodbye",
     "phonetic": "/ˌɡʊdˈbaɪ/",
-    "meaning": "int.再⻅ n.说再⻅"
+    "meaning": "int.再⻅ n.说再⻅",
+    "example": "I say goodbye to my teacher after class.",
+    "translation": "下课后我向老师道别。"
   },
   {
     "number": "376",
     "word": "may",
     "phonetic": "/meɪ/",
-    "meaning": "modal.可以，有可能，也许"
+    "meaning": "modal.可以，有可能，也许",
+    "example": "May I borrow your English book?",
+    "translation": "我可以借你的英语书吗？"
   },
   {
     "number": "377",
     "word": "have",
     "phonetic": "/hæv/",
-    "meaning": "v.吃，喝；有，拥有；举行 aux.已经（构成现在 完成时）"
+    "meaning": "v.吃，喝；有，拥有；举行 aux.已经（构成现在 完成时）",
+    "example": "I have English class every morning.",
+    "translation": "我每天早上有英语课。"
   },
   {
     "number": "378",
     "word": "call",
     "phonetic": "/kɔːl/",
-    "meaning": "v.（一次）通话；，名叫，叫作，称作；打电话 n.打电话"
+    "meaning": "v.（一次）通话；，名叫，叫作，称作；打电话 n.打电话",
+    "example": "Please call me if you need help with English.",
+    "translation": "如果你需要英语方面的帮助，请打电话给我。"
   },
   {
     "number": "379",
     "word": "me",
     "phonetic": "/miː/",
-    "meaning": "pron.我(I的宾格形式)"
+    "meaning": "pron.我(I的宾格形式)",
+    "example": "My teacher asks me to read English aloud.",
+    "translation": "我的老师让我大声读英语。"
   },
   {
     "number": "380",
     "word": "fine",
     "phonetic": "/faɪn/",
-    "meaning": "adj.很好的；晴朗的；健康的；美好的 adv.很好 n.罚款"
+    "meaning": "adj.很好的；晴朗的；健康的；美好的 adv.很好 n.罚款",
+    "example": "I am fine, thank you.",
+    "translation": "我很好，谢谢。"
   },
   {
     "number": "381",
     "word": "great",
     "phonetic": "/ɡreɪt/",
-    "meaning": "adj.伟大的；大的；极好的；太棒了 adv.很好地"
+    "meaning": "adj.伟大的；大的；极好的；太棒了 adv.很好地",
+    "example": "That's a great idea!",
+    "translation": "那是个好主意！"
   },
   {
     "number": "382",
     "word": "that",
     "phonetic": "/ðæt/",
-    "meaning": "adj.那；那个；那样的 pron.那儿；那里 conj.那（引导从句） adv.那个；那么；那样"
+    "meaning": "adj.那；那个；那样的 pron.那儿；那里 conj.那（引导从句） adv.那个；那么；那样",
+    "example": "That is my English book.",
+    "translation": "那是我的英语书。"
   },
   {
     "number": "383",
     "word": "let",
     "phonetic": "/let/",
-    "meaning": "v.让；允许；放开；出租"
+    "meaning": "v.让；允许；放开；出租",
+    "example": "Let me help you with your English homework.",
+    "translation": "让我帮你做英语作业。"
   },
   {
     "number": "384",
     "word": "us",
     "phonetic": "/ʌs/",
-    "meaning": "pron.我们(we的宾格)"
+    "meaning": "pron.我们(we的宾格)",
+    "example": "Our teacher tells us to study hard.",
+    "translation": "我们的老师告诉我们要努力学习。"
   },
   {
     "number": "385",
     "word": "go",
     "phonetic": "/ɡəʊ/",
-    "meaning": "v.出发，离去；试；努力；行走；去；走；开始 ；移动"
+    "meaning": "v.出发，离去；试；努力；行走；去；走；开始 ；移动",
+    "example": "Let's go to the park after school.",
+    "translation": "放学后我们去公园吧。"
   },
   {
     "number": "386",
     "word": "bye",
     "phonetic": "/baɪ/",
-    "meaning": "int.(goodbye)再⻅"
+    "meaning": "int.(goodbye)再⻅",
+    "example": "Bye, see you tomorrow!",
+    "translation": "再见，明天见！"
   },
   {
     "number": "387",
     "word": "it",
     "phonetic": "/ɪt/",
-    "meaning": "pron.它，这，那"
+    "meaning": "pron.它，这，那",
+    "example": "It is a sunny day today.",
+    "translation": "今天是个晴天。"
   },
   {
     "number": "388",
     "word": "time",
     "phonetic": "/taɪm/",
-    "meaning": "n.时间；时刻，时候；倍；次数；时期 v.计时 ；安排时间 adj.时间的；定时的；分期的"
+    "meaning": "n.时间；时刻，时候；倍；次数；时期 v.计时 ；安排时间 adj.时间的；定时的；分期的",
+    "example": "It's time for English class.",
+    "translation": "该上英语课了。"
   },
   {
     "number": "389",
     "word": "for",
     "phonetic": "/fɔː(r)/",
-    "meaning": "prep.（表示对象，用途等）给；因为...；对于 ...；为了，供"
+    "meaning": "prep.（表示对象，用途等）给；因为...；对于 ...；为了，供",
+    "example": "This gift is for you.",
+    "translation": "这个礼物是给你的。"
   },
   {
     "number": "390",
     "word": "keep",
     "phonetic": "/kiːp/",
-    "meaning": "v.（使）保持，处于；保有，保留；记录；存..."
+    "meaning": "v.（使）保持，处于；保有，保留；记录；存...",
+    "example": "Keep your English book in your schoolbag.",
+    "translation": "把你的英语书放在书包里。"
   },
   {
     "number": "391",
     "word": "tidy",
     "phonetic": "/ˈtaɪdi/",
-    "meaning": "v.收拾；使整洁；整理 adj.整洁的；整⻬的"
+    "meaning": "v.收拾；使整洁；整理 adj.整洁的；整⻬的",
+    "example": "Please keep your desk tidy.",
+    "translation": "请保持你的书桌整洁。"
   },
   {
     "number": "392",
     "word": "in",
     "phonetic": "/ɪn/",
-    "meaning": "prep.在......里，在内，在中；在（将来一段时 间）之后；用；以；穿着，戴着 adv.在家；在里 面"
+    "meaning": "prep.在......里，在内，在中；在（将来一段时 间）之后；用；以；穿着，戴着 adv.在家；在里 面",
+    "example": "I have a pen in my pencil case.",
+    "translation": "我的铅笔盒里有一支笔。"
   },
   {
     "number": "393",
     "word": "schoolbag",
     "phonetic": "/ˈskuːlbæɡ/",
-    "meaning": "n.书包"
+    "meaning": "n.书包",
+    "example": "I put my books in my schoolbag.",
+    "translation": "我把书放在书包里。"
   },
   {
     "number": "394",
     "word": "cap",
     "phonetic": "/kæp/",
-    "meaning": "n.（尤指有帽舌的）帽子 v.覆盖......的顶部"
+    "meaning": "n.（尤指有帽舌的）帽子 v.覆盖......的顶部",
+    "example": "I wear a cap when it's sunny.",
+    "translation": "晴天时我戴帽子。"
   },
   {
     "number": "395",
     "word": "ruler",
     "phonetic": "/ˈruːlə(r)/",
-    "meaning": "n.尺子，直尺；统治者；支配者"
+    "meaning": "n.尺子，直尺；统治者；支配者",
+    "example": "I use a ruler to draw straight lines.",
+    "translation": "我用尺子画直线。"
   },
   {
     "number": "396",
     "word": "pencil",
     "phonetic": "/ˈpensl/",
-    "meaning": "n.铅笔"
+    "meaning": "n.铅笔",
+    "example": "I write with a pencil in English class.",
+    "translation": "我在英语课上用铅笔写字。"
   },
   {
     "number": "397",
     "word": "brown",
     "phonetic": "/braʊn/",
-    "meaning": "adj.褐色的；棕色的 n.褐色；棕色"
+    "meaning": "adj.褐色的；棕色的 n.褐色；棕色",
+    "example": "My dog is brown.",
+    "translation": "我的狗是棕色的。"
   },
   {
     "number": "398",
     "word": "black",
     "phonetic": "/blæk/",
-    "meaning": "adj.黑色的 n.黑色"
+    "meaning": "adj.黑色的 n.黑色",
+    "example": "The blackboard is black.",
+    "translation": "黑板是黑色的。"
   },
   {
     "number": "399",
     "word": "yellow",
     "phonetic": "/ˈjeləʊ/",
-    "meaning": "adj.⻩色的 n.⻩色"
+    "meaning": "adj.⻩色的 n.⻩色",
+    "example": "The sun is yellow.",
+    "translation": "太阳是黄色的。"
   },
   {
     "number": "400",
     "word": "orange",
     "phonetic": "/ˈɒrɪndʒ/",
-    "meaning": "n.橘子；橙；柑橘 adj.橙色的，橘⻩色，橙红色 的 adj.绿色的；未熟的；无经验的 n.绿色；绿色物"
+    "meaning": "n.橘子；橙；柑橘 adj.橙色的，橘⻩色，橙红色 的 adj.绿色的；未熟的；无经验的 n.绿色；绿色物",
+    "example": "I like to eat orange fruits.",
+    "translation": "我喜欢吃橙色的水果。"
   },
   {
     "number": "401",
     "word": "green",
     "phonetic": "/ɡriːn/",
-    "meaning": "品"
+    "meaning": "品",
+    "example": "The grass is green in spring.",
+    "translation": "春天的草是绿色的。"
   },
   {
     "number": "402",
     "word": "blue",
     "phonetic": "/bluː/",
-    "meaning": "adj.蓝色的；忧郁的 n.蓝色"
+    "meaning": "adj.蓝色的；忧郁的 n.蓝色",
+    "example": "The sky is blue on a clear day.",
+    "translation": "晴天时天空是蓝色的。"
   },
   {
     "number": "403",
     "word": "white",
     "phonetic": "/waɪt/",
-    "meaning": "adj.白色的 n.白色"
+    "meaning": "adj.白色的 n.白色",
+    "example": "Snow is white.",
+    "translation": "雪是白色的。"
   },
   {
     "number": "404",
     "word": "red",
     "phonetic": "/red/",
-    "meaning": "adj.红色的 n.红色"
+    "meaning": "adj.红色的 n.红色",
+    "example": "The apple is red.",
+    "translation": "苹果是红色的。"
   },
   {
     "number": "405",
     "word": "colour",
     "phonetic": "/ˈkʌlə(r)/",
-    "meaning": "vt.给......着色 n.色彩，颜色"
+    "meaning": "vt.给......着色 n.色彩，颜色",
+    "example": "What is your favourite colour?",
+    "translation": "你最喜欢的颜色是什么？"
   },
   {
     "number": "406",
     "word": "trousers",
     "phonetic": "/ˈtraʊzəz/",
-    "meaning": "n.（用复数）⻓裤"
+    "meaning": "n.（用复数）⻓裤",
+    "example": "I wear black trousers to school.",
+    "translation": "我穿黑色裤子上学。"
   },
   {
     "number": "407",
     "word": "they",
     "phonetic": "/ðeɪ/",
-    "meaning": "pron.他们；它们；她们"
+    "meaning": "pron.他们；它们；她们",
+    "example": "They are my friends.",
+    "translation": "他们是我的朋友。"
   },
   {
     "number": "408",
     "word": "bicycle",
     "phonetic": "/ˈbaɪsɪkl/",
-    "meaning": "n.（bike）自行⻋；脚踏⻋"
+    "meaning": "n.（bike）自行⻋；脚踏⻋",
+    "example": "I ride my bicycle to school.",
+    "translation": "我骑自行车上学。"
   },
   {
     "number": "409",
     "word": "shoe",
     "phonetic": "/ʃuː/",
-    "meaning": "n.鞋子"
+    "meaning": "n.鞋子",
+    "example": "I have a new pair of shoes.",
+    "translation": "我有一双新鞋。"
   },
   {
     "number": "410",
     "word": "where",
     "phonetic": "/weə(r)/",
-    "meaning": "adv.哪里；在哪里，去哪里；到哪里"
+    "meaning": "adv.哪里；在哪里，去哪里；到哪里",
+    "example": "Where is my English book?",
+    "translation": "我的英语书在哪里？"
   },
   {
     "number": "411",
     "word": "put",
     "phonetic": "/pʊt/",
-    "meaning": "v.放，安放，安置(put的过去式)"
+    "meaning": "v.放，安放，安置(put的过去式)",
+    "example": "Please put your books on the desk.",
+    "translation": "请把你的书放在桌子上。"
   },
   {
     "number": "412",
     "word": "bed",
     "phonetic": "/bed/",
-    "meaning": "n.床；底；（花）坛"
+    "meaning": "n.床；底；（花）坛",
+    "example": "I go to bed at 9:00 every night.",
+    "translation": "我每天晚上9点睡觉。"
   },
   {
     "number": "413",
     "word": "desk",
     "phonetic": "/desk/",
-    "meaning": "n.书桌；课桌；写字台"
+    "meaning": "n.书桌；课桌；写字台",
+    "example": "I do my homework at my desk.",
+    "translation": "我在书桌前做作业。"
   },
   {
     "number": "414",
     "word": "chair",
     "phonetic": "/tʃeə(r)/",
-    "meaning": "n.椅子；主席；教授的职位 v.使就任要职；主持"
+    "meaning": "n.椅子；主席；教授的职位 v.使就任要职；主持",
+    "example": "Please sit on the chair.",
+    "translation": "请坐在椅子上。"
   },
   {
     "number": "415",
     "word": "book",
     "phonetic": "/bʊk/",
-    "meaning": "n.书；书籍；本子 v.预约，预订，订（房间⻋票 等）"
+    "meaning": "n.书；书籍；本子 v.预约，预订，订（房间⻋票 等）",
+    "example": "I read a book every day.",
+    "translation": "我每天读一本书。"
   },
   {
     "number": "416",
     "word": "box",
     "phonetic": "/bɒks/",
-    "meaning": "n.箱子；盒子；一拳 v.拳击；装箱"
+    "meaning": "n.箱子；盒子；一拳 v.拳击；装箱",
+    "example": "I keep my toys in a box.",
+    "translation": "我把玩具放在盒子里。"
   },
   {
     "number": "417",
     "word": "sock",
     "phonetic": "/sɒk/",
-    "meaning": "n.短袜v.穿袜"
+    "meaning": "n.短袜v.穿袜",
+    "example": "I wear socks every day.",
+    "translation": "我每天穿袜子。"
   },
   {
     "number": "418",
     "word": "some",
     "phonetic": "/sʌm/",
-    "meaning": "adj.一些；某些 pron.有些；若干"
+    "meaning": "adj.一些；某些 pron.有些；若干",
+    "example": "I have some apples.",
+    "translation": "我有一些苹果。"
   },
   {
     "number": "419",
     "word": "pair",
     "phonetic": "/peə(r)/",
-    "meaning": "n.一双；一对 v.（使）成对；（使）配对"
+    "meaning": "n.一双；一对 v.（使）成对；（使）配对",
+    "example": "I need a pair of scissors.",
+    "translation": "我需要一把剪刀。"
   },
   {
     "number": "420",
     "word": "of",
     "phonetic": "/ɒv/",
-    "meaning": "prep.属于(某人或某物);关于(某人或某物)"
+    "meaning": "prep.属于(某人或某物);关于(某人或某物)",
+    "example": "A glass of water, please.",
+    "translation": "请给我一杯水。"
   },
   {
     "number": "421",
     "word": "on",
     "phonetic": "/ɒn/",
-    "meaning": "prep.在......上面；关于；到......上面；在（某 位置）"
+    "meaning": "prep.在......上面；关于；到......上面；在（某 位置）",
+    "example": "The book is on the desk.",
+    "translation": "书在桌子上。"
   },
   {
     "number": "422",
     "word": "under",
     "phonetic": "/ˈʌndə(r)/",
-    "meaning": "prep.在......下面；在......下方"
+    "meaning": "prep.在......下面；在......下方",
+    "example": "The cat is under the chair.",
+    "translation": "猫在椅子下面。"
   },
   {
     "number": "423",
     "word": "mum",
     "phonetic": "/mʌm/",
-    "meaning": "n.妈妈(非正式用语) adj.沉默的；不说话的"
+    "meaning": "n.妈妈(非正式用语) adj.沉默的；不说话的",
+    "example": "Mum helps me with my homework.",
+    "translation": "妈妈帮我做作业。"
   },
   {
     "number": "424",
     "word": "not",
     "phonetic": "/nɒt/",
-    "meaning": "adv.不，不是，没有"
+    "meaning": "adv.不，不是，没有",
+    "example": "I am not late for school.",
+    "translation": "我上学没有迟到。"
   },
   {
     "number": "425",
     "word": "find",
     "phonetic": "/faɪnd/",
-    "meaning": "v.(过去式过去分词found)找到；找回；发现"
+    "meaning": "v.(过去式过去分词found)找到；找回；发现",
+    "example": "I can't find my pencil.",
+    "translation": "我找不到我的铅笔了。"
   },
   {
     "number": "426",
     "word": "new",
     "phonetic": "/njuː/",
-    "meaning": "adj.新的;刚出现的"
+    "meaning": "adj.新的;刚出现的",
+    "example": "I have a new English teacher.",
+    "translation": "我有一位新的英语老师。"
   },
   {
     "number": "427",
     "word": "no",
     "phonetic": "/nəʊ/",
-    "meaning": "interj.不；不是；没有 det.没有，无"
+    "meaning": "interj.不；不是；没有 det.没有，无",
+    "example": "No, I don't like that.",
+    "translation": "不，我不喜欢那个。"
   },
   {
     "number": "428",
     "word": "here",
     "phonetic": "/hɪə(r)/",
-    "meaning": "adv.这儿 adv.在这里，向这里"
+    "meaning": "adv.这儿 adv.在这里，向这里",
+    "example": "Here is your English book.",
+    "translation": "这是你的英语书。"
   },
   {
     "number": "429",
     "word": "room",
     "phonetic": "/ruːm/",
-    "meaning": "n.房间；空间"
+    "meaning": "n.房间；空间",
+    "example": "My room is tidy.",
+    "translation": "我的房间很整洁。"
   },
   {
     "number": "430",
     "word": "OK",
     "phonetic": "/əʊˈkeɪ/",
-    "meaning": "adj.好的；不错的；可以的 int.好的，行；可以"
+    "meaning": "adj.好的；不错的；可以的 int.好的，行；可以",
+    "example": "OK, let's start the English class.",
+    "translation": "好的，让我们开始英语课。"
   },
   {
     "number": "431",
     "word": "sorry",
     "phonetic": "/ˈsɒri/",
-    "meaning": "adj.对不起的；遗憾的；抱歉的 int.对不起；抱 歉"
+    "meaning": "adj.对不起的；遗憾的；抱歉的 int.对不起；抱 歉",
+    "example": "I'm sorry for being late.",
+    "translation": "对不起，我迟到了。"
   },
   {
     "number": "432",
     "word": "dad",
     "phonetic": "/dæd/",
-    "meaning": "n.爸爸(非正式用语)"
+    "meaning": "n.爸爸(非正式用语)",
+    "example": "Dad takes me to school every morning.",
+    "translation": "爸爸每天早上送我上学。"
   },
   {
     "number": "433",
     "word": "glasses",
     "phonetic": "/ˈɡlɑːsɪz/",
-    "meaning": "n.眼镜 n.玻璃；玻璃杯；glass的复数"
+    "meaning": "n.眼镜 n.玻璃；玻璃杯；glass的复数",
+    "example": "My grandfather wears glasses.",
+    "translation": "我爷爷戴眼镜。"
   },
   {
     "number": "434",
     "word": "see",
     "phonetic": "/siː/",
-    "meaning": "v.看⻅；看，⻅；明白；会⻅(过去式为saw)"
+    "meaning": "v.看⻅；看，⻅；明白；会⻅(过去式为saw)",
+    "example": "I can see the blackboard clearly.",
+    "translation": "我能清楚地看到黑板。"
   },
   {
     "number": "435",
     "word": "them",
     "phonetic": "/ðəm/",
-    "meaning": "pron.他们；她们；它们(宾格)"
+    "meaning": "pron.他们；她们；它们(宾格)",
+    "example": "I like them very much.",
+    "translation": "我非常喜欢他们。"
   },
   {
     "number": "436",
     "word": "wait",
     "phonetic": "/weɪt/",
-    "meaning": "v.(for)等，等待,等候 n.等待,等待时间；等候"
+    "meaning": "v.(for)等，等待,等候 n.等待,等待时间；等候",
+    "example": "Please wait for me.",
+    "translation": "请等我一下。"
   },
   {
     "number": "437",
     "word": "minute",
     "phonetic": "/ˈmɪnɪt/",
-    "meaning": "n.分钟；一会儿 adj.微小的"
+    "meaning": "n.分钟；一会儿 adj.微小的",
+    "example": "Wait a minute, I'm coming.",
+    "translation": "等一下，我来了。"
   },
   {
     "number": "438",
     "word": "head",
     "phonetic": "/hed/",
-    "meaning": "n.头，头部；脑袋；上端；首脑；负责人 v.朝 ......行进；前往；居首位；领导 adj.头的；主要 的"
+    "meaning": "n.头，头部；脑袋；上端；首脑；负责人 v.朝 ......行进；前往；居首位；领导 adj.头的；主要 的",
+    "example": "I have a headache.",
+    "translation": "我头痛。"
   },
   {
     "number": "439",
     "word": "welcome",
     "phonetic": "/ˈwelkəm/",
-    "meaning": "n.欢迎 adj.受欢迎的 v.欢迎 int.欢迎"
+    "meaning": "n.欢迎 adj.受欢迎的 v.欢迎 int.欢迎",
+    "example": "Welcome to our school.",
+    "translation": "欢迎来到我们学校。"
   },
   {
     "number": "440",
     "word": "her",
     "phonetic": "/hə(r)/",
-    "meaning": "pron.她(宾格)；她的"
+    "meaning": "pron.她(宾格)；她的",
+    "example": "Her name is Lisa.",
+    "translation": "她的名字是莉萨。"
   },
   {
     "number": "441",
     "word": "nose",
     "phonetic": "/nəʊz/",
-    "meaning": "n.鼻，鼻子"
+    "meaning": "n.鼻，鼻子",
+    "example": "I have a big nose.",
+    "translation": "我有一个大鼻子。"
   },
   {
     "number": "442",
     "word": "cat",
     "phonetic": "/kæt/",
-    "meaning": "n.猫"
+    "meaning": "n.猫",
+    "example": "I have a pet cat.",
+    "translation": "我有一只宠物猫。"
   },
   {
     "number": "443",
     "word": "these",
     "phonetic": "/ðiːz/",
-    "meaning": "pron.这些；this的复数 adj.这些的"
+    "meaning": "pron.这些；this的复数 adj.这些的",
+    "example": "These are my English books.",
+    "translation": "这些是我的英语书。"
   },
   {
     "number": "444",
     "word": "plant",
     "phonetic": "/plɑːnt/",
-    "meaning": "n.植物；作物；⻋间；装置；工厂；发电厂 v.种 植；栽培；安置；放置"
+    "meaning": "n.植物；作物；⻋间；装置；工厂；发电厂 v.种 植；栽培；安置；放置",
+    "example": "I plant a tree in my garden.",
+    "translation": "我在花园里种了一棵树。"
   },
   {
     "number": "445",
     "word": "baby",
     "phonetic": "/ˈbeɪbi/",
-    "meaning": "n.婴儿；幼兽；幼⻦ adj.幼小的"
+    "meaning": "n.婴儿；幼兽；幼⻦ adj.幼小的",
+    "example": "The baby is crying.",
+    "translation": "婴儿在哭。"
   },
   {
     "number": "446",
     "word": "chicken",
     "phonetic": "/ˈtʃɪkɪn/",
-    "meaning": "n.鸡；鸡肉"
+    "meaning": "n.鸡；鸡肉",
+    "example": "I like to eat chicken.",
+    "translation": "我喜欢吃鸡肉。"
   },
   {
     "number": "447",
     "word": "dog",
     "phonetic": "/dɒɡ/",
-    "meaning": "n.狗 v.尾随"
+    "meaning": "n.狗 v.尾随",
+    "example": "The dog is barking.",
+    "translation": "狗在叫。"
   },
   {
     "number": "448",
     "word": "rabbit",
     "phonetic": "/ˈræbɪt/",
-    "meaning": "n.兔子；野兔"
+    "meaning": "n.兔子；野兔",
+    "example": "The rabbit is white.",
+    "translation": "兔子是白色的。"
   },
   {
     "number": "449",
     "word": "tomato",
     "phonetic": "/təˈmɑːtəʊ/",
-    "meaning": "n.西红柿，番茄(复数tomatoes)"
+    "meaning": "n.西红柿，番茄(复数tomatoes)",
+    "example": "I like to eat tomatoes.",
+    "translation": "我喜欢吃西红柿。"
   },
   {
     "number": "450",
     "word": "flower",
     "phonetic": "/ˈflaʊə(r)/",
-    "meaning": "n.花；花朵"
+    "meaning": "n.花；花朵",
+    "example": "The flower is beautiful.",
+    "translation": "花很美。"
   },
   {
     "number": "451",
     "word": "apple",
     "phonetic": "/ˈæp(ə)l/",
-    "meaning": "n.苹果,苹果树"
+    "meaning": "n.苹果,苹果树",
+    "example": "I eat an apple every day.",
+    "translation": "我每天吃一个苹果。"
   },
   {
     "number": "452",
     "word": "tree",
     "phonetic": "/triː/",
-    "meaning": "n.树；树木；乔木"
+    "meaning": "n.树；树木；乔木",
+    "example": "The tree is tall.",
+    "translation": "树很高。"
   },
   {
     "number": "453",
     "word": "this",
     "phonetic": "/ðɪs/",
-    "meaning": "adj.这 pron.这个 adv.这个；这样；这么"
+    "meaning": "adj.这 pron.这个 adv.这个；这样；这么",
+    "example": "This is my English teacher.",
+    "translation": "这是我的英语老师。"
   },
   {
     "number": "454",
     "word": "those",
     "phonetic": "/ðəʊz/",
-    "meaning": "adj.那些的 pron.那些；that的复数"
+    "meaning": "adj.那些的 pron.那些；that的复数",
+    "example": "Those are my friends.",
+    "translation": "那些是我的朋友。"
   },
   {
     "number": "455",
     "word": "animal",
     "phonetic": "/ˈænɪml/",
-    "meaning": "n.兽，动物"
+    "meaning": "n.兽，动物",
+    "example": "I like animals.",
+    "translation": "我喜欢动物。"
   },
   {
     "number": "456",
     "word": "duck",
     "phonetic": "/dʌk/",
-    "meaning": "n.鸭子；鸭肉 v.没入水中；潜入；闪避"
+    "meaning": "n.鸭子；鸭肉 v.没入水中；潜入；闪避",
+    "example": "The duck is swimming in the lake.",
+    "translation": "鸭子在湖里游泳。"
   },
   {
     "number": "457",
     "word": "potato",
     "phonetic": "/pəˈteɪtəʊ/",
-    "meaning": "n.土豆；⻢铃薯(复数potatoes)"
+    "meaning": "n.土豆；⻢铃薯(复数potatoes)",
+    "example": "I like to eat potatoes.",
+    "translation": "我喜欢吃土豆。"
   },
   {
     "number": "458",
     "word": "many",
     "phonetic": "/ˈmeni/",
-    "meaning": "det.许多，大量 pron.许多（人或物）"
+    "meaning": "det.许多，大量 pron.许多（人或物）",
+    "example": "There are many students in my class.",
+    "translation": "我的班级有很多学生。"
   },
   {
     "number": "459",
     "word": "grandpa",
     "phonetic": "/ˈɡrænpɑː/",
-    "meaning": "n.(grandfather)爷爷，外公；祖父；外祖父"
+    "meaning": "n.(grandfather)爷爷，外公；祖父；外祖父",
+    "example": "Grandpa tells me stories.",
+    "translation": "爷爷给我讲故事。"
   },
   {
     "number": "460",
     "word": "farm",
     "phonetic": "/fɑːm/",
-    "meaning": "n.农场；农庄 v.耕种；务农；种田；饲养"
+    "meaning": "n.农场；农庄 v.耕种；务农；种田；饲养",
+    "example": "We visit a farm on weekends.",
+    "translation": "我们周末去农场参观。"
   },
   {
     "number": "461",
     "word": "cow",
     "phonetic": "/kaʊ/",
-    "meaning": "n.母牛；奶牛；大型母兽 v.威胁；吓唬"
+    "meaning": "n.母牛；奶牛；大型母兽 v.威胁；吓唬",
+    "example": "The cow gives milk.",
+    "translation": "奶牛产奶。"
   },
   {
     "number": "462",
     "word": "small",
     "phonetic": "/smɔːl/",
-    "meaning": "adj.小的；小号的"
+    "meaning": "adj.小的；小号的",
+    "example": "The cat is small.",
+    "translation": "猫很小。"
   },
   {
     "number": "463",
     "word": "lake",
     "phonetic": "/leɪk/",
-    "meaning": "n.湖；湖泊"
+    "meaning": "n.湖；湖泊",
+    "example": "We go fishing in the lake.",
+    "translation": "我们在湖里钓鱼。"
   },
   {
     "number": "464",
     "word": "house",
     "phonetic": "/haʊs/",
-    "meaning": "n.房子；房屋；住宅 v.给某人提供住处,是 ......的安置处；收藏"
+    "meaning": "n.房子；房屋；住宅 v.给某人提供住处,是 ......的安置处；收藏",
+    "example": "I live in a big house.",
+    "translation": "我住在一所大房子里。"
   },
   {
     "number": "465",
     "word": "horse",
     "phonetic": "/hɔːs/",
-    "meaning": "n.⻢ v.骑⻢"
+    "meaning": "n.⻢ v.骑⻢",
+    "example": "I ride a horse on the farm.",
+    "translation": "我在农场骑马。"
   },
   {
     "number": "466",
     "word": "sheep",
     "phonetic": "/ʃiːp/",
-    "meaning": "n.(pl.sheep)(绵)羊；驯服者"
+    "meaning": "n.(pl.sheep)(绵)羊；驯服者",
+    "example": "There are many sheep on the farm.",
+    "translation": "农场里有很多羊。"
   },
   {
     "number": "467",
     "word": "big",
     "phonetic": "/bɪɡ/",
-    "meaning": "adj.大的；大号的；年龄较大的"
+    "meaning": "adj.大的；大号的；年龄较大的",
+    "example": "The elephant is big.",
+    "translation": "大象很大。"
   },
   {
     "number": "468",
     "word": "look",
     "phonetic": "/lʊk/",
-    "meaning": "v.看；望，瞧；看上去 n.看"
+    "meaning": "v.看；望，瞧；看上去 n.看",
+    "example": "Look at the blackboard.",
+    "translation": "看黑板。"
   },
   {
     "number": "469",
     "word": "uncle",
     "phonetic": "/ˈʌŋkl/",
-    "meaning": "n.叔父；伯父；舅父；姑父；姨父"
+    "meaning": "n.叔父；伯父；舅父；姑父；姨父",
+    "example": "My uncle is a teacher.",
+    "translation": "我的叔叔是一名教师。"
   },
   {
     "number": "470",
     "word": "grass",
     "phonetic": "/ɡrɑːs/",
-    "meaning": "n.草；草地；大麻；告密者 v.使吃草；放牧；告 发"
+    "meaning": "n.草；草地；大麻；告密者 v.使吃草；放牧；告 发",
+    "example": "The grass is green.",
+    "translation": "草是绿色的。"
   },
   {
     "number": "471",
     "word": "kind",
     "phonetic": "/kaɪnd/",
-    "meaning": "adj.亲切的；和蔼的；和善的；友好的，善意的 ，体贴的 n.种类"
+    "meaning": "adj.亲切的；和蔼的；和善的；友好的，善意的 ，体贴的 n.种类",
+    "example": "My teacher is very kind.",
+    "translation": "我的老师很和蔼。"
   },
   {
     "number": "472",
     "word": "he",
     "phonetic": "/hiː/",
-    "meaning": "n.他 pron.他"
+    "meaning": "n.他 pron.他",
+    "example": "He is my brother.",
+    "translation": "他是我的兄弟。"
   },
   {
     "number": "473",
     "word": "pig",
     "phonetic": "/pɪɡ/",
-    "meaning": "n.猪，贪婪的人"
+    "meaning": "n.猪，贪婪的人",
+    "example": "The pig is pink.",
+    "translation": "猪是粉红色的。"
   },
   {
     "number": "474",
     "word": "there",
     "phonetic": "/ðeə(r)/",
-    "meaning": "adv.(表示某事物存在或发生)；（在）那里;(与 be连用）有"
+    "meaning": "adv.(表示某事物存在或发生)；（在）那里;(与 be连用）有",
+    "example": "There is a book on the desk.",
+    "translation": "桌子上有一本书。"
   },
   {
     "number": "475",
     "word": "behind",
     "phonetic": "/bɪˈhaɪnd/",
-    "meaning": "prep.在......后面 adv.在后面"
+    "meaning": "prep.在......后面 adv.在后面",
+    "example": "The cat is behind the door.",
+    "translation": "猫在门后面。"
   },
   {
     "number": "476",
     "word": "home",
     "phonetic": "/həʊm/",
-    "meaning": "n.家；家庭；住所 adv.在家 adj.家的；家庭的 v.送......回家；提供住处"
+    "meaning": "n.家；家庭；住所 adv.在家 adj.家的；家庭的 v.送......回家；提供住处",
+    "example": "I go home after school.",
+    "translation": "放学后我回家。"
   },
   {
     "number": "477",
     "word": "beautiful",
     "phonetic": "/ˈbjuːtɪfl/",
-    "meaning": "adj.漂亮的；美丽的；美好的"
+    "meaning": "adj.漂亮的；美丽的；美好的",
+    "example": "The flower is beautiful.",
+    "translation": "花很美。"
   },
   {
     "number": "478",
     "word": "like",
     "phonetic": "/laɪk/",
-    "meaning": "v.喜欢,喜爱 perp.例如，像；怎么样；像...一样"
+    "meaning": "v.喜欢,喜爱 perp.例如，像；怎么样；像...一样",
+    "example": "I like English very much.",
+    "translation": "我非常喜欢英语。"
   },
   {
     "number": "479",
     "word": "his",
     "phonetic": "/hɪz/",
-    "meaning": "pron.他的（he的所有格）"
+    "meaning": "pron.他的（he的所有格）",
+    "example": "His name is Tom.",
+    "translation": "他的名字是汤姆。"
   },
   {
     "number": "480",
     "word": "at",
     "phonetic": "/æt/",
-    "meaning": "prep.在(某处某时间或时刻);(提供电话号码等时 使用)按照;根据"
+    "meaning": "prep.在(某处某时间或时刻);(提供电话号码等时 使用)按照;根据",
+    "example": "I have English class at 9:00.",
+    "translation": "我9点有英语课。"
   },
   {
     "number": "481",
     "word": "we",
     "phonetic": "/wiː/",
-    "meaning": "pron.我们"
+    "meaning": "pron.我们",
+    "example": "We are good friends.",
+    "translation": "我们是好朋友。"
   },
   {
     "number": "482",
     "word": "make",
     "phonetic": "/meɪk/",
-    "meaning": "v.做,制造；使成为"
+    "meaning": "v.做,制造；使成为",
+    "example": "I make a card for my teacher.",
+    "translation": "我为老师做了一张卡片。"
   },
   {
     "number": "483",
     "word": "friend",
     "phonetic": "/frend/",
-    "meaning": "n.朋友，友人"
+    "meaning": "n.朋友，友人",
+    "example": "My friend helps me with my homework.",
+    "translation": "我的朋友帮我做作业。"
   },
   {
     "number": "484",
     "word": "get",
     "phonetic": "/ɡet/",
-    "meaning": "v.到达；得到；接到；获得；使做（某事）；收 到；变得"
+    "meaning": "v.到达；得到；接到；获得；使做（某事）；收 到；变得",
+    "example": "I get up at 7:00 every morning.",
+    "translation": "我每天早上7点起床。"
   },
   {
     "number": "485",
     "word": "know",
     "phonetic": "/nəʊ/",
-    "meaning": "v.知道；了解；明白，懂得"
+    "meaning": "v.知道；了解；明白，懂得",
+    "example": "I know how to spell this word.",
+    "translation": "我知道怎么拼写这个单词。"
   },
   {
     "number": "486",
     "word": "from",
     "phonetic": "/frɒm/",
-    "meaning": "prep.自，从，由；(表示开始的时间)从......开始 ；（表示来源）来自，从来"
+    "meaning": "prep.自，从，由；(表示开始的时间)从......开始 ；（表示来源）来自，从来",
+    "example": "I am from China.",
+    "translation": "我来自中国。"
   },
   {
     "number": "487",
     "word": "old",
     "phonetic": "/əʊld/",
-    "meaning": "adj.......岁的 adj.老的，年纪大的；年代久远的"
+    "meaning": "adj.......岁的 adj.老的，年纪大的；年代久远的",
+    "example": "How old are you?",
+    "translation": "你多大了？"
   },
   {
     "number": "488",
     "word": "last",
     "phonetic": "/lɑːst/",
-    "meaning": "adj.最后的；最近的；上一个的；刚过去的，最 近过去的 adv.最后；最近 v.持续"
+    "meaning": "adj.最后的；最近的；上一个的；刚过去的，最 近过去的 adv.最后；最近 v.持续",
+    "example": "Last week we had an English test.",
+    "translation": "上周我们有一次英语测试。"
   },
   {
     "number": "489",
     "word": "year",
     "phonetic": "/jɪə(r)/",
-    "meaning": "n.年；年龄，岁数"
+    "meaning": "n.年；年龄，岁数",
+    "example": "I am 12 years old.",
+    "translation": "我12岁。"
   },
   {
     "number": "490",
     "word": "yes",
     "phonetic": "/jes/",
-    "meaning": "int.是的；好的；到(点名)"
+    "meaning": "int.是的；好的；到(点名)",
+    "example": "Yes, I like English.",
+    "translation": "是的，我喜欢英语。"
   },
   {
     "number": "491",
     "word": "Mr",
     "phonetic": "/ˈmɪstə/",
-    "meaning": "n.先生(用于男子的姓氏或姓名前...)"
+    "meaning": "n.先生(用于男子的姓氏或姓名前...)",
+    "example": "Mr Wang is our English teacher.",
+    "translation": "王老师是我们的英语老师。"
   },
   {
     "number": "492",
     "word": "our",
     "phonetic": "/ˈaʊə(r)/",
-    "meaning": "det.我们的"
+    "meaning": "det.我们的",
+    "example": "Our school is very big.",
+    "translation": "我们的学校很大。"
   },
   {
     "number": "493",
     "word": "English",
     "phonetic": "/ˈɪŋɡlɪʃ/",
-    "meaning": "adj.英国的；英国人的；英语的 n.英语；英文"
+    "meaning": "adj.英国的；英国人的；英语的 n.英语；英文",
+    "example": "I like learning English.",
+    "translation": "我喜欢学习英语。"
   },
   {
     "number": "494",
     "word": "teacher",
     "phonetic": "/ˈtiːtʃə(r)/",
-    "meaning": "n.教师，老师，教员"
+    "meaning": "n.教师，老师，教员",
+    "example": "My teacher is very kind.",
+    "translation": "我的老师很和蔼。"
   },
   {
     "number": "495",
     "word": "which",
     "phonetic": "/wɪtʃ/",
-    "meaning": "det.哪一个，哪一些 pron.哪一个，哪一些 adj.哪一个，哪一些"
+    "meaning": "det.哪一个，哪一些 pron.哪一个，哪一些 adj.哪一个，哪一些",
+    "example": "Which book do you like?",
+    "translation": "你喜欢哪本书？"
   },
   {
     "number": "496",
     "word": "who",
     "phonetic": "/huː/",
-    "meaning": "pron.谁，什么人（谁是）"
+    "meaning": "pron.谁，什么人（谁是）",
+    "example": "Who is your best friend?",
+    "translation": "谁是你最好的朋友？"
   },
   {
     "number": "497",
     "word": "job",
     "phonetic": "/dʒɒb/",
-    "meaning": "n.工作,职位，职业,事情 v.打杂,批发,承包,欺骗"
+    "meaning": "n.工作,职位，职业,事情 v.打杂,批发,承包,欺骗",
+    "example": "My father's job is a teacher.",
+    "translation": "我爸爸的工作是教师。"
   },
   {
     "number": "498",
     "word": "student",
     "phonetic": "/ˈstjuːdnt/",
-    "meaning": "n.学生"
+    "meaning": "n.学生",
+    "example": "I am a student in Grade 7.",
+    "translation": "我是一名七年级的学生。"
   },
   {
     "number": "499",
     "word": "age",
     "phonetic": "/eɪdʒ/",
-    "meaning": "n.年龄；时代 v.变老"
+    "meaning": "n.年龄；时代 v.变老",
+    "example": "What is your age?",
+    "translation": "你多大了？"
   },
   {
     "number": "500",
     "word": "she",
     "phonetic": "/ʃi/",
-    "meaning": "pron.她（主格）"
+    "meaning": "pron.她（主格）",
+    "example": "She is my sister.",
+    "translation": "她是我的妹妹。"
   },
   {
     "number": "501",
     "word": "favourite",
     "phonetic": "/ˈfeɪvərɪt/",
-    "meaning": "adj.最喜欢的；特别受喜爱的 n.特别喜爱的事物"
+    "meaning": "adj.最喜欢的；特别受喜爱的 n.特别喜爱的事物",
+    "example": "My favourite subject is English.",
+    "translation": "我最喜欢的科目是英语。"
   },
   {
     "number": "502",
     "word": "pet",
     "phonetic": "/pet/",
-    "meaning": "n.宠物；宠儿 v.爱抚 adj.钟爱的"
+    "meaning": "n.宠物；宠儿 v.爱抚 adj.钟爱的",
+    "example": "I have a pet dog.",
+    "translation": "我有一只宠物狗。"
   },
   {
     "number": "503",
     "word": "very",
     "phonetic": "/ˈveri/",
-    "meaning": "adv.非常；很；十分 adj.恰好是，正是"
+    "meaning": "adv.非常；很；十分 adj.恰好是，正是",
+    "example": "I like English very much.",
+    "translation": "我非常喜欢英语。"
   },
   {
     "number": "504",
     "word": "cute",
     "phonetic": "/kjuːt/",
-    "meaning": "adj.漂亮的，逗人喜爱的，可爱的"
+    "meaning": "adj.漂亮的，逗人喜爱的，可爱的",
+    "example": "The cat is very cute.",
+    "translation": "这只猫非常可爱。"
   },
   {
     "number": "505",
     "word": "much",
     "phonetic": "/mʌtʃ/",
-    "meaning": "adv.非常地 adj.多；许多 pron.许多，大量"
+    "meaning": "adv.非常地 adj.多；许多 pron.许多，大量",
+    "example": "How much is this book?",
+    "translation": "这本书多少钱？"
   },
   {
     "number": "506",
     "word": "school",
     "phonetic": "/skuːl/",
-    "meaning": "n.学校；上课(或上学)时间"
+    "meaning": "n.学校；上课(或上学)时间",
+    "example": "I go to school every day.",
+    "translation": "我每天上学。"
   },
   {
     "number": "507",
     "word": "China",
     "phonetic": "/ˈtʃaɪnə/",
-    "meaning": "n.中国"
+    "meaning": "n.中国",
+    "example": "China is a beautiful country.",
+    "translation": "中国是一个美丽的国家。"
   },
   {
     "number": "508",
     "word": "panda",
     "phonetic": "/ˈpændə/",
-    "meaning": "n.大熊猫"
+    "meaning": "n.大熊猫",
+    "example": "Pandas are from China.",
+    "translation": "熊猫来自中国。"
   },
   {
     "number": "509",
     "word": "hot",
     "phonetic": "/hɒt/",
-    "meaning": "adj.热的；温度高的；辛辣的"
+    "meaning": "adj.热的；温度高的；辛辣的",
+    "example": "The weather is very hot in summer.",
+    "translation": "夏天天气很热。"
   },
   {
     "number": "510",
     "word": "also",
     "phonetic": "/ˈɔːlsəʊ/",
-    "meaning": "adv.还；也，而且"
+    "meaning": "adv.还；也，而且",
+    "example": "I also like math.",
+    "translation": "我也喜欢数学。"
   },
   {
     "number": "511",
     "word": "live",
     "phonetic": "/lɪv/",
-    "meaning": "v.生活；居住；活着 adj.活的；现场直播的；实 况转播的"
+    "meaning": "v.生活；居住；活着 adj.活的；现场直播的；实 况转播的",
+    "example": "I live in Beijing.",
+    "translation": "我住在北京。"
   },
   {
     "number": "512",
     "word": "with",
     "phonetic": "/wɪð/",
-    "meaning": "prep.与......在一起，同，跟"
+    "meaning": "prep.与......在一起，同，跟",
+    "example": "I live with my family.",
+    "translation": "我和我的家人住在一起。"
   },
   {
     "number": "513",
     "word": "parent",
     "phonetic": "/ˈpeərənt/",
-    "meaning": "n.父，母；母亲；父亲；家⻓"
+    "meaning": "n.父，母；母亲；父亲；家⻓",
+    "example": "My parents are both teachers.",
+    "translation": "我的父母都是教师。"
   },
   {
     "number": "514",
     "word": "Chinese",
     "phonetic": "/ˌtʃaɪˈniːz/",
-    "meaning": "adj.中国的；中国人的；汉语的 n.中国人；中文 ；汉语；语文"
+    "meaning": "adj.中国的；中国人的；汉语的 n.中国人；中文 ；汉语；语文",
+    "example": "I am Chinese.",
+    "translation": "我是中国人。"
   },
   {
     "number": "515",
     "word": "food",
     "phonetic": "/fuːd/",
-    "meaning": "n.⻝物，⻝品"
+    "meaning": "n.⻝物，⻝品",
+    "example": "I like Chinese food.",
+    "translation": "我喜欢中国食物。"
   },
   {
     "number": "516",
     "word": "lot",
     "phonetic": "/lɒt/",
-    "meaning": "n.许多；命运；阄；签；土地；份额，产品批次 adv.很；非常"
+    "meaning": "n.许多；命运；阄；签；土地；份额，产品批次 adv.很；非常",
+    "example": "I have a lot of English books.",
+    "translation": "我有很多英语书。"
   },
   {
     "number": "517",
     "word": "about",
     "phonetic": "/əˈbaʊt/",
-    "meaning": "prep.关于；大约，左右；大概；涉及 adv.大约 ；到处"
+    "meaning": "prep.关于；大约，左右；大概；涉及 adv.大约 ；到处",
+    "example": "This book is about animals.",
+    "translation": "这本书是关于动物的。"
   },
   {
     "number": "518",
     "word": "wall",
     "phonetic": "/wɔːl/",
-    "meaning": "n.墙，墙壁；城墙"
+    "meaning": "n.墙，墙壁；城墙",
+    "example": "There is a picture on the wall.",
+    "translation": "墙上有一幅画。"
   },
   {
     "number": "519",
     "word": "all",
     "phonetic": "/ɔːl/",
-    "meaning": "adj.全部的 adv.全部地 n.所有，全部"
+    "meaning": "adj.全部的 adv.全部地 n.所有，全部",
+    "example": "All students like English class.",
+    "translation": "所有学生都喜欢英语课。"
   },
   {
     "number": "520",
     "word": "hour",
     "phonetic": "/ˈaʊə(r)/",
-    "meaning": "n.小时"
+    "meaning": "n.小时",
+    "example": "I study English for one hour every day.",
+    "translation": "我每天学习英语一小时。"
   },
   {
     "number": "521",
     "word": "ago",
     "phonetic": "/əˈɡəʊ/",
-    "meaning": "adv.以前，以往"
+    "meaning": "adv.以前，以往",
+    "example": "I learned this word three days ago.",
+    "translation": "我三天前学了这个单词。"
   },
   {
     "number": "522",
     "word": "family",
     "phonetic": "/ˈfæməli/",
-    "meaning": "n.家庭；家族 adj.家庭的；家族的"
+    "meaning": "n.家庭；家族 adj.家庭的；家族的",
+    "example": "I have a happy family.",
+    "translation": "我有一个幸福的家庭。"
   },
   {
     "number": "523",
     "word": "bird",
     "phonetic": "/bɜːd/",
-    "meaning": "n.⻦，小⻦"
+    "meaning": "n.⻦，小⻦",
+    "example": "The bird is singing in the tree.",
+    "translation": "鸟在树上唱歌。"
   },
   {
     "number": "524",
     "word": "speak",
     "phonetic": "/spiːk/",
-    "meaning": "v.说；讲（某种语言）；说话；谈话"
+    "meaning": "v.说；讲（某种语言）；说话；谈话",
+    "example": "I can speak English.",
+    "translation": "我会说英语。"
   },
   {
     "number": "525",
     "word": "sport",
     "phonetic": "/spɔːt/",
-    "meaning": "n.体育运动；运动"
+    "meaning": "n.体育运动；运动",
+    "example": "I like playing sports.",
+    "translation": "我喜欢运动。"
   },
   {
     "number": "526",
     "word": "often",
     "phonetic": "/ˈɒf(ə)n/",
-    "meaning": "adv.经常；常常地；时常地"
+    "meaning": "adv.经常；常常地；时常地",
+    "example": "I often play football with my friends.",
+    "translation": "我经常和朋友踢足球。"
   },
   {
     "number": "527",
     "word": "play",
     "phonetic": "/pleɪ/",
-    "meaning": "v.玩；玩耍；演奏；扮演；播放 n.戏，戏剧，演 出；剧本；比赛"
+    "meaning": "v.玩；玩耍；演奏；扮演；播放 n.戏，戏剧，演 出；剧本；比赛",
+    "example": "I play basketball after school.",
+    "translation": "我放学后打篮球。"
   },
   {
     "number": "528",
     "word": "after",
     "phonetic": "/ˈɑːftə(r)/",
-    "meaning": "prep.在......之后；在（时间）后；在后面 adv.以后；后来"
+    "meaning": "prep.在......之后；在（时间）后；在后面 adv.以后；后来",
+    "example": "I do my homework after school.",
+    "translation": "我放学后做作业。"
   },
   {
     "number": "529",
     "word": "want",
     "phonetic": "/wɒnt/",
-    "meaning": "v.要，想要；希望"
+    "meaning": "v.要，想要；希望",
+    "example": "I want to learn English well.",
+    "translation": "我想学好英语。"
   },
   {
     "number": "530",
     "word": "be",
     "phonetic": "/biː/",
-    "meaning": "v.（am,is,are）是；存在；成为"
+    "meaning": "v.（am,is,are）是；存在；成为",
+    "example": "I want to be a teacher.",
+    "translation": "我想成为一名教师。"
   },
   {
     "number": "531",
     "word": "place",
     "phonetic": "/pleɪs/",
-    "meaning": "n.地方；地点；方位 v.安置；安放"
+    "meaning": "n.地方；地点；方位 v.安置；安放",
+    "example": "Beijing is a beautiful place.",
+    "translation": "北京是一个美丽的地方。"
   },
   {
     "number": "532",
     "word": "music",
     "phonetic": "/ˈmjuːzɪk/",
-    "meaning": "n.音乐；乐曲"
+    "meaning": "n.音乐；乐曲",
+    "example": "I like listening to music.",
+    "translation": "我喜欢听音乐。"
   },
   {
     "number": "533",
     "word": "love",
     "phonetic": "/lʌv/",
-    "meaning": "n.爱；关爱；爱情 v.喜欢，喜爱；爱；热爱"
+    "meaning": "n.爱；关爱；爱情 v.喜欢，喜爱；爱；热爱",
+    "example": "I love my family.",
+    "translation": "我爱我的家人。"
   },
   {
     "number": "534",
     "word": "write",
     "phonetic": "/raɪt/",
-    "meaning": "v.书写；写信；写作"
+    "meaning": "v.书写；写信；写作",
+    "example": "I write a letter to my friend.",
+    "translation": "我给朋友写了一封信。"
   },
   {
     "number": "535",
     "word": "or",
     "phonetic": "/ɔː/",
-    "meaning": "conj.或，或者，还是；(用于否定句中)也不，也 没..."
+    "meaning": "conj.或，或者，还是；(用于否定句中)也不，也 没...",
+    "example": "Do you like apples or bananas?",
+    "translation": "你喜欢苹果还是香蕉？"
   },
   {
     "number": "536",
     "word": "mother",
     "phonetic": "/ˈmʌðə(r)/",
-    "meaning": "n.母亲，妈妈"
+    "meaning": "n.母亲，妈妈",
+    "example": "My mother is very kind.",
+    "translation": "我的妈妈很和蔼。"
   },
   {
     "number": "537",
     "word": "child",
     "phonetic": "/tʃaɪld/",
-    "meaning": "n.儿童(复数形式为children)"
+    "meaning": "n.儿童(复数形式为children)",
+    "example": "The child is playing in the park.",
+    "translation": "孩子在公园里玩。"
   },
   {
     "number": "538",
     "word": "sister",
     "phonetic": "/ˈsɪstə(r)/",
-    "meaning": "n.姐姐，妹妹"
+    "meaning": "n.姐姐，妹妹",
+    "example": "My sister is a student.",
+    "translation": "我的妹妹是一名学生。"
   },
   {
     "number": "539",
     "word": "brother",
     "phonetic": "/ˈbrʌðə(r)/",
-    "meaning": "n.兄弟；哥哥；弟弟"
+    "meaning": "n.兄弟；哥哥；弟弟",
+    "example": "My brother likes playing football.",
+    "translation": "我的哥哥喜欢踢足球。"
   },
   {
     "number": "540",
     "word": "cousin",
     "phonetic": "/ˈkʌzn/",
-    "meaning": "n.堂兄弟（或姐妹）；表兄弟（或姐妹）"
+    "meaning": "n.堂兄弟（或姐妹）；表兄弟（或姐妹）",
+    "example": "My cousin is coming to visit me.",
+    "translation": "我的表弟要来看我。"
   },
   {
     "number": "541",
     "word": "aunt",
     "phonetic": "/ɑːnt/",
-    "meaning": "n.姑姑，阿姨，婶母，伯母，姨母，舅母，姑母"
+    "meaning": "n.姑姑，阿姨，婶母，伯母，姨母，舅母，姑母",
+    "example": "My aunt is a doctor.",
+    "translation": "我的阿姨是一名医生。"
   },
   {
     "number": "542",
     "word": "grandmother",
     "phonetic": "/ˈɡrænmʌðə(r)/",
-    "meaning": "n.（外）祖母，奶奶，外婆"
+    "meaning": "n.（外）祖母，奶奶，外婆",
+    "example": "My grandmother tells me stories.",
+    "translation": "我的奶奶给我讲故事。"
   },
   {
     "number": "543",
     "word": "come",
     "phonetic": "/kʌm/",
-    "meaning": "v.来；来到，达到"
+    "meaning": "v.来；来到，达到",
+    "example": "Come here, please.",
+    "translation": "请过来。"
   },
   {
     "number": "544",
     "word": "ping-pong",
     "phonetic": "/ˈpɪŋ pɒŋ/",
-    "meaning": "n.乒乓球运动；乒乓球"
+    "meaning": "n.乒乓球运动；乒乓球",
+    "example": "I like playing ping-pong.",
+    "translation": "我喜欢打乒乓球。"
   },
   {
     "number": "545",
     "word": "whose",
     "phonetic": "/huːz/",
-    "meaning": "adj.谁的；（特指）那个人的 pron.谁的；（特 指）那个人的"
+    "meaning": "adj.谁的；（特指）那个人的 pron.谁的；（特 指）那个人的",
+    "example": "Whose book is this?",
+    "translation": "这是谁的书？"
   },
   {
     "number": "546",
     "word": "well",
     "phonetic": "/wel/",
-    "meaning": "adv.好；对；满意地 adj.健康的 n.泉；井；油 井 int.（用于表示惊讶，疑虑，接受等）好"
+    "meaning": "adv.好；对；满意地 adj.健康的 n.泉；井；油 井 int.（用于表示惊讶，疑虑，接受等）好",
+    "example": "He speaks English well.",
+    "translation": "他英语说得很好。"
   },
   {
     "number": "547",
     "word": "every",
     "phonetic": "/ˈevri/",
-    "meaning": "adj.每，每隔；每一，每个"
+    "meaning": "adj.每，每隔；每一，每个",
+    "example": "I go to school every day.",
+    "translation": "我每天上学。"
   },
   {
     "number": "548",
     "word": "day",
     "phonetic": "/deɪ/",
-    "meaning": "n.(一)日，(一)天；白天"
+    "meaning": "n.(一)日，(一)天；白天",
+    "example": "Today is a sunny day.",
+    "translation": "今天是个晴天。"
   },
   {
     "number": "549",
     "word": "week",
     "phonetic": "/wiːk/",
-    "meaning": "n.周；星期 n.一周时间"
+    "meaning": "n.周；星期 n.一周时间",
+    "example": "We have English class every week.",
+    "translation": "我们每周都有英语课。"
   },
   {
     "number": "550",
     "word": "fish",
     "phonetic": "/fɪʃ/",
-    "meaning": "n.⻥；⻥肉 v.钓⻥；捕⻥"
+    "meaning": "n.⻥；⻥肉 v.钓⻥；捕⻥",
+    "example": "I like eating fish.",
+    "translation": "我喜欢吃鱼。"
   },
   {
     "number": "551",
     "word": "father",
     "phonetic": "/ˈfɑːðə(r)/",
-    "meaning": "n.父亲；爸爸"
+    "meaning": "n.父亲；爸爸",
+    "example": "My father is a teacher.",
+    "translation": "我的爸爸是一名教师。"
   },
   {
     "number": "552",
     "word": "piano",
     "phonetic": "/piˈænəʊ/",
-    "meaning": "n.钢琴"
+    "meaning": "n.钢琴",
+    "example": "I play the piano every day.",
+    "translation": "我每天弹钢琴。"
   },
   {
     "number": "553",
     "word": "basketball",
     "phonetic": "/ˈbɑːskɪtbɔːl/",
-    "meaning": "n.篮球"
+    "meaning": "n.篮球",
+    "example": "I play basketball after school.",
+    "translation": "我放学后打篮球。"
   },
   {
     "number": "554",
     "word": "read",
     "phonetic": "/riːd/",
-    "meaning": "v.读；读书，阅读；朗读,理解；解读 n.读物"
+    "meaning": "v.读；读书，阅读；朗读,理解；解读 n.读物",
+    "example": "I read English books every day.",
+    "translation": "我每天读英语书。"
   },
   {
     "number": "555",
     "word": "garden",
     "phonetic": "/ˈɡɑːdn/",
-    "meaning": "n.花园，果园；园子 v.从事园艺"
+    "meaning": "n.花园，果园；园子 v.从事园艺",
+    "example": "There are many flowers in the garden.",
+    "translation": "花园里有很多花。"
   },
   {
     "number": "556",
     "word": "classroom",
     "phonetic": "/ˈklɑːsruːm/",
-    "meaning": "n.教室，课堂"
+    "meaning": "n.教室，课堂",
+    "example": "We have English class in the classroom.",
+    "translation": "我们在教室里上英语课。"
   },
   {
     "number": "557",
     "word": "their",
     "phonetic": "/ðeə(r)/",
-    "meaning": "pron.他们的，她们的；它们的"
+    "meaning": "pron.他们的，她们的；它们的",
+    "example": "Their school is very big.",
+    "translation": "他们的学校很大。"
   },
   {
     "number": "558",
     "word": "clean",
     "phonetic": "/kliːn/",
-    "meaning": "v.打扫；使干净 adj.整洁的；洁净的；干净的"
+    "meaning": "v.打扫；使干净 adj.整洁的；洁净的；干净的",
+    "example": "I clean my room every day.",
+    "translation": "我每天打扫房间。"
   },
   {
     "number": "559",
     "word": "little",
     "phonetic": "/ˈlɪtl/",
-    "meaning": "adj.小的，年幼的；可爱的，可怜的，讨厌的"
+    "meaning": "adj.小的，年幼的；可爱的，可怜的，讨厌的",
+    "example": "I have a little cat.",
+    "translation": "我有一只小猫。"
   },
   {
     "number": "560",
     "word": "ball",
     "phonetic": "/bɔːl/",
-    "meaning": "n.球；球类运动"
+    "meaning": "n.球；球类运动",
+    "example": "I play with a ball after school.",
+    "translation": "我放学后玩球。"
   },
   {
     "number": "561",
     "word": "playground",
     "phonetic": "/ˈpleɪɡraʊnd/",
-    "meaning": "n.操场；运动场；游乐场"
+    "meaning": "n.操场；运动场；游乐场",
+    "example": "We play football on the playground.",
+    "translation": "我们在操场上踢足球。"
   },
   {
     "number": "562",
     "word": "wear",
     "phonetic": "/weə(r)/",
-    "meaning": "v.穿（戴）着 n.衣着；磨损"
+    "meaning": "v.穿（戴）着 n.衣着；磨损",
+    "example": "I wear a school uniform every day.",
+    "translation": "我每天穿校服。"
   },
   {
     "number": "563",
     "word": "talk",
     "phonetic": "/tɔːk/",
-    "meaning": "v.（用某种语言）讲，说；说话;交谈; n.说话;交 谈"
+    "meaning": "v.（用某种语言）讲，说；说话;交谈; n.说话;交 谈",
+    "example": "I talk with my friends in English.",
+    "translation": "我用英语和朋友交谈。"
   },
   {
     "number": "564",
     "word": "tall",
     "phonetic": "/tɔːl/",
-    "meaning": "adj.有......高的；高的"
+    "meaning": "adj.有......高的；高的",
+    "example": "The boy is very tall.",
+    "translation": "这个男孩很高。"
   },
   {
     "number": "565",
     "word": "short",
     "phonetic": "/ʃɔːt/",
-    "meaning": "adj.矮的，个子矮的；短的 adj.短暂的"
+    "meaning": "adj.矮的，个子矮的；短的 adj.短暂的",
+    "example": "The pencil is short.",
+    "translation": "铅笔很短。"
   },
   {
     "number": "566",
     "word": "hair",
     "phonetic": "/heə(r)/",
-    "meaning": "n.头发；（或动物的）毛发"
+    "meaning": "n.头发；（或动物的）毛发",
+    "example": "She has long hair.",
+    "translation": "她有长头发。"
   },
   {
     "number": "567",
     "word": "long",
     "phonetic": "/lɒŋ/",
-    "meaning": "adj.（⻓度或距离）⻓的；⻓时间的 adv.⻓久地 ；始终 n.⻓时间；⻓期 v.渴望；盼望"
+    "meaning": "adj.（⻓度或距离）⻓的；⻓时间的 adv.⻓久地 ；始终 n.⻓时间；⻓期 v.渴望；盼望",
+    "example": "The river is very long.",
+    "translation": "这条河很长。"
   },
   {
     "number": "568",
     "word": "quiet",
     "phonetic": "/ˈkwaɪət/",
-    "meaning": "adj.安静的，不出声的 n.宁静，平静"
+    "meaning": "adj.安静的，不出声的 n.宁静，平静",
+    "example": "The classroom is very quiet.",
+    "translation": "教室很安静。"
   },
   {
     "number": "569",
     "word": "girl",
     "phonetic": "/ɡɜːl/",
-    "meaning": "n.女孩，小姑娘"
+    "meaning": "n.女孩，小姑娘",
+    "example": "The girl is my sister.",
+    "translation": "这个女孩是我的妹妹。"
   },
   {
     "number": "570",
     "word": "but",
     "phonetic": "/bʌt/",
-    "meaning": "conj.但是；然而 prep.除......以外 adv.只能 ；仅仅"
+    "meaning": "conj.但是；然而 prep.除......以外 adv.只能 ；仅仅",
+    "example": "I like English but I don't like math.",
+    "translation": "我喜欢英语但不喜欢数学。"
   },
   {
     "number": "571",
     "word": "any",
     "phonetic": "/ˈeni/",
-    "meaning": "det.任何的；任一的 pron.任一，任何，一些"
+    "meaning": "det.任何的；任一的 pron.任一，任何，一些",
+    "example": "Do you have any English books?",
+    "translation": "你有英语书吗？"
   },
   {
     "number": "572",
     "word": "photo",
     "phonetic": "/ˈfəʊtəʊ/",
-    "meaning": "n.照片；相片"
+    "meaning": "n.照片；相片",
+    "example": "This is a photo of my family.",
+    "translation": "这是我家人的照片。"
   },
   {
     "number": "573",
     "word": "pink",
     "phonetic": "/pɪŋk/",
-    "meaning": "n.粉红色 adj.粉红色的"
+    "meaning": "n.粉红色 adj.粉红色的",
+    "example": "I like pink flowers.",
+    "translation": "我喜欢粉红色的花。"
   },
   {
     "number": "574",
     "word": "left",
     "phonetic": "/left/",
-    "meaning": "adj.左边的 v.离开；leave的过去式和过去分词 n.左；左边 adv.向左；在左边"
+    "meaning": "adj.左边的 v.离开；leave的过去式和过去分词 n.左；左边 adv.向左；在左边",
+    "example": "Turn left at the corner.",
+    "translation": "在拐角处向左转。"
   },
   {
     "number": "575",
     "word": "right",
     "phonetic": "/raɪt/",
-    "meaning": "adj.右边的；正确的；（意⻅或判断）准确，确 切，恰当 n.权利；右边 adv.正确地；直接地 ；向右 v.扶直；纠正"
+    "meaning": "adj.右边的；正确的；（意⻅或判断）准确，确 切，恰当 n.权利；右边 adv.正确地；直接地 ；向右 v.扶直；纠正",
+    "example": "The answer is right.",
+    "translation": "答案是正确的。"
   },
   {
     "number": "576",
     "word": "always",
     "phonetic": "/ˈɔːlweɪz/",
-    "meaning": "adv.总是；一直"
+    "meaning": "adv.总是；一直",
+    "example": "I always do my homework on time.",
+    "translation": "我总是按时做作业。"
   },
   {
     "number": "577",
     "word": "story",
     "phonetic": "/ˈstɔːri/",
-    "meaning": "n.（真实或虚构的）故事，小说"
+    "meaning": "n.（真实或虚构的）故事，小说",
+    "example": "My teacher tells us a story every day.",
+    "translation": "我的老师每天给我们讲故事。"
   },
   {
     "number": "578",
     "word": "night",
     "phonetic": "/naɪt/",
-    "meaning": "n.夜晚；晚上"
+    "meaning": "n.夜晚；晚上",
+    "example": "I go to bed at night.",
+    "translation": "我晚上睡觉。"
   },
   {
     "number": "579",
     "word": "middle",
     "phonetic": "/ˈmɪd(ə)l/",
-    "meaning": "adj.中间的，中等的；中期，中的 n.中间；中部 ；中心"
+    "meaning": "adj.中间的，中等的；中期，中的 n.中间；中部 ；中心",
+    "example": "I sit in the middle of the classroom.",
+    "translation": "我坐在教室中间。"
   },
   {
     "number": "580",
     "word": "think",
     "phonetic": "/θɪŋk/",
-    "meaning": "v.认为；想；思考 n.思考"
+    "meaning": "v.认为；想；思考 n.思考",
+    "example": "I think English is interesting.",
+    "translation": "我认为英语很有趣。"
   },
   {
     "number": "581",
     "word": "football",
     "phonetic": "/ˈfʊtbɔːl/",
-    "meaning": "n.足球运动；足球；（美式）橄榄球"
+    "meaning": "n.足球运动；足球；（美式）橄榄球",
+    "example": "I like playing football with my friends.",
+    "translation": "我喜欢和朋友踢足球。"
   },
   {
     "number": "582",
     "word": "happy",
     "phonetic": "/ˈhæpi/",
-    "meaning": "adj.幸福的，快乐的；高兴的；感到快乐的"
+    "meaning": "adj.幸福的，快乐的；高兴的；感到快乐的",
+    "example": "I am happy to learn English.",
+    "translation": "我很高兴学习英语。"
   },
   {
     "number": "583",
     "word": "eye",
     "phonetic": "/aɪ/",
-    "meaning": "n.眼睛 v.注视；审视"
+    "meaning": "n.眼睛 v.注视；审视",
+    "example": "I have two eyes.",
+    "translation": "我有两只眼睛。"
   },
   {
     "number": "584",
     "word": "clever",
     "phonetic": "/ˈklevə(r)/",
-    "meaning": "adj.聪明的；聪颖的；灵巧的"
+    "meaning": "adj.聪明的；聪颖的；灵巧的",
+    "example": "The boy is very clever.",
+    "translation": "这个男孩很聪明。"
   },
   {
     "number": "585",
     "word": "next",
     "phonetic": "/nekst/",
-    "meaning": "adj.（时间）紧接着的；接下来的，下一个的 ，离得最近的 adv.随后 pron.下一个 prep.靠近"
+    "meaning": "adj.（时间）紧接着的；接下来的，下一个的 ，离得最近的 adv.随后 pron.下一个 prep.靠近",
+    "example": "The next class is English.",
+    "translation": "下一节课是英语。"
   },
   {
     "number": "586",
     "word": "him",
     "phonetic": "/hɪm/",
-    "meaning": "pron.他（用作宾语或表语）"
+    "meaning": "pron.他（用作宾语或表语）",
+    "example": "I give him a book.",
+    "translation": "我给他一本书。"
   },
   {
     "number": "587",
     "word": "help",
     "phonetic": "/help/",
-    "meaning": "v.帮助；帮忙；救命 n.帮助，救助 int.救命(呼 救用语)"
+    "meaning": "v.帮助；帮忙；救命 n.帮助，救助 int.救命(呼 救用语)",
+    "example": "I help my friend with his homework.",
+    "translation": "我帮助我的朋友做作业。"
   },
   {
     "number": "588",
     "word": "front",
     "phonetic": "/frʌnt/",
-    "meaning": "n.前面；前部;adj.前面的；前部的"
+    "meaning": "n.前面；前部;adj.前面的；前部的",
+    "example": "I sit in front of the classroom.",
+    "translation": "我坐在教室前面。"
   },
   {
     "number": "589",
     "word": "art",
     "phonetic": "/ɑːt/",
-    "meaning": "n.美术；艺术；美术课"
+    "meaning": "n.美术；艺术；美术课",
+    "example": "I like art class.",
+    "translation": "我喜欢美术课。"
   },
   {
     "number": "590",
     "word": "between",
     "phonetic": "/bɪˈtwiːn/",
-    "meaning": "prep.（空间或时间上）在......之间 adv.（空间 或时间上）介于......之间"
+    "meaning": "prep.（空间或时间上）在......之间 adv.（空间 或时间上）介于......之间",
+    "example": "The cat is between the chair and the table.",
+    "translation": "猫在椅子和桌子之间。"
   },
   {
     "number": "591",
     "word": "library",
     "phonetic": "/ˈlaɪbrəri/",
-    "meaning": "n.图书馆，图书室"
+    "meaning": "n.图书馆，图书室",
+    "example": "I go to the library to read books.",
+    "translation": "我去图书馆看书。"
   },
   {
     "number": "592",
     "word": "blackboard",
     "phonetic": "/ˈblækbɔːd/",
-    "meaning": "n.黑板"
+    "meaning": "n.黑板",
+    "example": "The teacher writes on the blackboard.",
+    "translation": "老师在黑板上写字。"
   },
   {
     "number": "593",
     "word": "up",
     "phonetic": "/ʌp/",
-    "meaning": "adv.向上；（太阳）升起；面朝上；(尤指异常 或不愉快的事)发生；起床；（一段时间）已结束 ，已过去"
+    "meaning": "adv.向上；（太阳）升起；面朝上；(尤指异常 或不愉快的事)发生；起床；（一段时间）已结束 ，已过去",
+    "example": "Stand up, please.",
+    "translation": "请起立。"
   },
   {
     "number": "594",
     "word": "back",
     "phonetic": "/bæk/",
-    "meaning": "n.背面；反面；背部；后面 adv.回原处；向后 adj.后面的；拖欠的 v.支持"
+    "meaning": "n.背面；反面；背部；后面 adv.回原处；向后 adj.后面的；拖欠的 v.支持",
+    "example": "I go back home after school.",
+    "translation": "我放学后回家。"
   },
   {
     "number": "595",
     "word": "clock",
     "phonetic": "/klɒk/",
-    "meaning": "n.时钟；钟"
+    "meaning": "n.时钟；钟",
+    "example": "There is a clock on the wall.",
+    "translation": "墙上有一个时钟。"
   },
   {
     "number": "596",
     "word": "map",
     "phonetic": "/mæp/",
-    "meaning": "n.地图"
+    "meaning": "n.地图",
+    "example": "I use a map to find the way.",
+    "translation": "我用地图找路。"
   },
   {
     "number": "597",
     "word": "computer",
     "phonetic": "/kəmˈpjuːtə(r)/",
-    "meaning": "n.计算机；电脑"
+    "meaning": "n.计算机；电脑",
+    "example": "I use a computer to learn English.",
+    "translation": "我用电脑学习英语。"
   },
   {
     "number": "598",
     "word": "window",
     "phonetic": "/ˈwɪndəʊ/",
-    "meaning": "n.窗口；窗戶"
+    "meaning": "n.窗口；窗戶",
+    "example": "The window is open.",
+    "translation": "窗户是开着的。"
   },
   {
     "number": "599",
     "word": "science",
     "phonetic": "/ˈsaɪəns/",
-    "meaning": "n.科学"
+    "meaning": "n.科学",
+    "example": "I like science class.",
+    "translation": "我喜欢科学课。"
   },
   {
     "number": "600",
     "word": "picture",
     "phonetic": "/ˈpɪktʃə(r)/",
-    "meaning": "n.图片；画，图画；照片 v.想象；描述"
+    "meaning": "n.图片；画，图画；照片 v.想象；描述",
+    "example": "There is a picture on the wall.",
+    "translation": "墙上有一幅画。"
   },
   {
     "number": "601",
     "word": "famous",
     "phonetic": "/ˈfeɪməs/",
-    "meaning": "adj.著名的；出名的"
+    "meaning": "adj.著名的；出名的",
+    "example": "Yao Ming is a famous basketball player.",
+    "translation": "姚明是一位著名的篮球运动员。"
   },
   {
     "number": "602",
     "word": "table",
     "phonetic": "/ˈteɪbl/",
-    "meaning": "n.桌子；台子；表格 v.把......列入议事日程；搁 置"
+    "meaning": "n.桌子；台子；表格 v.把......列入议事日程；搁 置",
+    "example": "There is a table in the classroom.",
+    "translation": "教室里有一张桌子。"
   },
   {
     "number": "603",
     "word": "today",
     "phonetic": "/təˈdeɪ/",
-    "meaning": "n.今天；当今 adv.在今天；当今"
+    "meaning": "n.今天；当今 adv.在今天；当今",
+    "example": "Today is Monday.",
+    "translation": "今天是星期一。"
   },
   {
     "number": "604",
     "word": "email",
     "phonetic": "/ˈiːmeɪl/",
-    "meaning": "v.发电子邮件 n.电子邮件"
+    "meaning": "v.发电子邮件 n.电子邮件",
+    "example": "I send an email to my friend.",
+    "translation": "我给朋友发了一封电子邮件。"
   },
   {
     "number": "605",
     "word": "answer",
     "phonetic": "/ˈɑːnsə(r)/",
-    "meaning": "n.答案；答复，回答 v.答复，回答"
+    "meaning": "n.答案；答复，回答 v.答复，回答",
+    "example": "I know the answer to the question.",
+    "translation": "我知道这个问题的答案。"
   },
   {
     "number": "606",
     "word": "question",
     "phonetic": "/ˈkwestʃən/",
-    "meaning": "n.问题；疑问 v.询问；怀疑"
+    "meaning": "n.问题；疑问 v.询问；怀疑",
+    "example": "The teacher asks me a question.",
+    "translation": "老师问我一个问题。"
   },
   {
     "number": "607",
     "word": "exercise",
     "phonetic": "/ˈeksəsaɪz/",
-    "meaning": "n.练习；锻炼；活动；运动；行使 v.运用；使用 ；锻炼；使担忧"
+    "meaning": "n.练习；锻炼；活动；运动；行使 v.运用；使用 ；锻炼；使担忧",
+    "example": "I do exercise every day.",
+    "translation": "我每天做运动。"
   },
   {
     "number": "608",
     "word": "way",
     "phonetic": "/weɪ/",
-    "meaning": "n.方法；方式；路；道路；方向；路线"
+    "meaning": "n.方法；方式；路；道路；方向；路线",
+    "example": "I find a way to solve the problem.",
+    "translation": "我找到了解决问题的方法。"
   },
   {
     "number": "609",
     "word": "best",
     "phonetic": "/best/",
-    "meaning": "adj.最好的；最多的；最大的；good的最高级 adv.最好地；最多地；最大地；well的最高级 n.最高水平；最佳物；佼佼者"
+    "meaning": "adj.最好的；最多的；最大的；good的最高级 adv.最好地；最多地；最大地；well的最高级 n.最高水平；最佳物；佼佼者",
+    "example": "English is my best subject.",
+    "translation": "英语是我最好的科目。"
   },
   {
     "number": "610",
     "word": "because",
     "phonetic": "/bɪˈkɒz/",
-    "meaning": "conj.因为"
+    "meaning": "conj.因为",
+    "example": "I like English because it is interesting.",
+    "translation": "我喜欢英语因为它很有趣。"
   },
   {
     "number": "611",
     "word": "why",
     "phonetic": "/waɪ/",
-    "meaning": "adv.为什么 n.为什么"
+    "meaning": "adv.为什么 n.为什么",
+    "example": "Why do you like English?",
+    "translation": "你为什么喜欢英语？"
   },
   {
     "number": "612",
     "word": "dear",
     "phonetic": "/dɪə(r)/",
-    "meaning": "adj.亲爱的；宝贵的；昂贵的 n.亲爱的人；可爱 的人 excl.哎呀"
+    "meaning": "adj.亲爱的；宝贵的；昂贵的 n.亲爱的人；可爱 的人 excl.哎呀",
+    "example": "Dear teacher, thank you for your help.",
+    "translation": "亲爱的老师，感谢您的帮助。"
   },
   {
     "number": "613",
     "word": "tell",
     "phonetic": "/tel/",
-    "meaning": "v.告诉；讲，讲述，叙述；说；辨别"
+    "meaning": "v.告诉；讲，讲述，叙述；说；辨别",
+    "example": "My mother tells me a story every night.",
+    "translation": "我妈妈每天晚上给我讲故事。"
   },
   {
     "number": "614",
     "word": "interesting",
     "phonetic": "/ˈɪntrəstɪŋ/",
-    "meaning": "adj.令人感兴趣的；有趣的"
+    "meaning": "adj.令人感兴趣的；有趣的",
+    "example": "English is very interesting.",
+    "translation": "英语非常有趣。"
   },
   {
     "number": "615",
     "word": "subject",
     "phonetic": "/ˈsʌbdʒekt/",
-    "meaning": "n.主题；话题；课程；科目；学科；对象"
+    "meaning": "n.主题；话题；课程；科目；学科；对象",
+    "example": "English is my favorite subject.",
+    "translation": "英语是我最喜欢的科目。"
   },
   {
     "number": "616",
     "word": "learn",
     "phonetic": "/lɜːn/",
-    "meaning": "vt./vi.学，学习，学会"
+    "meaning": "vt./vi.学，学习，学会",
+    "example": "I learn English every day.",
+    "translation": "我每天学习英语。"
   },
   {
     "number": "617",
     "word": "maths",
     "phonetic": "/mæθs/",
-    "meaning": "n.（mathematics）数学（美math）"
+    "meaning": "n.（mathematics）数学（美math）",
+    "example": "I study maths after school.",
+    "translation": "我放学后学习数学。"
   },
   {
     "number": "618",
     "word": "PE",
     "phonetic": "/ˌpiː ˈiː/",
-    "meaning": "abbr.体育；体育教育；physicaleducation的 缩写"
+    "meaning": "abbr.体育；体育教育；physicaleducation的 缩写",
+    "example": "We have PE class every week.",
+    "translation": "我们每周都有体育课。"
   },
   {
     "number": "619",
     "word": "hard",
     "phonetic": "/hɑːd/",
-    "meaning": "adj.辛苦的，艰难的；坚硬的；困难的；费劲的 adv.努力地"
+    "meaning": "adj.辛苦的，艰难的；坚硬的；困难的；费劲的 adv.努力地",
+    "example": "English is hard but interesting.",
+    "translation": "英语很难但很有趣。"
   },
   {
     "number": "620",
     "word": "difficult",
     "phonetic": "/ˈdɪfɪkəlt/",
-    "meaning": "adj.困难的，不易的"
+    "meaning": "adj.困难的，不易的",
+    "example": "The question is difficult.",
+    "translation": "这个问题很难。"
   },
   {
     "number": "621",
     "word": "sure",
     "phonetic": "/ʃʊə(r)/",
-    "meaning": "adv.当然；当然可以；确定 adj.确信；必定的"
+    "meaning": "adv.当然；当然可以；确定 adj.确信；必定的",
+    "example": "I am sure I can learn English well.",
+    "translation": "我确信我能学好英语。"
   },
   {
     "number": "622",
     "word": "easy",
     "phonetic": "/ˈiːzi/",
-    "meaning": "adj.容易的；不费力的"
+    "meaning": "adj.容易的；不费力的",
+    "example": "English is easy for me.",
+    "translation": "英语对我来说很容易。"
   },
   {
     "number": "623",
     "word": "use",
     "phonetic": "/juːz/",
-    "meaning": "v.使用；利用 n.使用；用途"
+    "meaning": "v.使用；利用 n.使用；用途",
+    "example": "I use a dictionary to learn new words.",
+    "translation": "我用词典学习新单词。"
   },
   {
     "number": "624",
     "word": "give",
     "phonetic": "/ɡɪv/",
-    "meaning": "v.给予；发出；提供"
+    "meaning": "v.给予；发出；提供",
+    "example": "I give my friend a book.",
+    "translation": "我给我的朋友一本书。"
   },
   {
     "number": "625",
     "word": "idea",
     "phonetic": "/aɪˈdɪə/",
-    "meaning": "n.主意，想法"
+    "meaning": "n.主意，想法",
+    "example": "I have a good idea.",
+    "translation": "我有一个好主意。"
   },
   {
     "number": "626",
     "word": "listen",
     "phonetic": "/ˈlɪsn/",
-    "meaning": "v.（注意地）听"
+    "meaning": "v.（注意地）听",
+    "example": "I listen to English songs every day.",
+    "translation": "我每天听英文歌曲。"
   },
   {
     "number": "627",
     "word": "draw",
     "phonetic": "/drɔː/",
-    "meaning": "v.画；拉；拽；提取；吸引"
+    "meaning": "v.画；拉；拽；提取；吸引",
+    "example": "I draw a picture of a cat.",
+    "translation": "我画了一幅猫的画。"
   },
   {
     "number": "628",
     "word": "travel",
     "phonetic": "/ˈtrævl/",
-    "meaning": "v.旅游；旅行 n.旅游；旅行"
+    "meaning": "v.旅游；旅行 n.旅游；旅行",
+    "example": "I want to travel to England.",
+    "translation": "我想去英国旅行。"
   },
   {
     "number": "629",
     "word": "walk",
     "phonetic": "/wɔːk/",
-    "meaning": "v./n.走，步行；散步"
+    "meaning": "v./n.走，步行；散步",
+    "example": "I walk to school every day.",
+    "translation": "我每天步行上学。"
   },
   {
     "number": "630",
     "word": "afternoon",
     "phonetic": "/ˌɑːftəˈnuːn/",
-    "meaning": "n.下午"
+    "meaning": "n.下午",
+    "example": "I have English class in the afternoon.",
+    "translation": "我下午有英语课。"
   },
   {
     "number": "631",
     "word": "then",
     "phonetic": "/ðen/",
-    "meaning": "adv.然后；接下来；那时 adj.当时的；那时的"
+    "meaning": "adv.然后；接下来；那时 adj.当时的；那时的",
+    "example": "I do my homework, then I watch TV.",
+    "translation": "我做作业，然后看电视。"
   },
   {
     "number": "632",
     "word": "Miss",
     "phonetic": "/mɪs/",
-    "meaning": "n.女士，小姐（称呼）"
+    "meaning": "n.女士，小姐（称呼）",
+    "example": "Miss Wang is our English teacher.",
+    "translation": "王老师是我们的英语老师。"
   },
   {
     "number": "633",
     "word": "work",
     "phonetic": "/wɜːk/",
-    "meaning": "n.工作；著作，（音乐艺术）作品 v.（使）工作 ；（使）运转；操作；经营；起作用"
+    "meaning": "n.工作；著作，（音乐艺术）作品 v.（使）工作 ；（使）运转；操作；经营；起作用",
+    "example": "My father goes to work every day.",
+    "translation": "我爸爸每天去上班。"
   },
   {
     "number": "634",
     "word": "sometimes",
     "phonetic": "/ˈsʌmtaɪmz/",
-    "meaning": "adv.在某个时候"
+    "meaning": "adv.在某个时候",
+    "example": "I sometimes play football with my friends.",
+    "translation": "我有时和朋友踢足球。"
   },
   {
     "number": "635",
     "word": "feel",
     "phonetic": "/fiːl/",
-    "meaning": "v.感觉，感到，意识到；触摸；认为；摸，摸起 来 n.感受；触觉"
+    "meaning": "v.感觉，感到，意识到；触摸；认为；摸，摸起 来 n.感受；触觉",
+    "example": "I feel happy today.",
+    "translation": "我今天感到高兴。"
   },
   {
     "number": "636",
     "word": "busy",
     "phonetic": "/ˈbɪzi/",
-    "meaning": "adj.忙，忙碌的，忙于(做某事)"
+    "meaning": "adj.忙，忙碌的，忙于(做某事)",
+    "example": "I am busy with my homework.",
+    "translation": "我忙于做作业。"
   },
   {
     "number": "637",
     "word": "study",
     "phonetic": "/ˈstʌdi/",
-    "meaning": "n.学习；研究；书房 v.学习；研究"
+    "meaning": "n.学习；研究；书房 v.学习；研究",
+    "example": "I study English every night.",
+    "translation": "我每天晚上学习英语。"
   },
   {
     "number": "638",
     "word": "song",
     "phonetic": "/sɒŋ/",
-    "meaning": "n.歌；歌曲"
+    "meaning": "n.歌；歌曲",
+    "example": "I like English songs.",
+    "translation": "我喜欢英文歌曲。"
   },
   {
     "number": "639",
     "word": "out",
     "phonetic": "/aʊt/",
-    "meaning": "adv.在外；出去；外出；离开 prep.向外；在外 面 adj.外面的；出局的 v.使熄灭；揭露；驱逐"
+    "meaning": "adv.在外；出去；外出；离开 prep.向外；在外 面 adj.外面的；出局的 v.使熄灭；揭露；驱逐",
+    "example": "Let's go out to play.",
+    "translation": "让我们出去玩。"
   },
   {
     "number": "640",
     "word": "sing",
     "phonetic": "/sɪŋ/",
-    "meaning": "v.唱(歌)；演唱"
+    "meaning": "v.唱(歌)；演唱",
+    "example": "I sing English songs.",
+    "translation": "我唱英文歌曲。"
   },
   {
     "number": "641",
     "word": "swim",
     "phonetic": "/swɪm/",
-    "meaning": "v.游泳(过去式为swam)"
+    "meaning": "v.游泳(过去式为swam)",
+    "example": "I swim in the swimming pool.",
+    "translation": "我在游泳池里游泳。"
   },
   {
     "number": "642",
     "word": "run",
     "phonetic": "/rʌn/",
-    "meaning": "v.跑，奔跑；跑步；流动；经营 n.跑；运转"
+    "meaning": "v.跑，奔跑；跑步；流动；经营 n.跑；运转",
+    "example": "I run every morning.",
+    "translation": "我每天早上跑步。"
   },
   {
     "number": "643",
     "word": "fast",
     "phonetic": "/fɑːst/",
-    "meaning": "adj.快的，迅速的 adv.快，快速，迅速"
+    "meaning": "adj.快的，迅速的 adv.快，快速，迅速",
+    "example": "He runs very fast.",
+    "translation": "他跑得很快。"
   },
   {
     "number": "644",
     "word": "dance",
     "phonetic": "/dɑːns/",
-    "meaning": "n.舞蹈 v.跳舞"
+    "meaning": "n.舞蹈 v.跳舞",
+    "example": "I dance with my friends.",
+    "translation": "我和朋友跳舞。"
   },
   {
     "number": "645",
     "word": "fly",
     "phonetic": "/flaɪ/",
-    "meaning": "v.放（⻛筝⻜机模型等）；⻜，⻜行"
+    "meaning": "v.放（⻛筝⻜机模型等）；⻜，⻜行",
+    "example": "I fly a kite in the park.",
+    "translation": "我在公园里放风筝。"
   },
   {
     "number": "646",
     "word": "watch",
     "phonetic": "/wɒtʃ/",
-    "meaning": "n.表；手表；监视；注意 v.看；观看；观察；小 心"
+    "meaning": "n.表；手表；监视；注意 v.看；观看；观察；小 心",
+    "example": "I watch English movies.",
+    "translation": "我看英文电影。"
   },
   {
     "number": "647",
     "word": "cake",
     "phonetic": "/keɪk/",
-    "meaning": "n.蛋糕，糕点"
+    "meaning": "n.蛋糕，糕点",
+    "example": "I eat a cake on my birthday.",
+    "translation": "我在生日那天吃蛋糕。"
   },
   {
     "number": "648",
     "word": "cook",
     "phonetic": "/kʊk/",
-    "meaning": "n.厨师 v.烹饪；煮；烧"
+    "meaning": "n.厨师 v.烹饪；煮；烧",
+    "example": "My mother cooks dinner for us.",
+    "translation": "我妈妈为我们做晚餐。"
   },
   {
     "number": "649",
     "word": "noodle",
     "phonetic": "/ˈnuːdl/",
-    "meaning": "n.面条"
+    "meaning": "n.面条",
+    "example": "I like eating noodles.",
+    "translation": "我喜欢吃面条。"
   },
   {
     "number": "650",
     "word": "open",
     "phonetic": "/ˈəʊpən/",
-    "meaning": "v.开；打开；开放 adj.开放的；营业的 n.公开 ；戶外"
+    "meaning": "v.开；打开；开放 adj.开放的；营业的 n.公开 ；戶外",
+    "example": "Please open the door.",
+    "translation": "请开门。"
   },
   {
     "number": "651",
     "word": "take",
     "phonetic": "/teɪk/",
-    "meaning": "v.搭乘；乘坐（⻋/船/⻜机等）；带走；拿走 ；学习；上（课）；把带往；选择要；选择购买 ；拿；带领；接受；花费；做（某个动作）"
+    "meaning": "v.搭乘；乘坐（⻋/船/⻜机等）；带走；拿走 ；学习；上（课）；把带往；选择要；选择购买 ；拿；带领；接受；花费；做（某个动作）",
+    "example": "I take a bus to school.",
+    "translation": "我乘公交车上学。"
   },
   {
     "number": "652",
     "word": "visit",
     "phonetic": "/ˈvɪzɪt/",
-    "meaning": "n.参观，游览；拜访，访问，看..."
+    "meaning": "n.参观，游览；拜访，访问，看...",
+    "example": "I visit my grandparents on weekends.",
+    "translation": "我周末去看望我的祖父母。"
   },
   {
     "number": "653",
     "word": "park",
     "phonetic": "/pɑːk/",
-    "meaning": "n.公园；停⻋场 v.停放；停⻋"
+    "meaning": "n.公园；停⻋场 v.停放；停⻋",
+    "example": "I play in the park with my friends.",
+    "translation": "我和朋友在公园里玩。"
   },
   {
     "number": "654",
     "word": "when",
     "phonetic": "/wen/",
-    "meaning": "adv.什么时候，何时 conj.当...的时候"
+    "meaning": "adv.什么时候，何时 conj.当...的时候",
+    "example": "When do you have English class?",
+    "translation": "你什么时候有英语课？"
   },
   {
     "number": "655",
     "word": "share",
     "phonetic": "/ʃeə(r)/",
-    "meaning": "v.分享；共享；共用；分摊；把自己的想法（或 经历感情）告诉（某人）"
+    "meaning": "v.分享；共享；共用；分摊；把自己的想法（或 经历感情）告诉（某人）",
+    "example": "I share my food with my friends.",
+    "translation": "我和朋友分享我的食物。"
   },
   {
     "number": "656",
     "word": "o'clock",
     "phonetic": "/əˈklɒk/",
-    "meaning": "abbr.(表示整点)......点钟"
+    "meaning": "abbr.(表示整点)......点钟",
+    "example": "It is 8 o'clock now.",
+    "translation": "现在是8点钟。"
   },
   {
     "number": "657",
     "word": "half",
     "phonetic": "/hɑːf/",
-    "meaning": "n.一半 adj.一半的 adv.一半地"
+    "meaning": "n.一半 adj.一半的 adv.一半地",
+    "example": "I eat half of the apple.",
+    "translation": "我吃了一半苹果。"
   },
   {
     "number": "658",
     "word": "dress",
     "phonetic": "/dres/",
-    "meaning": "n.连衣裙；衣服 v.（给......）穿衣服"
+    "meaning": "n.连衣裙；衣服 v.（给......）穿衣服",
+    "example": "I wear a dress to the party.",
+    "translation": "我穿裙子去参加派对。"
   },
   {
     "number": "659",
     "word": "breakfast",
     "phonetic": "/ˈbrekfəst/",
-    "meaning": "n.早餐；早饭"
+    "meaning": "n.早餐；早饭",
+    "example": "I eat breakfast every morning.",
+    "translation": "我每天早上吃早餐。"
   },
   {
     "number": "660",
     "word": "before",
     "phonetic": "/bɪˈfɔː(r)/",
-    "meaning": "adv.以前；之前，过去 prep.在......以前；先于 conj.在......以前"
+    "meaning": "adv.以前；之前，过去 prep.在......以前；先于 conj.在......以前",
+    "example": "I do my homework before dinner.",
+    "translation": "我在晚餐前做作业。"
   },
   {
     "number": "661",
     "word": "begin",
     "phonetic": "/bɪˈɡɪn/",
-    "meaning": "v.开始"
+    "meaning": "v.开始",
+    "example": "Class begins at 8:00.",
+    "translation": "8点开始上课。"
   },
   {
     "number": "662",
     "word": "dinner",
     "phonetic": "/ˈdɪnə(r)/",
-    "meaning": "n.正餐；晚餐"
+    "meaning": "n.正餐；晚餐",
+    "example": "I eat dinner with my family.",
+    "translation": "我和家人一起吃晚餐。"
   },
   {
     "number": "663",
     "word": "early",
     "phonetic": "/ˈɜːli/",
-    "meaning": "adj.早的；提早的；早期的；早到的 adv.早地 ；提早；在早期；提前"
+    "meaning": "adj.早的；提早的；早期的；早到的 adv.早地 ；提早；在早期；提前",
+    "example": "I get up early in the morning.",
+    "translation": "我早上早起。"
   },
   {
     "number": "664",
     "word": "ask",
     "phonetic": "/ɑːsk/",
-    "meaning": "v.问；提问，询问；请求；邀请"
+    "meaning": "v.问；提问，询问；请求；邀请",
+    "example": "I ask the teacher a question.",
+    "translation": "我问老师一个问题。"
   },
   {
     "number": "665",
     "word": "lunch",
     "phonetic": "/lʌntʃ/",
-    "meaning": "n.午餐；午饭"
+    "meaning": "n.午餐；午饭",
+    "example": "I eat lunch at school.",
+    "translation": "我在学校吃午餐。"
   },
   {
     "number": "666",
     "word": "film",
     "phonetic": "/fɪlm/",
-    "meaning": "n.电影；胶卷；底片；薄薄的一层 v.拍摄电影"
+    "meaning": "n.电影；胶卷；底片；薄薄的一层 v.拍摄电影",
+    "example": "I watch a film with my friends.",
+    "translation": "我和朋友一起看电影。"
   },
   {
     "number": "667",
     "word": "lesson",
     "phonetic": "/ˈlesn/",
-    "meaning": "n.课；功课；课程；教训"
+    "meaning": "n.课；功课；课程；教训",
+    "example": "I have an English lesson every day.",
+    "translation": "我每天有一节英语课。"
   },
   {
     "number": "668",
     "word": "ice",
     "phonetic": "/aɪs/",
-    "meaning": "n.冰 v.（使）结冰"
+    "meaning": "n.冰 v.（使）结冰",
+    "example": "I like eating ice cream.",
+    "translation": "我喜欢吃冰淇淋。"
   },
   {
     "number": "669",
     "word": "birthday",
     "phonetic": "44/45",
-    "meaning": "n.生日"
+    "meaning": "n.生日",
+    "example": "Today is my birthday.",
+    "translation": "今天是我的生日。"
   },
   {
     "number": "670",
     "word": "month",
     "phonetic": "/mʌnθ/",
-    "meaning": "n.一个月的时间；月份，月"
+    "meaning": "n.一个月的时间；月份，月",
+    "example": "There are 12 months in a year.",
+    "translation": "一年有12个月。"
   },
   {
     "number": "671",
     "word": "gift",
     "phonetic": "/ɡɪft/",
-    "meaning": "n.天赋，才能，礼物，赠品 .白送"
+    "meaning": "n.天赋，才能，礼物，赠品 .白送",
+    "example": "I get a gift on my birthday.",
+    "translation": "我在生日那天收到了一份礼物。"
   },
   {
     "number": "672",
     "word": "party",
     "phonetic": "/ˈpɑːti/",
-    "meaning": "n.聚会，宴会；党派"
+    "meaning": "n.聚会，宴会；党派",
+    "example": "I have a birthday party with my friends.",
+    "translation": "我和朋友一起举办生日派对。"
   },
   {
     "number": "673",
     "word": "buy",
     "phonetic": "/baɪ/",
-    "meaning": "v.买；换取；收买；相信"
+    "meaning": "v.买；换取；收买；相信",
+    "example": "I buy a book for my friend.",
+    "translation": "我给朋友买了一本书。"
   },
   {
     "number": "674",
     "word": "shop",
     "phonetic": "/ʃɒp/",
-    "meaning": "n.商店 v.去买东西；购物"
+    "meaning": "n.商店 v.去买东西；购物",
+    "example": "I go to the shop to buy food.",
+    "translation": "我去商店买食物。"
   },
   {
     "number": "675",
     "word": "woman",
     "phonetic": "/ˈwʊmən/",
-    "meaning": "n.(复数是women）妇女，女人；成年女子"
+    "meaning": "n.(复数是women）妇女，女人；成年女子",
+    "example": "The woman is my mother.",
+    "translation": "那个女人是我的妈妈。"
   },
   {
     "number": "676",
     "word": "candle",
     "phonetic": "/ˈkændl/",
-    "meaning": "n.蜡烛"
+    "meaning": "n.蜡烛",
+    "example": "I light a candle on my birthday cake.",
+    "translation": "我在生日蛋糕上点燃蜡烛。"
   },
   {
     "number": "677",
     "word": "will",
     "phonetic": "/wɪl/",
-    "meaning": "auxv.将要，会；愿意 v.愿意；遗赠 n.意志；意 愿；遗嘱"
+    "meaning": "auxv.将要，会；愿意 v.愿意；遗赠 n.意志；意 愿；遗嘱",
+    "example": "I will study English hard.",
+    "translation": "我将努力学习英语。"
   },
   {
     "number": "678",
     "word": "egg",
     "phonetic": "/eɡ/",
-    "meaning": "n.（作⻝物用的）蛋；鸡蛋"
+    "meaning": "n.（作⻝物用的）蛋；鸡蛋",
+    "example": "I eat an egg for breakfast.",
+    "translation": "我早餐吃一个鸡蛋。"
   },
   {
     "number": "679",
     "word": "juice",
     "phonetic": "/dʒuːs/",
-    "meaning": "n.(水果或蔬菜的)汁；水果(蔬...)，果汁"
+    "meaning": "n.(水果或蔬菜的)汁；水果(蔬...)，果汁",
+    "example": "I drink orange juice.",
+    "translation": "我喝橙汁。"
   },
   {
     "number": "680",
     "word": "milk",
     "phonetic": "/mɪlk/",
-    "meaning": "n.（牛或羊等的）奶，牛奶 v.挤奶"
+    "meaning": "n.（牛或羊等的）奶，牛奶 v.挤奶",
+    "example": "I drink milk every day.",
+    "translation": "我每天喝牛奶。"
   },
   {
     "number": "681",
     "word": "candy",
     "phonetic": "/ˈkændi/",
-    "meaning": "n.糖；糖果"
+    "meaning": "n.糖；糖果",
+    "example": "I like eating candy.",
+    "translation": "我喜欢吃糖果。"
   },
   {
     "number": "682",
     "word": "drink",
     "phonetic": "/drɪŋk/",
-    "meaning": "v.喝；喝酒 n.饮料；酒"
+    "meaning": "v.喝；喝酒 n.饮料；酒",
+    "example": "I drink water every day.",
+    "translation": "我每天喝水。"
   },
   {
     "number": "683",
     "word": "card",
     "phonetic": "/kɑːd/",
-    "meaning": "n.卡片；纸牌；贺卡；慰问卡；银行卡"
+    "meaning": "n.卡片；纸牌；贺卡；慰问卡；银行卡",
+    "example": "I give a card to my friend.",
+    "translation": "我给朋友一张卡片。"
   },
   {
     "number": "684",
     "word": "doll",
     "phonetic": "/dɒl/",
-    "meaning": "n.玩偶，玩具娃娃"
+    "meaning": "n.玩偶，玩具娃娃",
+    "example": "I have a doll.",
+    "translation": "我有一个玩偶。"
   },
   {
     "number": "685",
     "word": "Mrs",
     "phonetic": "/ˈmɪsɪz/",
-    "meaning": "abbr.太太；夫人；Mistress的缩写"
+    "meaning": "abbr.太太；夫人；Mistress的缩写",
+    "example": "Mrs Wang is my teacher.",
+    "translation": "王夫人是我的老师。"
   },
   {
     "number": "686",
     "word": "eat",
     "phonetic": "/iːt/",
-    "meaning": "v.吃；进餐"
+    "meaning": "v.吃；进餐",
+    "example": "I eat lunch at school.",
+    "translation": "我在学校吃午餐。"
   },
   {
     "number": "687",
     "word": "wish",
     "phonetic": "/wɪʃ/",
-    "meaning": "n.希望；祝福；愿望 v.祝愿；希望"
+    "meaning": "n.希望；祝福；愿望 v.祝愿；希望",
+    "example": "I wish you a happy birthday.",
+    "translation": "祝你生日快乐。"
   },
   {
     "number": "688",
     "word": "nurse",
     "phonetic": "/nɜːs/",
-    "meaning": "n.护士；保姆 v.护理；照料；喂奶"
+    "meaning": "n.护士；保姆 v.护理；照料；喂奶",
+    "example": "The nurse helps the doctor.",
+    "translation": "护士帮助医生。"
   },
   {
     "number": "689",
     "word": "hear",
     "phonetic": "/hɪə(r)/",
-    "meaning": "v.听到；听⻅;听说(过去式是heard)"
+    "meaning": "v.听到；听⻅;听说(过去式是heard)",
+    "example": "I hear the bird singing.",
+    "translation": "我听到鸟在唱歌。"
   },
   {
     "number": "690",
     "word": "door",
     "phonetic": "/dɔː(r)/",
-    "meaning": "n.⻔；出入口"
+    "meaning": "n.⻔；出入口",
+    "example": "Please close the door.",
+    "translation": "请关门。"
   }
 ]
