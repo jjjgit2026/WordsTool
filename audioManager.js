@@ -234,6 +234,13 @@ class AudioManager {
         }
     }
 
+    static playExampleAudio() {
+        const currentWord = isErrorBookMode ? errorWords[currentWordIndex] : words[currentWordIndex];
+        if (currentWord && currentWord.example) {
+            this.playWordAudio(currentWord.example);
+        }
+    }
+
     static playSuccessSound() {
         try {
             const audioContext = new (window.AudioContext || window.webkitAudioContext)();

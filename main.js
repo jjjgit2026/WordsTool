@@ -926,6 +926,16 @@ function updateLearningContent() {
         learnMeaning.textContent = currentWord.meaning;
     }
     
+    const learnExample = document.getElementById('learnExample');
+    if (learnExample) {
+        learnExample.textContent = currentWord.example || '例句';
+    }
+    
+    const learnExampleTranslation = document.getElementById('learnExampleTranslation');
+    if (learnExampleTranslation) {
+        learnExampleTranslation.textContent = currentWord.translation || '例句翻译';
+    }
+    
     // 更新读页面
     const readWord = document.getElementById('readWord');
     if (readWord) {
@@ -1049,6 +1059,12 @@ function switchStep(step) {
         content.classList.remove('active');
     });
     document.getElementById(`content${step.charAt(0).toUpperCase() + step.slice(1)}`).classList.add('active');
+    
+    // 自动播放单词发音
+    const currentWord = isErrorBookMode ? errorWords[currentWordIndex] : words[currentWordIndex];
+    if (currentWord && currentWord.word) {
+        AudioManager.playWordAudio(currentWord.word, true);
+    }
     
     // 更新单词链条
     generateWordChain();

@@ -62,10 +62,13 @@
                     <!-- 3. 单词释义 -->
                     <div class="meaning-display" id="learnMeaning">单词</div>
                     
-                    <!-- 4. 字母与音标的对应关系 -->
-                    <div class="letter-phonetic-map" id="letterPhoneticMap">
-                        <!-- 动态生成 -->
+                    <!-- 4. 例句和翻译 -->
+                    <div class="example-display">
+                        <div class="example-sentence" id="learnExample">例句</div>
+                        <div class="example-translation" id="learnExampleTranslation">例句翻译</div>
+                        <button class="audio-btn small" onclick="AudioManager.playExampleAudio()">🔊</button>
                     </div>
+
                 
                     <!-- 操作按钮 -->
                     <div class="action-buttons">
