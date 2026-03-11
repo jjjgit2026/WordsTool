@@ -871,7 +871,7 @@ function generateWordChain() {
     setTimeout(() => {
         const currentElement = document.getElementById(`chain-word-${currentWordIndex}`);
         if (currentElement) {
-            currentElement.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+            currentElement.scrollIntoView({ behavior: 'auto', block: 'center', inline: 'center' });
         }
     }, 100);
 }
@@ -885,19 +885,23 @@ function updateLearningContent() {
     const wordLetters = document.getElementById('wordLetters');
     if (wordLetters) {
         wordLetters.innerHTML = '';
-        for (let i = 0; i < currentWord.word.length; i++) {
-            const char = currentWord.word[i];
-            if (char === ' ') {
-                const space = document.createElement('span');
-                space.className = 'letter-space';
-                space.textContent = ' ';
-                space.style.width = '12px';
-                wordLetters.appendChild(space);
-            } else {
+        // 将单词按空格分割成词组
+        const wordsArray = currentWord.word.split(' ');
+        
+        wordsArray.forEach((word, wordIndex) => {
+            // 创建单词容器，确保单词作为一个整体
+            const wordContainer = document.createElement('span');
+            wordContainer.className = 'word-container';
+            wordContainer.style.display = 'inline-block';
+            wordContainer.style.whiteSpace = 'nowrap';
+            
+            // 为单词中的每个字母创建元素
+            for (let i = 0; i < word.length; i++) {
+                const char = word[i];
                 const letter = document.createElement('span');
                 letter.className = 'letter';
                 letter.textContent = char;
-                const colorCode = getPhoneticColor(char, i, currentWord.word);
+                const colorCode = getPhoneticColor(char, i, word);
                 switch (colorCode) {
                     case 'r':
                         letter.style.color = '#e74c3c';
@@ -911,9 +915,20 @@ function updateLearningContent() {
                     default:
                         letter.style.color = '#333333';
                 }
-                wordLetters.appendChild(letter);
+                wordContainer.appendChild(letter);
             }
-        }
+            
+            wordLetters.appendChild(wordContainer);
+            
+            // 在单词之间添加空格（除了最后一个单词）
+            if (wordIndex < wordsArray.length - 1) {
+                const space = document.createElement('span');
+                space.className = 'letter-space';
+                space.innerHTML = '&nbsp;';
+                space.style.margin = '0 8px';
+                wordLetters.appendChild(space);
+            }
+        });
     }
     
     const phoneticWrapper = document.getElementById('phoneticWrapper');
@@ -1467,7 +1482,7 @@ function generateErrorWordChain() {
     setTimeout(() => {
         const currentElement = document.getElementById(`chain-word-${currentWordIndex}`);
         if (currentElement) {
-            currentElement.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+            currentElement.scrollIntoView({ behavior: 'auto', block: 'center', inline: 'center' });
         }
     }, 100);
 }
@@ -1480,19 +1495,23 @@ function updateErrorWordLearningContent() {
     const wordLetters = document.getElementById('wordLetters');
     if (wordLetters) {
         wordLetters.innerHTML = '';
-        for (let i = 0; i < currentWord.word.length; i++) {
-            const char = currentWord.word[i];
-            if (char === ' ') {
-                const space = document.createElement('span');
-                space.className = 'letter-space';
-                space.textContent = ' ';
-                space.style.width = '12px';
-                wordLetters.appendChild(space);
-            } else {
+        // 将单词按空格分割成词组
+        const wordsArray = currentWord.word.split(' ');
+        
+        wordsArray.forEach((word, wordIndex) => {
+            // 创建单词容器，确保单词作为一个整体
+            const wordContainer = document.createElement('span');
+            wordContainer.className = 'word-container';
+            wordContainer.style.display = 'inline-block';
+            wordContainer.style.whiteSpace = 'nowrap';
+            
+            // 为单词中的每个字母创建元素
+            for (let i = 0; i < word.length; i++) {
+                const char = word[i];
                 const letter = document.createElement('span');
                 letter.className = 'letter';
                 letter.textContent = char;
-                const colorCode = getPhoneticColor(char, i, currentWord.word);
+                const colorCode = getPhoneticColor(char, i, word);
                 switch (colorCode) {
                     case 'r':
                         letter.style.color = '#e74c3c';
@@ -1506,9 +1525,20 @@ function updateErrorWordLearningContent() {
                     default:
                         letter.style.color = '#333333';
                 }
-                wordLetters.appendChild(letter);
+                wordContainer.appendChild(letter);
             }
-        }
+            
+            wordLetters.appendChild(wordContainer);
+            
+            // 在单词之间添加空格（除了最后一个单词）
+            if (wordIndex < wordsArray.length - 1) {
+                const space = document.createElement('span');
+                space.className = 'letter-space';
+                space.innerHTML = '&nbsp;';
+                space.style.margin = '0 8px';
+                wordLetters.appendChild(space);
+            }
+        });
     }
     
     const phoneticWrapper = document.getElementById('phoneticWrapper');

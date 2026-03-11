@@ -924,7 +924,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
     padding: 12px;
     max-width: 500px;
     margin: 0 auto;
@@ -955,9 +955,9 @@ body {
     font-weight: 600;
     margin-bottom: 4px;
     letter-spacing: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
 }
 
 .letter {
