@@ -243,22 +243,10 @@ class AudioManager {
 
     static playSuccessSound() {
         try {
-            const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-            const oscillator = audioContext.createOscillator();
-            const gainNode = audioContext.createGain();
-            
-            oscillator.connect(gainNode);
-            gainNode.connect(audioContext.destination);
-            
-            oscillator.frequency.setValueAtTime(800, audioContext.currentTime);
-            oscillator.frequency.linearRampToValueAtTime(1200, audioContext.currentTime + 0.1);
-            oscillator.frequency.linearRampToValueAtTime(800, audioContext.currentTime + 0.2);
-            
-            gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
-            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.2);
-            
-            oscillator.start(audioContext.currentTime);
-            oscillator.stop(audioContext.currentTime + 0.2);
+            const audio = new Audio('答题正确音效.MP3');
+            audio.play().catch(e => {
+                console.error('播放成功音效失败:', e);
+            });
         } catch (e) {
             console.error('播放成功音效失败:', e);
         }
@@ -266,21 +254,10 @@ class AudioManager {
 
     static playErrorSound() {
         try {
-            const audioContext = new (window.AudioContext || window.webkitAudioContext)();
-            const oscillator = audioContext.createOscillator();
-            const gainNode = audioContext.createGain();
-            
-            oscillator.connect(gainNode);
-            gainNode.connect(audioContext.destination);
-            
-            oscillator.frequency.setValueAtTime(200, audioContext.currentTime);
-            oscillator.frequency.linearRampToValueAtTime(150, audioContext.currentTime + 0.3);
-            
-            gainNode.gain.setValueAtTime(0.3, audioContext.currentTime);
-            gainNode.gain.exponentialRampToValueAtTime(0.01, audioContext.currentTime + 0.3);
-            
-            oscillator.start(audioContext.currentTime);
-            oscillator.stop(audioContext.currentTime + 0.3);
+            const audio = new Audio('答题错误音效.MP3');
+            audio.play().catch(e => {
+                console.error('播放错误音效失败:', e);
+            });
         } catch (e) {
             console.error('播放错误音效失败:', e);
         }

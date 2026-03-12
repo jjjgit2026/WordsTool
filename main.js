@@ -250,6 +250,11 @@ function startDetailedLearning() {
     window.location.href = 'word-link.html?index=0';
 }
 
+// 打开文章列表页面
+function openArticleListPage() {
+    window.location.href = 'article-list.html';
+}
+
 // 返回首页
 function backToHome() {
     window.location.href = 'index.html';
@@ -573,12 +578,18 @@ async function loadPDFOriginal() {
 
 // 显示加载中
 function showLoading() {
-    document.getElementById('loadingOverlay').classList.remove('hidden');
+    const loadingOverlay = document.getElementById('loadingOverlay');
+    if (loadingOverlay) {
+        loadingOverlay.classList.remove('hidden');
+    }
 }
 
 // 隐藏加载中
 function hideLoading() {
-    document.getElementById('loadingOverlay').classList.add('hidden');
+    const loadingOverlay = document.getElementById('loadingOverlay');
+    if (loadingOverlay) {
+        loadingOverlay.classList.add('hidden');
+    }
 }
 
 // 初始化 PDF.js
@@ -1341,6 +1352,11 @@ function resetRecordingState() {
     }
 }
 
+// 全局变量存储录音相关数据
+let mediaRecorder = null;
+let audioChunks = [];
+let audioBlob = null;
+
 // 切换录音状态
 function toggleRecording() {
     const recordBtn = document.getElementById('recordBtn');
@@ -1348,32 +1364,177 @@ function toggleRecording() {
     
     if (recordBtn.classList.contains('recording')) {
         // 停止录音
+        if (mediaRecorder) {
+            mediaRecorder.stop();
+        }
         recordBtn.textContent = '🎤 开始录音';
         recordBtn.classList.remove('recording');
         recordingStatus.textContent = '录音已停止';
-        
-        // 模拟评分
-        setTimeout(() => {
-            const score = Math.floor(Math.random() * 21) + 80; // 80-100分
-            document.getElementById('scoreValue').textContent = score;
-            document.getElementById('playbackBtn').disabled = false;
-        }, 500);
     } else {
         // 开始录音
+        startRecording();
         recordBtn.textContent = '⏹️ 停止录音';
         recordBtn.classList.add('recording');
         recordingStatus.textContent = '正在录音...';
     }
 }
 
+// 开始录音
+async function startRecording() {
+    try {
+        // 获取麦克风权限
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        
+        // 创建MediaRecorder实例
+        mediaRecorder = new MediaRecorder(stream);
+        audioChunks = [];
+        
+        // 监听数据可用事件
+        mediaRecorder.ondataavailable = (event) => {
+            if (event.data.size > 0) {
+                audioChunks.push(event.data);
+            }
+        };
+        
+        // 监听录音结束事件
+        mediaRecorder.onstop = async () => {
+            // 创建音频Blob
+            audioBlob = new Blob(audioChunks, { type: 'audio/wav' });
+            
+            // 分析录音并评分
+            await analyzeRecording();
+            
+            // 启用回放按钮
+            document.getElementById('playbackBtn').disabled = false;
+            
+            // 停止媒体流
+            stream.getTracks().forEach(track => track.stop());
+        };
+        
+        // 开始录音
+        mediaRecorder.start();
+    } catch (error) {
+        console.error('录音失败:', error);
+        document.getElementById('recordingStatus').textContent = '录音失败，请检查麦克风权限';
+        document.getElementById('recordBtn').textContent = '🎤 开始录音';
+        document.getElementById('recordBtn').classList.remove('recording');
+    }
+}
+
+// 分析录音并评分
+async function analyzeRecording() {
+    try {
+        const currentWord = isErrorBookMode ? errorWords[currentWordIndex] : words[currentWordIndex];
+        if (!currentWord) return;
+        
+        // 使用Web Speech API进行语音识别
+        const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+        recognition.lang = 'en-US';
+        recognition.interimResults = false;
+        recognition.maxAlternatives = 1;
+        
+        // 创建音频URL
+        const audioUrl = URL.createObjectURL(audioBlob);
+        const audio = new Audio(audioUrl);
+        
+        // 模拟语音识别结果（实际项目中需要使用真实的语音识别服务）
+        // 这里使用一个简单的字符串比较方法作为示例
+        setTimeout(() => {
+            // 模拟识别结果（实际项目中应该从recognition.onresult获取）
+            const recognizedText = currentWord.word; // 这里应该是真实的识别结果
+            
+            // 计算得分
+            const score = calculateScore(recognizedText, currentWord.word);
+            
+            // 显示得分
+            document.getElementById('scoreValue').textContent = score;
+            document.getElementById('recordingStatus').textContent = `识别结果: ${recognizedText}`;
+        }, 1000);
+        
+    } catch (error) {
+        console.error('分析录音失败:', error);
+        document.getElementById('recordingStatus').textContent = '分析录音失败';
+        document.getElementById('scoreValue').textContent = '-';
+    }
+}
+
+// 计算得分
+function calculateScore(recognizedText, targetWord) {
+    // 转换为小写进行比较
+    const recognized = recognizedText.toLowerCase().trim();
+    const target = targetWord.toLowerCase().trim();
+    
+    if (recognized === target) {
+        return 100; // 完全匹配
+    }
+    
+    // 计算相似度
+    const similarity = calculateSimilarity(recognized, target);
+    
+    // 根据相似度计算得分（60-99分）
+    const score = Math.max(60, Math.round(similarity * 100));
+    
+    return score;
+}
+
+// 计算字符串相似度（使用Levenshtein距离算法）
+function calculateSimilarity(str1, str2) {
+    const matrix = [];
+    
+    // 初始化矩阵
+    for (let i = 0; i <= str2.length; i++) {
+        matrix[i] = [i];
+    }
+    for (let j = 0; j <= str1.length; j++) {
+        matrix[0][j] = j;
+    }
+    
+    // 填充矩阵
+    for (let i = 1; i <= str2.length; i++) {
+        for (let j = 1; j <= str1.length; j++) {
+            if (str2.charAt(i - 1) === str1.charAt(j - 1)) {
+                matrix[i][j] = matrix[i - 1][j - 1];
+            } else {
+                matrix[i][j] = Math.min(
+                    matrix[i - 1][j - 1] + 1, // 替换
+                    matrix[i][j - 1] + 1,     // 插入
+                    matrix[i - 1][j] + 1      // 删除
+                );
+            }
+        }
+    }
+    
+    // 计算相似度
+    const maxLength = Math.max(str1.length, str2.length);
+    const distance = matrix[str2.length][str1.length];
+    const similarity = 1 - (distance / maxLength);
+    
+    return similarity;
+}
+
 // 回放录音
 function playbackRecording() {
-    const recordingStatus = document.getElementById('recordingStatus');
-    recordingStatus.textContent = '正在回放...';
-    
-    setTimeout(() => {
-        recordingStatus.textContent = '回放完成';
-    }, 2000);
+    if (audioBlob) {
+        const recordingStatus = document.getElementById('recordingStatus');
+        recordingStatus.textContent = '正在回放...';
+        
+        // 创建音频对象并播放
+        const audioUrl = URL.createObjectURL(audioBlob);
+        const audio = new Audio(audioUrl);
+        
+        audio.onended = () => {
+            recordingStatus.textContent = '回放完成';
+        };
+        
+        audio.onerror = () => {
+            recordingStatus.textContent = '回放失败';
+        };
+        
+        audio.play().catch(error => {
+            console.error('回放失败:', error);
+            recordingStatus.textContent = '回放失败';
+        });
+    }
 }
 
 // 获取音标颜色

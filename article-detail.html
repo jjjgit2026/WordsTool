@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>文章阅读</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .article-detail-page {
+            padding: 20px;
+            min-height: 100vh;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+        
+        .back-btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: white;
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            cursor: pointer;
+            z-index: 100;
+        }
+        
+        .article-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+            margin-top: 70px;
+        }
+        
+        .article-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        
+        .article-chinese-title {
+            font-size: 16px;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .article-section {
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #34495e;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #e0e0e0;
+            padding-bottom: 10px;
+        }
+        
+        .article-body {
+            font-size: 18px;
+            line-height: 1.8;
+            color: #333;
+        }
+        
+        .article-body .paragraph {
+            margin-bottom: 20px;
+        }
+        
+        .article-body .sentence {
+            cursor: pointer;
+            transition: background-color 0.2s;
+            padding: 2px 5px;
+            margin-right: 2px;
+        }
+        
+        .article-body .sentence:hover {
+            background-color: #f0f8ff;
+        }
+        
+        .article-body .sentence.selected {
+            background-color: #e3f2fd;
+            padding: 2px 10px;
+            border-radius: 5px;
+        }
+        
+        .article-translation {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #555;
+        }
+        
+        .article-grammar {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #555;
+        }
+        
+        .article-grammar ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        
+        .article-grammar li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="article-detail-page active" id="articleDetailPage">
+        <button class="back-btn" onclick="backToArticleList()">‹</button>
+        
+        <div class="article-container">
+            <h1 class="article-title" id="articleTitle"></h1>
+            <div class="article-chinese-title" id="articleChineseTitle"></div>
+            
+            <div class="article-section">
+                <h2 class="section-title">英文原文</h2>
+                <div class="article-body" id="articleBody">
+                    <!-- 英文原文将通过JavaScript动态生成 -->
+                </div>
+            </div>
+            
+            <div class="article-section">
+                <h2 class="section-title">中文大意</h2>
+                <div class="article-translation" id="articleTranslation">
+                    <!-- 中文大意将通过JavaScript动态生成 -->
+                </div>
+            </div>
+            
+            <div class="article-section">
+                <h2 class="section-title">语法点</h2>
+                <div class="article-grammar" id="articleGrammar">
+                    <!-- 语法点将通过JavaScript动态生成 -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Loading 元素 -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">加载中，请稍候...</div>
+    </div>
+    
+    <!-- 引入PDF.js库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>
+        // 备用 CDN 加载
+        if (typeof pdfjsLib === 'undefined') {
+            document.write('<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.min.js"><\/script>');
+        }
+    </script>
+    
+    <script src="dataManager.js"></script>
+    <script src="audioManager.js"></script>
+    <script src="main.js"></script>
+    <script>
+        // 全局变量
+        let articles = [];
+        let currentArticleIndex = 0;
+        
+        // 初始化文章详情页面
+        document.addEventListener('DOMContentLoaded', async function() {
+            console.log('[文章详情页面初始化] 开始');
+            
+            // 获取URL参数中的文章索引
+            const urlParams = new URLSearchParams(window.location.search);
+            currentArticleIndex = parseInt(urlParams.get('index')) || 0;
+            console.log('[文章详情页面初始化] 当前文章索引:', currentArticleIndex);
+            
+            // 检查并加载用户信息
+            checkUserInfo();
+            
+            // 加载用户最近学习的课本或默认课本
+            loadUserBook();
+            
+            // 加载文章数据
+            await loadArticles();
+            
+            console.log('[文章详情页面初始化] 结束');
+        });
+        
+        // 加载文章数据
+        async function loadArticles() {
+            console.log('[加载文章数据] 开始');
+            showLoading();
+            
+            try {
+                // 根据当前课本获取对应的短文文件
+                const mdPath = currentFile.replace('.pdf', '短文.md');
+                console.log('[加载文章数据] 短文文件路径:', mdPath);
+                
+                // 尝试加载MD文件
+                const response = await fetch(mdPath);
+                console.log('[加载文章数据] MD文件响应状态:', response.status);
+                
+                if (response.ok) {
+                    const content = await response.text();
+                    console.log('[加载文章数据] MD文件加载成功');
+                    parseArticles(content);
+                } else {
+                    throw new Error('MD文件不存在或无法加载');
+                }
+            } catch (error) {
+                console.error('加载文章失败:', error);
+                // 显示错误信息
+                document.getElementById('articleBody').innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">文章加载失败</div>';
+            } finally {
+                hideLoading();
+                console.log('[加载文章数据] 结束');
+            }
+        }
+        
+        // 解析文章数据
+        function parseArticles(content) {
+            articles = [];
+            const lines = content.split('\n');
+            let currentArticle = null;
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                
+                if (line.startsWith('## ')) {
+                    // 新文章开始
+                    if (currentArticle) {
+                        articles.push(currentArticle);
+                    }
+                    
+                    const chineseTitle = line.substring(3).trim();
+                    currentArticle = {
+                        chineseTitle: chineseTitle,
+                        title: '',
+                        body: '',
+                        translation: '',
+                        grammar: ''
+                    };
+                } else if (currentArticle) {
+                    if (line.startsWith('**Title: ')) {
+                        currentArticle.title = line.substring(9, line.length - 2).trim();
+                    } else if (line === '**Body:**') {
+                        // 收集正文内容
+                        let bodyContent = '';
+                        i++;
+                        while (i < lines.length && !lines[i].trim().startsWith('**')) {
+                            bodyContent += lines[i] + ' ';
+                            i++;
+                        }
+                        i--; // 回退一行，因为循环会自增
+                        currentArticle.body = bodyContent.trim();
+                    } else if (line === '**中文大意:**') {
+                        // 收集中文大意
+                        let translationContent = '';
+                        i++;
+                        while (i < lines.length && !lines[i].trim().startsWith('**')) {
+                            translationContent += lines[i] + ' ';
+                            i++;
+                        }
+                        i--; // 回退一行，因为循环会自增
+                        currentArticle.translation = translationContent.trim();
+                    } else if (line === '**语法点:**') {
+                        // 收集语法点
+                        let grammarContent = '';
+                        i++;
+                        while (i < lines.length && !lines[i].trim().startsWith('## ')) {
+                            if (lines[i].trim()) {
+                                grammarContent += lines[i].trim() + ' ';
+                            }
+                            i++;
+                        }
+                        i--; // 回退一行，因为循环会自增
+                        currentArticle.grammar = grammarContent.trim();
+                    }
+                }
+            }
+            
+            // 添加最后一篇文章
+            if (currentArticle) {
+                articles.push(currentArticle);
+            }
+            
+            console.log('[解析文章数据] 解析完成，文章数量:', articles.length);
+            
+            // 显示当前文章
+            if (currentArticleIndex < articles.length) {
+                displayArticle(articles[currentArticleIndex]);
+            } else {
+                document.getElementById('articleBody').innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">文章不存在</div>';
+            }
+        }
+        
+        // 显示文章
+        function displayArticle(article) {
+            // 更新标题
+            document.getElementById('articleTitle').textContent = article.title;
+            document.getElementById('articleChineseTitle').textContent = article.chineseTitle;
+            
+            // 更新英文原文，按段落分割并添加点击事件
+            const bodyElement = document.getElementById('articleBody');
+            // 按换行符分割段落
+            const paragraphs = article.body.split('\n').filter(p => p.trim());
+            
+            bodyElement.innerHTML = paragraphs.map(paragraph => {
+                // 对每个段落，按句子分割
+                const sentences = paragraph.split('. ').filter(s => s.trim());
+                return `<div class="paragraph">${sentences.map(sentence => {
+                    // 确保句子以句号结尾
+                    const completeSentence = sentence + (sentence.endsWith('.') ? '' : '.');
+                    return `<span class="sentence" onclick="selectSentence(this, '${completeSentence}')">${completeSentence}</span>`;
+                }).join(' ')}</div>`;
+            }).join('');
+            
+            // 更新中文大意
+            document.getElementById('articleTranslation').textContent = article.translation;
+            
+            // 更新语法点
+            const grammarElement = document.getElementById('articleGrammar');
+            if (article.grammar) {
+                const grammarPoints = article.grammar.split(' - ').filter(g => g.trim());
+                grammarElement.innerHTML = '<ul>' + grammarPoints.map(point => `<li>${point}</li>`).join('') + '</ul>';
+            } else {
+                grammarElement.textContent = '暂无语法点';
+            }
+        }
+        
+        // 选择句子并播放发音
+        function selectSentence(element, sentence) {
+            // 移除所有句子的选中状态
+            document.querySelectorAll('.sentence').forEach(s => s.classList.remove('selected'));
+            
+            // 添加当前句子的选中状态
+            element.classList.add('selected');
+            
+            // 播放句子发音
+            console.log('[播放句子发音]', sentence);
+            AudioManager.playWordAudio(sentence, true);
+        }
+        
+        // 返回文章列表页面
+        function backToArticleList() {
+            window.location.href = 'article-list.html';
+        }
+    </script>
+</body>
+</html>

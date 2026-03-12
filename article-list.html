@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>趣文阅读</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .article-list-page {
+            padding: 20px;
+            min-height: 100vh;
+            background-color: #f5f7fa;
+        }
+        
+        .article-item {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .article-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .article-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        
+        .article-chinese-title {
+            font-size: 14px;
+            color: #999;
+            margin-bottom: 10px;
+        }
+        
+        .article-preview {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.4;
+        }
+        
+        .back-btn {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            background: white;
+            border: none;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            cursor: pointer;
+            z-index: 100;
+        }
+    </style>
+</head>
+<body>
+    <div class="article-list-page active" id="articleListPage">
+        <button class="back-btn" onclick="backToHome()">‹</button>
+        
+        <div style="text-align: center; margin-bottom: 30px; padding-top: 20px;">
+            <h1 style="font-size: 24px; color: #333;">趣文阅读</h1>
+            <div style="font-size: 16px; color: #666; margin-top: 5px;" id="currentBookDisplay"></div>
+        </div>
+        
+        <div class="article-list" id="articleList">
+            <!-- 文章列表将通过JavaScript动态生成 -->
+        </div>
+    </div>
+    
+    <!-- Loading 元素 -->
+    <div class="loading-overlay hidden" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">加载中，请稍候...</div>
+    </div>
+    
+    <!-- 引入PDF.js库 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script>
+        // 备用 CDN 加载
+        if (typeof pdfjsLib === 'undefined') {
+            document.write('<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.min.js"><\/script>');
+        }
+    </script>
+    
+    <script src="dataManager.js"></script>
+    <script src="audioManager.js"></script>
+    <script src="main.js"></script>
+    <script>
+        // 初始化文章列表页面
+        document.addEventListener('DOMContentLoaded', async function() {
+            console.log('[文章列表页面初始化] 开始');
+            
+            // 检查并加载用户信息
+            checkUserInfo();
+            
+            // 加载用户最近学习的课本或默认课本
+            loadUserBook();
+            
+            // 更新课本显示
+            updateBookDisplay();
+            
+            // 加载文章数据
+            await loadArticles();
+            
+            console.log('[文章列表页面初始化] 结束');
+        });
+        
+        // 加载文章数据
+        async function loadArticles() {
+            console.log('[加载文章数据] 开始');
+            showLoading();
+            
+            try {
+                // 根据当前课本获取对应的短文文件
+                const mdPath = currentFile.replace('.pdf', '短文.md');
+                console.log('[加载文章数据] 短文文件路径:', mdPath);
+                
+                // 尝试加载MD文件
+                const response = await fetch(mdPath);
+                console.log('[加载文章数据] MD文件响应状态:', response.status);
+                
+                if (response.ok) {
+                    const content = await response.text();
+                    console.log('[加载文章数据] MD文件加载成功');
+                    parseArticles(content);
+                } else {
+                    throw new Error('MD文件不存在或无法加载');
+                }
+            } catch (error) {
+                console.error('加载文章失败:', error);
+                // 显示错误信息
+                document.getElementById('articleList').innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">暂无可用的短文</div>';
+            } finally {
+                hideLoading();
+                console.log('[加载文章数据] 结束');
+            }
+        }
+        
+        // 解析文章数据
+        function parseArticles(content) {
+            const articles = [];
+            const lines = content.split('\n');
+            let currentArticle = null;
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                
+                if (line.startsWith('## ')) {
+                    // 新文章开始
+                    if (currentArticle) {
+                        articles.push(currentArticle);
+                    }
+                    
+                    const chineseTitle = line.substring(3).trim();
+                    currentArticle = {
+                        chineseTitle: chineseTitle,
+                        title: '',
+                        body: '',
+                        translation: '',
+                        grammar: ''
+                    };
+                } else if (currentArticle) {
+                    if (line.startsWith('**Title: ')) {
+                        currentArticle.title = line.substring(9, line.length - 2).trim();
+                    } else if (line === '**Body:**') {
+                        // 收集正文内容
+                        let bodyContent = '';
+                        i++;
+                        while (i < lines.length && !lines[i].trim().startsWith('**')) {
+                            bodyContent += lines[i] + ' ';
+                            i++;
+                        }
+                        i--; // 回退一行，因为循环会自增
+                        currentArticle.body = bodyContent.trim();
+                    } else if (line === '**中文大意:**') {
+                        // 收集中文大意
+                        let translationContent = '';
+                        i++;
+                        while (i < lines.length && !lines[i].trim().startsWith('**')) {
+                            translationContent += lines[i] + ' ';
+                            i++;
+                        }
+                        i--; // 回退一行，因为循环会自增
+                        currentArticle.translation = translationContent.trim();
+                    } else if (line === '**语法点:**') {
+                        // 收集语法点
+                        let grammarContent = '';
+                        i++;
+                        while (i < lines.length && !lines[i].trim().startsWith('## ')) {
+                            if (lines[i].trim()) {
+                                grammarContent += lines[i].trim() + ' ';
+                            }
+                            i++;
+                        }
+                        i--; // 回退一行，因为循环会自增
+                        currentArticle.grammar = grammarContent.trim();
+                    }
+                }
+            }
+            
+            // 添加最后一篇文章
+            if (currentArticle) {
+                articles.push(currentArticle);
+            }
+            
+            console.log('[解析文章数据] 解析完成，文章数量:', articles.length);
+            renderArticleList(articles);
+        }
+        
+        // 渲染文章列表
+        function renderArticleList(articles) {
+            const listContainer = document.getElementById('articleList');
+            
+            if (articles.length === 0) {
+                listContainer.innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">暂无可用的短文</div>';
+                return;
+            }
+            
+            listContainer.innerHTML = articles.map((article, index) => {
+                // 生成预览文本（截取正文前100个字符）
+                const preview = article.body.length > 100 ? article.body.substring(0, 100) + '...' : article.body;
+                
+                return `
+                <div class="article-item" onclick="openArticleDetailPage(${index})">
+                    <div class="article-title">${article.title}</div>
+                    <div class="article-chinese-title">${article.chineseTitle}</div>
+                    <div class="article-preview">${preview}</div>
+                </div>
+                `;
+            }).join('');
+        }
+        
+        // 打开文章详情页面
+        function openArticleDetailPage(index) {
+            window.location.href = `article-detail.html?index=${index}`;
+        }
+        
+        // 更新课本显示
+        function updateBookDisplay() {
+            // 检查是否为7年级及以上教材
+            const isPeopleEdition = currentFile && parseInt(currentFile[0]) >= 7;
+            const bookPrefix = isPeopleEdition ? '人教版' : '外研版Join In';
+            
+            // 更新当前课本显示
+            const currentBookDisplay = document.getElementById('currentBookDisplay');
+            if (currentBookDisplay) {
+                currentBookDisplay.textContent = `${bookPrefix}-${currentBookName}`;
+            }
+        }
+    </script>
+</body>
+</html>
